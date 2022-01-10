@@ -1,0 +1,56 @@
+{
+  "english": "born",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầu lòng; cả",
+          "definition": "one’s oldest child",
+          "world_new": [
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Daniel was our first-born",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) Their first-born child was Rosa.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "first language",
+    "first name",
+    "first of all",
+    "first thing (in the morning etc)",
+    "first-born",
+    "first-class",
+    "first-hand",
+    "first-rate",
+    "first/full cousin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437258_fd29dd7344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437258_9777c689e5_o.png",
+      "id_image": "born_5375923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058795_a31a3415f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058795_0170400227_o.png",
+      "id_image": "born_5375936"
+    }
+  ]
+}

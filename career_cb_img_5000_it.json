@@ -1,0 +1,110 @@
+{
+  "english": "career",
+  "phat_am": "kəˈriə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghề nghiệp",
+          "definition": "a way of making a living (usually professional)",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a career in publishing.",
+              "world_new": [
+                "publishing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nghiệp",
+          "definition": "course; progress (through life)",
+          "world_new": [
+            "progress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The present government is nearly at the end of its career.",
+              "world_new": [
+                "present",
+                "government",
+                "nearly",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy nhanh",
+          "definition": "to move rapidly and dangerously",
+          "world_new": [
+            "move",
+            "rapidly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brakes failed and the car careered down the hill.",
+              "world_new": [
+                "car",
+                "hill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cohorts of households which entered the tenure in the first period of post-war expansion are now in the later stages of their housing careers.",
+    "Throughout all, there is a constant shuffling of partners, as men and women form strategic alliances to advance their careers.",
+    "To reiterate, the arbitrators were not all oligarchs and were men at rather different stages of their borough careers.",
+    "College students are able to choose their major fields of study; adults are able to choose their careers and hobbies.",
+    "Initial questioning centred on a range of issues sourced from our experience with music education and music careers.",
+    "Do their care-giving careers follow the same sequence of phases ?",
+    "Four subjects were given a formal problem, while two were trying to solve an intellectual problem relating to their own professional careers.",
+    "The two main disputants were prominent yeshivah students, both of whom earned some renown in their subsequent intellectual careers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cards",
+    "care",
+    "care for",
+    "care of",
+    "career",
+    "carefree",
+    "careful",
+    "carefully",
+    "carefulness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062490_f258a0b258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062490_09ffc8f200_o.png",
+      "id_image": "career_2597120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325656_f946f1e32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325656_e77d68c84b_o.png",
+      "id_image": "career_4576932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440633_aa0bf6e686_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440633_d5e426d187_o.png",
+      "id_image": "career_5672132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062390_22caf8d254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062390_384f65e397_o.png",
+      "id_image": "career_6182835"
+    }
+  ]
+}

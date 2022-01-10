@@ -1,0 +1,74 @@
+{
+  "english": "chemotherapy",
+  "phat_am": "ˌkimouˈθerəpi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hóa trị liệu",
+          "definition": "the treatment of disease, especially cancer, by using chemical substances",
+          "world_new": [
+            "treatment",
+            "disease",
+            "especially",
+            "cancer",
+            "chemical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is undergoing a course of chemotherapy.",
+              "world_new": [
+                "course"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Metastasis of cancer was recognized in the liver and bone and chemotherapy was performed.",
+    "Some described how they were able to fall asleep while undergoing chemotherapy; others utilized alternative therapies to alleviate stress and treatment side effects.",
+    "However, the urgency with which new anti-filarial chemotherapies are needed validates this approach as meriting further investigation.",
+    "In our series chemotherapy prescribed in one heavily pretreated patient was associated with long-term disease stabilisation.",
+    "This was the first study to randomize patients and to use a control group that also received chemotherapy.",
+    "Chemotherapy-induced anemia may also significantly affect cognitive ability.",
+    "With the advent of mathematical modelling for the chemotherapy of malaria, it seems desirable to extend the models for monotherapy to drug combination.",
+    "Physical exercise and quality of life in cancer patients following high dose chemotherapy and autologous bone marrow transplantation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chemical formula",
+    "chemical symbol",
+    "chemist",
+    "chemistry",
+    "chemotherapy",
+    "cheque",
+    "chequebook",
+    "cherish",
+    "cherry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355082_95ed1fb746_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355082_b5a3690ff8_o.png",
+      "id_image": "chemotherapy_2328336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355057_cf48f7bf4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355057_045f2dc859_o.png",
+      "id_image": "chemotherapy_2855016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355042_18233282fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355042_8f9144a88e_o.png",
+      "id_image": "chemotherapy_4417938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310976_ff54c3ed1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310976_f6b222d17b_o.png",
+      "id_image": "chemotherapy_706205"
+    }
+  ]
+}

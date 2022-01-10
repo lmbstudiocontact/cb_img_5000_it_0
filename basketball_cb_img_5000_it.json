@@ -1,0 +1,84 @@
+{
+  "english": "basketball",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng rổ",
+          "definition": "a game in which goals are scored by throwing a ball into a net on a high post",
+          "world_new": [
+            "game",
+            "ball",
+            "net"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How often do you play basketball?",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về bóng rổ",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a basketball court.",
+              "world_new": [
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But the basketball club did not recruit new members.",
+    "On top of the deck is a basketball court.",
+    "Three of us did graduate work at schools with great basketball teams and fell in love with the sport.",
+    "The teachers' pleas for calm were greeted with cheers that would not have been out of place at a basketball game.",
+    "However, if boys prefer to play, for example, basketball with other boys, does it mean they are more empathetic towards boys than girls?",
+    "In basketball, taller players are also at an advantage.",
+    "She also taught children to play football and basketball.",
+    "He was about winning basketball and winning as human beings."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "basin",
+    "basis",
+    "bask",
+    "basket",
+    "basketball",
+    "basketry",
+    "basketwork",
+    "bass",
+    "bassoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668779_1cf32b3625_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668779_c79a868252_o.png",
+      "id_image": "basketball_1033222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050700_fa03938069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050700_ccc1a95027_o.png",
+      "id_image": "basketball_239220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668794_5a47c39288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668794_63e18e74d0_o.png",
+      "id_image": "basketball_471448"
+    }
+  ]
+}

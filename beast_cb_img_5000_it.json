@@ -1,0 +1,78 @@
+{
+  "english": "beast",
+  "phat_am": "biːst",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "súc vật",
+          "definition": "a four-footed (especially large) animal",
+          "world_new": [
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beasts of the jungle.",
+              "world_new": [
+                "jungle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người hung bạo",
+          "definition": "a cruel, brutal person",
+          "world_new": [
+            "cruel",
+            "brutal",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a violent beast of a man.",
+              "world_new": [
+                "violent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người đáng ghét",
+          "definition": "an unpleasant person",
+          "world_new": [
+            "unpleasant",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Arthur is a beast for refusing to come!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "beastly",
+    "beastliness"
+  ],
+  "list_browse": [
+    "bearer",
+    "bearing",
+    "bearings",
+    "bearskin",
+    "beast",
+    "beast/bird of prey",
+    "beastliness",
+    "beastly",
+    "beat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047870_129ec86df5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047870_6b3f851b89_o.png",
+      "id_image": "beast_2463654"
+    }
+  ]
+}

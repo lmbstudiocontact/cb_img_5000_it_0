@@ -1,0 +1,87 @@
+{
+  "english": "cascade",
+  "phat_am": "kӕsˈkeid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thác nước",
+          "definition": "a waterfall",
+          "world_new": [
+            "waterfall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Kaieteur Falls is a magnificent cascade on the Potaro River.",
+              "world_new": [
+                "magnificent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chảy như thác",
+          "definition": "to fall in or like a waterfall",
+          "world_new": [
+            "fall",
+            "waterfall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water cascaded over the rock",
+              "world_new": [
+                "rock"
+              ]
+            },
+            {
+              "ex_of_definition": "Dishes cascaded off the table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When this level is reached locally or globally, the system cascades with the next, small shock.",
+    "There are two kinds of word-guessing rules employed by the cascading guesser: morphological rules and ending guessing rules.",
+    "Results are discussed in terms of cascading effects of maltreatment throughout development, and the importance of developmentally sensitive interventions.",
+    "The grammar organization in cascades and segments allows a clean definition of the grammar parts.",
+    "However, the vorticity typically cascades to small scale, so an initially well-resolved solution will not stay well-resolved.",
+    "The room was sumptuously swathed in black fabric, hung with huge cascading black plumes that many who saw them likened to feathery chandeliers.",
+    "Manipulation of genome and protein cascades to prevent or repair senescence.",
+    "Interactions between abscisic acid and ethylene signaling cascades."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cartwheel",
+    "carve",
+    "carve out",
+    "carving",
+    "cascade",
+    "case",
+    "case study",
+    "cash",
+    "cash card"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677639_bc62e964af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677639_d9c3aaca2a_o.png",
+      "id_image": "cascade_1043487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059345_4b538669d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059345_acd02290fa_o.png",
+      "id_image": "cascade_190910"
+    }
+  ]
+}

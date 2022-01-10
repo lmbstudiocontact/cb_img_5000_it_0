@@ -1,0 +1,65 @@
+{
+  "english": "baboon",
+  "phat_am": "bəˈbuːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khỉ đầu chó",
+          "definition": "a kind of large monkey with a dog-like face",
+          "world_new": [
+            "kind",
+            "large",
+            "monkey",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An adult male baboon can weigh 30kg or more.",
+              "world_new": [
+                "adult",
+                "male",
+                "weigh"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These experiences are the source of \"self-esteem\" in humans and an \"animal selfconcept\" in baboons.",
+    "An examination of the blood of these baboons as a potential reservoir of trypanosomes might well repay the trouble.",
+    "The baboon parasites are polymorphic at several loci, while single alleles have become fixed in the murine population.",
+    "Our relatively uninformed search and decisionmaking process yielded baboons that were good enough.",
+    "Trade-offs between foraging and predation risk determine habitat use in a desert baboon population.",
+    "In three dark-adapted baboon ganglion cells, light-evoked responses were analyzed using a 30-s full-field stimulus while recording continuously, as described above for maintained activity.",
+    "Trade-offs between foraging and predation risks determine habitat use in a desert baboon population.",
+    "Like baboons, our ancestors were aggressive and competitive, and social life was based on a dominance hierarchy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "B-road",
+    "BA",
+    "babble",
+    "babe",
+    "baboon",
+    "baby",
+    "baby buggy",
+    "baby grand",
+    "babyish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368047_3871265ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368047_323535402f_o.png",
+      "id_image": "baboon_311552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678314_9b2617dcea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678314_28dd9fec1a_o.png",
+      "id_image": "baboon_427412"
+    }
+  ]
+}

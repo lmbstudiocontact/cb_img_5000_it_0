@@ -1,0 +1,61 @@
+{
+  "english": "ceremonial",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nghi thức",
+          "definition": "formal or official",
+          "world_new": [
+            "formal",
+            "official"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ceremonial occasion such as the State Opening of Parliament.",
+              "world_new": [
+                "occasion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cereal",
+    "cerebellum",
+    "cerebral",
+    "cerebral palsy",
+    "ceremonial",
+    "ceremonially",
+    "ceremonious",
+    "ceremoniously",
+    "ceremony"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052485_fe7e2c6862_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052485_516d5bcac6_o.png",
+      "id_image": "ceremonial_2412231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052510_a45669befe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052510_cda5dacf32_o.png",
+      "id_image": "ceremonial_422117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360247_aa9b2b0477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360247_6fdd5cd377_o.png",
+      "id_image": "ceremony_1699158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315996_c8d3a6f272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315996_e389d77d34_o.png",
+      "id_image": "ceremony_3965938"
+    }
+  ]
+}

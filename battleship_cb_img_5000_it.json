@@ -1,0 +1,73 @@
+{
+  "english": "battleship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiến hạm",
+          "definition": "a heavily armed and armoured warship",
+          "world_new": [
+            "heavily",
+            "armed",
+            "armoured",
+            "warship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Bismarck was the largest battleship of the German navy during the 1940s.",
+              "world_new": [
+                "navy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And it is certainly uneconomic to retain battleships in commission merely for those doubtful duties.",
+    "During that war we lost five battleships, eight aircraft carriers, twenty-eight cruisers, 139 destroyers, eighty-three submarines, fifty-two frigates and fifteen armed merchantmen.",
+    "It was always an understood thing that the number of cruisers and destroyers bore a definite proportion to the number of battleships.",
+    "They were driven off only by the fact that battleships were in company with the convoys concerned.",
+    "The making of large objects such as plate feet thick for battleships could only occur after the arrival of the railways to carry them away.",
+    "The doctrine that battleships are going to protect the trade routes is quite unsound.",
+    "It comprises 12 battleships, 8 aircraft carriers, 46 cruisers, 125 destroyers and 71 submarines, and it is acting in its own waters.",
+    "Two battleships and two salvage lighters and several torpedo-boat destroyers are on their way to the scene of the wreck."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "battery",
+    "battle",
+    "battleaxe",
+    "battlefield",
+    "battleship",
+    "batty",
+    "bawdy",
+    "bawl",
+    "bay"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312611_7d649560ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312611_dff5d7e5b9_o.png",
+      "id_image": "battleship_1399629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427403_51abfb2196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427403_dd171ba34c_o.png",
+      "id_image": "battleship_2590397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049130_8d703830b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049130_eb2506e8c1_o.png",
+      "id_image": "battleship_3117944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356572_6c94f4a977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356572_4d94a7a748_o.png",
+      "id_image": "battleship_4984885"
+    }
+  ]
+}

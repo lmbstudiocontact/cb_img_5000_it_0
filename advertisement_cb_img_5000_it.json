@@ -1,0 +1,85 @@
+{
+  "english": "advertisement",
+  "phat_am": "ədˈvəːtismənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài quảng cáo",
+          "definition": "(also adӕd, advertˈadvəːt) a film, newspaper announcement, poster etc making something known, especially in order to persuade people to buy it",
+          "world_new": [
+            "film",
+            "newspaper",
+            "announcement",
+            "poster",
+            "order",
+            "persuade",
+            "people",
+            "buy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was watching an advertisement for toothpaste on the television",
+              "world_new": [
+                "toothpaste",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "He replied to my advertisement for a secretary.",
+              "world_new": [
+                "my",
+                "secretary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By the late 1840s the form and motifs of traditional topographical advertisements were no longer reconcilable with the ambition and scale of new manufacturing practices.",
+    "These advertisements suggest that there is \"a quick fix\" for bodily improvement.",
+    "Thus, this dataset represents the closest thing to a universe of advertisements that exists for these races.",
+    "It is at once a declaration of saintly power, an imaging of the shrine's history and an advertisement of the kinds of services available there.",
+    "The introduction of advertisements in the movie depends on the organisation of the movie scenario.",
+    "The plan is unusual in that it contains an appendix of 19 page-long advertisements for local businesses, including retailers, shipping lines and engineering firms.",
+    "Even before its completion, full-page colour advertisements appeared featuring a photo-realistic view of the new church and the soaring tower.",
+    "Finally, in the classified advertisements markets both buyers and sellers competitively negotiate on a multilateral basis for limited resources."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "adversely",
+    "adversity",
+    "advert",
+    "advertise",
+    "advertisement",
+    "advertiser",
+    "advertising",
+    "advice",
+    "advisability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674579_592fb55d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674579_dbdd00592e_o.png",
+      "id_image": "advertisement_1208651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434778_8c2988e5cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434778_948d593113_o.png",
+      "id_image": "advertisement_2471424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434748_4eab143d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434748_98d56a4b19_o.png",
+      "id_image": "advertisement_4318848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674499_d731fa2aa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674499_39a1acbfd0_o.png",
+      "id_image": "advertising_1968799"
+    }
+  ]
+}

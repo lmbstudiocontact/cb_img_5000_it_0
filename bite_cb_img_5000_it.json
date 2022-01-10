@@ -1,0 +1,109 @@
+{
+  "english": "bite",
+  "phat_am": "bait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắn; châm đốt",
+          "definition": "to seize, grasp or tear (something) with the teeth or jaws",
+          "world_new": [
+            "seize",
+            "grasp",
+            "tear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog bit his leg",
+              "world_new": [
+                "dog",
+                "bit",
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "He was bitten by a mosquito.",
+              "world_new": [
+                "mosquito"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cắn; sự châm đốt",
+          "definition": "an act of biting or the piece or place bitten",
+          "world_new": [
+            "act",
+            "biting",
+            "piece",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took a bite from the apple",
+              "world_new": [
+                "apple"
+              ]
+            },
+            {
+              "ex_of_definition": "a mosquito bite.",
+              "world_new": [
+                "mosquito"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cắn câu (cá)",
+          "definition": "the nibble of a fish on the end of one’s line",
+          "world_new": [
+            "nibble",
+            "fish",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been fishing for hours without a bite.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "biting",
+    "bite the dust"
+  ],
+  "list_browse": [
+    "bit",
+    "bit by bit",
+    "bitch",
+    "bitchy",
+    "bite",
+    "bite the dust",
+    "biting",
+    "bitter",
+    "bittergourd"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303181_316b655442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303181_5961d1be60_o.png",
+      "id_image": "bite_1488843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347397_1ec991db3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347397_f44cd216d0_o.png",
+      "id_image": "bite_6401194"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "bald",
+  "phat_am": "boːld",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hói",
+          "definition": "(of people) with little or no hair on the head",
+          "world_new": [
+            "hair",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bald head",
+              "world_new": [
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "He is going bald (= becoming bald).",
+              "world_new": [
+                "becoming"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chim, động vật trụi lông",
+          "definition": "(of birds, animals) without feathers, fur etc",
+          "world_new": [
+            "fur"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a bald patch on the dog’s back.",
+              "world_new": [
+                "patch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phô bày",
+          "definition": "bare or plain",
+          "world_new": [
+            "bare",
+            "plain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bald statement of the facts.",
+              "world_new": [
+                "statement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this tells us little as to how individual bald eagles or doves should be treated.",
+    "We seek merely to substitute for this the bald statement that it should be put into trustee securities.",
+    "If ever there were an argument for introducing qualified majority voting to deal with a problem, it lies in those bald figures.",
+    "Another law provides public grants for bald people to pay for treatments to grow hair.",
+    "Stated in that bald way it seems to be quite an indefensible exception.",
+    "They consist of a bald statement to the effect that the person owes £500 in service charge.",
+    "Because bald imperatives are very unmarked in this work setting, other directives are marked and evoke negative or perverse reactions from workers.",
+    "On their own, the figures are merely bald statistics, but nobody can deny that they represent a hefty bill."
+  ],
+  "list_see_also": [
+    "baldness",
+    "balding",
+    "baldly"
+  ],
+  "list_browse": [
+    "balance",
+    "balance of payments",
+    "balance sheet",
+    "balcony",
+    "bald",
+    "balding",
+    "baldly",
+    "baldness",
+    "bale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055160_33400a42b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055160_71f75d50da_o.png",
+      "id_image": "bald_3296716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318646_755c396f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318646_6e5bcc837e_o.png",
+      "id_image": "bald_435064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433843_e0cf382555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433843_25f76170ab_o.png",
+      "id_image": "bald_599669"
+    }
+  ]
+}

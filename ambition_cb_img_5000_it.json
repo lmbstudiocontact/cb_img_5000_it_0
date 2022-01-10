@@ -1,0 +1,102 @@
+{
+  "english": "ambition",
+  "phat_am": "ӕmˈbiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khát vọng",
+          "definition": "the desire for success, fame, power etc",
+          "world_new": [
+            "desire",
+            "success",
+            "fame",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is full of ambition and energy.",
+              "world_new": [
+                "full",
+                "energy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tham vọng",
+          "definition": "the desire eventually to become or do something special",
+          "world_new": [
+            "desire",
+            "eventually",
+            "become",
+            "special"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His ambition is to become Prime Minister one day.",
+              "world_new": [
+                "become",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One such claim is that the controversy was not so much a conflict of ideas, but a clash of egos, ambitions, sensibilities, and the like.",
+    "Given the similarity of constructivist ambitions, there may be fruitful connections to exploit between these two programs.",
+    "The thematic links, however, betray some of the ambitions of anthro-literary writing.",
+    "Bonds to partisan groups or personal career ambitions may interfere with the political mandate.",
+    "As used by junior scholars, acknowledgments mark an effort to enter the academic world, their expectations and ambitions.",
+    "Because his accounts of the general ambitions and specific claims of legal positivism have sometimes been bemusingly distortive, his genuinely important challenges can become obscured.",
+    "Above all, proponents sought to create an organizational mechanism to promote their ambitions for industrial development.",
+    "To this end, in this article, we identify the main research motivations and ambitions behind work in the field."
+  ],
+  "list_see_also": [
+    "ambitious",
+    "ambitiously",
+    "ambitiousness"
+  ],
+  "list_browse": [
+    "ambience",
+    "ambiguity",
+    "ambiguous",
+    "ambiguously",
+    "ambition",
+    "ambitious",
+    "ambitiously",
+    "ambitiousness",
+    "ambivalence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358947_7aa3f8d087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358947_7f4b245a88_o.png",
+      "id_image": "ambition_2773040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358917_4d8eac8a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358917_c07093836b_o.png",
+      "id_image": "ambition_4593111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314796_11f1ca418b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314796_066a6bc1c1_o.png",
+      "id_image": "ambition_5266125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051300_226e773c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051300_a29911f36f_o.png",
+      "id_image": "ambition_5520746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314746_ca87b0466f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314746_9b6bbda538_o.png",
+      "id_image": "ambition_5520777"
+    }
+  ]
+}

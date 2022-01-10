@@ -1,0 +1,84 @@
+{
+  "english": "clinic",
+  "phat_am": "ˈklinik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng khám",
+          "definition": "a place or part of a hospital where a particular kind of medical treatment or advice is given",
+          "world_new": [
+            "place",
+            "part",
+            "hospital",
+            "particular",
+            "kind",
+            "medical",
+            "treatment",
+            "advice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is attending the skin clinic.",
+              "world_new": [
+                "skin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is the standard treatment provided to patients with serious mental disorders at these out-patient clinics.",
+    "Teleconsultations for children were significantly more costly than clinic attendances because of the costs of the technology.",
+    "What should guide cross-cultural efforts in and among clinics, organizations, communities, and transnational populations?",
+    "Traditionally, asthma clinics have an educational role, which is highlighted in the training courses attended by the majority of asthma nurses.",
+    "Data were systematically taken from the clinic notes, coded and transferred to punched cards for analysis.",
+    "This approach was later transferred to the clinics.",
+    "Other sources of information mentioned were family planning clinics and health food shops.",
+    "The clinic was attacked on three fronts-the legal, the medical and the clerical."
+  ],
+  "list_see_also": [
+    "clinical"
+  ],
+  "list_browse": [
+    "climbing",
+    "clinch",
+    "cling",
+    "clingfilm",
+    "clinic",
+    "clinical",
+    "clink",
+    "clip",
+    "clip art"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686739_268b6ba059_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686739_eb8006b73b_o.png",
+      "id_image": "clinic_2278465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376442_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376442_d58e002a7d_o.png",
+      "id_image": "clinic_2682062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686674_ef381cc941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686674_2fc400f70d_o.png",
+      "id_image": "clinic_3028573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376337_7becd35e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376337_800688f715_o.png",
+      "id_image": "clinic_3111563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068300_c7c796d9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068300_8f4f582a79_o.png",
+      "id_image": "clinic_5266434"
+    }
+  ]
+}

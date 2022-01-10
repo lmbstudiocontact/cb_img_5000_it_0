@@ -1,0 +1,73 @@
+{
+  "english": "caveman",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người ở hang",
+          "definition": "in prehistoric times, a person who lived in a cave",
+          "world_new": [
+            "prehistoric",
+            "times",
+            "person",
+            "cave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cavemen dressed in the skins of animals.",
+              "world_new": [
+                "dressed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since the first caveman learned to control fire, humans have shaped and used light in a constantly expanding array of technologies.",
+    "He grunts single words, strung together by pauses in between to form (incomplete) sentences, in par with caveman speech.",
+    "He came up with the basic concept of doing it with cavemen in skins.",
+    "He gets upset about the tenor of the commercial and its demeaning comments about cavemen, and storms off the set.",
+    "Also, tools which cavemen used at those times were discovered.",
+    "As the curious adults (there are no children) crowd around her, she attracts the attention of the caveman chief.",
+    "Ah (in caveman talk) tells his people that they must show the world who is boss.",
+    "He is shown to speak in two different ways: like a normal person, and like a caveman."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cavalier",
+    "cavalry",
+    "cave",
+    "cave in",
+    "caveman",
+    "cavern",
+    "cavernous",
+    "caviar",
+    "cavity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433603_b5c0500d0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433603_b4fa6d9d43_o.png",
+      "id_image": "caveman_3317421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318351_d2e7eb6d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318351_f22d5c32de_o.png",
+      "id_image": "caveman_4702015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054910_2d8b3747ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054910_3cfa8d23a0_o.png",
+      "id_image": "caveman_5426592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318416_92d03206f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318416_0e684bdf98_o.png",
+      "id_image": "caveman_773379"
+    }
+  ]
+}

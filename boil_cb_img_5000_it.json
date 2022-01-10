@@ -1,0 +1,117 @@
+{
+  "english": "boil",
+  "phat_am": "boil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sôi",
+          "definition": "to turn rapidly from liquid to vapour when heated",
+          "world_new": [
+            "turn",
+            "rapidly",
+            "liquid",
+            "vapour",
+            "heated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m boiling the water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "The water’s boiling."
+            }
+          ]
+        },
+        {
+          "mean_english": "luộc",
+          "definition": "to cook by boiling in water etc",
+          "world_new": [
+            "cook",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve boiled the potatoes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mụn nhọt",
+          "definition": "an inflamed swelling on the skin",
+          "world_new": [
+            "inflamed",
+            "swelling",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His neck is covered with boils.",
+              "world_new": [
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The water used in lime treatment is not boiled, but subsequent tor tilla cooking reduces the concentrations of pathogenic microorganisms to safe levels.",
+    "The lack of sheep residues in the pottery suggests that sheep, if being eaten, were not boiled.",
+    "Seeds made water-permeable by boiling imbibed water, and thus germinated, at a much slower rate than those made water-permeable by mechanical scarification.",
+    "The samples were boiled for 20 min before being centrifuged briefly.",
+    "Using downside deviation as a risk measure boils down to taking quadratic shortfall.",
+    "There were no reports of patients with boils or other deep-skin infections or pneumonia.",
+    "Fish: the bones, skin and offal may be boiled to produce glue.",
+    "Algebraically, the distinction between the variables and the names boils down to the distinction between the transcendental and the algebraic elements."
+  ],
+  "list_see_also": [
+    "boiler",
+    "boiling point",
+    "boil down to",
+    "boil over"
+  ],
+  "list_browse": [
+    "boggle",
+    "boggy",
+    "bogie",
+    "bogus",
+    "boil",
+    "boil down to",
+    "boil over",
+    "boiler",
+    "boiling point"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681499_392a0dba73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681499_ac618e19a4_o.png",
+      "id_image": "boil_1041592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326411_a1c1279439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326411_dcbe307d9c_o.png",
+      "id_image": "boil_3690224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371112_55681d3bde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371112_c810fb85e9_o.png",
+      "id_image": "boil_4275859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326336_6eb936ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326336_8c5fbe767e_o.png",
+      "id_image": "boil_6192642"
+    }
+  ]
+}

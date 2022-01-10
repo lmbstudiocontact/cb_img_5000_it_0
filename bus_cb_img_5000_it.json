@@ -1,0 +1,86 @@
+{
+  "english": "bus",
+  "phat_am": "bas",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe buýt",
+          "definition": "a large road vehicle for carrying passengers",
+          "world_new": [
+            "large",
+            "road",
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He came by bus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi xe buýt",
+          "definition": "to carry by bus",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The students are bussed to school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, companies face higher standards regarding the vintage of buses.",
+    "Those commuters who chose not to use buses had similar reasons to those who disliked trams.",
+    "Since then the buses have become too many and the chance of making money has decreased.",
+    "In trains and buses the young people are never willing to offer their elders seats.",
+    "He could still change his mind about the attacks (or he could be run over by a bus).",
+    "Supporters of the busses, meanwhile, fashioned a response to the merchant companies and changed venues for their advocacy.",
+    "For the project, a city bus was transformed into a fully equipped digital lab and made available to groups of children.",
+    "For the interhospital transfer a mobile intensive care unit, a bus, was used."
+  ],
+  "list_see_also": [
+    "bus stop"
+  ],
+  "list_browse": [
+    "burst",
+    "burst open",
+    "bury",
+    "bury the hatchet",
+    "bus",
+    "bus stop",
+    "bush",
+    "bushy",
+    "busily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664129_db66685504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664129_cc732956d6_o.png",
+      "id_image": "bus_168280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308826_c26d4be4d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308826_abc66a15b2_o.png",
+      "id_image": "bus_169423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045795_fc6e6516d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045795_3c4a1c01c7_o.png",
+      "id_image": "bus_422962"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "banner",
+  "phat_am": "ˈbӕnə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngọn cờ",
+          "definition": "a military flag.",
+          "world_new": [
+            "military",
+            "flag"
+          ]
+        },
+        {
+          "mean_english": "biểu ngữ",
+          "definition": "a large strip of cloth bearing a slogan etc",
+          "world_new": [
+            "large",
+            "strip",
+            "cloth",
+            "bearing",
+            "slogan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many of the demonstrators were carrying banners."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I therefore ask that these banners be removed.",
+    "Things are coming to a pretty pass when it is suggested that they must now give advance information about pit banners.",
+    "Banners were being waved; it was a romantic moment.",
+    "I can envisage the politically correct being so horrified that we have campaigns outside here, with their banners demanding non-registration of that party.",
+    "First, international co-operation is essential for securing and preserving peace; and, secondly—this is inscribed on many of our trade union banners—unity is strength.",
+    "Our demonstration was entirely peaceful; we marched up to the base and hung banners around its edge.",
+    "They are reported as carrying banners and chanting.",
+    "I should not like to say that there is any great distinction between flags and banners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "banker’s card",
+    "banknote",
+    "bankrupt",
+    "bankruptcy",
+    "banner",
+    "banquet",
+    "bantam",
+    "banter",
+    "banyan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431178_28d1998561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431178_261b316e4b_o.png",
+      "id_image": "banner_1879673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431163_14ed5d215f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431163_45067443d7_o.png",
+      "id_image": "banner_3956673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670989_9346089c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670989_e1a0d200e9_o.png",
+      "id_image": "banner_876235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052745_bff2ed4155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052745_4e4bbc0b46_o.png",
+      "id_image": "banner_939238"
+    }
+  ]
+}

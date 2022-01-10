@@ -1,0 +1,68 @@
+{
+  "english": "blackboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảng đen",
+          "definition": "a dark-coloured/-colored board for writing on in chalk (used especially in schools)",
+          "world_new": [
+            "board",
+            "chalk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher wrote the title of the essay on the blackboard.",
+              "world_new": [
+                "teacher",
+                "title",
+                "essay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here is my case for seeing the blackboard as research using these criteria.",
+    "We began with a group training session : an example was given on the blackboard and the blank was filled in by the group.",
+    "They announced it with a loudspeaker, and wrote a notice in every pol's blackboard and on the main one.",
+    "The blackboard is the place where all the information known to the system is held.",
+    "The teacher recited passages of classic texts from his memory and wrote them on the blackboard.",
+    "And with this he drew on the blackboard a circle - the tribe.",
+    "Most of the time teachers rely on textbooks and blackboards as their main (if not only) resources.",
+    "An object-oriented blackboard based approach for automated finite element modeling and analysis of multichip modules."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "black out",
+    "black sheep",
+    "blackberry",
+    "blackbird",
+    "blackboard",
+    "blackbody",
+    "blackcurrant",
+    "blacken",
+    "blackhead"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303046_e1f3eb68a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303046_a61a33bfd5_o.png",
+      "id_image": "blackboard_195824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303011_d23c398127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303011_82ecb74f04_o.png",
+      "id_image": "blackboard_203226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347262_4bb9e3cbbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347262_a133980593_o.png",
+      "id_image": "blackboard_288077"
+    }
+  ]
+}

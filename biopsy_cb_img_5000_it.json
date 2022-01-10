@@ -1,0 +1,78 @@
+{
+  "english": "biopsy",
+  "phat_am": "(British) ˈbaiopsi; (American) ˈbaiopsiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh thiết",
+          "definition": "a medical test in which cells or tissue are removed from someone’s body and examined to check if they are healthy or to diagnose an illness",
+          "world_new": [
+            "medical",
+            "test",
+            "tissue",
+            "body",
+            "check",
+            "healthy",
+            "diagnose",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor performed a liver biopsy.",
+              "world_new": [
+                "doctor",
+                "liver"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this context, pancreatic calcification and a normal small-bowel biopsy virtually establishes an exocrine pancreatic cause of diarrhoea.",
+    "Pathological characteristics of the hepatic biopsies by gross examinations and microscopy are shown in tables 1 and 2, respectively.",
+    "Wound biopsies were obtained from patients with the cutaneous form.",
+    "Complete resolution of mucosal changes may take up to two years in the adult and repeat biopsy should be delayed for at least six months.",
+    "Samples were obtained by skin biopsy of the lesion borders.",
+    "Between 9 and 12 biopsies were randomly obtained from each liver.",
+    "The diagnosis of cirrhosis was based on liver biopsy or conventional clinical, biological and endoscopic findings.",
+    "A distinction was made between excision of a benign lesion (excision biopsy) and of a malignant lesion (curative, malignant surgery)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biomass",
+    "bionic",
+    "bionics",
+    "biopic",
+    "biopsy",
+    "biosphere",
+    "biotechnological",
+    "biotechnology",
+    "biotic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040995_c39515b51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040995_5c006884f2_o.png",
+      "id_image": "biopsy_2460240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040960_a8a86d6904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040960_9eb083e2ef_o.png",
+      "id_image": "biopsy_4193439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040935_ed747f3b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040935_57bf0779b9_o.png",
+      "id_image": "biopsy_5278435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041025_c8f703142b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041025_a8b78ce3b0_o.png",
+      "id_image": "biopsy_706213"
+    }
+  ]
+}

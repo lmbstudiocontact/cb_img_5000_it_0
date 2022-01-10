@@ -1,0 +1,63 @@
+{
+  "english": "blogger",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người viết blog",
+          "definition": "a person who writes a blog",
+          "world_new": [
+            "person",
+            "blog"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fashion/food/music bloggers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was a well-known journalist and blogger.",
+    "For their part, riddims may certainly be praised or disparaged by hard-core fans and bloggers.",
+    "She is also a regular blogger on women's rights, religion and politics.",
+    "Some see it as an attempt by government to censor bloggers.",
+    "In 2008, the guest blogger series resumed, with guests posting in the main blog for two-week periods.",
+    "But the quality of a blog stands or falls by its author and not all bloggers are equally honourable in their intentions.",
+    "The project's extensive delays and cost overruns have led a leading transit blogger to call the project a disaster.",
+    "He is also a regular blogger and public speaker."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blockage",
+    "blocked",
+    "blockhead",
+    "blog",
+    "blogger",
+    "blogging",
+    "bloke",
+    "blond",
+    "blonde"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065965_738d3d64c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065965_bcf303656a_o.png",
+      "id_image": "blogger_3983397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329126_b0ab5b6985_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329126_1123e3793b_o.png",
+      "id_image": "blogger_4318913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684084_b3459a0e8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684084_62156fe26a_o.png",
+      "id_image": "blogger_4736298"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "bedside",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cạnh giường",
+          "definition": "the place or position next to a person’s bed",
+          "world_new": [
+            "place",
+            "position",
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was at her bedside when she died"
+            },
+            {
+              "ex_of_definition": "(also adjective) a bedside table.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ideally, it translates the principles of medical ethics into care at the bedside.",
+    "The group moves to the patient's bedside, whereupon the instructor explains to the soldier that the drug will make him better.",
+    "Attention can be objectively measured at the bedside.",
+    "The scene cuts from his bedside to what is evidently a flashback - some kind of traumatic memory is returning to his (altered) consciousness.",
+    "Vestibular function can also be assessed at the bedside.",
+    "A simple bedside assessment should be used and the findings recorded within the clerking pro forma for stroke patients.",
+    "I have sat many times with a relative at the bedside of an unconscious, dying parent and watched the tears and memories flow.",
+    "Self-medication allows the patient to retain drugs in a locked bedside cabinet and take responsibility for administering them at the appropriate time, with nursing facilitation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bedlam",
+    "bedridden",
+    "bedrock",
+    "bedroom",
+    "bedside",
+    "bedsit",
+    "bedspread",
+    "bedtime",
+    "bee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309821_fa0003ea69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309821_4f3184b380_o.png",
+      "id_image": "bedside_1251962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354047_d09417c8b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354047_910ae00391_o.png",
+      "id_image": "bedside_1494691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309751_97a56b5db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309751_59888c01a7_o.png",
+      "id_image": "bedside_4205401"
+    }
+  ]
+}

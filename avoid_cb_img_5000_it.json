@@ -1,0 +1,83 @@
+{
+  "english": "avoid",
+  "phat_am": "əˈvoid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tránh",
+          "definition": "to keep away from (a place, person or thing)",
+          "world_new": [
+            "keep",
+            "place",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drove carefully to avoid the holes in the road",
+              "world_new": [
+                "carefully",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "Avoid the subject of money.",
+              "world_new": [
+                "subject",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The synonyms file provides more specific information so that the generation of certain irrelevant concepts can be avoided.",
+    "The next section introduces another device called a lexical entry automaton, which is an elaborated form of trunks, for avoiding the computability problem.",
+    "On the other hand, if no advantage is available and only conceptual priming is helpful, close lexical choices need not be avoided.",
+    "To estimate a smooth function, while avoiding overfitting the data, we can impose a smoothing penalty.",
+    "The status of arrangement today, however, is quite different; in new music, arrangement is mostly avoided and perceived as unfashionable.",
+    "In fact, the discussion of a theory about architecture which is sceptical about the possibility of a totalising theory is consistently avoided.",
+    "Also, by keeping the test sentences short, unnecessary loads on working memory are avoided.",
+    "All physical evaluation was carried out without prior knowledge of the patient's group, although patient disclosure could not be completely avoided."
+  ],
+  "list_see_also": [
+    "avoidable",
+    "avoidance"
+  ],
+  "list_browse": [
+    "aviation",
+    "avid",
+    "avidly",
+    "avocado",
+    "avoid",
+    "avoidable",
+    "avoidance",
+    "avow",
+    "avowed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679369_1209169f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679369_8b509559d0_o.png",
+      "id_image": "avoid_2746342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061050_d208bc48bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061050_0977721606_o.png",
+      "id_image": "avoid_2785841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368997_24a3550370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368997_168b79b51a_o.png",
+      "id_image": "avoid_3159963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324056_098d45af53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324056_fd9af2141c_o.png",
+      "id_image": "avoid_3426107"
+    }
+  ]
+}

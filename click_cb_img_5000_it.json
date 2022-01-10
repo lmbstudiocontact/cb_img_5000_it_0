@@ -1,0 +1,94 @@
+{
+  "english": "click",
+  "phat_am": "klik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng lách cách",
+          "definition": "a short, sharp sound, like that of a light-switch being turned on",
+          "world_new": [
+            "short",
+            "sharp",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the click of the camera.",
+              "world_new": [
+                "camera"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thành tiếng lách cách",
+          "definition": "to (cause to) make such a sound",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldier clicked his heels together",
+              "world_new": [
+                "soldier"
+              ]
+            },
+            {
+              "ex_of_definition": "The gate clicked shut behind her.",
+              "world_new": [
+                "gate",
+                "shut"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At any time the meaning of one word can be looked up by clicking on it.",
+    "83 are clicks, and 13 of the rest have double releases.",
+    "Values from each of the three levels are consulted to determine whether each cicada sings, chirps, or clicks, or whether it is inactive.",
+    "Concepts can be generated flexibly by double clicking on means in the tree view; the selected means will then be displayed with a red border.",
+    "The analysis of laryngeals and clicks, which form the two opposite poles of the underspecification spectrum, points to the validity of our linguistic hypothesis.",
+    "The dominant sound materials in this piece are either noise, in the form of clicks, or pure sine tones.",
+    "Buildings and features under the cursor identify themselves, and clicking will (eventually) take you to the appropriate inner site.",
+    "In the left figure the user clicks on the left wall, which is shared by a double room and the living /dining room."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clever",
+    "cleverly",
+    "cleverness",
+    "cliché",
+    "click",
+    "client",
+    "clientele",
+    "cliff",
+    "climate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348392_e7a5ba99b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348392_d2d2bfd474_o.png",
+      "id_image": "click_1188517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304221_df087c6413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304221_d4d933fa57_o.png",
+      "id_image": "click_4713190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304236_ee305bfb56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304236_d0aff377ec_o.png",
+      "id_image": "click_849983"
+    }
+  ]
+}

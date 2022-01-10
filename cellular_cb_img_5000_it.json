@@ -1,0 +1,89 @@
+{
+  "english": "cellular",
+  "phat_am": "ˈseljulə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc tế bào",
+          "definition": "consisting of cells",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cellular tissue.",
+              "world_new": [
+                "tissue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có lỗ hổng",
+          "definition": "containing tiny hollow spaces",
+          "world_new": [
+            "tiny",
+            "hollow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Foam rubber is a cellular substance.",
+              "world_new": [
+                "rubber",
+                "substance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I found their diagrammatic representations of cellular processes and mutant phenotypes very helpful in this context.",
+    "The straight line flow pattern did not develop but, as mentioned in $5, a cellular flow pattern did develop from a circular roll pattern.",
+    "Transducers transmit the message to effectors, usually by direct phosphorylation of effectors, which can then modulate cellular processes.",
+    "An important question requiring continued investigation in animals and humans relates to the cellular mechanisms underlying sleep deprivation-induced prefrontal deactivations and sleep-related restorative processes.",
+    "In apoptosis, the cellular contents are packaged into a p o p t o t i c bodies, which are then consumed b y phagocytes.",
+    "Today, it is known that mitochondria produce up to 80% of the energy needs of a cell and perform a host of additional cellular functions.",
+    "Cellular mechanisms underlying intrathalamic augmenting responses of reticular and relay neurons.",
+    "In addition, epigenetic regulation is key to many other cellular processes, whereas deregulation is an important factor in numerous disease states."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cellar",
+    "’cellist",
+    "cello",
+    "Cellophane",
+    "cellular",
+    "cellular phone",
+    "cellulite",
+    "cellulose",
+    "Celsius"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671939_3339d56723_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671939_526864318e_o.png",
+      "id_image": "cellular_5746299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672219_b5c5a3129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672219_1b5a4ee8fc_o.png",
+      "id_image": "cell_1474369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053975_8d45359638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053975_6c67848f39_o.png",
+      "id_image": "cell_191118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317451_725d5193cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317451_89d7fd623d_o.png",
+      "id_image": "cell_2750823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317401_1237cea0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317401_fd99bfff61_o.png",
+      "id_image": "cell_3360220"
+    }
+  ]
+}

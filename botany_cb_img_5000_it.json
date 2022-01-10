@@ -1,0 +1,72 @@
+{
+  "english": "botany",
+  "phat_am": "ˈbotəni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thực vật học",
+          "definition": "the scientific study of plants",
+          "world_new": [
+            "scientific",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is Professor of Botany at McGill University."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cameralism's claims on chemistry and botany in particular tended to provoke consternation among professors of medicine.",
+    "For this reason alone botany, chemistry, and physics are now something quite different from what they were fifty years ago.",
+    "Horticultural societies brought theoretical botany into the practice of gardening.",
+    "He appears consistently to have believed in the intimate connection between botany and capitalism, and in the concurrent advance of civilisation and science.",
+    "Integral to this new landscape was its incorporation of botany and the invention of a botanical aesthetics.",
+    "Other scientific terms from botany, chemistry, medicine, etc. that one might encounter in general entomological works are also included.",
+    "He was appointed as a lecturer in botany and specialized in bananas.",
+    "Citizens' organisations organised tours on history and botany."
+  ],
+  "list_see_also": [
+    "botanical",
+    "botanist",
+    "botanic gardens"
+  ],
+  "list_browse": [
+    "bossy",
+    "botanic gardens",
+    "botanical",
+    "botanist",
+    "botany",
+    "both",
+    "bother",
+    "bothersome",
+    "bottle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366302_286a9d67b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366302_810bd825b2_o.png",
+      "id_image": "botany_3729954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058150_981ae771ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058150_da743901e4_o.png",
+      "id_image": "botany_4071990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366257_a4812ae1d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366257_d6d753a1f2_o.png",
+      "id_image": "botany_4178712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058080_5164cc76d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058080_ae282e6033_o.png",
+      "id_image": "botany_5969573"
+    }
+  ]
+}

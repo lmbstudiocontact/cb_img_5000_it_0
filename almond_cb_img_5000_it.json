@@ -1,0 +1,82 @@
+{
+  "english": "almond",
+  "phat_am": "ˈaːmənd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây hạnh nhân",
+          "definition": "(also almond tree) a kind of tree related to the peach.",
+          "world_new": [
+            "kind",
+            "tree",
+            "related",
+            "peach"
+          ]
+        },
+        {
+          "mean_english": "hạt hạnh nhân",
+          "definition": "the kernel of its fruit",
+          "world_new": [
+            "kernel",
+            "its",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cake had raisins and almonds in it.",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, seven organic almond handlers, four organic kiwifruit handlers, and two winter pear handlers did some private advertising.",
+    "Do you take title to the organic almonds you handle?",
+    "None of the other four handlers saw any reason to have reserves for organic almonds, given the tight supply situation relative to demand.",
+    "Their most favorable comments were for the nutrition research that has focused on the health benefits of almonds.",
+    "Fewer than 20% of the almond growers maintained a 'clean' or bare orchard floor, which is the less ecologically integrated approach to floor management.",
+    "Of the 10 handlers who commented, six were strongly opposed to reserves for organic or conventional almonds from a philosophical standpoint.",
+    "Seven of the 12 organic almond handlers responded positively to minimum quality standards.",
+    "The size of this voluntary reduction has generated more research into the almond industry's pesticide use records than any other commodity46-48."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "allusion",
+    "ally",
+    "almanac",
+    "almighty",
+    "almond",
+    "almost",
+    "alms",
+    "aloft",
+    "alone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359957_4f98e65f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359957_fb92c587d8_o.png",
+      "id_image": "almonds_2689393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052350_25507cb510_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052350_9844e928c6_o.png",
+      "id_image": "almond_1497092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360047_e22b537589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360047_15efffd888_o.png",
+      "id_image": "almond_3439376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430723_385c405981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430723_066f99a254_o.png",
+      "id_image": "almond_4264750"
+    }
+  ]
+}

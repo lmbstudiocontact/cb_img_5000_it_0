@@ -1,0 +1,63 @@
+{
+  "english": "cent",
+  "phat_am": "sent",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng xu",
+          "definition": "a coin equal to the hundredth part of a dollar, rupee, rand etc",
+          "world_new": [
+            "coin",
+            "equal",
+            "hundredth",
+            "part",
+            "dollar",
+            "rupee",
+            "rand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In those days it cost 75 cents to see a movie.",
+              "world_new": [
+                "cost",
+                "see",
+                "movie"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When adjacent brands are compared, the price difference is only 5 cents.",
+    "Actually, the tempered fifth and fourth (700 and 500 cents) do not differ that much from their pure analogs (702 and 498 cents, correspondingly).",
+    "Then and only then would the wolf fifth become close to the pure fifth, with the difference between them less than 4 cents.",
+    "The price discount for random-weight produce is particularly noticeable for strawberries (74 cents per pound), peppers ($1.18) and tomatoes ($1.01).",
+    "A nickel is worth twenty-five cents.",
+    "Rather, the effects must also be expressed in terms of euros and cents.",
+    "The party opposite will be responsible for the culminating blow which must follow failure to defend the rate of 2 dollars 80 cents.",
+    "When the number of bird species likely to be seen was 80, maximum revenue flows were $40,423, for an average difference of $22,391, or 7.4 cents per bird species per tourist."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "censorious",
+    "censorship",
+    "censure",
+    "census",
+    "cent",
+    "centenarian",
+    "centenary",
+    "centigrade",
+    "centigrade thermometer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671554_35efe9911c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671554_9e0d1b07d4_o.png",
+      "id_image": "cent_1538312"
+    }
+  ]
+}

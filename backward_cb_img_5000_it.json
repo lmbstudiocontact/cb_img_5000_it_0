@@ -1,0 +1,104 @@
+{
+  "english": "backward",
+  "phat_am": "ˈbӕkwəd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "về phía sau",
+          "definition": "aimed or directed backwards",
+          "world_new": [
+            "backwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He left without a backward glance.",
+              "world_new": [
+                "left",
+                "glance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chậm hiểu",
+          "definition": "less advanced in mind or body than is normal for one’s age",
+          "world_new": [
+            "advanced",
+            "mind",
+            "body",
+            "normal",
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a backward child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạc hậu",
+          "definition": "late in developing a modern culture, mechanization etc",
+          "world_new": [
+            "modern",
+            "culture",
+            "mechanization"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That part of the country is still very backward",
+              "world_new": [
+                "part",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "a backward region.",
+              "world_new": [
+                "region"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A solution of the type (2.8) is only possible if b > 0, in which case (2.5) is backward parabolic.",
+    "As it can be seen the main radiation energy concentrates in the forward direction rather than a symmetrical structure for both forward and backward directions.",
+    "The second solution turns forward jumps into backward jumps by generating a single block before the child's loop with a jump-hole.",
+    "At equilibrium the forward and backward rates match, and consequently (26) must hold.",
+    "What more likely, then, that his mission in revisions would be to bring the most backward-looking aspects of a piece violently up to date?",
+    "Green et al. (1999) related visual backward masking deficits in patients with schizophrenia to a failure to establish cortical oscillations in the gamma range.",
+    "Given a set of forward rate constants, (28) can now be used to calculate the backward rate constants.",
+    "Convergence of backward economies with richer ones seems to be conditional on human capital formation."
+  ],
+  "list_see_also": [
+    "backwardness",
+    "backwards",
+    "backwards and forwards",
+    "bend over backwards"
+  ],
+  "list_browse": [
+    "backside",
+    "backslash",
+    "backstroke",
+    "backup",
+    "backward",
+    "backwardness",
+    "backwards",
+    "backwards and forwards",
+    "backwash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321621_0d3075076d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321621_2e4a940bd3_o.png",
+      "id_image": "backward_6040174"
+    }
+  ]
+}

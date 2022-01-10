@@ -1,0 +1,71 @@
+{
+  "english": "ascent",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đi lên",
+          "definition": "the act of climbing or going up",
+          "world_new": [
+            "act",
+            "climbing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ascent of Mount Everest.",
+              "world_new": [
+                "Mount"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường dốc",
+          "definition": "a slope upwards",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a steep ascent.",
+              "world_new": [
+                "steep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The trail has several significant vertical ascents and descents totaling 9000 ft, mostly at canyon crossings.",
+    "Divergence and convergence are strongly directional and could be gestures or texture growths, or a simultaneous linear descent ascent.",
+    "Because of the steep cliffs around the summit, direct ascents from the city side are limited.",
+    "Most of the remainder of the trail consists of sharp ascents over steep ledges alternating with smooth strolls over narrow backbones.",
+    "The findings have demonstrated that practical escape training greatly increases the prospects of safe ascents at sea.",
+    "Four fourth-category ascents were the only point-awarding climbs, but at least eight other uncategorized rises occurred.",
+    "In this case, as in [1.42], the middle sound is used as a pivot, being the end of descent and the beginning of ascent.",
+    "She is known for her bouldering, competition wins, and ascents of gritstone routes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ascend the throne",
+    "ascendancy",
+    "Ascension",
+    "Ascension Day",
+    "ascent",
+    "ascertain",
+    "ascertainable",
+    "ascetic",
+    "ascetically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304261_bcac526ca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304261_50268571ac_o.png",
+      "id_image": "ascent_4344651"
+    }
+  ]
+}

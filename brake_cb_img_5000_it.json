@@ -1,0 +1,83 @@
+{
+  "english": "brake",
+  "phat_am": "breik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phanh lại",
+          "definition": "to slow down or stop",
+          "world_new": [
+            "slow",
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He braked (the car) suddenly.",
+              "world_new": [
+                "suddenly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái phanh",
+          "definition": "a device for doing this",
+          "world_new": [
+            "device"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put on the brake(s)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The negative part is the braking phase of touching down and the positive part is the motion propulsion phase when the supporting leg pulls the ground to drive the body.",
+    "I welcome the proposed improvements in safety standards—the sideguards, the rear under-run guards, the new braking standards and the investigation into spray suppression.",
+    "Therefore, that solution consists of a periodic sequence of buoyancy pushes and buoyancy brakes.",
+    "Washing machines, car braking systems, refrigeration units, and so forth all have improved controls if programmed with fuzzy logic.",
+    "In the choice system, which calls for extra road investment, there would be no brakes on the journey to work, even into the city centre.",
+    "When she espies the two bodies on the road and applies her brakes, she discovers that they are suddenly inoperative.",
+    "Most of the work done in this area is on manipulators mounted with some kind of braking mechanism on the passive joint.",
+    "Track bikes have one gear and no brakes; braking occurs by pedalling backwards, or, for the truly adept, by sliding the rear wheel against the curb."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brainwashing",
+    "brainwave",
+    "brainy",
+    "braise",
+    "brake",
+    "bran",
+    "branch",
+    "brand",
+    "brand-new"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363087_4989b24ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363087_07f42f9314_o.png",
+      "id_image": "brakes_662856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363147_5545fd858e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363147_2bbbd87f6c_o.png",
+      "id_image": "brake_1581914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433793_6fe7980bd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433793_7443341c5b_o.png",
+      "id_image": "brake_1870853"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "button",
+  "phat_am": "ˈbatn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái khuy áo",
+          "definition": "a knob or disc used as a fastening",
+          "world_new": [
+            "knob",
+            "disc",
+            "fastening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I lost a button off my coat.",
+              "world_new": [
+                "I",
+                "lost",
+                "my",
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái nút",
+          "definition": "a small knob pressed to operate something",
+          "world_new": [
+            "small",
+            "knob",
+            "operate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This button turns the radio on.",
+              "world_new": [
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cài khuy",
+          "definition": "(often with up) to fasten by means of buttons",
+          "world_new": [
+            "fasten",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He buttoned up his jacket.",
+              "world_new": [
+                "jacket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A centering buttoned device is a modification of the regular buttoned device, where the counter occluder is sutured at 40% of the occluder.",
+    "Observable behaviours are described in terms of which buttons can be pushed in which order.",
+    "There it was noted that her skills included ' plaine worke and black workes ' and the making of ' all manner of buttons '.",
+    "Other buttons give the tagger the various controls needed to search and view other contexts in the file.",
+    "Different effects require different controls, and the interface adapts by assigning sliders and option buttons to specific parameters.",
+    "Participants were required to respond to stimuli by pressing buttons on the keyboard.",
+    "Responses were made with mouse buttons connected to a computer.",
+    "To create a four-crotchet pattern in 4/4 time, for instance, one would press buttons 1, 5, 9, and 13."
+  ],
+  "list_see_also": [
+    "buttonhole"
+  ],
+  "list_browse": [
+    "butterfly",
+    "butterscotch",
+    "buttery",
+    "buttock",
+    "button",
+    "buttonhole",
+    "buttress",
+    "buxom",
+    "buy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307706_ece18a6634_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307706_f1cd9cf305_o.png",
+      "id_image": "button_1021330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662944_0551225f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662944_ab407afb7d_o.png",
+      "id_image": "button_3179531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307751_01988b26af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307751_2d59125cea_o.png",
+      "id_image": "button_528081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351862_2367d37849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351862_10da45bc9b_o.png",
+      "id_image": "button_917236"
+    }
+  ]
+}

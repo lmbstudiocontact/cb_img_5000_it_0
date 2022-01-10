@@ -1,0 +1,169 @@
+{
+  "english": "bid",
+  "phat_am": "bid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấu giá",
+          "definition": "(past tense, past participle bid) to offer (an amount of money) at an auction",
+          "world_new": [
+            "offer",
+            "amount",
+            "auction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John bid ($1,000) for the painting.",
+              "world_new": [
+                "painting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự thầu",
+          "definition": "(with for) (past tense, past participle bid) to state a price (for a contract)",
+          "world_new": [
+            "state",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My company is bidding for the contract to build the new road.",
+              "world_new": [
+                "company",
+                "bidding",
+                "contract",
+                "build",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảo ai làm gì",
+          "definition": "(past tense badebӕd; past participle bidden) literary to tell (someone) to (do something)",
+          "world_new": [
+            "tell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bade me enter.",
+              "world_new": [
+                "enter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói lời chào",
+          "definition": "(past tense badebӕd; past participle bidden) literary to express a greeting etc (to someone)",
+          "world_new": [
+            "express",
+            "greeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bade me farewell.",
+              "world_new": [
+                "farewell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá bỏ thầu",
+          "definition": "an offer of a price",
+          "world_new": [
+            "offer",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put in a bid of $200."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cố gắng",
+          "definition": "an attempt (to obtain)",
+          "world_new": [
+            "attempt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prisoner made a bid for freedom by trying to climb over the wall.",
+              "world_new": [
+                "prisoner",
+                "freedom",
+                "trying",
+                "climb",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In continuous auctions, a pool of items exist, exchanges occur as soon as two compatible bids are made, and the bidding process continues uninterrupted.",
+    "Takes the value 1 if there was any community involvement with the bid mentioned, 0 otherwise.",
+    "Agents used in e-commerce applications may negotiate contracts or bid in auctions on behalf of their users.",
+    "Pre-1986 contracts had been costed and bid at pre-devaluation rates.",
+    "The preference for low pressure steam was exercised here at a slightly higher cost than hot water: £5,115 versus.£4,815 in the successful bid.",
+    "The project was let on competitive tender in 2003, with the financial bid being one of the key criteria for selection.",
+    "After buying and selling agents have been matched, buying agents offer selling agents their current bids.",
+    "The commissioning group facilitated bids from the voluntary sector, linking them to academic units."
+  ],
+  "list_see_also": [
+    "bidder",
+    "bidding",
+    "biddable"
+  ],
+  "list_browse": [
+    "bicellular",
+    "bicentenary",
+    "biceps",
+    "bicycle",
+    "bid",
+    "biddable",
+    "bidder",
+    "bidding",
+    "bide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306111_e115d1a859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306111_f76c6c798d_o.png",
+      "id_image": "bid_1809627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043115_dcfff4a75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043115_8b23382576_o.png",
+      "id_image": "bid_2162190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661474_32ee04e051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661474_bdd29e5556_o.png",
+      "id_image": "bid_3814240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350212_a0d95ebff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350212_f97e7f8820_o.png",
+      "id_image": "bid_3814293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306031_5dabe33736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306031_0af81f8532_o.png",
+      "id_image": "bid_6295350"
+    }
+  ]
+}

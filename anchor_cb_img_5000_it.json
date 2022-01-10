@@ -1,0 +1,112 @@
+{
+  "english": "anchor",
+  "phat_am": "ˈӕŋkə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỏ neo",
+          "definition": "something, usually a heavy piece of metal with points which dig into the seabed, used to hold a boat in one position",
+          "world_new": [
+            "heavy",
+            "piece",
+            "metal",
+            "points",
+            "dig",
+            "hold",
+            "boat",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a safe place to drop anchor.",
+              "world_new": [
+                "safe",
+                "place",
+                "drop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi nương tựa",
+          "definition": "something that holds someone or something steady.",
+          "world_new": [
+            "steady"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thả neo",
+          "definition": "to hold (a boat etc) steady (with an anchor)",
+          "world_new": [
+            "hold",
+            "boat",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have anchored (the boat) near the shore",
+              "world_new": [
+                "shore"
+              ]
+            },
+            {
+              "ex_of_definition": "He used a stone to anchor his papers.",
+              "world_new": [
+                "stone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each of the three acts is anchored by an extended number in which this relationship is explored and developed.",
+    "The result is a feeling of gravity pulling the sound towards a single point between the two spatial anchors.",
+    "To find new anchors, we combine these statistical word correspondences with the word correspondences in a bilingual dictionary.",
+    "Richards discusses what she terms ' bad neighbours ', and their role as anchors for communication in the neighborhood.",
+    "However, the spines remained firmly anchored to the basal lamina.",
+    "A second point introduced by the single-segment affixation is the possibility of anchoring violations.",
+    "Our method gradually determines sentence pairs (anchors) that correspond to each other by relaxing parameters.",
+    "Either of these approaches would lend additional depth to the argument by anchoring it in a theoretical framework."
+  ],
+  "list_see_also": [
+    "anchorage",
+    "at anchor"
+  ],
+  "list_browse": [
+    "anatomy",
+    "ancestor",
+    "ancestral",
+    "ancestry",
+    "anchor",
+    "anchorage",
+    "anchovy",
+    "ancient",
+    "and"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357137_1013db129c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357137_f88d3328da_o.png",
+      "id_image": "anchor_448289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313161_ba58c64305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313161_c4e8a06269_o.png",
+      "id_image": "anchor_801496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313116_71a0359e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313116_812f3c37c4_o.png",
+      "id_image": "anchor_911013"
+    }
+  ]
+}

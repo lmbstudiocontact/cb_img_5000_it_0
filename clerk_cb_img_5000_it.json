@@ -1,0 +1,101 @@
+{
+  "english": "clerk",
+  "phat_am": "klaːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thư ký",
+          "definition": "a person who deals with letters, accounts etc in an office",
+          "world_new": [
+            "person",
+            "office"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wages clerk."
+            }
+          ]
+        },
+        {
+          "mean_english": "người đảm trách sổ sách",
+          "definition": "a public official in charge of the business affairs of the town council etc",
+          "world_new": [
+            "public",
+            "official",
+            "charge",
+            "business",
+            "town",
+            "council"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the town clerk.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người bán hàng",
+          "definition": "a shop assistant",
+          "world_new": [
+            "shop",
+            "assistant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works as a sales clerk in a pet store.",
+              "world_new": [
+                "works",
+                "pet",
+                "store"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, there are 19 acts that show that the aldermen's clerks did possess and use formulas to describe the subordination of women.",
+    "Still, a survey of the laws regulating sheriffs, marshals, clerks, custom collectors, surveyors, and so forth, is striking for its continuity with the past.",
+    "A whole section of this work is centered upon the clerks.",
+    "As mentioned above, the only official remuneration the bulk of the clerks received was their fanshi allowance.",
+    "To what extent literacy in love really prepared clerks for their subsequent experiences of marriage and fatherhood, they apparently did not record.",
+    "The ' educated class ', mainly government clerks, he wrote, were ' social snobs ', unwilling to mix with manual workers.",
+    "To sum up, the clerks did enjoy a certain degree of power, which derived from their expertise in administrative procedures.",
+    "The claimed expertise of the financial adviser now has little to do with humble routines that can readily be delegated to clerks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clergy",
+    "clergyman",
+    "cleric",
+    "clerical",
+    "clerk",
+    "clever",
+    "cleverly",
+    "cleverness",
+    "cliché"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041095_412b6c16e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041095_4761d8556a_o.png",
+      "id_image": "clerk_1983220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041115_0b6484eaed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041115_10592be54b_o.png",
+      "id_image": "clerk_560240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304251_4298acc534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304251_23018b0dd9_o.png",
+      "id_image": "clerk_827069"
+    }
+  ]
+}

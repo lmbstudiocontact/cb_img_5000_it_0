@@ -1,0 +1,73 @@
+{
+  "english": "backbone",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xương sống",
+          "definition": "the spine",
+          "world_new": [
+            "spine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the backbone of a fish.",
+              "world_new": [
+                "fish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trụ cột",
+          "definition": "the chief support",
+          "world_new": [
+            "chief",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These players will continue to form the backbone of the team.",
+              "world_new": [
+                "continue",
+                "form",
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Network congestion is often taken into consideration while designing backbones.",
+    "The boys' heads, nervous systems and backbones are separate.",
+    "The strength of this approach is that it also takes into account the cost of dehydrating the helix backbone and the energy for salt-bridge formation.",
+    "Precision is the backbone rmsd for ensembles of structures calculated using simulated annealing.",
+    "The point is to have better understanding about the potential and role of volunteering, which could be called one of the backbones of civil society.",
+    "Only two of the natural atoms, carbon and silicon, are known to serve as the backbones of molecules sufficiently large to carry biological information.",
+    "The phosphodiester backbone is represented by a dot for the strands in a 5k-3k orientation and by a cross for the 3k-5k strands.",
+    "With digital backbones, these devices have advanced greatly in the last years."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "back out",
+    "back up",
+    "backache",
+    "backbiting",
+    "backbone",
+    "backbreaking",
+    "backdate",
+    "backer",
+    "backfire"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367732_e068ac40f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367732_020f7ca566_o.png",
+      "id_image": "backbone_2252843"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "english": "blister",
+  "phat_am": "ˈblistə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết rộp",
+          "definition": "a thin bubble on the skin, containing liquid",
+          "world_new": [
+            "thin",
+            "bubble",
+            "skin",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My feet have blisters after walking so far.",
+              "world_new": [
+                "far"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ bị rộp lên",
+          "definition": "a similar spot on any surface",
+          "world_new": [
+            "similar",
+            "spot",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Blisters had begun to appear on the paintwork.",
+              "world_new": [
+                "appear",
+                "paintwork"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm rộp lên",
+          "definition": "to (cause to) rise in a blister or blisters",
+          "world_new": [
+            "rise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": ". If there’s dampness behind the wall, the paint will eventually blister.",
+              "world_new": [
+                "dampness",
+                "wall",
+                "paint",
+                "eventually"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Further, his skin is covered by blisters, an appropriate element for a painting likely originated as an ex voto for the end of plague.",
+    "If the person, through having ridden for some considerable time, had a temporary disability, with blisters on a part of his anatomy, he would not be \"fit\" to ride.",
+    "I found them with the shafts of their picks wrapped round with cotton waste and other rags in an endeavour to save their hands from blistering.",
+    "They were kept in the trucks in blistering heat without any water.",
+    "Petechial hemorrhages, blistering and severe scaling of the skin may develop.",
+    "The bark on young trees is thin, smooth, gray, and covered with resin blisters.",
+    "The prophecy about a blistering attack has not come true.",
+    "Animals with blisters on their tongues, their mouths and their feet suffer seriously."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blink",
+    "bliss",
+    "blissful",
+    "blissfully",
+    "blister",
+    "blithe",
+    "blithely",
+    "blitz",
+    "blizzard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066905_6df7b9e724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066905_6100cdd959_o.png",
+      "id_image": "blister_1732558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066850_1b2242de8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066850_bd02b3c6d8_o.png",
+      "id_image": "blister_4290103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445033_aeeb7325a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445033_ccc6deb4bb_o.png",
+      "id_image": "blister_4646652"
+    }
+  ]
+}

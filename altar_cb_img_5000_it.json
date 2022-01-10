@@ -1,0 +1,69 @@
+{
+  "english": "altar",
+  "phat_am": "ˈoːltə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệ thờ",
+          "definition": "in some Christian churches the table on which the bread and wine are consecrated during the celebration of communion",
+          "world_new": [
+            "Christian",
+            "table",
+            "bread",
+            "wine",
+            "celebration",
+            "communion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bride and groom stood before the priest at the altar.",
+              "world_new": [
+                "bride",
+                "groom",
+                "priest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn thờ",
+          "definition": "a table etc on which offerings are made to a god.",
+          "world_new": [
+            "table"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alpine",
+    "already",
+    "alright",
+    "also",
+    "altar",
+    "alter",
+    "alteration",
+    "altercation",
+    "alternate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359617_a2be5d4bf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359617_3a5de10fa9_o.png",
+      "id_image": "altar_2431549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051935_02e275edd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051935_b0451df285_o.png",
+      "id_image": "altar_443599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315441_aac81105bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315441_bc2b6a8faf_o.png",
+      "id_image": "altar_5823004"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "certify",
+  "phat_am": "ˈsəːtifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chứng nhận",
+          "definition": "to declare formally (eg that something is true)",
+          "world_new": [
+            "declare",
+            "formally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I certify that I witnessed the signing of the will.",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứng nhận là mắc bệnh tâm thần",
+          "definition": "to declare officially that (someone) is insane",
+          "world_new": [
+            "declare",
+            "officially",
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was certified insane and transferred to a mental hospital.",
+              "world_new": [
+                "insane",
+                "mental",
+                "hospital"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "certification"
+  ],
+  "list_browse": [
+    "certainty",
+    "certificate",
+    "Certificate of Secondary Education",
+    "certification",
+    "certify",
+    "cervix",
+    "Cesarean",
+    "cessation",
+    "cf"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430788_7df81a2f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430788_4d87c5193c_o.png",
+      "id_image": "certificate_1447554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360162_1a220e9881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360162_86fbecd6aa_o.png",
+      "id_image": "certificate_390836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052345_864059243c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052345_419985e041_o.png",
+      "id_image": "certified_1041210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670529_dc09feb20e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670529_49287459fc_o.png",
+      "id_image": "certified_4661939"
+    }
+  ]
+}

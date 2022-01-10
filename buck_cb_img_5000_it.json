@@ -1,0 +1,81 @@
+{
+  "english": "buck",
+  "phat_am": "bak",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hươu, hoẵng, nai, thỏ… đực",
+          "definition": "the male of the deer, hare, rabbit etc",
+          "world_new": [
+            "male",
+            "deer",
+            "hare",
+            "rabbit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a buck and a doe.",
+              "world_new": [
+                "doe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy chụm bốn vó",
+          "definition": "(of a horse or mule) to make a series of rapid jumps into the air",
+          "world_new": [
+            "horse",
+            "series",
+            "rapid",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse was bucking with all four hooves off the ground.",
+              "world_new": [
+                "horse",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "buckskin",
+    "buck up",
+    "pass the buck"
+  ],
+  "list_browse": [
+    "bubble gum",
+    "bubble over",
+    "bubbly",
+    "buccaneer",
+    "buck",
+    "buck up",
+    "bucket",
+    "buckle",
+    "buckskin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050145_86d80c7daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050145_6a5bbda09a_o.png",
+      "id_image": "buck_1079427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668404_4d800b8ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668404_45beaa3099_o.png",
+      "id_image": "buck_184083"
+    }
+  ]
+}

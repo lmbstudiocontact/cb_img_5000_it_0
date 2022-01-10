@@ -1,0 +1,106 @@
+{
+  "english": "ball",
+  "phat_am": "boːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả bóng",
+          "definition": "a round object used in games",
+          "world_new": [
+            "object",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cricket/rugby/tennis ball."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộn",
+          "definition": "anything roughly round in shape",
+          "world_new": [
+            "roughly",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ball of wool.",
+              "world_new": [
+                "wool"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh hoàn",
+          "definition": "balls plural slang testicles."
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi khiêu vũ",
+          "definition": "a formal dance",
+          "world_new": [
+            "formal",
+            "dance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were invited to a ball at the palace.",
+              "world_new": [
+                "palace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ball bearings",
+    "ballcock",
+    "ballpoint",
+    "balls-up",
+    "on the ball",
+    "start/set"
+  ],
+  "list_browse": [
+    "bale",
+    "bale out",
+    "baleful",
+    "balefully",
+    "ball",
+    "ball bearings",
+    "ballad",
+    "ballcock",
+    "ballerina"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433768_8444f7c5a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433768_61463e2b04_o.png",
+      "id_image": "ball_203251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055090_a54aaa2981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055090_f494c34fb0_o.png",
+      "id_image": "ball_257509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433693_059a3f5e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433693_7185f80c9f_o.png",
+      "id_image": "ball_709430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433658_6492ea915e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433658_1828e7b4a8_o.png",
+      "id_image": "ball_849023"
+    }
+  ]
+}

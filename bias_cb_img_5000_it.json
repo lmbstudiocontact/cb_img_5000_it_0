@@ -1,0 +1,106 @@
+{
+  "english": "bias",
+  "phat_am": "ˈbaiəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thành kiến",
+          "definition": "favouring/favoring of one or other (side in an argument etc) rather than remaining neutral",
+          "world_new": [
+            "argument",
+            "rather",
+            "neutral"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The referee was accused of bias by the away fans",
+              "world_new": [
+                "referee"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s a lot of political bias in the way the news network reports events.",
+              "world_new": [
+                "political",
+                "news",
+                "network"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xu hướng",
+          "definition": "a weight on or in an object (eg a bowl for playing bowls) making it move in a particular direction.",
+          "world_new": [
+            "weight",
+            "object",
+            "bowl",
+            "move",
+            "particular",
+            "direction"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có thành kiến",
+          "definition": "to influence (usually unfairly)",
+          "world_new": [
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was biased by the report in the newspapers",
+              "world_new": [
+                "biased",
+                "report"
+              ]
+            },
+            {
+              "ex_of_definition": "Which factors could bias the results of the experiment?",
+              "world_new": [
+                "experiment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, differences in these biases from one epidemic season to another are unlikely.",
+    "In our context, their suggestions imply that a likelihood approach with random variety effects reduces bias in the estimation of (fixed) year effects.",
+    "The following is the author's position on the subject, admittedly biased by a structural engineering background.",
+    "Both schools used a \"mixed\" method of teaching reading with a whole language bias.",
+    "The two sources of bias act in different directions and decrease the overall degree of bias when acting simultaneously.",
+    "Second, the high rate of follow-up participation reduces the risk of bias due to selective attrition.",
+    "This excitatory bias is an order parameter for the induction of state transitions in cortical itinerancy.",
+    "The degree to which the bias or variance is reduced will in turn affect the rate by which the model's error will decrease."
+  ],
+  "list_see_also": [
+    "biased"
+  ],
+  "list_browse": [
+    "BFA",
+    "bi-",
+    "biannual",
+    "biannually",
+    "bias",
+    "biased",
+    "bib",
+    "Bible",
+    "biblical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421758_31d2217b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421758_2f5ca6a9a1_o.png",
+      "id_image": "bias_6314227"
+    }
+  ]
+}

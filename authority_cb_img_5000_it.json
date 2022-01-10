@@ -1,0 +1,117 @@
+{
+  "english": "authority",
+  "phat_am": "oːˈθorəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền lực",
+          "definition": "the power or right to do something",
+          "world_new": [
+            "power",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me authority to act on his behalf.",
+              "world_new": [
+                "act",
+                "behalf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyên gia",
+          "definition": "a person who is an expert, or a book that can be referred to, on a particular subject",
+          "world_new": [
+            "person",
+            "expert",
+            "book",
+            "particular",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is an authority on Roman history.",
+              "world_new": [
+                "Roman",
+                "history"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người có thẩm quyền",
+          "definition": "the person or people who have power in an administration etc",
+          "world_new": [
+            "person",
+            "people",
+            "power",
+            "administration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The authorities would not allow public meetings.",
+              "world_new": [
+                "allow",
+                "public"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có uy tín",
+          "definition": "a natural quality in a person which makes him able to control and influence people",
+          "world_new": [
+            "natural",
+            "quality",
+            "person",
+            "control",
+            "influence",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man of authority."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Local authorities clearly seem most concerned with civil society activity in areas of political opposition.",
+    "Firstly, launching an initiative enables agenda-setting, since authorities are forced to deal with the issue at stake.",
+    "The identification of this common good is made, in the last resort, by political authorities.",
+    "Psychiatrists argued that they were best qualified to advise the authorities on the control of deviant behaviour.",
+    "One of the functions of authorities within the framework of joint activity, he argues, is to resolve competition or at least 22.",
+    "How have local authorities responded to central government's initiative in integrating state administration?",
+    "Classical models and authorities were also sources for perceptions of nature, the countryside and their inhabitants.",
+    "Regulations are rules and directives imposed by authorities to mandate behaviour in accordance with public policy."
+  ],
+  "list_see_also": [
+    "authoritarian",
+    "authoritative",
+    "authoritatively"
+  ],
+  "list_browse": [
+    "author",
+    "authoritarian",
+    "authoritative",
+    "authoritatively",
+    "authority",
+    "authorization",
+    "authorize",
+    "authorship",
+    "autism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370907_f4f449d5ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370907_f3349ddbb5_o.png",
+      "id_image": "authority_2720642"
+    }
+  ]
+}

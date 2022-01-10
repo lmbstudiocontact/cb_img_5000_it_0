@@ -1,0 +1,102 @@
+{
+  "english": "bomb",
+  "phat_am": "bom",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả bom",
+          "definition": "a hollow case containing explosives etc",
+          "world_new": [
+            "hollow",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The enemy dropped a bomb on the factory and blew it up.",
+              "world_new": [
+                "enemy",
+                "factory"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ném bom",
+          "definition": "to drop bombs on",
+          "world_new": [
+            "drop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "London was bombed several times.",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thất bại thảm hại",
+          "definition": "to fail miserably",
+          "world_new": [
+            "fail",
+            "miserably"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The play bombed on the first night.",
+              "world_new": [
+                "play",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bomber",
+    "bombshell"
+  ],
+  "list_browse": [
+    "bollard",
+    "bolster",
+    "bolt",
+    "bolt(-)upright",
+    "bomb",
+    "bombard",
+    "bombardment",
+    "bomber",
+    "bombshell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325116_5f22ef2ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325116_c78921cf59_o.png",
+      "id_image": "bomb_1022285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680344_406195ceee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680344_9dd70f6e08_o.png",
+      "id_image": "bomb_224671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325186_74720104a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325186_9fa907625a_o.png",
+      "id_image": "bomb_475464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440133_c4befa29ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440133_d6f9a29cb5_o.png",
+      "id_image": "bomb_942405"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "ammunition",
+  "phat_am": "ӕmjuˈniʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đạn dược",
+          "definition": "things used in the firing of a gun etc (eg bullets, gunpowder, shells)",
+          "world_new": [
+            "gun",
+            "gunpowder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long will the soldiers’ ammunition last?",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "amino acid",
+    "amiss",
+    "ammo",
+    "ammonia",
+    "ammunition",
+    "amnesia",
+    "amnesty",
+    "amniotic sac",
+    "amoeba"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314346_ba0ed2e938_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314346_cf996960b7_o.png",
+      "id_image": "ammunition_1733368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314271_25c7056307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314271_c011b054bc_o.png",
+      "id_image": "ammunition_2389366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050890_fd6da76bd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050890_811b4b1a9e_o.png",
+      "id_image": "ammunition_2737746"
+    }
+  ]
+}

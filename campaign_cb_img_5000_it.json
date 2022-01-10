@@ -1,0 +1,111 @@
+{
+  "english": "campaign",
+  "phat_am": "kӕmˈpein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiến dịch",
+          "definition": "the operations of an army while fighting in one area or for one purpose",
+          "world_new": [
+            "army",
+            "fighting",
+            "area",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Burma campaign in the Second World War."
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc vận động",
+          "definition": "a series of organized actions in support of a cause",
+          "world_new": [
+            "series",
+            "organized",
+            "support",
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a campaign against smoking.",
+              "world_new": [
+                "smoking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tham gia một chiến dịch",
+          "definition": "to take part in a campaign",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has campaigned against animal cruelty for years.",
+              "world_new": [
+                "animal",
+                "cruelty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Topdown solutions and large campaign-style approaches are therefore rejected in favour of more participatory solutions, involving local consultation and village level planning.",
+    "However, the main campaign issue was on promoting economic development and reducing the high unemployment rate.",
+    "Educational campaigns for consumers, and food-safety courses for food handlers should aim at reducing identified risks.",
+    "Consensual issues do not allow the parties to distinguish themselves from their adversaries during an electoral campaign.",
+    "To encourage donations, newspapers published the campaign registers showing donors' names and donation amounts.",
+    "These parties had a common interest and were supported by non-governmental organisations which helped them put together a strong campaign.",
+    "Taking the campaign to some parts of the country proved especially difficult for parties without a presence in those areas.",
+    "This time, however, the campaign was directed toward a neo-corporate ordering of the trade."
+  ],
+  "list_see_also": [
+    "campaigner"
+  ],
+  "list_browse": [
+    "camouflage",
+    "camp",
+    "camp bed",
+    "camp fire",
+    "campaign",
+    "campaigner",
+    "camper",
+    "camphor",
+    "camping"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041545_521c80c4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041545_4fac11dfd3_o.png",
+      "id_image": "campaign_1666049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660044_bfeed31cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660044_8fdd6d3969_o.png",
+      "id_image": "campaign_1999239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304681_4dfec0bbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304681_221687c5eb_o.png",
+      "id_image": "campaign_5175207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419638_f83304dfd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419638_6e97545fc0_o.png",
+      "id_image": "campaign_5605843"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "english": "absent",
+  "phat_am": "ˈӕbsənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vắng mặt",
+          "definition": "not present",
+          "world_new": [
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Johnny was absent from school with a cold.",
+              "world_new": [
+                "school",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "không có mặt",
+          "definition": "to keep (oneself) away",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He absented himself from the meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The majority of the lightermen have accepted work in loyal observance of the decision which was taken last night but an unknown number absented themselves.",
+    "There is nothing for him to do, and he absents himself.",
+    "Merely to say that, for this reason or for that reason, the miner deliberately absents himself from work, is doing an injustice to a fine body of men.",
+    "Between 70 per cent, and 80 per cent, of all children who come into conflict with the law begin by absenting themselves from school.",
+    "When a member of the armed forces absents him or herself without authority, action is taken to stop pay, including increments and additional pay, from day one of the absence.",
+    "I notice that the departmental point of view has absented itself from our discussions.",
+    "Included in the latter figure are men who have absented themselves from their units for various reasons, some of whom may have since rejoined.",
+    "My information is that he and another man absented themselves from work without having applied for or obtained permission."
+  ],
+  "list_see_also": [
+    "absence",
+    "absentee",
+    "absenteeism",
+    "absently",
+    "absentee landlord",
+    "absent-minded",
+    "absent-mindedly",
+    "absent-mindedness"
+  ],
+  "list_browse": [
+    "abscess",
+    "abscond",
+    "abseil",
+    "absence",
+    "absent",
+    "absent-minded",
+    "absent-mindedly",
+    "absent-mindedness",
+    "absentee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682374_a979bce038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682374_0c6198ff5b_o.png",
+      "id_image": "absent_4776097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442228_ce8252b9bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442228_d59d3722cc_o.png",
+      "id_image": "absent_4784979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371852_6934bfe2d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371852_ebea3db17d_o.png",
+      "id_image": "absent_4797103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327066_8498090f4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327066_312b28f68a_o.png",
+      "id_image": "absent_5110182"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "brace",
+  "phat_am": "breis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật nối",
+          "definition": "something that draws together and holds tightly",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dentist fitted her with a brace to straighten her teeth.",
+              "world_new": [
+                "dentist",
+                "straighten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đôi",
+          "definition": "a pair usually of game-birds",
+          "world_new": [
+            "pair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a brace of pheasants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắng hết sức",
+          "definition": "to make (often oneself) firm or steady",
+          "world_new": [
+            "firm",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He braced himself for the struggle.",
+              "world_new": [
+                "struggle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dentist who puts on braces, straightens teeth.",
+    "Parents might rationally prefer to invest in more traditional methods of enhancing their children's chances for success, such as education, or even braces.",
+    "We are entitled to know as soon as possible how long the \"belt and braces\" method will be continued.",
+    "I would ask him to carry out very careful experiments before he does away entirely with those bracing wires.",
+    "Perhaps the council did over-design the wall and go for a belt and braces solution.",
+    "We feel that this type of prescription should have been protected from the bracing winds of the market.",
+    "There has been some regrettable delay in obtaining spinal braces of good quality.",
+    "In effect, it is a belt and braces provision as it is a second statement of the same provision."
+  ],
+  "list_see_also": [
+    "braces",
+    "bracing"
+  ],
+  "list_browse": [
+    "boycott",
+    "boyfriend",
+    "boyhood",
+    "bra",
+    "brace",
+    "bracelet",
+    "braces",
+    "bracing",
+    "bracket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056210_acbb4a55e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056210_b194d1b8a2_o.png",
+      "id_image": "brace_1386880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319611_0edc683e4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319611_9c48135d8a_o.png",
+      "id_image": "brace_1780163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319581_7252551b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319581_5079baac31_o.png",
+      "id_image": "brace_2933552"
+    }
+  ]
+}

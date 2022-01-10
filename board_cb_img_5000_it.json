@@ -1,0 +1,164 @@
+{
+  "english": "board",
+  "phat_am": "boːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tấm ván",
+          "definition": "a strip of timber",
+          "world_new": [
+            "strip",
+            "timber"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The floorboards of the old house were rotten.",
+              "world_new": [
+                "old",
+                "house",
+                "rotten"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng",
+          "definition": "a flat piece of wood etc for a special purpose",
+          "world_new": [
+            "flat",
+            "piece",
+            "wood",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "noticeboard",
+              "world_new": [
+                "noticeboard"
+              ]
+            },
+            {
+              "ex_of_definition": "chessboard."
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn ăn",
+          "definition": "meals",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "board and lodging.",
+              "world_new": [
+                "lodging"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ban",
+          "definition": "an official group of persons administering an organization etc",
+          "world_new": [
+            "official",
+            "group",
+            "organization"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the board of directors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lên tàu, xe",
+          "definition": "to enter, or get on to (a vehicle, ship, plane etc)",
+          "world_new": [
+            "enter",
+            "vehicle",
+            "ship",
+            "plane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is where we board the bus.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn ở trọ",
+          "definition": "to live temporarily and take meals (in someone else’s house)",
+          "world_new": [
+            "live",
+            "temporarily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He boards at Mrs Taylor’s during the week.",
+              "world_new": [
+                "Mrs",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Poverty was the main reason why children were boarded out, frequently associated with loss of parents and difficulties in providing for a large household.",
+    "Subjects were asked to par tic ipate and informed consent was obtained prior to administering for this internal review board-approved study.",
+    "We examined the extent to which these features actually appear in 200 messages, representing 200 writers and a variety of bulletin boards.",
+    "This board would be the precursor to the local advisory boards that would later play a key role in managing the public grasslands.",
+    "The first, chronologically, is the 'feud' that opposed a group of secretaries of the board to its presidency regarding their access to 7th rank positions.",
+    "They conclude that acquisition announcement date returns are significantly less negative when a majority of the bidding firm's board is independent outsiders.",
+    "Although the basic pattern is the same in 1995 as in 1975, recruitment of board chairmen has still changed significantly for both types of organizations.",
+    "Unlike the other fund types there is no member representation on the trustee board."
+  ],
+  "list_see_also": [
+    "boarder",
+    "board game",
+    "boarding-house",
+    "boarding pass",
+    "boarding school",
+    "across the board",
+    "go by the board"
+  ],
+  "list_browse": [
+    "blush",
+    "blustery",
+    "boa",
+    "boar",
+    "board",
+    "board game",
+    "boarder",
+    "boarding pass",
+    "boarding school"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064015_49c7df2518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064015_8f6b3be3cd_o.png",
+      "id_image": "boards_344061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327236_129e7bfb98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327236_4d4f84d193_o.png",
+      "id_image": "board_4334310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442218_eb337d1666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442218_539ecf5dd6_o.png",
+      "id_image": "board_4371357"
+    }
+  ]
+}

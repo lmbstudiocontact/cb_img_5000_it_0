@@ -1,0 +1,104 @@
+{
+  "english": "bread",
+  "phat_am": "bred",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh mỳ",
+          "definition": "a type of food made of flour or meal baked",
+          "world_new": [
+            "type",
+            "food",
+            "flour",
+            "meal",
+            "baked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bread and butter",
+              "world_new": [
+                "butter"
+              ]
+            },
+            {
+              "ex_of_definition": "a loaf of bread.",
+              "world_new": [
+                "loaf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kế sinh nhai",
+          "definition": "one’s living",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is how I earn my daily bread.",
+              "world_new": [
+                "I",
+                "earn",
+                "my",
+                "daily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are said to be more than forty types of wheat breads from very dark to very light.",
+    "Lists, higher order functions, user-defined data types, and tree structures fill out the remaining bread and butter chapters.",
+    "The bakery utilizes over 25 different recipes and bakes more than 50 different artisan breads and pastries.",
+    "If the crop is feed barley, for example, quality considerations will be minimal in comparison to the requirements of bread wheat destined for export.",
+    "Many breakfast cereals and a number of breads are already fortified with folic acid.",
+    "There has seldom been a wider variety of breads available.",
+    "Meat, a luxury, would be more expensive while bread, a necessity, would become cheaper.",
+    "There may be a slight increase in trace minerals and nutrients over non-sprouted breads."
+  ],
+  "list_see_also": [
+    "bread bin",
+    "breadcrumbs",
+    "breadwinner",
+    "bread and butter",
+    "on the breadline"
+  ],
+  "list_browse": [
+    "brazen",
+    "brazen it out",
+    "breach",
+    "breach of the peace",
+    "bread",
+    "bread and butter",
+    "bread bin",
+    "breadcrumbs",
+    "breadth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317771_621b339d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317771_1ddcedca63_o.png",
+      "id_image": "bread_1118015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054270_d121ebaf24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054270_bc29ed1c91_o.png",
+      "id_image": "bread_1191587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317821_b18face8ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317821_d90c3ab6ed_o.png",
+      "id_image": "bread_129121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432953_3b6075e2c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432953_000cb8b384_o.png",
+      "id_image": "bread_527774"
+    }
+  ]
+}

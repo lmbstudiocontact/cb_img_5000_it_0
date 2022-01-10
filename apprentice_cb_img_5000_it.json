@@ -1,0 +1,81 @@
+{
+  "english": "apprentice",
+  "phat_am": "əˈprentis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người học việc",
+          "definition": "a (usually young) person who is learning a trade",
+          "world_new": [
+            "person",
+            "learning",
+            "trade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He joined the company as an apprentice.",
+              "world_new": [
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho học việc",
+          "definition": "to make (someone) an apprentice",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was apprenticed to an engineer.",
+              "world_new": [
+                "engineer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fourthly, there is the very vexed question of the call-up of apprentices.",
+    "The wages of unskilled workers also increased along with their years of service since these workers were in fact apprentices.",
+    "Skilled workers had to have at least three months of employment experience, apprentices at least half a year, and common laborers at least a year.",
+    "The available statistics do not distinguish apprentices from other employees.",
+    "Contemporary custom had it that apprentices and journeymen resided in their master's household, where they worked, slept and took their meals together.",
+    "However, it is also possible that apprentices or attached specialists worked in and around the palaces of the king's family on valuable raw materials and in creating high-status goods.",
+    "Nearly 3 per cent of all apprentices (3,632) were set to mistresses.",
+    "I am anxious that apprentices as well as students should be able to benefit from such schemes."
+  ],
+  "list_see_also": [
+    "apprenticeship"
+  ],
+  "list_browse": [
+    "apprehension",
+    "apprehensive",
+    "apprehensively",
+    "apprehensiveness",
+    "apprentice",
+    "apprenticeship",
+    "approach",
+    "approachable",
+    "approaching"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044665_f9a35343a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044665_b3b3ccae85_o.png",
+      "id_image": "apprentice_2621567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662899_11da6125f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662899_57460d5411_o.png",
+      "id_image": "apprentice_2720607"
+    }
+  ]
+}

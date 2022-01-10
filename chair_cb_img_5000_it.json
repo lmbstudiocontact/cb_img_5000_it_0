@@ -1,0 +1,125 @@
+{
+  "english": "chair",
+  "phat_am": "tʃeə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế",
+          "definition": "a movable seat for one person, with a back to it",
+          "world_new": [
+            "movable",
+            "seat",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a table and four chairs.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chủ tọa",
+          "definition": "the position of a person who is chairman at a meeting etc",
+          "world_new": [
+            "position",
+            "person",
+            "chairman",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is in the chair?"
+            }
+          ]
+        },
+        {
+          "mean_english": "chức giáo sư đại học",
+          "definition": "the office of a university professor",
+          "world_new": [
+            "office",
+            "university",
+            "professor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He holds the chair of History at this university.",
+              "world_new": [
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chủ trì",
+          "definition": "to be chairman at (a meeting etc)",
+          "world_new": [
+            "chairman",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He chaired the meeting last night.",
+              "world_new": [
+                "meeting",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many innocent souls believe a chair is a thing you sit on.",
+    "Metasemantically, \"law\" behaves much like simple artifact terms such as \"chair\" and \"hammer,\" which are not linguistically deferential.",
+    "While members of their communities fought, argued and even died for their beliefs the town council added arms to the mayoral chair.",
+    "When shown a chair apparently moving itself (pulled by transparent plastic wire) babies showed surprise and sometimes fear.",
+    "What \"three\" is three chairs do not tell us, nor three apples, three cats nor any three things.",
+    "Infants were seated in a high chair across from a black curtain behind which a video camera for recording infant behavior was located.",
+    "Breathing heavily, she sat back in the chair and closed her eyes.",
+    "Then the chair leg is no longer visible."
+  ],
+  "list_see_also": [
+    "chairlift",
+    "chairman",
+    "chairmanship"
+  ],
+  "list_browse": [
+    "chain",
+    "chain gang",
+    "chain mail",
+    "chain store",
+    "chair",
+    "chairlift",
+    "chairman",
+    "chairmanship",
+    "chalet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670224_f29c76eea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670224_0c628dc2b7_o.png",
+      "id_image": "chair_547896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315596_7f4bd8b38f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315596_f4184e9873_o.png",
+      "id_image": "chair_656232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430393_a759471f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430393_09f3163df3_o.png",
+      "id_image": "chair_700084"
+    }
+  ]
+}

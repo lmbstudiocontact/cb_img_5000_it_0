@@ -1,0 +1,131 @@
+{
+  "english": "Cancer",
+  "phat_am": "ˈkӕnsə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cung Cự Giải",
+          "definition": "the fourth sign of the Zodiac, represented by a crab, for people born between 22 June and 23 July",
+          "world_new": [
+            "sign",
+            "crab",
+            "people",
+            "June",
+            "July"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her star sign is Cancer.",
+              "world_new": [
+                "star",
+                "sign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Cự Giải",
+          "definition": "(also Cancerian) someone who was born between 22 June and 23 July",
+          "world_new": [
+            "June",
+            "July"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think he’s a Cancer.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "u ác tính",
+          "definition": "a diseased growth in the body, often fatal",
+          "world_new": [
+            "diseased",
+            "growth",
+            "body",
+            "fatal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cancer has spread to her stomach.",
+              "world_new": [
+                "spread",
+                "stomach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bệnh ung thư",
+          "definition": "the (often fatal) condition caused by such diseased growth(s)",
+          "world_new": [
+            "condition",
+            "diseased"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is dying of cancer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike many other types of cancers, only a small fraction of prostate cancer cases are aggressive and life-threatening.",
+    "We included all articles with a primary emphasis on health, such as articles focusing on breast cancer screening or skin cancer prevention.",
+    "In these cases, the prevention of a case of cancer will result in a noncancer case.",
+    "Rather, the depressed group showed a reduced-risk : only 0.4 % of the depressed group (three persons) were diagnosed with breast cancer.",
+    "Signalling pathways involved in normal bone remodelling and osteoclastic bone resorption are utilised by metastatic breast cancer cells to promote growth in bone.",
+    "The caregivers of the cancer patients reported feelings of confusion and helplessness.",
+    "However, it is uncertain how large a percentage of the patients with early bladder cancer received such treatment.",
+    "The reasons for the dominance of kinase (and other enzyme) inhibitors as targets for modern cancer therapeutics are centred on the enzyme substrate-binding site."
+  ],
+  "list_see_also": [
+    "cancerous"
+  ],
+  "list_browse": [
+    "canary",
+    "cancel",
+    "cancel out",
+    "cancellation",
+    "Cancer",
+    "cancerous",
+    "candela",
+    "candid",
+    "candid camera"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348107_74774cf080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348107_d1e18555ac_o.png",
+      "id_image": "cancer_4720578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348077_8c2a2dc50c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348077_a6e6f0fc64_o.png",
+      "id_image": "cancer_4953041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348072_918ddd7dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348072_45c314b326_o.png",
+      "id_image": "cancer_5278124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040700_0b034afc78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040700_47e55ff6d5_o.png",
+      "id_image": "cancer_5278410"
+    }
+  ]
+}

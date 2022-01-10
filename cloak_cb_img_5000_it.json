@@ -1,0 +1,103 @@
+{
+  "english": "cloak",
+  "phat_am": "kləuk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo choàng không tay",
+          "definition": "a loose outer garment without sleeves, covering most of the body",
+          "world_new": [
+            "loose",
+            "outer",
+            "garment",
+            "covering",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a woollen/woolen cloak."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự che đậy",
+          "definition": "something that conceals",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They arrived under cloak of darkness.",
+              "world_new": [
+                "darkness"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che dấu",
+          "definition": "to cover or hide",
+          "world_new": [
+            "cover",
+            "hide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used a false name to cloak his criminal activities.",
+              "world_new": [
+                "false",
+                "name",
+                "criminal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rhetoric of liberalisation too frequently cloaks policies toward the single market that are dancing to the tune of monopolistically inclined interests of vast corporations.",
+    "Is not election an act of authority cloaked in the appearance of democracy?",
+    "You cannot put all the pedestrians into white cloaks.",
+    "Alcoholism is perhaps the only addiction—smoking may be the other—for which society has devised elaborate disguises and cloaks of social acceptability.",
+    "The discourse on literacy thus both ruptures the pre-war gender system at the same time that it cloaks these ruptures in the service of restoring the gender statusquo.",
+    "Lastly, in view of the substantial rise in the price of wool, why has it been found possible to peg the prices of nurses' cloaks?",
+    "Is he asking that the authority should be merely a talking shop, capable of expressing opinion, or that it should be cloaked with executive powers?",
+    "I do not understand why such a decision must be cloaked in secrecy."
+  ],
+  "list_see_also": [
+    "cloakroom"
+  ],
+  "list_browse": [
+    "clipping",
+    "clique",
+    "cliquey",
+    "clitoris",
+    "cloak",
+    "cloakroom",
+    "clock",
+    "clock in/out/on/off",
+    "clock up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375687_3f74bafb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375687_0647d5bde0_o.png",
+      "id_image": "cloak_2014153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331016_731556bfde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331016_f3e6a6e6d1_o.png",
+      "id_image": "cloak_2732354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375607_52ff3e1ed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375607_cb620a27f8_o.png",
+      "id_image": "cloak_5327116"
+    }
+  ]
+}

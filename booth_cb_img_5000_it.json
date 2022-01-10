@@ -1,0 +1,89 @@
+{
+  "english": "booth",
+  "phat_am": "buːð",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quán; lều",
+          "definition": "a tent or stall, especially at a fair",
+          "world_new": [
+            "tent",
+            "stall",
+            "fair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fortuneteller’s booth."
+            }
+          ]
+        },
+        {
+          "mean_english": "buồng",
+          "definition": "a small compartment for a given purpose",
+          "world_new": [
+            "small",
+            "compartment",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a phone booth",
+              "world_new": [
+                "phone"
+              ]
+            },
+            {
+              "ex_of_definition": "a polling booth."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are quantities of objections, and also there are people in the polling booths to see that there is no dual voting.",
+    "Once all the new toll booths are open, delays will be due to the limited capacity of the tunnel.",
+    "The precise allocation of these polling booths in each electoral district will be decided in the next few days.",
+    "Is it expected that the proposed booths should give guidance to these young people on that matter?",
+    "Of course, they rolled them back when they came into the women-only polling booths.",
+    "There is a similar problem in booths in town and throughout the country.",
+    "Access to democracy too—access to the vote itself—is denied because of inaccessible polling booths and lack of adequate facilities in polling stations.",
+    "At present 20 booths are in action, 12 for southbound traffic and eight for northbound traffic."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "booster",
+    "boot",
+    "boot up",
+    "bootee",
+    "booth",
+    "booty",
+    "booze",
+    "booze-up",
+    "border"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677864_219dcf3f52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677864_f27afe9579_o.png",
+      "id_image": "booth_2066953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322651_e6fea6ac31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322651_05606462e0_o.png",
+      "id_image": "booth_4133226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367592_26424a1521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367592_d6b8306c4c_o.png",
+      "id_image": "booth_4213348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677754_1e682b6b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677754_d29d29d1f8_o.png",
+      "id_image": "booth_5593675"
+    }
+  ]
+}

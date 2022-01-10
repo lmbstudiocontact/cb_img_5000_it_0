@@ -1,0 +1,103 @@
+{
+  "english": "boot",
+  "phat_am": "buːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ủng",
+          "definition": "a covering for the foot and lower part of the leg, usually made of leather etc",
+          "world_new": [
+            "covering",
+            "foot",
+            "lower",
+            "part",
+            "leg",
+            "leather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of suede boots.",
+              "world_new": [
+                "pair",
+                "suede"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cốp ô tô",
+          "definition": "a place for luggage in a motor car etc; trunk American",
+          "world_new": [
+            "place",
+            "luggage",
+            "motor",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We put our suitcases in the boot and drove off.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đá ai",
+          "definition": "to kick",
+          "world_new": [
+            "kick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He booted the ball out of the goal.",
+              "world_new": [
+                "ball",
+                "goal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "boot up",
+    "give the boot"
+  ],
+  "list_browse": [
+    "boor",
+    "boorish",
+    "boost",
+    "booster",
+    "boot",
+    "boot up",
+    "bootee",
+    "booth",
+    "booty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367687_08e18cbfc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367687_5e2533acbe_o.png",
+      "id_image": "boot_1152992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322836_5e55419c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322836_58f08b6dcc_o.png",
+      "id_image": "boot_123964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059525_f2cb2d9e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059525_b2367af010_o.png",
+      "id_image": "boot_343328"
+    }
+  ]
+}

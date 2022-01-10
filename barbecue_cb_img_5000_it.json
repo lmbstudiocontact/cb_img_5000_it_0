@@ -1,0 +1,113 @@
+{
+  "english": "barbecue",
+  "phat_am": "ˈbaːbikjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỉ để nướng",
+          "definition": "a framework for grilling meat etc over a charcoal fire",
+          "world_new": [
+            "framework",
+            "meat",
+            "charcoal",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We cooked the steak on a barbecue.",
+              "world_new": [
+                "steak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiệc ngoài trời",
+          "definition": "a party in the open air, at which food is barbecued",
+          "world_new": [
+            "party",
+            "open",
+            "air",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She invited us to a barbecue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nướng quay cả con",
+          "definition": "to cook on a barbecue",
+          "world_new": [
+            "cook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He barbecued a chicken.",
+              "world_new": [
+                "chicken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then they hushed and ate barbecue.",
+    "If people took evasive action and rushed into houses, they were barbecued with a bath of napalm.",
+    "However, eating grapes and meat barbecued over an open fire were not significant risk factors at 10 % level for this sub-population.",
+    "It is more delicious than our barbecue.",
+    "It took them the whole night to barbecue the three hogs.",
+    "In the multivariate model eating doughsticks and eating at a barbecue were no longer significant.",
+    "For example, they sell barbecues, garden furniture, pet equipment, power tools, toys, and even clothes.",
+    "The cooking methods varied from cooking on camping stoves to barbecues."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barb",
+    "barbarian",
+    "barbarous",
+    "barbarousness",
+    "barbecue",
+    "barbed",
+    "barbed wire",
+    "barber",
+    "bare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360037_25a638debb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360037_e5c950491c_o.png",
+      "id_image": "barbecue_1143116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315986_30d40f5f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315986_fae8613ee0_o.png",
+      "id_image": "barbecue_125153"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315956_e949e75cee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315956_5b6ae8cfc9_o.png",
+      "id_image": "barbecue_878449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670589_d0cba6158f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670589_01152dae6a_o.png",
+      "id_image": "barbecue_878468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430768_6bcb96f91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430768_332a238892_o.png",
+      "id_image": "barbecue_878469"
+    }
+  ]
+}

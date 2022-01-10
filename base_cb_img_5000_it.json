@@ -1,0 +1,158 @@
+{
+  "english": "base",
+  "phat_am": "beis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đáy; chân đế",
+          "definition": "the foundation, support, or lowest part (of something), or the surface on which something is standing",
+          "world_new": [
+            "foundation",
+            "support",
+            "part",
+            "surface",
+            "standing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the base of the statue",
+              "world_new": [
+                "statue"
+              ]
+            },
+            {
+              "ex_of_definition": "the base of the triangle",
+              "world_new": [
+                "triangle"
+              ]
+            },
+            {
+              "ex_of_definition": "the base of the tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành phần chủ yếu",
+          "definition": "the main ingredient of a mixture",
+          "world_new": [
+            "main",
+            "ingredient",
+            "mixture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This paint has oil as a base.",
+              "world_new": [
+                "paint",
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "căn cứ",
+          "definition": "a headquarters, starting-point etc",
+          "world_new": [
+            "headquarters"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an army base.",
+              "world_new": [
+                "army"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có trụ sở ở; căn cứ vào",
+          "definition": "(often with on) to use as a foundation, starting-point etc",
+          "world_new": [
+            "foundation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Make sure your arguments are based on solid evidence",
+              "world_new": [
+                "sure",
+                "your",
+                "solid",
+                "evidence"
+              ]
+            },
+            {
+              "ex_of_definition": "a group of artists who were based in Paris.",
+              "world_new": [
+                "group"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hèn hạ; kém giá trị",
+          "definition": "wicked or worthless",
+          "world_new": [
+            "wicked",
+            "worthless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "base desires."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another simplificationis used instead, based on the following qualitative argument.",
+    "Such a suggestion is based on both theoretical [pure] and practical arguments.",
+    "It can only be based on making future wars impossible.",
+    "Its natural, organic form has been translated into an abstract, simultaneously twoand three-dimensional, geometrical figure based on the square and the circle.",
+    "Both reports were based on the same original papers (1;4).",
+    "It is upon these data that this paper is based.",
+    "This assumption was based on the literature (1;3;7;14;20).",
+    "These conclusions are based on 95% confidence intervals."
+  ],
+  "list_see_also": [
+    "baseless"
+  ],
+  "list_browse": [
+    "barrister",
+    "barrow",
+    "barter",
+    "basalt",
+    "base",
+    "baseball",
+    "baseless",
+    "basely",
+    "basement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358782_0b51becd78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358782_1cc6ef5413_o.png",
+      "id_image": "base_2090037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429513_407b2653c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429513_5d35cebf03_o.png",
+      "id_image": "base_2646763"
+    }
+  ]
+}

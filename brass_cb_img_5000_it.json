@@ -1,0 +1,89 @@
+{
+  "english": "brass",
+  "phat_am": "braːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng thau",
+          "definition": "an alloy of copper and zinc",
+          "world_new": [
+            "alloy",
+            "copper",
+            "zinc"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This plate is made of brass",
+              "world_new": [
+                "plate"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a brass doorknocker."
+            }
+          ]
+        },
+        {
+          "mean_english": "kèn đồng",
+          "definition": "wind musical instruments which are made of brass or other metal",
+          "world_new": [
+            "wind",
+            "musical",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of his earliest compositions was a march written for brass and strings.",
+              "world_new": [
+                "march",
+                "strings"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A scherzo breaks in, which culminates in a brass fanfare leading to the slow movement.",
+    "The lower bearing brasses, which carried a load only during starting, were smaller than the crankpin and the main working brasses above.",
+    "The earliest brasses may have been natural alloys made by smelting zinc-rich copper ores.",
+    "A jaunty canon between woodwind and percussion then gets rapidly overwhelmed by brass.",
+    "The memorials include two brasses in the sanctuary, and there is a ledger slab dating from the middle of the 18th century in the chancel.",
+    "I find it difficult to believe that it took three days to remove the paint from these brasses but inquiries are being made into this.",
+    "An important book on an important group of brasses.",
+    "No wonder the miners were brassed off."
+  ],
+  "list_see_also": [
+    "brassy",
+    "brass band",
+    "brass instrument",
+    "brass neck",
+    "get down to brass tacks"
+  ],
+  "list_browse": [
+    "brand-new",
+    "brandish",
+    "brandy",
+    "brash",
+    "brass",
+    "brass band",
+    "brass instrument",
+    "brass neck",
+    "brassiere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433098_2c0711645d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433098_dc61ec6c00_o.png",
+      "id_image": "brass_1427435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362367_b9abdc596b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362367_fe8eb9b857_o.png",
+      "id_image": "brass_3460852"
+    }
+  ]
+}

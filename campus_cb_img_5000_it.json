@@ -1,0 +1,78 @@
+{
+  "english": "campus",
+  "phat_am": "ˈkӕmpəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khu trường sở",
+          "definition": "college or university grounds",
+          "world_new": [
+            "college",
+            "university",
+            "grounds"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new library was built in the centre/center of the campus",
+              "world_new": [
+                "library"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) campus life.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the critical model accepts being limited to university campuses, it itself becomes a sect that deserves to be fought against.",
+    "It creates edges that, in turn, form a semblance of a campus where only ad hoc sprawl once existed.",
+    "These elementary school children were tested on the university campus in the same facility as the one used to test the preschool children.",
+    "In many instances, hate speech codes were adopted at least partly in response to specific campus incidents.",
+    "These tests were administered during visits in the family's home or on campus.",
+    "We did receive feedback that the \"green brochure\" was the topic of much discussion on various medical campuses around the nation.",
+    "The library is both the physical heart and the social focus of the new campus.",
+    "He had been stripped of his title and was touring college campuses to talk about his case and to raise money for the antiwar movement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "camper",
+    "camphor",
+    "camping",
+    "campsite",
+    "campus",
+    "can",
+    "can opener",
+    "can-can",
+    "canal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348567_bdf6c13fe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348567_042def0b71_o.png",
+      "id_image": "campus_2303810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659649_aa79dbb828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659649_51b443ae48_o.png",
+      "id_image": "campus_4413044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659604_58c0ab7a02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659604_d5df9c502b_o.png",
+      "id_image": "campus_4728667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304306_56502c616d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304306_b68e67c309_o.png",
+      "id_image": "campus_5352115"
+    }
+  ]
+}

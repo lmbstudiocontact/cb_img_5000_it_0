@@ -1,0 +1,70 @@
+{
+  "english": "clockwise",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "theo chiều kim đồng hồ",
+          "definition": "in the direction of the movement of the hands of a clock",
+          "world_new": [
+            "direction",
+            "movement",
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children moved clockwise round the room, then anticlockwise.",
+              "world_new": [
+                "room",
+                "anticlockwise"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) Hurricanes rotate in a clockwise direction in the Southern Hemisphere.",
+              "world_new": [
+                "rotate",
+                "direction"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Making a clockwise angulation with the transducer, we obtained a transverse section in order to study the ventriculoinfundibular region.",
+    "The hunter selects a velocity uniformly at random between 0 and 1 and proceeds in a clockwise direction according to this velocity.",
+    "We refer to clockwise movement as the forward movement of a variable.",
+    "The stages commence at the top and move in clockwise direction.",
+    "Thus, dopamine did not alter the shape of the curves relating the length constant to membrane potential or their course of development (clockwise fashion).",
+    "The depicted direction of rotation is clockwise as seen from above.",
+    "In the tip region, the approaching vortex with a clockwise circulation causes a positive peak in the pressure fluctuation.",
+    "In region 11, stable steady convection can exist in either a clockwise or counterclockwise direction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cloakroom",
+    "clock",
+    "clock in/out/on/off",
+    "clock up",
+    "clockwise",
+    "clockwork",
+    "clod",
+    "clog",
+    "clogging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445553_31c06c473f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445553_9d196a43de_o.png",
+      "id_image": "clockwise_1451181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330651_dc5e1c57c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330651_8101373b67_o.png",
+      "id_image": "clockwise_523161"
+    }
+  ]
+}

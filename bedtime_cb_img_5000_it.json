@@ -1,0 +1,78 @@
+{
+  "english": "bedtime",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giờ đi ngủ",
+          "definition": "the time at which one normally goes to bed",
+          "world_new": [
+            "time",
+            "normally",
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Seven o’clock is the children’s bedtime",
+              "world_new": [
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a bedtime story.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is by no means an easy task, and many parents find bedtime and waking routines to be among the most challenging aspects of parenting.",
+    "There is also a tradition of rural wanderings written to engender an otherworldliness at the fireside or bedtime.",
+    "And they wouldn't allow them back into their rooms, once they'd come out of them till bedtime.",
+    "Application of saliva substitutes, both before meals and at bedtime, will promote comfort during situations of salivary stress.",
+    "He affectionately recalled using books in their bedtime devotions.",
+    "Obviously if you took it before bedtime, you would be wanting to get up during the night.",
+    "In this prior study, cortisol levels were assessed at wake-up and bedtime over 2 consecutive days at home.",
+    "This encourages browsing, and makes it an ideal bedtime book."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bedroom",
+    "bedside",
+    "bedsit",
+    "bedspread",
+    "bedtime",
+    "bee",
+    "beech",
+    "beef",
+    "beefburger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424893_02c45421f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424893_16cbde6416_o.png",
+      "id_image": "bedtime_2200532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424838_a0faa73bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424838_b52689ed42_o.png",
+      "id_image": "bedtime_5020338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309661_015b545717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309661_2a429623e5_o.png",
+      "id_image": "bedtime_5020423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353897_95e45f8c47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353897_73623c2105_o.png",
+      "id_image": "bedtime_6381761"
+    }
+  ]
+}

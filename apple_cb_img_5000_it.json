@@ -1,0 +1,65 @@
+{
+  "english": "apple",
+  "phat_am": "ˈӕpl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả táo",
+          "definition": "a round fruit (usually with a green or red skin) which can be eaten",
+          "world_new": [
+            "fruit",
+            "green",
+            "red"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slice of apple.",
+              "world_new": [
+                "slice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The result is conceptually anomalous because it is not theoretically meaningful to mix apples and oranges.",
+    "By making such blanket statements we are in danger of comparing apples to oranges.",
+    "Even though they can be, and sometimes are, used in other capacities, they are categorized as mainly eating apples.",
+    "An illustration of this is the phrase bag of apples.",
+    "As a first step, the growers were asked to name both current and old varieties of apples grown in the area.",
+    "The book is divided into six sections and begins with an introduction dealing with the botany of apples, along with production and consumption issues.",
+    "Languages no longer need to be viewed as countable entities, as though they were apples or nation states.",
+    "We had gathered apples, figs, and other fruit."
+  ],
+  "list_see_also": [
+    "the apple of someone’s eye",
+    "upset the apple cart"
+  ],
+  "list_browse": [
+    "appetizer",
+    "appetizing",
+    "applaud",
+    "applause",
+    "apple",
+    "appliance",
+    "applicability",
+    "applicable",
+    "applicant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045605_32b28c71c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045605_6684179b36_o.png",
+      "id_image": "apple_1010706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423763_3d295e1937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423763_ec383ef05c_o.png",
+      "id_image": "apple_1449777"
+    }
+  ]
+}

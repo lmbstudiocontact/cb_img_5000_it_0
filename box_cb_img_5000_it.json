@@ -1,0 +1,139 @@
+{
+  "english": "box",
+  "phat_am": "boks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hộp; thùng",
+          "definition": "a case for holding something",
+          "world_new": [
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wooden box",
+              "world_new": [
+                "wooden"
+              ]
+            },
+            {
+              "ex_of_definition": "a matchbox.",
+              "world_new": [
+                "matchbox"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lô (rạp hát)",
+          "definition": "in a theatre/theater etc, a group of seats separated from the rest of the audience",
+          "world_new": [
+            "group",
+            "rest",
+            "audience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an executive box.",
+              "world_new": [
+                "executive"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ vào hộp",
+          "definition": "to put (something) into boxes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you box these apples?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấm",
+          "definition": "to fight (someone) with the fists",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Years ago, fighters used to box without wearing padded gloves.",
+              "world_new": [
+                "wearing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bạt tai",
+          "definition": "a blow on the ear with the hand",
+          "world_new": [
+            "blow",
+            "ear",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave Ed a friendly box on the ear.",
+              "world_new": [
+                "friendly",
+                "ear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "Boxing day",
+    "box number",
+    "box office"
+  ],
+  "list_browse": [
+    "bowling",
+    "bowling alley",
+    "bowling green",
+    "bowls",
+    "box",
+    "box number",
+    "box office",
+    "boxer",
+    "boxer shorts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675039_e15cf3628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675039_8eb2c2a3fc_o.png",
+      "id_image": "box_258500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675029_7ea3a680c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675029_a7b13e7a0b_o.png",
+      "id_image": "box_337150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435148_becbd98dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435148_5b3dd848ae_o.png",
+      "id_image": "box_588424"
+    }
+  ]
+}

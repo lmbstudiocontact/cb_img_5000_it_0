@@ -1,0 +1,93 @@
+{
+  "english": "auction",
+  "phat_am": "ˈoːkʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc bán đấu giá",
+          "definition": "a public sale in which each thing is sold to the person who offers the highest price",
+          "world_new": [
+            "public",
+            "sale",
+            "person",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They held an auction"
+            },
+            {
+              "ex_of_definition": "He sold the house by auction.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán đấu giá",
+          "definition": "to sell something in this way",
+          "world_new": [
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He auctioned all his furniture before emigrating.",
+              "world_new": [
+                "furniture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first is the potential complexity required to both reason about the bidding process and determine the auction's outcome.",
+    "Such auctions are known to have taken place as far back as the 1830s, if not before.",
+    "We suggest that providing better information to the beneficiaries, as well as allowing for market auctions where appropriate (for large tracts of land, for example) may also help.",
+    "In contrast, suppose that the process of biological evolution would select bidding strategies for auctions that take place generation after generation in a population in which strategies are genetically inherited.",
+    "However, the variegated and inconsistent lessons drawn from their participation indicate that the role game theorists actually played in the auctions is not well understood.",
+    "One of the issues in the private rented sector is that properties with sitting [regulated] tenants can be sold off, passed on, or auctioned many times.",
+    "Typical examples of complex distributed applications are social simulations, supply-chain management, electronic auctions, e-institutions, or business-to-business applications.",
+    "When human or arti®cial agents negotiate in auctions they do not necessarily require speech acts and logic to carry out sophisticated transactions."
+  ],
+  "list_see_also": [
+    "auctioneer"
+  ],
+  "list_browse": [
+    "attributive",
+    "au pair",
+    "aubergine",
+    "auburn",
+    "auction",
+    "auctioneer",
+    "audacious",
+    "audacity",
+    "audibility"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372212_5ffe881b3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372212_b6f8028e5e_o.png",
+      "id_image": "auctions_4668524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327596_24a9cc8ed6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327596_fff7f8d473_o.png",
+      "id_image": "auction_2720484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327666_8fab0dce1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327666_69e5569fb6_o.png",
+      "id_image": "auction_411716"
+    }
+  ]
+}

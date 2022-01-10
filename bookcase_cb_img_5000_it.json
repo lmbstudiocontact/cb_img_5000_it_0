@@ -1,0 +1,64 @@
+{
+  "english": "bookcase",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ sách",
+          "definition": "a set of shelves for books",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a self-assembly bookcase."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When the robot arrives in front of the bookcase that should contain the book, it does not know the exact position of the book.",
+    "The only such items that we have sold since 1997 have been: one antique carpet, one tea table, three armchairs, one sofa, one lectern, one bookcase, one dining table.",
+    "Built-in storage cabinets and bookcases are found on the north and south ends of the room.",
+    "The robot starts searching for the book on the shelves and modules of the predicted bookcase.",
+    "Behind me were his bookcases stuffed with his books, papers, and mementos.",
+    "They can anticipate the change in size by having their next bookcases made to fit it.",
+    "If you cannot do this, block the windows from inside with bookcases, chests of drawers or other large furniture packed tightly with earth, books, or other heavy material.",
+    "He never contemplated marriage after that, remaining a lifelong bachelor, and her photograph remained on his bookcase until his death."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "book in",
+    "bookable",
+    "bookbinder",
+    "bookbinding",
+    "bookcase",
+    "booked up",
+    "booking",
+    "booking office",
+    "booklet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060910_ac6f05e30d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060910_5f6d792949_o.png",
+      "id_image": "bookcase_1010324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439043_57ab0fa779_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439043_379b505a6e_o.png",
+      "id_image": "bookcase_1010350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439008_4627a30916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439008_309470fb29_o.png",
+      "id_image": "bookcase_3650795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439103_eb50c5836c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439103_c33b628816_o.png",
+      "id_image": "bookcase_417436"
+    }
+  ]
+}

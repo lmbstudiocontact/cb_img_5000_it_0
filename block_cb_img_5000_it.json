@@ -1,0 +1,165 @@
+{
+  "english": "block",
+  "phat_am": "blok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khối; tảng; súc",
+          "definition": "a flat-sided mass of wood or stone etc",
+          "world_new": [
+            "mass",
+            "wood",
+            "stone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "blocks of stone.",
+              "world_new": [
+                "stone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái thớt; tấm kê",
+          "definition": "a piece of wood used for certain purposes",
+          "world_new": [
+            "piece",
+            "wood",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chopping block."
+            }
+          ]
+        },
+        {
+          "mean_english": "lô nhà",
+          "definition": "a connected group of houses, offices etc",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a block of flats"
+            },
+            {
+              "ex_of_definition": "an office block.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật chướng ngại",
+          "definition": "a barrier",
+          "world_new": [
+            "barrier"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a road block.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà khối",
+          "definition": "a group of buildings bounded by four streets",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think I’ll take a walk round the block.",
+              "world_new": [
+                "I",
+                "think",
+                "walk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm trở ngại",
+          "definition": "to make (progress) difficult or impossible",
+          "world_new": [
+            "difficult",
+            "impossible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A fallen tree blocked the road.",
+              "world_new": [
+                "tree",
+                "blocked",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The order of presentation of the two blocks was varied between children.",
+    "Generic tasks as building blocks for knowledgebased systems: the diagnosis and routine design examples.",
+    "0, 1 or 2), he suggested replacing two blocks with nine plots by six blocks with three.",
+    "Earlier studies of water demand ignore the peculiar features of the presence of block rates and perform empirical estimation using ex-post calculated average prices.",
+    "Another building block for such planning operations in the brain may be the type of short-term memory in which the prefrontal cortex is involved.",
+    "The trees in the outer most rows of each block were excluded to avoid any border effects.",
+    "Moreover, cold temperatures are required to overcome the physiological block present in the embryos of seeds when freshly ripe.",
+    "One of the major stumbling blocks may be the availability of sufficient capital to fund the company's start up operations."
+  ],
+  "list_see_also": [
+    "blockade",
+    "blockage",
+    "blocked",
+    "block capital/letter",
+    "blockhead"
+  ],
+  "list_browse": [
+    "blitz",
+    "blizzard",
+    "blob",
+    "bloc",
+    "block",
+    "block capital/letter",
+    "blockade",
+    "blockage",
+    "blocked"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066565_743a2da344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066565_633e0a4f42_o.png",
+      "id_image": "block_2123817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066530_8b5102395a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066530_77e7c04589_o.png",
+      "id_image": "block_2222961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374397_c5f8947700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374397_392f53ffc9_o.png",
+      "id_image": "block_4418104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329756_bf16c637af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329756_701c34f369_o.png",
+      "id_image": "block_5512149"
+    }
+  ]
+}

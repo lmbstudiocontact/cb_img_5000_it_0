@@ -1,0 +1,62 @@
+{
+  "english": "botanist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thực vật học",
+          "definition": "a person who studies botany",
+          "world_new": [
+            "person",
+            "botany"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Joseph Banks was a famous English botanist.",
+              "world_new": [
+                "famous",
+                "English"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He must not only be a good practical botanist, but possess some knowledge of chemistry, mechanics, and even of the principles of taste.",
+    "What did this world of plant-fancying, gardening, nurseries, amateur and professional botanists, their correspondence, education, and journals, look like at its mid-century height?",
+    "He observed how the soil scientists argued that the savanna was 'winning' while the botanists responded that the forest was 'gaining'.",
+    "Additional botanists, tree-measurers and a notetaker were also often present, and the number of such assistant fieldworkers varied substantially.",
+    "The evolution of the botanist can be traced through many pages.",
+    "He complained that the study of plant diseases was firmly in the hands of botanists who lacked competence with animal pests.",
+    "She was not trained as a scientist but on all her voyages took along a staff of geologists, botanists, zoologists, and hydrologists.",
+    "Chapter 4 includes botanical descriptions which perhaps should have been checked by a botanist."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bossiness",
+    "bossy",
+    "botanic gardens",
+    "botanical",
+    "botanist",
+    "botany",
+    "both",
+    "bother",
+    "bothersome"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321536_c55d5cdfe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321536_1d1607f0b6_o.png",
+      "id_image": "botanist_4072424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321481_d6d63fc588_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321481_3820b58cf0_o.png",
+      "id_image": "botanist_4695705"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "backup",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lực lượng hỗ trợ",
+          "definition": "additional people who provide help when it is needed",
+          "world_new": [
+            "additional",
+            "people",
+            "provide",
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police officer requested some backup when the shooting began.",
+              "world_new": [
+                "police",
+                "officer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản sao dự phòng",
+          "definition": "a copy of a computer file that can be used in case the original is destroyed",
+          "world_new": [
+            "copy",
+            "computer",
+            "file",
+            "case",
+            "original"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should always make a backup of the file you are working on.",
+              "world_new": [
+                "file"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dự phòng",
+          "definition": "a piece of equipment, a system etc that can be used when there is a problem with the original one",
+          "world_new": [
+            "piece",
+            "equipment",
+            "system",
+            "problem",
+            "original"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a generator which we use as a backup if the power fails",
+              "world_new": [
+                "generator",
+                "power"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a backup plan.",
+              "world_new": [
+                "plan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The command is used to perform backups and restores of operating systems, drive volumes, files, folders, and applications from a command-line interface.",
+    "All activities are free to download in pdf format and all are accompanied by back-up notes for teachers.",
+    "Because of the massive amount of rain in such a short amount of time, it caused sewer backups in many areas of the county.",
+    "Several male and female dancers were on stage during the performances, as well as different musicians and back-up vocalists.",
+    "Other method of decreasing roll deflection include increasing the elastic modulus of the roll material and adding back-up supports to the rolls.",
+    "In addition, there is a back-up disc brake on each axle.",
+    "Usually two fiddles were common, one playing the melody while the other provided the sconde, or back-up part.",
+    "The exterior was refreshed in 2001, a back-up alarm was added to indicate possible obstacles behind the vehicle, and all-wheel drive was introduced in 2002."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "backpacking: go backpacking",
+    "backside",
+    "backslash",
+    "backstroke",
+    "backup",
+    "backward",
+    "backwardness",
+    "backwards",
+    "backwards and forwards"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436888_d1baa980f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436888_107b81b528_o.png",
+      "id_image": "backup_2709664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058520_b6db18cdd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058520_b48688f0e6_o.png",
+      "id_image": "backup_356486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058470_669cf63b51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058470_4503560aef_o.png",
+      "id_image": "backup_5139985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436843_bf04fb564b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436843_9266ab9f62_o.png",
+      "id_image": "backup_5827589"
+    }
+  ]
+}

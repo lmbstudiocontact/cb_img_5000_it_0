@@ -1,0 +1,70 @@
+{
+  "english": "cardboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "các tông",
+          "definition": "(of) a stiff kind of paper often made up of several layers",
+          "world_new": [
+            "stiff",
+            "kind",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Today, most jigsaw puzzles are made of cardboard"
+            },
+            {
+              "ex_of_definition": "(also adjective) a cardboard box.",
+              "world_new": [
+                "box"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "carcass",
+    "carcinogen",
+    "carcinoma",
+    "card",
+    "cardboard",
+    "cardiac",
+    "cardigan",
+    "cardinal",
+    "cardinal numbers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441593_2f3cea3e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441593_bfa2684b0d_o.png",
+      "id_image": "cardboard_3445776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371272_abef134bc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371272_cecf9f11f7_o.png",
+      "id_image": "cardboard_4812257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326541_7f61ca4a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326541_9be7ca18d2_o.png",
+      "id_image": "cardboard_5017462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441693_87f36fae2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441693_c0f6b02220_o.png",
+      "id_image": "cardboard_870112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371362_e9540288dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371362_bf9feef704_o.png",
+      "id_image": "cardboard_870129"
+    }
+  ]
+}

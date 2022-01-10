@@ -1,0 +1,110 @@
+{
+  "english": "access",
+  "phat_am": "ˈӕkses",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường vào",
+          "definition": "way or right of approach or entry",
+          "world_new": [
+            "right",
+            "approach",
+            "entry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves gained access to the house through a window.",
+              "world_new": [
+                "house",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tiếp cận",
+          "definition": "way or right to meet (someone) or use (something)",
+          "world_new": [
+            "right",
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Senior students have access to the library at weekends.",
+              "world_new": [
+                "library"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "truy cập",
+          "definition": "to find and use information on a computer",
+          "world_new": [
+            "find",
+            "information",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m having problems accessing the relevant files.",
+              "world_new": [
+                "relevant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Under this account, if children's lexical representations are stored as sub-units, they are then able to access more stable units with increased accuracy.",
+    "Distributed representations of structure : a theory of analogical access and mapping.",
+    "It also reports on how the students appreciated access to a large number of authentic, relevant examples.",
+    "Men, women and children in vulnerable livelihood systems negotiate different activity roles and access patterns to household capital.",
+    "There is also a witnesses' room with separate access to the court - a last-minute addition to the plans, primarily intended for women.",
+    "First, word forms can be accessed and recognized via the mental representations of their constituent morphemes.",
+    "The working plans included construction of forest access roads at fairly high labour cost.",
+    "Possibly, this urban market absorbed part of the area's rural workforce, thereby lightening the pressure on those who sought access to arable land."
+  ],
+  "list_see_also": [
+    "accessibility",
+    "accessible",
+    "access code"
+  ],
+  "list_browse": [
+    "acceptable",
+    "acceptably",
+    "acceptance",
+    "accepted",
+    "access",
+    "access code",
+    "accessibility",
+    "accessible",
+    "accession"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681139_b005045318_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681139_d3b7a0e3ec_o.png",
+      "id_image": "access_1725498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370797_6998b41891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370797_13e38a3332_o.png",
+      "id_image": "access_1753306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681054_f72e63a5a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681054_71cbb4a053_o.png",
+      "id_image": "access_4198534"
+    }
+  ]
+}

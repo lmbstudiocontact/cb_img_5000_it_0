@@ -1,0 +1,80 @@
+{
+  "english": "cave",
+  "phat_am": "keiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hang động",
+          "definition": "a large natural hollow in rock or in the earth",
+          "world_new": [
+            "large",
+            "natural",
+            "hollow",
+            "rock",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an underground cave",
+              "world_new": [
+                "underground"
+              ]
+            },
+            {
+              "ex_of_definition": "The children explored the caves."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Speleothems : a wide diversity of primitive life colonizes subsurface void spaces (' caves '), a potential environment that offers protection from harmful radiation on the surface.",
+    "The blockages, themselves, could provide evidence of the cave's original contents.",
+    "Whole villages of people disappeared into forests or hid in caves in the mountainous regions.",
+    "What happens if a sewer collapses or a wall caves in?",
+    "In general, wooden ar tifacts survive only in rare environmental conditions that favor wood preservation (such as caves) or in waterlogged contexts where anaerobic conditions favor preservation.",
+    "He likes to give the feeling of the smack of firm government, but he caves in under pressure.",
+    "In the novel's conclusion, when the three men escape from the mines, the orifices through which they enter and emerge disappear as if the caves never existed at all.",
+    "As physical access points to supernatural beings, physical characteristics of caves were probably thought to be as mysterious as the beings that dwelled there."
+  ],
+  "list_see_also": [
+    "caveman",
+    "cave in"
+  ],
+  "list_browse": [
+    "cava",
+    "cavalcade",
+    "cavalier",
+    "cavalry",
+    "cave",
+    "cave in",
+    "caveman",
+    "cavern",
+    "cavernous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055085_2758943dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055085_2209167023_o.png",
+      "id_image": "cave_2559319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363007_5fb1cf9200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363007_590d6b95ca_o.png",
+      "id_image": "cave_4104375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318526_593585b61c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318526_f44a63a432_o.png",
+      "id_image": "cave_427410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433663_f36b16f941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433663_96837e02b2_o.png",
+      "id_image": "cave_6092193"
+    }
+  ]
+}

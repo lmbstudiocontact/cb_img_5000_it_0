@@ -1,0 +1,166 @@
+{
+  "english": "buffet",
+  "phat_am": "ˈbafit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đấm",
+          "definition": "a blow with the hand or fist",
+          "world_new": [
+            "blow",
+            "hand",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a buffet on the side of the head.",
+              "world_new": [
+                "side",
+                "head"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đẩy",
+          "definition": "to knock about",
+          "world_new": [
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat was being buffeted about by the waves.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đấm",
+          "definition": "to strike with the fist",
+          "world_new": [
+            "strike",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She buffeted him on the face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quầy giải khát",
+          "definition": "a refreshment bar, especially in a train station or on a train etc",
+          "world_new": [
+            "bar",
+            "train",
+            "station",
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll get some coffee at the buffet.",
+              "world_new": [
+                "coffee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiệc đứng",
+          "definition": "a (usually cold) meal set out on tables from which people help themselves",
+          "world_new": [
+            "meal",
+            "people",
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The guests were serving themselves at the buffet.",
+              "world_new": [
+                "serving"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tiệc đứng",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a buffet supper.",
+              "world_new": [
+                "supper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the past two or three years—and especially in the past 12 months—the fuel price issue has been buffeted around.",
+    "They find themselves buffeted by high interest rates.",
+    "Last but not least there will be seven bars, two buffets and a restaurant while of course parking space will be provided.",
+    "We are buffeted by pressure and arguments on all sides but, at the end of the day, we are impelled to make a rational decision.",
+    "A buffet with a limited number of dishes was served.",
+    "We have in the course of the past year faced—and survived—blows and buffets to which a less resolute and less united people might well have succumbed.",
+    "After serving ourselves from a buffet, we were seated at a long table by the pool.",
+    "Gaping scars can be created by even minor blows or buffets."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "budget",
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet",
+    "bug",
+    "buggy",
+    "bugle",
+    "bugler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312651_e7bf3d6ea9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312651_77f205a83b_o.png",
+      "id_image": "buffet_2934173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312716_6c1f61b1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312716_27c51e1cf6_o.png",
+      "id_image": "buffet_417443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049185_38e562b5d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049185_5e2dc887cb_o.png",
+      "id_image": "buffet_5775206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049260_3634ff233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049260_f01cd6d986_o.png",
+      "id_image": "buffet_978387"
+    }
+  ]
+}

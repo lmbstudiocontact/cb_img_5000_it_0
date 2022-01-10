@@ -1,0 +1,130 @@
+{
+  "english": "canon",
+  "phat_am": "ˈkӕnən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quy tắc",
+          "definition": "a rule (especially of the church)",
+          "world_new": [
+            "rule"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Pope’s decision is in line with the canons of the Catholic Church.",
+              "world_new": [
+                "decision",
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáo sĩ",
+          "definition": "a clergyman belonging to a cathedral",
+          "world_new": [
+            "clergyman",
+            "cathedral"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He served as the Canon of St. Alban’s Church in Toronto.",
+              "world_new": [
+                "St"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "danh mục các tên thánh",
+          "definition": "a list of saints",
+          "world_new": [
+            "list"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was John Paul II who asserted that Sister Benedicta belonged in the canon of Christian saints.",
+              "world_new": [
+                "Christian"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luân khúc",
+          "definition": "a musical composition in which one part enters after another in imitation",
+          "world_new": [
+            "musical",
+            "composition",
+            "part",
+            "imitation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pachelbel’s canon in D major.",
+              "world_new": [
+                "D",
+                "major"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "danh sách tác phẩm của một tác giả",
+          "definition": "all the writings of an author that are accepted as genuine",
+          "world_new": [
+            "writings",
+            "author",
+            "accepted",
+            "genuine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Shakespeare canon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "canonical",
+    "canonize",
+    "canonization"
+  ],
+  "list_browse": [
+    "cannonball",
+    "canny",
+    "canoe",
+    "canoeist",
+    "canon",
+    "canonical",
+    "canonization",
+    "canonize",
+    "canopy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067110_1730497653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067110_1750fd345a_o.png",
+      "id_image": "canon_1461909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067040_1138b84747_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067040_cacbde7345_o.png",
+      "id_image": "canon_2464300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374997_70460809c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374997_cb2e600f97_o.png",
+      "id_image": "canon_384421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685349_6c41821fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685349_f12165be16_o.png",
+      "id_image": "canon_942374"
+    }
+  ]
+}

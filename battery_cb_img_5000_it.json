@@ -1,0 +1,114 @@
+{
+  "english": "battery",
+  "phat_am": "ˈbӕtəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "pin; ắc quy",
+          "definition": "a series of two or more electric cells arranged to produce, or store, a current",
+          "world_new": [
+            "series",
+            "electric",
+            "produce",
+            "store",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a torch/flashlight battery"
+            },
+            {
+              "ex_of_definition": "I need to change the batteries in this clock.",
+              "world_new": [
+                "I",
+                "change",
+                "clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khẩu đội pháo",
+          "definition": "a group of large guns (and the people manning them)",
+          "world_new": [
+            "group",
+            "large",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an artillery battery.",
+              "world_new": [
+                "artillery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chuỗi…",
+          "definition": "a long series",
+          "world_new": [
+            "long",
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a battery of questions."
+            }
+          ]
+        },
+        {
+          "mean_english": "dãy chuồng nuôi gà",
+          "definition": "an arrangement of cages in which laying hens etc are kept",
+          "world_new": [
+            "arrangement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a battery hen.",
+              "world_new": [
+                "hen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "battalion",
+    "batten",
+    "batter",
+    "battered",
+    "battery",
+    "battle",
+    "battleaxe",
+    "battlefield",
+    "battleship"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667694_6a7189fa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667694_91d6ffefc4_o.png",
+      "id_image": "battery_252592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356782_ddf383a9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356782_cdb81e452a_o.png",
+      "id_image": "battery_290136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049320_5eb23605a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049320_2f0fc9be22_o.png",
+      "id_image": "battery_307139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427583_9050cdce57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427583_30ccb6e221_o.png",
+      "id_image": "battery_309122"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "blender",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy trộn",
+          "definition": "a machine for mixing things together, especially in cooking",
+          "world_new": [
+            "machine",
+            "cooking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Use a blender to break the apples up into small chunks.",
+              "world_new": [
+                "break",
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "None of the blenders was prepared to make an immediate reduction in the price of medium-priced tea.",
+    "In order to resolve this conflict we designed a two-stage blender which considered how to surmount the drawbacks of integration and winner-take-all strategies.",
+    "The initial response of the tea blenders has been disappointing.",
+    "We begin by recalling the meaning of blender.",
+    "Is it the growers, or the distributors, or the blenders?",
+    "Seeds were separated by blending pieces of spikes, or panicles, in tapwater in an ordinary commercial blender.",
+    "Why are some tea blenders sending out such a circular as this?",
+    "These moral and innocent blenders are only going to use an extremely small quantity of immature spirits."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bleeding",
+    "bleep",
+    "blemish",
+    "blend",
+    "blender",
+    "bless",
+    "blessed",
+    "blessedly",
+    "blessedness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417733_bcb119515e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417733_e01e8fd8df_o.png",
+      "id_image": "blender_741568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039230_03e7ca30a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039230_a163e7f344_o.png",
+      "id_image": "blender_823205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302631_eff69af292_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302631_e307c55a7d_o.png",
+      "id_image": "blender_883689"
+    }
+  ]
+}

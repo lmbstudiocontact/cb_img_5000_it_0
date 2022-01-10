@@ -1,0 +1,64 @@
+{
+  "english": "chassis",
+  "phat_am": "ˈʃӕsi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khung gầm",
+          "definition": "the frame of a motor car etc",
+          "world_new": [
+            "frame",
+            "motor",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The body of the car is mounted onto the chassis.",
+              "world_new": [
+                "body",
+                "car",
+                "mounted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once powered-up it stands erect and its wheeled chassis will be guided remotely by operators on earth.",
+    "The castor wheels have pure rolling movement during steering, which makes the microrobot chassis keep its pose.",
+    "The chassis of the robot is made of aluminum alloy so as to depress the mechanical friction between bodywork and ground.",
+    "A maximum flexion angle of 140 can be achieved from a robust combination of carbon fibre carrier and aluminium chassis incorporating 12 mm needle roller bearings.",
+    "In order to allow the arm to rotate around the whole robot, it is mounted on a powered turntable located in the centre of the robot's chassis.",
+    "The rolling chassis module consists of brake, fuel, steering, and exhaust systems; suspension; and drive-line assembled to the frame.",
+    "The castor consists of two coaxial conventional wheels, connected to the chassis and connected with each other by a set micro-gears.",
+    "The chassis should allow adequate vertical travel of the wheels as they encounter obstacles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "charter",
+    "chary",
+    "chase",
+    "chasm",
+    "chassis",
+    "chaste",
+    "chasten",
+    "chasteness",
+    "chastise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667619_17948a90b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667619_ae97cf9640_o.png",
+      "id_image": "chassis_4805733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312776_01219203ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312776_2214c1ee59_o.png",
+      "id_image": "chassis_560685"
+    }
+  ]
+}

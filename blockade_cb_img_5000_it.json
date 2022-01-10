@@ -1,0 +1,72 @@
+{
+  "english": "blockade",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tắc nghẽn",
+          "definition": "something which blocks every approach to a place by land or sea",
+          "world_new": [
+            "approach",
+            "place",
+            "land",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blockade prevented supplies from entering the harbour/harbor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao vây",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tanks blockaded the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the blockaded area the problem is much more difficult.",
+    "They blockaded their ports in the summer because of the pressures.",
+    "We are blockading ourselves to some extent and that cannot be allowed to go on.",
+    "We have heard today about thugs, bully boys and blockades.",
+    "We were told to-day there was no restriction on export to other parts of the world but the blockaded area.",
+    "Is it not a fact that the patrol has been one of the most successful naval blockades in history?",
+    "There have been tractors in the streets and blockades at the ports.",
+    "We advocated economic sanctions and naval and air blockades to enforce them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blob",
+    "bloc",
+    "block",
+    "block capital/letter",
+    "blockade",
+    "blockage",
+    "blocked",
+    "blockhead",
+    "blog"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066430_e33ea8ab65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066430_3f48561bfd_o.png",
+      "id_image": "blockade_1699753"
+    }
+  ]
+}

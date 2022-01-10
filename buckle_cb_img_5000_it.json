@@ -1,0 +1,97 @@
+{
+  "english": "buckle",
+  "phat_am": "ˈbakl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái khoá (thắt lưng…)",
+          "definition": "a fastening for a strap or band",
+          "world_new": [
+            "fastening",
+            "strap",
+            "band"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a belt with a silver buckle.",
+              "world_new": [
+                "belt",
+                "silver"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm oằn",
+          "definition": "(usually of something metal) to make or become bent or crushed",
+          "world_new": [
+            "become",
+            "bent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The metal buckled in the fierce heat of the fire.",
+              "world_new": [
+                "metal",
+                "fierce",
+                "heat",
+                "fire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cài khoá",
+          "definition": "to fasten with a buckle",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He buckled on his sword.",
+              "world_new": [
+                "sword"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There have been other cases of buckling in hot weather.",
+    "The operation was difficult, as the bulkhead had buckled, but by their united efforts the door was eventually closed, leaving only a slight leak.",
+    "The men are buckling to, pulling their weight and showing that they have confidence in the future.",
+    "I also recognise that some devices can be defeated by buckling the belt behind the seat.",
+    "I was appalled to find that the impact buckled the chassis of my car.",
+    "Since the microneedles which were tested had a much greater wall thickness, it is safe to assume that buckling would not occur.",
+    "They can fail either by \"buckling\" or be being \"crushed\" due to the pressure exerted.",
+    "A pipe-maker was robbed of his muslin cravat, striped handkerchief, leather shoes and iron buckles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "buccaneer",
+    "buck",
+    "buck up",
+    "bucket",
+    "buckle",
+    "buckskin",
+    "bud",
+    "Buddhism",
+    "Buddhist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049965_b8eec62749_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049965_9b086bf3a3_o.png",
+      "id_image": "buckle_1793086"
+    }
+  ]
+}

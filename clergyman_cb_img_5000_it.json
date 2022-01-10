@@ -1,0 +1,61 @@
+{
+  "english": "clergyman",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giáo sỹ Cơ đốc",
+          "definition": "one of the clergy; a priest, minister etc",
+          "world_new": [
+            "priest",
+            "minister"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "clergymen of various denominations.",
+              "world_new": [
+                "various"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most towns had a full complement of clergymen, lawyers and doctors, all jostling for position and status.",
+    "Some of the part-time clergymen are particularly known to be engaged in non-clerical occupations with less favourable health risks.",
+    "And why, when the clergyman (often justifiably) thought of himself as working unstintingly in his parishioners' interests, was he so often heartily despised by them?",
+    "Senior government officials and clergymen also had special pension systems.",
+    "Some parents waited months and years before having their children baptised by a passing clergyman of their own faith.",
+    "The clergymen tended to be less than open in their formal correspondence about their dealings.",
+    "Presumably, personal habits of clergymen would affect their health.",
+    "After all, clergymen could take part in their capacity as individual citizens."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clemency",
+    "clement",
+    "clench",
+    "clergy",
+    "clergyman",
+    "cleric",
+    "clerical",
+    "clerk",
+    "clever"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041120_eed4b4cfc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041120_bb68dd5c62_o.png",
+      "id_image": "clergyman_2230208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419253_a083bc9260_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419253_b90466fe86_o.png",
+      "id_image": "clergyman_4651603"
+    }
+  ]
+}

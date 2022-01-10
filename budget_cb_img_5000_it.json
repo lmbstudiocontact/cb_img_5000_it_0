@@ -1,0 +1,118 @@
+{
+  "english": "budget",
+  "phat_am": "ˈbadʒit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngân sách",
+          "definition": "any plan showing how money is to be spent",
+          "world_new": [
+            "plan",
+            "money",
+            "spent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "my monthly budget",
+              "world_new": [
+                "my",
+                "monthly"
+              ]
+            },
+            {
+              "ex_of_definition": "The government has cut the budget for education.",
+              "world_new": [
+                "government",
+                "cut",
+                "education"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dự thảo ngân sách",
+          "definition": "to make a plan showing this",
+          "world_new": [
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must try to budget or we shall be in debt.",
+              "world_new": [
+                "try",
+                "debt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi vào ngân sách",
+          "definition": "(with for) to allow for (something) in a budget",
+          "world_new": [
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hadn’t budgeted for a new car.",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As states assess their psychotropic medication budgets, can a case be made that increased spending for psychotropic medication has measurably improved mental health outcomes?",
+    "In addition, increases in public works expenditures result in reduced budgets for welfare services.",
+    "All the countries studied were, for example, diversifying the provision of care, trying to integrate provision across traditional service and professional boundaries, and devolving budgets.",
+    "By combining error budgets, constraint engines and library systems in a computational environment, multiple machine concepts may be rapidly modeled, analyzed, and compared.",
+    "Support in constructing and managing budgets is needed.",
+    "Financial support to conduct this research comes primarily from the budgets of the member institutions but is supplemented by funds from international donors.",
+    "Then, how had national grants for the construction of day-care centers been budgeted?",
+    "Shrinking budgets have increased competition for scarce resources, requiring managers to make tough resource allocation decisions that may affect program delivery."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "budding",
+    "buddy",
+    "budge",
+    "budgerigar",
+    "budget",
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049700_1953e6a398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049700_ff66fd211c_o.png",
+      "id_image": "budgeting_2037592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357167_884d9de3e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357167_c7cbbca62f_o.png",
+      "id_image": "budgeting_2471933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049765_cce09418b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049765_15eac949c5_o.png",
+      "id_image": "budget_1353778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049750_079c2aa2ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049750_ffbe415c30_o.png",
+      "id_image": "budget_4576143"
+    }
+  ]
+}

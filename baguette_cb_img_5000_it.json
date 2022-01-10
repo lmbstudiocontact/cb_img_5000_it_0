@@ -1,0 +1,75 @@
+{
+  "english": "baguette",
+  "phat_am": "bæˈɡet",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh mỳ que",
+          "definition": "a long thin loaf of white bread that is hard on the outside and soft inside; French loaf, French stick",
+          "world_new": [
+            "long",
+            "thin",
+            "loaf",
+            "white",
+            "bread",
+            "outside",
+            "soft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freshly baked baguette with a filling of cheese and ham.",
+              "world_new": [
+                "freshly",
+                "baked",
+                "filling",
+                "cheese",
+                "ham"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The roll itself is usually one of three varieties: a soft submarine -type roll, a chunky, spherical dinner roll or a demi-baguette.",
+    "We can buy a half a pound loaf for which we pay 40p, yet a baguette costs £1·50 a lb.",
+    "The chicken sandwich, served on a fresh cooked baguette roll, and came in several varieties, all of which were topped with a series of ingredients that were low in fat.",
+    "The bread was a smaller, specially baked baguette that resembled the hull of the submarines it was named after.",
+    "The fast-baked baguette was not introduced until 1920, so bakers had to work all night to bake the bread for the next day.",
+    "The toasted baguette pieces are dipped in the curry and eaten.",
+    "Though the composition of a bocadillo varies by region, it is usually a baguette filled with salad and a choice of meats, fish (usually tuna), or omelette.",
+    "The sale of baked goods grew rapidly, the baguette in particular."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "baggage cart",
+    "baggy",
+    "bagpipes",
+    "bags of",
+    "baguette",
+    "bail",
+    "bail out",
+    "bait",
+    "baize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320001_ec556f3812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320001_6b01ca43c8_o.png",
+      "id_image": "baguette_270258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364657_7c13cd06fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364657_59c05e937a_o.png",
+      "id_image": "baguette_270262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319936_362c1bbb25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319936_916f57b8b9_o.png",
+      "id_image": "baguette_768151"
+    }
+  ]
+}

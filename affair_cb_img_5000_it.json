@@ -1,0 +1,92 @@
+{
+  "english": "affair",
+  "phat_am": "əˈfeə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự việc",
+          "definition": "happenings etc which are connected with a particular person or thing",
+          "world_new": [
+            "particular",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Suez affair."
+            }
+          ]
+        },
+        {
+          "mean_english": "vật",
+          "definition": "a thing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new machine is a weird-looking affair.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vấn đề",
+          "definition": "business; concern(s)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "financial affairs",
+              "world_new": [
+                "financial"
+              ]
+            },
+            {
+              "ex_of_definition": "Where I go is entirely my own affair.",
+              "world_new": [
+                "I",
+                "entirely",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyện tình",
+          "definition": "a love relationship",
+          "world_new": [
+            "love",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His wife found out about his affair with another woman.",
+              "world_new": [
+                "wife",
+                "found"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "afar",
+    "affability",
+    "affable",
+    "affably",
+    "affair",
+    "affect",
+    "affectation",
+    "affected",
+    "affection"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434293_e65eee564f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434293_bce74b13fc_o.png",
+      "id_image": "affair_2621678"
+    }
+  ]
+}

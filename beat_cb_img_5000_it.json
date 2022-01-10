@@ -1,0 +1,187 @@
+{
+  "english": "beat",
+  "phat_am": "biːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đập; nện",
+          "definition": "to strike or hit repeatedly",
+          "world_new": [
+            "strike",
+            "hit",
+            "repeatedly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was beating a large drum.",
+              "world_new": [
+                "beating",
+                "large",
+                "drum"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bại ai",
+          "definition": "to win against",
+          "world_new": [
+            "win"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She beat me in a game of poker.",
+              "world_new": [
+                "game",
+                "poker"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh tơi; khuấy",
+          "definition": "to mix thoroughly",
+          "world_new": [
+            "mix",
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lightly beat an egg.",
+              "world_new": [
+                "egg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đập (nói về tim)",
+          "definition": "to move in a regular rhythm",
+          "world_new": [
+            "move",
+            "regular",
+            "rhythm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My heart is beating faster than usual.",
+              "world_new": [
+                "heart",
+                "beating",
+                "usual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh dấu",
+          "definition": "to mark or indicate (musical time) with a baton etc",
+          "world_new": [
+            "mark",
+            "indicate",
+            "baton"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A conductor beats time for an orchestra.",
+              "world_new": [
+                "conductor",
+                "time",
+                "orchestra"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hịp đánh",
+          "definition": "a regular stroke or its sound",
+          "world_new": [
+            "regular",
+            "stroke",
+            "its",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the pulsating beat of the music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khu vực phân cho một viên cảnh sát",
+          "definition": "a regular or usual course",
+          "world_new": [
+            "regular",
+            "usual",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a policeman’s beat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "beater",
+    "beating",
+    "beaten",
+    "beat about the bush",
+    "beat down",
+    "beat it",
+    "beat off",
+    "beat a (hasty) retreat",
+    "beat up",
+    "off the beaten track"
+  ],
+  "list_browse": [
+    "beast",
+    "beast/bird of prey",
+    "beastliness",
+    "beastly",
+    "beat",
+    "beat a (hasty) retreat",
+    "beat about the bush",
+    "beat down",
+    "beat hollow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047850_874945cc2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047850_1cbe9cb8a0_o.png",
+      "id_image": "beat_1753158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355272_c58a48ff36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355272_c2e35fc589_o.png",
+      "id_image": "beat_1753164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311086_f79052281f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311086_f2c6fe2271_o.png",
+      "id_image": "beat_1753377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666094_06d2e10791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666094_38e8261ba6_o.png",
+      "id_image": "beat_3690085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047755_2fe084aae1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047755_7bd1032199_o.png",
+      "id_image": "beat_4382700"
+    }
+  ]
+}

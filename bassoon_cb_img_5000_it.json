@@ -1,0 +1,64 @@
+{
+  "english": "bassoon",
+  "phat_am": "bəˈsuːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kèn fagôt",
+          "definition": "a woodwind musical instrument which gives a very low sound",
+          "world_new": [
+            "woodwind",
+            "musical",
+            "instrument",
+            "low",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays the bassoon in an orchestra.",
+              "world_new": [
+                "orchestra"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is, however, the two central sections that are perhaps the most remarkable passages in the piece, particularly in the writing for the solo bassoon.",
+    "In the second quintet, the last page-turns for oboe and bassoon require a third hand.",
+    "For the learning of wind instruments, the clarinet, oboe, bassoon, the boy to girl ratios were 6:3, 6:2 and 6:1.",
+    "The flute section grew to three players, and there was one additional bassoon.",
+    "Not only this, but he would have permitted himself the luxuries of bass clarinet and double bassoon in these four bars, for the only time in the movement.",
+    "Passages for solo bassoon are doubled by strings.",
+    "The teacher modelled one extreme example before they started - a bassoon note made to last sixty seconds.",
+    "He cites in this context the rising chromatic line of clarinets and bassoons in bars 107-10 of our aria."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "basketball",
+    "basketry",
+    "basketwork",
+    "bass",
+    "bassoon",
+    "bastard",
+    "bastion",
+    "bat",
+    "batch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428823_b072e25253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428823_c0cab62660_o.png",
+      "id_image": "bassoon_2614782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428803_7620c0fd0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428803_bd811c7099_o.png",
+      "id_image": "bassoon_5781949"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "cheque",
+  "phat_am": "tʃek",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "séc",
+          "definition": "a written order on a printed form telling a bank to pay money to the person named",
+          "world_new": [
+            "order",
+            "form",
+            "telling",
+            "bank",
+            "pay",
+            "money",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I pay by cheque?",
+              "world_new": [
+                "I",
+                "pay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number of cheques, including dividend warrants, stamped in 1917–18 was approximately 321,600,000.",
+    "The most common item that relatives reported as stolen was clothing (49 cases) followed by money, credit cards and cheques (27).",
+    "I would like to add a word in regard to the increased stamp on cheques.",
+    "Passive memberships in cheque-book organizations are relatively individualized acts as well.",
+    "What would the study of popular music look like if the differences among songs were to drive our investigations, if we allow variety to pick up the cheque?",
+    "You write a cheque and it is back again on its perch in a few days.",
+    "Pensioners living in residential homes who should not have received a cheque received one.",
+    "The survey also asked about theft by colleagues, and over one-half of the respondents reported that they had seen or suspected other employees of stealing money, credit cards and cheques."
+  ],
+  "list_see_also": [
+    "chequebook"
+  ],
+  "list_browse": [
+    "chemical symbol",
+    "chemist",
+    "chemistry",
+    "chemotherapy",
+    "cheque",
+    "chequebook",
+    "cherish",
+    "cherry",
+    "cherub"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047630_a568bf79d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047630_4f6fa21765_o.png",
+      "id_image": "cheque_1019608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310771_8c8e792ece_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310771_e6e79977f6_o.png",
+      "id_image": "cheque_1692651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310746_aaa3728a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310746_57c75a53e6_o.png",
+      "id_image": "cheque_2542491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310831_d608b91d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310831_ea8b58be78_o.png",
+      "id_image": "cheque_890383"
+    }
+  ]
+}

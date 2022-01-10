@@ -1,0 +1,64 @@
+{
+  "english": "cicada",
+  "phat_am": "siˈkaːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con ve sầu",
+          "definition": "an insect that makes a loud chirping noise",
+          "world_new": [
+            "insect",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the chirping of cicadas."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The next level of branches provides durational values for the series of episodes in which the aural behaviour of the cicadas is portrayed.",
+    "It is also known as the white drummer cicada.",
+    "Auchenorrhyncha contains the cicadas, leafhoppers, treehoppers, planthoppers, and froghoppers.",
+    "The third level of the time tree structure is used to determine note and rhythmic durations of individual cicadas when they are active.",
+    "Values from each of the three levels are consulted to determine whether each cicada sings, chirps, or clicks, or whether it is inactive.",
+    "Certain features of the cicadas' environment and behaviour are modelled in the composition, such as the warm weather required for them to sing.",
+    "Red wattlebirds have been found to ignore the cicadas, possibly because their gapes are not wide enough to accommodate swallowing them whole.",
+    "Each cicada either sings, chirps, clicks, or is silent depending on its environment and the weather conditions which are modelled by reaction-diffusion patterns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "churn",
+    "chute",
+    "chutney",
+    "CIA",
+    "cicada",
+    "CID",
+    "cider",
+    "cigar",
+    "cigarette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307061_9ca263763a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307061_d185af7d36_o.png",
+      "id_image": "cicada_1779607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307021_dcc2fedc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307021_7f28e24667_o.png",
+      "id_image": "cicada_4699094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044030_f23115aa8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044030_1652b60fa9_o.png",
+      "id_image": "cicada_4982525"
+    }
+  ]
+}

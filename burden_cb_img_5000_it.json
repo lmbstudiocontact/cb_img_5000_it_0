@@ -1,0 +1,108 @@
+{
+  "english": "burden",
+  "phat_am": "ˈbəːdn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gánh nặng (thuế)",
+          "definition": "something difficult to carry or withstand",
+          "world_new": [
+            "difficult",
+            "carry",
+            "withstand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the burden of taxation.",
+              "world_new": [
+                "taxation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gánh nặng",
+          "definition": "something to be carried",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carried a heavy burden up the hill",
+              "world_new": [
+                "heavy",
+                "hill"
+              ]
+            },
+            {
+              "ex_of_definition": "The ox is sometimes a beast of burden (= an animal that carries things).",
+              "world_new": [
+                "ox",
+                "beast",
+                "animal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đè nặng lên",
+          "definition": "to put a responsibility etc on (someone)",
+          "world_new": [
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was burdened with various troubles.",
+              "world_new": [
+                "various"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prevalence and mean intensity quantified as the number of eggs and oocysts per gram of faeces were taken as a measure of parasite burdens.",
+    "Although more talented scholars are being drawn to this field of study, it remains burdened with several premises that invite reform.",
+    "Both authors hypothesized that this may be due to reduced scent emission by birds with reduced parasite burdens.",
+    "Increasing pathogenicity (top to bottom) similarly decreases optimum parasite burdens.",
+    "I focus here, however, on the institutional constraints on groups' efforts to externalize their long-term burdens.",
+    "Often the two coincided, with those living together dividing state and feudal burdens among themselves.",
+    "Tax burdens were arbitrary and unpredictable and the judicial verdicts of royal governors were blatantly dependent upon bribery.",
+    "The provision of a low dose (100 ova) in some of the experiments produced mice with lower burdens in the brain."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bunting",
+    "buoy",
+    "buoyancy",
+    "buoyant",
+    "burden",
+    "bureau",
+    "bureaucracy",
+    "bureaucrat",
+    "bureaucratic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424923_2192e56352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424923_dae3c720f6_o.png",
+      "id_image": "burden_1749656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424903_6883c94569_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424903_651c388e66_o.png",
+      "id_image": "burden_4593123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309696_261eeeea4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309696_64071faebf_o.png",
+      "id_image": "burden_5705194"
+    }
+  ]
+}

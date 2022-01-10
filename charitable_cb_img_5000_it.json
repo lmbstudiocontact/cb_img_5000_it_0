@@ -1,0 +1,70 @@
+{
+  "english": "charitable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhân đức",
+          "definition": "(opposite uncharitable) kind",
+          "world_new": [
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a charitable act.",
+              "world_new": [
+                "act"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc tổ chức từ thiện",
+          "definition": "of a charity",
+          "world_new": [
+            "charity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a charitable organization.",
+              "world_new": [
+                "organization"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More than any social programme to date, this new service signalled the end of traditional charitable practice.",
+    "There were also other less charitable labels and epithets directed his way.",
+    "He finds a lot of evidence on paper for the emergence and existence of professional, cultural, charitable, and societal associations, but this may distort reality.",
+    "Consider its application when appraising policy to increase welfare state spending; will this always crowd out voluntary charitable giving?",
+    "Although charitable organizations tried to conduct relief efforts, their capabilities were limited.",
+    "They are poor (buying cigarettes by the piece), victims of accidents and beneficiaries of charitable work.",
+    "As one example, agreeableness would more likely translate into participation in a charitable campaign than the move to impeach a judge.",
+    "There is also some evidence that the squeeze on resources meant that a higher percentage of charitable funds went to the intended beneficiaries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "charger",
+    "chariot",
+    "charioteer",
+    "charisma",
+    "charitable",
+    "charitably",
+    "charity",
+    "charity shop",
+    "charm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357312_d420502d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357312_3ddc92d98c_o.png",
+      "id_image": "charitable_5267703"
+    }
+  ]
+}

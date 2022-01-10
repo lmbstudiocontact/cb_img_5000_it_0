@@ -1,0 +1,116 @@
+{
+  "english": "blank",
+  "phat_am": "blӕŋk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "để trắng",
+          "definition": "(of paper) without writing or marks",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blank sheet of paper.",
+              "world_new": [
+                "sheet",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô cảm",
+          "definition": "expressionless",
+          "world_new": [
+            "expressionless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dave had a blank look on his face.",
+              "world_new": [
+                "look",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trống không",
+          "definition": "(of a wall) having no door, window etc.",
+          "world_new": [
+            "door",
+            "window"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ trống",
+          "definition": "(in forms etc) a space left to be filled (with a signature etc)",
+          "world_new": [
+            "space",
+            "left",
+            "filled",
+            "signature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fill in the blanks with the missing words.",
+              "world_new": [
+                "missing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đạn không nạp chì",
+          "definition": "a blank cartridge",
+          "world_new": [
+            "cartridge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers fired blanks into the crowd of protesters.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "blankly",
+    "blankness",
+    "blank cartridge",
+    "blank cheque",
+    "go blank"
+  ],
+  "list_browse": [
+    "blameless",
+    "bland",
+    "blandly",
+    "blandness",
+    "blank",
+    "blank cartridge",
+    "blank cheque",
+    "blanket",
+    "blankly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347017_2e5d45127e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347017_65d83758ec_o.png",
+      "id_image": "blank_1827157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039445_2b0aea5940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039445_cafc06472a_o.png",
+      "id_image": "blank_5507302"
+    }
+  ]
+}

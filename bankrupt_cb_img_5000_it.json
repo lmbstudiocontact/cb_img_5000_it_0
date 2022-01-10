@@ -1,0 +1,105 @@
+{
+  "english": "bankrupt",
+  "phat_am": "ˈbӕŋkrapt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phá sản",
+          "definition": "unable to pay one’s debts",
+          "world_new": [
+            "unable",
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been declared bankrupt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phá sản",
+          "definition": "a person who is unable to pay his or her debts",
+          "world_new": [
+            "person",
+            "unable",
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bankrupts are not allowed to be company directors.",
+              "world_new": [
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phá sản",
+          "definition": "to make bankrupt",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His wife’s extravagance soon bankrupted him.",
+              "world_new": [
+                "extravagance",
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are also bankrupting—yes, bankrupting—a lot of people.",
+    "The review will encompass all relevant legislative provisions and bankruptcy case law impacting on the rights to a bankrupt's pension.",
+    "I am not dealing with people who are dishonest bankrupts.",
+    "Companies, if they can help it, will not allow themselves to be bankrupted.",
+    "They may be bankrupted because of their redundancy bill.",
+    "I think he will find that there were probably many more bankrupts in those three years than ever took place in the industry before.",
+    "I hope that the poor bankrupts who find themselves in trouble over a relatively small sum will find the new simplified procedures helpful.",
+    "His proposal, as he must see, at once upsets the whole scheme and bankrupts the fund."
+  ],
+  "list_see_also": [
+    "bankruptcy"
+  ],
+  "list_browse": [
+    "bank on",
+    "banker",
+    "banker’s card",
+    "banknote",
+    "bankrupt",
+    "bankruptcy",
+    "banner",
+    "banquet",
+    "bantam"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053035_75137dc24e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053035_bd90901d5f_o.png",
+      "id_image": "bankrupt_2361659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431563_55d48bdfb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431563_947dbdec37_o.png",
+      "id_image": "bankrupt_2762484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671354_a4bca02c22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671354_e45f74795c_o.png",
+      "id_image": "bankrupt_536856"
+    }
+  ]
+}

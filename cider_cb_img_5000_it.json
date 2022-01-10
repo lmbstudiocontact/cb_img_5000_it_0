@@ -1,0 +1,71 @@
+{
+  "english": "cider",
+  "phat_am": "ˈsaidə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu táo",
+          "definition": "an alcoholic drink made from apples",
+          "world_new": [
+            "alcoholic",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of dry/sweet cider.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I declare an interest not in a small cider company but in a large one.",
+    "The trees are very well cared for, as cider apples are one of the principal productions of the country.",
+    "Only bottles of milk and pints of beer and cider will then be allowed in traditional measurements.",
+    "In common with other growers, cider apple producers are heavily dependent on legal labour, provided under the student agricultural workers scheme, to harvest their crops.",
+    "I understand that the present production of cider apples is sufficient to meet the demand.",
+    "I did not mean to refer to cider manufacturers, but to cider apple growers going out of business.",
+    "Matters are made considerably worse by the uncertain state of the commercial-scale cider industry.",
+    "Imports of cider and perry were 1,833,000 gallons in 1949, 1,085,000 gallons in 1950 and 720,000 gallons in 1951."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chutney",
+    "CIA",
+    "cicada",
+    "CID",
+    "cider",
+    "cigar",
+    "cigarette",
+    "cilantro",
+    "cilium"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306946_84b020223d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306946_e32e232e40_o.png",
+      "id_image": "cider_2688561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043950_71ef44559c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043950_d6ff34a775_o.png",
+      "id_image": "cider_3751902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422053_f8e4d65f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422053_0395929b9f_o.png",
+      "id_image": "cider_3823907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422018_755fcbb047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422018_b506aed816_o.png",
+      "id_image": "cider_6118889"
+    }
+  ]
+}

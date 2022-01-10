@@ -1,0 +1,91 @@
+{
+  "english": "carpet",
+  "phat_am": "ˈkaːpit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thảm",
+          "definition": "a woven covering for floors etc",
+          "world_new": [
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wall-to-wall carpet.",
+              "world_new": [
+                "wall-to-wall"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rải thảm",
+          "definition": "to cover with a carpet",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They haven’t carpeted the floor yet.",
+              "world_new": [
+                "floor",
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Echoes of it are in the decoration of the furniture, in the carpets, the drapes and soft furnishings.",
+    "With what little money that we have left, we are gradually decorating our bungalow, and hope soon to buy some carpets.",
+    "Carpets and furniture have not been sold, until it is known what will be surplus.",
+    "There is also a difference between people who are buying furniture and carpets—who have just married—and those whose homes were complete before the war.",
+    "Our exports of glass and carpets in 1961 were worth $4·2 million, but the increase in duties was larger.",
+    "I agree that fitted carpets would not come into this category.",
+    "Without any warning one of these couples noticed that their expensive carpets were wet.",
+    "The process is initiated by binding of the cationic peptide to negatively charged phospholipids, resulting in a ' carpeting ' of the membrane surface, without self-association of the peptide."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "carpal",
+    "carpel",
+    "carpenter",
+    "carpentry",
+    "carpet",
+    "carpetbagger",
+    "carpus",
+    "carriage",
+    "carriageway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324171_ee773a1afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324171_f09e5faf82_o.png",
+      "id_image": "carpet_1347834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439168_47a7d4aa99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439168_6fa19e8bc5_o.png",
+      "id_image": "carpet_1878071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439138_1651f2f536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439138_b40e02682f_o.png",
+      "id_image": "carpet_4834146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679269_c0f14f96e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679269_87e41a82bc_o.png",
+      "id_image": "carpet_5233865"
+    }
+  ]
+}

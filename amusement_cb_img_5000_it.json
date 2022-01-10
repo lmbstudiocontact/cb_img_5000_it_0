@@ -1,0 +1,80 @@
+{
+  "english": "amusement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thích thú",
+          "definition": "the state of being amused or of finding something funny",
+          "world_new": [
+            "state",
+            "amused",
+            "funny"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A smile of amusement crossed her face.",
+              "world_new": [
+                "smile",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trò tiêu khiển",
+          "definition": "an entertainment or interest",
+          "world_new": [
+            "entertainment",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His childhood amusements included climbing trees.",
+              "world_new": [
+                "childhood",
+                "climbing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With all the multifarious amusements there are open to the children in the world to-day, surely they could do without this one.",
+    "I would not use the word \"fritter\" unconditionally with regard to the amusements of the people.",
+    "I suggest that it covers virtually only amusements with prizes.",
+    "I do not wish to be censorious about other people's amusements.",
+    "In fact, all that they care about is money and amusements.",
+    "We had to make do with old clothes, smaller newspapers, fewer amusements and motor cars, less advertising and duller food.",
+    "There still seems to be ample material for pictures, in papers which cater for the snob, of people enjoying expensive amusements.",
+    "They cannot get to these amusements without transport, and the transport they get are generally second-hand cars which they have saved up to buy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "amputation",
+    "amulet",
+    "amuse",
+    "amused",
+    "amusement",
+    "amusing",
+    "amusingly",
+    "an even bet",
+    "an even chance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668469_4829448b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668469_5bb63e55ce_o.png",
+      "id_image": "amusement_359979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313651_cc8a82d552_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313651_22a5c76091_o.png",
+      "id_image": "amusement_6332632"
+    }
+  ]
+}

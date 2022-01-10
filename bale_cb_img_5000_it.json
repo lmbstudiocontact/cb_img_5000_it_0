@@ -1,0 +1,83 @@
+{
+  "english": "bale",
+  "phat_am": "beil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiện hàng",
+          "definition": "a large bundle of goods or material (cloth, hay etc) tied together",
+          "world_new": [
+            "large",
+            "bundle",
+            "goods",
+            "material",
+            "hay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bale of cotton.",
+              "world_new": [
+                "cotton"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng thành kiện",
+          "definition": "(also bail) to clear (water out of a boat with buckets etc)",
+          "world_new": [
+            "clear",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Several gallons of water were baled out of the boat.",
+              "world_new": [
+                "water",
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The increased costs per bale were mainly due to lower yields in the organic system (see below).",
+    "Other habitat includes edge of woodland, hedgerow, canal, willows, pond, and hay bales.",
+    "The farms in question used their own standard, traditional methods of making and baling the hay.",
+    "The 'north' microsite was located at the base of the north bale on its north side.",
+    "Because of dry conditions in 2002, oat/ pea and triticale/sweet clover were swathed when oat and triticale were at anthesis, and baled.",
+    "Crinkles in clothes taken from bales are preserved, for example, because carefully washed and ironed clothes could equally well have come from a local grave.",
+    "It is perverse that the increased power input with tedding, turning and baling machinery has probably increased physical losses compared with hand methods and machinery operating at lower speeds.",
+    "On landing the pilot reported that he had ordered his engineer to bale out."
+  ],
+  "list_see_also": [
+    "bale out"
+  ],
+  "list_browse": [
+    "bald",
+    "balding",
+    "baldly",
+    "baldness",
+    "bale",
+    "bale out",
+    "baleful",
+    "balefully",
+    "ball"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433788_3317a2dd6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433788_a3b60b55dc_o.png",
+      "id_image": "bale_123947"
+    }
+  ]
+}

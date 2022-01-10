@@ -1,0 +1,82 @@
+{
+  "english": "assess",
+  "phat_am": "əˈses",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ước định",
+          "definition": "to estimate or judge the quality or quantity of",
+          "world_new": [
+            "estimate",
+            "judge",
+            "quality",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you assess my chances of winning?",
+              "world_new": [
+                "my",
+                "winning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định giá",
+          "definition": "to estimate in order to calculate tax due on",
+          "world_new": [
+            "estimate",
+            "order",
+            "calculate",
+            "tax",
+            "due"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My income has been assessed wrongly.",
+              "world_new": [
+                "income",
+                "wrongly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Various other studies have assessed pelvic immobilisation devices.",
+    "The second general objective was to assess the impact of the experimental prevention program on developmental trajectories of antisocial behavior.",
+    "According to this definition - ideology-as-shorthand - it should have been no more difficult to assess a party's positions than to formulate one's own ideology.",
+    "A literature search revealed no similar studies assessing the effectiveness of bereavement camps.",
+    "Perhaps a clearer way to assess the impact of a pension reform could use ' ' typical ' ' career earnings paths, holding constant overall contributions.",
+    "This instrument assessed symptoms experienced over the past week.",
+    "We attempted to classify the trajectories of individual parents' change in communication over time categorically to assess how the group trends related to individuals' behaviours.",
+    "The study was designed to assess the effects of two-way bilingual education on students' academic development."
+  ],
+  "list_see_also": [
+    "assessment",
+    "assessor"
+  ],
+  "list_browse": [
+    "assertion",
+    "assertive",
+    "assertively",
+    "assertiveness",
+    "assess",
+    "assessment",
+    "assessor",
+    "asset",
+    "assets"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303531_46e2ea9756_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303531_f5b5ab0402_o.png",
+      "id_image": "assess_6159181"
+    }
+  ]
+}

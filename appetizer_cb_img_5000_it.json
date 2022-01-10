@@ -1,0 +1,81 @@
+{
+  "english": "appetizer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món khai vị",
+          "definition": "something eaten or drunk before or at the beginning of a meal in order to increase the appetite",
+          "world_new": [
+            "drunk",
+            "beginning",
+            "meal",
+            "order",
+            "increase",
+            "appetite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They ate smoked salmon as an appetizer.",
+              "world_new": [
+                "smoked",
+                "salmon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mezes, or appetizers, are particularly delicious and are plentiful enough to constitute meals.",
+    "The company operates as a casual dining restaurant, offering prepared-at-order chicken fingers, chicken wings, sandwiches, salads, and appetizers.",
+    "The bar offers 100 specialty rums, appetizers, and a raw bar menu.",
+    "The majority of locations have a bistro which serves breakfast (not free), appetizers, sandwiches, and more.",
+    "As part of this, 300,680 desserts, 234,000 appetizers, and 69,000 steaks are consumed per week.",
+    "Though not all ten criteria are necessarily used for every restaurant, the reviews rate the atmosphere, menu, appetizers, entrees, desserts, portion sizes, service, cleanliness, value, and location.",
+    "Eggplant appetizers are also made with onions and other vegetables.",
+    "Judging occurs in two rounds, with the first round being appetizers, and the second being the main courses."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "append",
+    "appendage",
+    "appendix",
+    "appetite",
+    "appetizer",
+    "appetizing",
+    "applaud",
+    "applause",
+    "apple"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423953_79ed08c94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423953_5419f9f96e_o.png",
+      "id_image": "appetizer_1691813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663939_0b023bb28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663939_f1d9706805_o.png",
+      "id_image": "appetizer_3778653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423888_d165de2627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423888_e546dcab41_o.png",
+      "id_image": "appetizer_4525717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352972_7ffe6f38ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352972_90b46ed13a_o.png",
+      "id_image": "appetizer_628104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663989_a24cb58a64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663989_6b1b0e08c8_o.png",
+      "id_image": "appetizer_659326"
+    }
+  ]
+}

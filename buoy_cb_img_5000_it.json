@@ -1,0 +1,79 @@
+{
+  "english": "buoy",
+  "phat_am": "boi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phao",
+          "definition": "a floating anchored mark, acting as a guide, warning or mooring point for boats",
+          "world_new": [
+            "mark",
+            "acting",
+            "guide",
+            "warning",
+            "mooring",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The buoys mark out an 8 knot speed restriction area.",
+              "world_new": [
+                "mark",
+                "knot",
+                "speed",
+                "restriction",
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They go home buoyed up by the hope that they are going to get a good start.",
+    "To a large degree, they have been replaced by floating buoys.",
+    "There is no reason at all why the buoys should not come to the surface.",
+    "The skewness of these points is derived from the returned pulse shape, while the 4 values are based on the ground truth data from surface buoys.",
+    "If there is no loss of speed as the buoy enters the water, find how far it sinks below the surface.",
+    "He offered a bold theory, buoyed by its consistency with the data of embryonic development.",
+    "To maintain safety for shipping, the wreck of the vessel is marked by three buoys and a racon radar beacon.",
+    "Thus, a complex parallelism between biological science and literary art helped to buoy up the emerging literary critical edifice at the end of the nineteenth century."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bunker",
+    "bunny",
+    "Bunsen burner",
+    "bunting",
+    "buoy",
+    "buoyancy",
+    "buoyant",
+    "burden",
+    "bureau"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309946_5e477dd7aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309946_d361ffd83e_o.png",
+      "id_image": "buoy_3315838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354162_5ffcdc4f1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354162_b64fbcc9f6_o.png",
+      "id_image": "buoy_3315945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046820_857ec66999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046820_087aab1b8c_o.png",
+      "id_image": "buoy_5398182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665109_f337c1b03d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665109_f190eed496_o.png",
+      "id_image": "buoy_6376071"
+    }
+  ]
+}

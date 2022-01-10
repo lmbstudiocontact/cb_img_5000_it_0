@@ -1,0 +1,79 @@
+{
+  "english": "acoustic",
+  "phat_am": "əˈkuːstik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc âm thanh",
+          "definition": "having to do with hearing or with sound",
+          "world_new": [
+            "hearing",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The acoustic qualities of the concert hall are remarkable.",
+              "world_new": [
+                "concert",
+                "hall",
+                "remarkable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn acoustic",
+          "definition": "an acoustic instrument or performance is natural and not produced using electronic equipment",
+          "world_new": [
+            "instrument",
+            "performance",
+            "natural",
+            "electronic",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an acoustic guitar.",
+              "world_new": [
+                "guitar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the formal models used in the synthesis of sonic material usually provide significant control, these models have always remained close to acoustics and the procedures of signal processing.",
+    "Researchers have typically assumed that accurate perceptions of relative motion in these situations are derived from sense-specific sensitivity to structures in optics, force, acoustics, and so on.",
+    "Pitch trackers can be negatively affected by variations in acoustics, microphones and mic placement, instruments, performers, and specific performances.",
+    "When works like these exist in the same space, they fail to work if the acoustics do not work.",
+    "The framework would thus be a useful tool for research in signal processing, acoustics and psychoacoustics.",
+    "Since then the field of architectural acoustics has grown in breadth and in depth.",
+    "As part of the overall autonomic stress response, therefore, vagal input to the larynx regulating conserved functions would have concurrently affected vocalization acoustics as well.",
+    "We shall refer to these problems as 'inverse source problems of underwater acoustics'."
+  ],
+  "list_see_also": [
+    "acoustics"
+  ],
+  "list_browse": [
+    "acknowledgement",
+    "acme",
+    "acne",
+    "acorn",
+    "acoustic",
+    "acoustics",
+    "acquaint",
+    "acquaintance",
+    "acquiesce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060150_431c422646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060150_86cca090a1_o.png",
+      "id_image": "acoustic_352256"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "english": "circuit",
+  "phat_am": "ˈsəːkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường vòng quanh",
+          "definition": "a journey or course round something",
+          "world_new": [
+            "journey",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Earth’s circuit round the sun",
+              "world_new": [
+                "sun"
+              ]
+            },
+            {
+              "ex_of_definition": "three circuits of the racetrack.",
+              "world_new": [
+                "racetrack"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng đua",
+          "definition": "a racetrack, running track etc",
+          "world_new": [
+            "racetrack",
+            "running",
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Grand Prix circuit at Silverstone."
+            }
+          ]
+        },
+        {
+          "mean_english": "mạch điện",
+          "definition": "the path of an electric current and the parts through which it passes",
+          "world_new": [
+            "path",
+            "electric",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric circuit.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành trình",
+          "definition": "a journey or tour made regularly and repeatedly eg by salesmen, sportsmen etc",
+          "world_new": [
+            "journey",
+            "tour",
+            "regularly",
+            "repeatedly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His regular sales circuit used to take him all over the country.",
+              "world_new": [
+                "regular",
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Hypofrontality in schizophrenia : distributed dysfunctional circuits in neuroleptic-naive patients.",
+    "How retinal circuits optimize the transfer of visual information.",
+    "A second set of attentional circuits is involved in orienting attention from one location to another and in adjusting the scale or breadth of attention.",
+    "Each 1/100 second of change, mentation probably involves thousands of variations in neuron activity in numerous complex circuits.",
+    "Thus, hallucinogens may act on thalamocortical circuits of the type discussed by the authors.",
+    "In a somewhat weaker form (but still sufficient to imply super-linear lower bounds for log-depth circuits), their question can be stated as follows.",
+    "The theory behind such circuits is presented in detail, together with experimental results.",
+    "Hypofrontality in schizophrenia : distributed dysfunctional circuits in neurolepticnaive patients."
+  ],
+  "list_see_also": [
+    "circuitous",
+    "circuit training"
+  ],
+  "list_browse": [
+    "cinnamon",
+    "cipher",
+    "circa",
+    "circle",
+    "circuit",
+    "circuit training",
+    "circuitous",
+    "circular",
+    "circularity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350617_a1580e62a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350617_3b395bec25_o.png",
+      "id_image": "circuit_3211832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421643_fe284f65e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421643_980312bb82_o.png",
+      "id_image": "circuit_4259332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306431_afbc7d76a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306431_b8af27fa8c_o.png",
+      "id_image": "circuit_4606967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421568_5ee6cbfb77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421568_d8a1ba0b19_o.png",
+      "id_image": "circuit_4684553"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661839_22086a2e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661839_5e833a7f4b_o.png",
+      "id_image": "circuit_675827"
+    }
+  ]
+}

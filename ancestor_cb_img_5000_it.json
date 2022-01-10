@@ -1,0 +1,65 @@
+{
+  "english": "ancestor",
+  "phat_am": "ˈӕnsistə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tổ tiên",
+          "definition": "a person who was a member of one’s family a long time ago and from whom one is descended",
+          "world_new": [
+            "person",
+            "member",
+            "family",
+            "long",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They dream one day of returning to the land of their ancestors.",
+              "world_new": [
+                "dream",
+                "day",
+                "land",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consistent with the target article, they also underscore continuity between the behaviors of the earliest hominins and their apelike ancestors.",
+    "Both of these place names associate the caves with ancestors, and the latter specifically with divine ancestors.",
+    "The seed from which the tree is grown consists of its rightmost left and leftmost right ancestors, initially the two pseudo-nodes.",
+    "The author offers interesting oral histories of the establishment of chiefdoms associated with three mythical ancestors, and ritual centres associated with those chiefdoms.",
+    "How many generations do we have to go back in order to find the ancestors that did not contribute to a particular individual's genetic make-up ?",
+    "The principal difference between ourselves and our ancestors is that they took society as they found it while we are self-conscious and perplexed.",
+    "The blacksmith has to assure the consent of the ancestors and the presence of the spirits.",
+    "Then each atom in each query in is either robust, or all its ancestors are in safe positions."
+  ],
+  "list_see_also": [
+    "ancestral",
+    "ancestry"
+  ],
+  "list_browse": [
+    "anatomical",
+    "anatomically",
+    "anatomist",
+    "anatomy",
+    "ancestor",
+    "ancestral",
+    "ancestry",
+    "anchor",
+    "anchorage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049695_e3325590b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049695_efac3aff27_o.png",
+      "id_image": "ancestor_5101147"
+    }
+  ]
+}

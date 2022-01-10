@@ -1,0 +1,100 @@
+{
+  "english": "caper",
+  "phat_am": "ˈkeipə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy cỡn",
+          "definition": "to leap or jump about",
+          "world_new": [
+            "leap",
+            "jump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was capering about.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú nhảy cỡn",
+          "definition": "a frisky jump",
+          "world_new": [
+            "frisky",
+            "jump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When he finally figured things out, he practically did a celebratory caper.",
+              "world_new": [
+                "finally",
+                "practically"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành vi có hại",
+          "definition": "a piece of playful behaviour/behavior",
+          "world_new": [
+            "piece",
+            "playful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their little caper got them into trouble with the school authorities.",
+              "world_new": [
+                "trouble",
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The more special protection areas there are, the more the caper will have peace and quiet during the nesting period.",
+    "The fertile soil produces tons of capers for export.",
+    "They have said that when a ski lift is erected in a new area the caper tend to leave.",
+    "A slice of lemon, a slice of anchovy, and a few capers are placed on top of the cutlet.",
+    "Is it considered for one moment that, if we increase the directives for protection, anyone would be allowed to burn any area where a caper might be nesting?",
+    "The first is made of capers, olive oil, tomato, scallions, coriander, caraway, cumin, parsley, garlic, white vinegar and paprika.",
+    "Many other preparations pass under the term \"ravigote\", but in general ravigote sauces are highly seasoned with chopped, sauted shallots or onion, capers and herbs: \"ravigot\" connotes reinvigorated, freshened up.",
+    "The caper story is distinguished from the straight crime story by elements of humor, adventure, or unusual cleverness or audacity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "capably",
+    "capacious",
+    "capacity",
+    "cape",
+    "caper",
+    "capillary",
+    "capital",
+    "capitalism",
+    "capitalist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328836_4cb53b61cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328836_eb3993fd33_o.png",
+      "id_image": "capers_6108931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373642_0c3c115e5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373642_572a85ea9e_o.png",
+      "id_image": "caper_1135504"
+    }
+  ]
+}

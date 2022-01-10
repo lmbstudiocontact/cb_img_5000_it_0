@@ -1,0 +1,162 @@
+{
+  "english": "character",
+  "phat_am": "ˈkӕrəktə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính cách",
+          "definition": "the set of qualities that make someone or something different from others; type",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can tell a man’s character from his handwriting",
+              "world_new": [
+                "tell",
+                "handwriting"
+              ]
+            },
+            {
+              "ex_of_definition": "Publicity of this character is not good for the firm.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghị lực",
+          "definition": "a set of qualities that are considered admirable in some way",
+          "world_new": [
+            "admirable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He showed great character in dealing with the danger.",
+              "world_new": [
+                "great",
+                "dealing",
+                "danger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh danh",
+          "definition": "reputation",
+          "world_new": [
+            "reputation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They tried to damage his character.",
+              "world_new": [
+                "damage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân vật",
+          "definition": "a person in a play, novel etc",
+          "world_new": [
+            "person",
+            "play",
+            "novel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rosencrantz is a minor character in Shakespeare’s ‘Hamlet’.",
+              "world_new": [
+                "minor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người lập dị",
+          "definition": "an odd or amusing person",
+          "world_new": [
+            "odd",
+            "amusing",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This fellow’s quite a character!",
+              "world_new": [
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ký tự",
+          "definition": "a letter used in typing etc",
+          "world_new": [
+            "letter",
+            "typing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some characters on this keyboard are broken.",
+              "world_new": [
+                "keyboard",
+                "broken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Note that this phenomenon has a purely inertial character; viscous forces cannot prevent it, although these forces guarantee the space regularity of the solution.",
+    "It was not our aim to deny that there is experience, nor to deny that experience has a qualitative character.",
+    "For each of the six trials, children were asked to predict the returning character's false belief.",
+    "The character of these boundary conditions is that of two coupled second-order ordinary differential equations.",
+    "Furthermore, the problem choices of scientists determine the content of individual research programs, ultimately shaping the character of their contributions to scientific knowledge.",
+    "Symbolic talk involves talk about play characters, their imagined actions, speech, and states, and characteristics of the imagined story setting.",
+    "It advocates a new, more (patient) protective model which should generate confidence in the ethical character of contemporary innovatory practices.",
+    "They were explicitly told that some of the characters have features that could help them choose and some did not."
+  ],
+  "list_see_also": [
+    "characteristic",
+    "characteristically",
+    "characterize",
+    "characterization"
+  ],
+  "list_browse": [
+    "chaplain",
+    "chapped",
+    "chapter",
+    "char",
+    "character",
+    "characteristic",
+    "characteristically",
+    "characterization",
+    "characterize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313891_6b6f2ec6a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313891_46895451f3_o.png",
+      "id_image": "character_213272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358062_6395fbb590_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358062_d696d43215_o.png",
+      "id_image": "character_4352110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668604_a1d9753e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668604_eb785265df_o.png",
+      "id_image": "character_4402843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357967_e025c2f977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357967_ef529948c9_o.png",
+      "id_image": "character_4402868"
+    }
+  ]
+}

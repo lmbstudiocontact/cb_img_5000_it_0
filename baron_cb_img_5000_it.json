@@ -1,0 +1,72 @@
+{
+  "english": "baron",
+  "phat_am": "ˈbӕrən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nam tước",
+          "definition": "a nobleman",
+          "world_new": [
+            "nobleman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was made a baron"
+            },
+            {
+              "ex_of_definition": "Baron Rothschild."
+            }
+          ]
+        },
+        {
+          "mean_english": "ông trùm",
+          "definition": "an important, powerful person",
+          "world_new": [
+            "important",
+            "powerful",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a newspaper baron.",
+              "world_new": [
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Apparently, some commanders in the army are virtual barons, whose troops are personally loyal to them.",
+    "It proves beyond doubt that democracy works sometimes, because the pageboy is following the baron.",
+    "The aristocrats under the barons fought the monarchy for a share of the power for themselves.",
+    "The king's barons together attempted to restrain him from innovatory acts of misgovernment.",
+    "Early each day, the baron himself would select one out of the twenty-five animals printed on the tickets.",
+    "So, although seeing the early 1640s as traditional politicking - barons, threats and counter-threats, royal incompetence explains much, it does not quite explain why the outcome was so untraditional.",
+    "Sitting in judgement, the king complained of the insult to his dignity, and likewise each of the barons condemned the monks.",
+    "The press barons of today will totally ignore the report."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barn",
+    "barnacle",
+    "barometer",
+    "barometric",
+    "baron",
+    "barracks",
+    "barrage",
+    "barrel",
+    "barren"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051545_0f52a64b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051545_99f75a328d_o.png",
+      "id_image": "baron_328000"
+    }
+  ]
+}

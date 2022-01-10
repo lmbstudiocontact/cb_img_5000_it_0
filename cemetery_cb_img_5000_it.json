@@ -1,0 +1,70 @@
+{
+  "english": "cemetery",
+  "phat_am": "ˈsemətri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghĩa trang",
+          "definition": "a piece of ground, usually not round a church, where people are buried",
+          "world_new": [
+            "piece",
+            "ground",
+            "church",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Arlington National Cemetery."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This elimination of old cemeteries was not the result of a profanisation and a growing economic interpretation of space by medieval man.",
+    "Moreover, the tombs of territorial leaders were segregated in their own cemeteries.",
+    "The proposals include the realignment of the cemetery with the geometry of the church, and the creation of a new public space outside the convent.",
+    "Indeed, this article demonstrates that the subdued uniformity of the lawn cemetery is far more eloquent than is commonly supposed.",
+    "Its initial development reflected a rationale for cemetery landscapes that demonstrated an understated, stoic and emotionally even response to mortality.",
+    "It's a very well arranged cemetery with a beautiful array of tombstones.",
+    "Fortunately, cemetery managers were not generally resistant to cremation.",
+    "Florentines of almost any station would have perceived the above elements, paramount among them the identification of the scene with the cemetery or ossuary."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Celsius",
+    "Celtic",
+    "cement",
+    "cement mixer",
+    "cemetery",
+    "cenotaph",
+    "censor",
+    "censorious",
+    "censorship"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361302_5c23dd150a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361302_37e99be961_o.png",
+      "id_image": "cemetery_2983665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432008_02ded183a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432008_91c8eba684_o.png",
+      "id_image": "cemetery_3155256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053365_db173a8489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053365_6ae4368b4c_o.png",
+      "id_image": "cemetery_6119067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361232_e89b8f7e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361232_83308b685d_o.png",
+      "id_image": "cemetery_6289727"
+    }
+  ]
+}

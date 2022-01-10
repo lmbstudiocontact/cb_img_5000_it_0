@@ -1,0 +1,102 @@
+{
+  "english": "aid",
+  "phat_am": "eid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trợ giúp",
+          "definition": "help",
+          "world_new": [
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rich countries give aid to developing countries"
+            },
+            {
+              "ex_of_definition": "He came to my aid when my car broke down.",
+              "world_new": [
+                "my",
+                "my",
+                "car",
+                "broke"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giúp",
+          "definition": "to help",
+          "world_new": [
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was aided in my search by the library staff.",
+              "world_new": [
+                "I",
+                "my",
+                "search",
+                "library",
+                "staff"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, those who campaign for debt relief, increased aid and direct budgetary support to solve the challenges of poverty and hunger, should take note.",
+    "The problem is that such accounts do little to aid an understanding of the popular music industries in the contemporary era.",
+    "Today their inhabitants produce fish products for a world market with the aid of hightechnology fishing vessels and fish plants.",
+    "His central support also recovered, aided by the party's need to have some provincial governments fit for display.",
+    "He compared the national government with leaders of big firms, who increasingly made their decisions with the aid of systematic statistics.",
+    "The multiple-choice questions were contextualized from the passage and had limited options to select from so that the question itself was a memory aid.",
+    "There are few possibilities to validate such models with the aid of past observed changes.",
+    "The regulations for coverage of nonexcluded medical aids are complex and therefore are only briefly described."
+  ],
+  "list_see_also": [
+    "in aid of"
+  ],
+  "list_browse": [
+    "aground",
+    "ah",
+    "aha",
+    "ahead",
+    "aid",
+    "aide",
+    "AIDS",
+    "ail",
+    "ailing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433183_eddd4d4336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433183_2913d74268_o.png",
+      "id_image": "aid_5002650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362427_0e225f8186_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362427_e760b97abf_o.png",
+      "id_image": "aid_5017397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672739_8c68d1ff71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672739_84ea6590c5_o.png",
+      "id_image": "aid_5065269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317896_4b63c409cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317896_fb13307a59_o.png",
+      "id_image": "aid_5065291"
+    }
+  ]
+}

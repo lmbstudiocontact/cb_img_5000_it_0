@@ -1,0 +1,79 @@
+{
+  "english": "Arctic",
+  "phat_am": "ˈaːktik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "Bắc cực",
+          "definition": "of the area round the North Pole",
+          "world_new": [
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Arctic wilderness.",
+              "world_new": [
+                "wilderness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giá rét",
+          "definition": "very cold",
+          "world_new": [
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "arctic conditions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Arctic waders are not capital breeders.",
+    "At each of these sites nearly all metazoan parasites of arctic char are transmitted via the lacustrine food web.",
+    "The two zones that lie in between - the regions between the tropics and the arctic circles - are temperate and therefore habitable.",
+    "Global change and arctic ecosystems: is lichen decline a function of increases in vascular plant biomass?",
+    "If arctic char feed opportunistically, there should not be statistically significant relationships between parasite occurrence and food items found infishstomachs.",
+    "They are also fresh, since very little chemical weathering takes place under these arctic conditions.",
+    "Arctic animals in relation to climate fluctuations.",
+    "Arctic ecosystems in a changing climate: an ecological perspective."
+  ],
+  "list_see_also": [
+    "the Arctic"
+  ],
+  "list_browse": [
+    "architecture",
+    "archive",
+    "archivist",
+    "archway",
+    "Arctic",
+    "ardent",
+    "ardently",
+    "ardour",
+    "arduous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421578_a9aedcf177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421578_2ac6d58eb2_o.png",
+      "id_image": "arctic_2458231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043385_7526dd2b89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043385_a41a06e755_o.png",
+      "id_image": "arctic_4051004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661689_8a88dd1036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661689_fd9a6b0d69_o.png",
+      "id_image": "arctic_4051407"
+    }
+  ]
+}

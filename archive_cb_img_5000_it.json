@@ -1,0 +1,74 @@
+{
+  "english": "archive",
+  "phat_am": "ˈaːkaiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lưu trữ",
+          "definition": "(a place for keeping) old documents, historical records etc",
+          "world_new": [
+            "place",
+            "old",
+            "historical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an archive of historical materials.",
+              "world_new": [
+                "historical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The country's rich intellectual heritage is dispersed among hundreds of libraries and archives across the nation.",
+    "In recent years, artists and composers have been increasingly drawn to historical archive material.",
+    "The second, by a remarkable collection of photographs, some from the university archives and other sources and some specifically produced for the book.",
+    "Even if the archives to which they are linked have been updated, they have not, and their context has changed.",
+    "Information can also be archived in the on-line database and extracted when required.",
+    "Without doubt there are private archives waiting to be identified and used by historians.",
+    "Then there are people in the archive who grew up in complete isolation.",
+    "Current efforts include the ability to adapt user-specified grammars to work on these archived token lists."
+  ],
+  "list_see_also": [
+    "archivist"
+  ],
+  "list_browse": [
+    "archipelago",
+    "architect",
+    "architectural",
+    "architecture",
+    "archive",
+    "archivist",
+    "archway",
+    "Arctic",
+    "ardent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421718_f697f3c3d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421718_69aa445c88_o.png",
+      "id_image": "archive_1784933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043535_0106e3031e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043535_d43b03d839_o.png",
+      "id_image": "archive_4439545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350627_d307335f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350627_c3e0067818_o.png",
+      "id_image": "archive_6395459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350687_9a3bf1a71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350687_78ec753cae_o.png",
+      "id_image": "archive_762216"
+    }
+  ]
+}

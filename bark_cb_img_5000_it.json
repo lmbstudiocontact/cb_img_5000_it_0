@@ -1,0 +1,149 @@
+{
+  "english": "bark",
+  "phat_am": "baːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sủa",
+          "definition": "the short, sharp cry of a dog, fox etc",
+          "world_new": [
+            "short",
+            "sharp",
+            "cry",
+            "dog",
+            "fox"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bark of a dog broke the silence.",
+              "world_new": [
+                "dog",
+                "broke",
+                "silence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sủa",
+          "definition": "to make this sound",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog barked at the stranger.",
+              "world_new": [
+                "dog",
+                "stranger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quát tháo",
+          "definition": "to utter abruptly",
+          "world_new": [
+            "utter",
+            "abruptly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She barked a reply.",
+              "world_new": [
+                "reply"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỏ cây",
+          "definition": "the covering of the trunk and branches of a tree",
+          "world_new": [
+            "covering",
+            "trunk",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stripped the bark off the branch.",
+              "world_new": [
+                "branch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lột vỏ",
+          "definition": "to take the skin off (part of the body) by accident",
+          "world_new": [
+            "skin",
+            "accident"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I barked my shin on the table.",
+              "world_new": [
+                "I",
+                "my",
+                "shin",
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the obvious examples is the noise from barking dogs.",
+    "In both cases, she will not do better, however hard she tries, because she is barking up the wrong tree.",
+    "His barking tic reinforced his dog interests.",
+    "They were thus induced to assemble at the base of the wrong tree and join in a chorus of barks of orthodoxy.",
+    "A young man of 18 or 20 is not likely to be as easily frightened of a barking dog as an old lady of 70.",
+    "The lady is shown talking to him, the telephone is then passed to their dog who barks at the phone and the husband smiles happily.",
+    "He was advised to get a dog that barked.",
+    "No doubt, as the queues get longer, the barks will get louder."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bargain",
+    "bargain for",
+    "barge",
+    "baritone",
+    "bark",
+    "barley",
+    "barley sugar",
+    "barmaid",
+    "barn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670009_309e22dbd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670009_b9dcced28e_o.png",
+      "id_image": "bark_5660504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359507_8b5dea35b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359507_fa3cf13511_o.png",
+      "id_image": "bark_5660523"
+    }
+  ]
+}

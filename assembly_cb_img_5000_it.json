@@ -1,0 +1,99 @@
+{
+  "english": "assembly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội nghị",
+          "definition": "a collection of people (usually for a particular purpose)",
+          "world_new": [
+            "collection",
+            "people",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a legislative assembly",
+              "world_new": [
+                "legislative"
+              ]
+            },
+            {
+              "ex_of_definition": "The school meets for morning assembly at 8.30.",
+              "world_new": [
+                "school",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hội họp",
+          "definition": "the act of assembling or putting together",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "instructions for the assembly of the greenhouse.",
+              "world_new": [
+                "greenhouse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This shows that dual pegs fall into dual holes during the assembly process.",
+    "According to this hypothesis, neural assemblies in high-level visual areas, coding unrelated features or objects, exert mutual inhibitory or desynchronizing actions.",
+    "Thus, it does not use such predicates which are assembly specific.",
+    "The storage requirement is understandable since in assembly, unlike other domains, the number of sequences(plans) that are produced can be quite large.",
+    "This reformulation paired with the idea that the assembly of syntactic structure takes place in one step leads to the elimination of the cycle.",
+    "Despite exceptional recent research progress in understanding elastic-fibre assembly and function, many questions remain to be addressed.",
+    "Thus, quick matches for very similar assemblies can be made.",
+    "The entire assembly was finally placed in the shear-flow apparatus."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assassinate",
+    "assassination",
+    "assault",
+    "assemble",
+    "assembly",
+    "assembly line",
+    "assent",
+    "assert",
+    "assert oneself"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040315_5e900deb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040315_7d2fd9aca8_o.png",
+      "id_image": "assemble_3103949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418578_50be6442be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418578_a68f53a8be_o.png",
+      "id_image": "assembling_6310902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040285_845614da88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040285_8f9b517648_o.png",
+      "id_image": "assembly_1453773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418548_3b127cd19a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418548_3c2813f40f_o.png",
+      "id_image": "assembly_2082147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658769_b244e97dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658769_2e6501be45_o.png",
+      "id_image": "assembly_2752790"
+    }
+  ]
+}

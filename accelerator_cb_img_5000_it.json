@@ -1,0 +1,63 @@
+{
+  "english": "accelerator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chân ga; máy gia tốc",
+          "definition": "a pedal, lever etc that controls the speed or acceleration of a machine; gas pedal American",
+          "world_new": [
+            "pedal",
+            "lever",
+            "speed",
+            "acceleration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put his foot down on the accelerator.",
+              "world_new": [
+                "foot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Colleagues' sharp-edged comments that he just did not understand why accelerators were needed, however, did not entirely capture his attitude.",
+    "Quality assurance tests were carried out using an anthropomorphic phantom and found no systematic error between simulator and linear accelerators.",
+    "Progress on plasma accelerators: from the energy frontier to tabletops.",
+    "Plasma accelerators at the energy frontier and on table-tops.",
+    "The use of plasma waveguides as accelerating structures in linear accelerators.",
+    "We propose to use this effect as a plasma diagnostic tool, utilizing monoenergetic, well-collimated electron or proton beams produced either by femtosecond laser plasma interactions or by accelerators.",
+    "The ampoules, with pistons being mounted at the top of them, were set in motion by means of gas accelerators.",
+    "The on-axis density minimum features of these two channels make both of them suitable guiding channels for the laser wakefield accelerators."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "academy",
+    "accede",
+    "accelerate",
+    "acceleration",
+    "accelerator",
+    "accent",
+    "accentuate",
+    "accept",
+    "acceptability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681514_5004ee80af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681514_7072a2be71_o.png",
+      "id_image": "accelerator_1394911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063315_5b4e4bf052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063315_42d7c58c9d_o.png",
+      "id_image": "accelerator_1924207"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "balcony",
+  "phat_am": "ˈbӕlkəni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ban công",
+          "definition": "a platform built out from the wall of a building",
+          "world_new": [
+            "platform",
+            "wall",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our hotel room had a balcony.",
+              "world_new": [
+                "hotel",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng ghế trên ban công nhà hát",
+          "definition": "in theatres/theaters etc, an upper floor",
+          "world_new": [
+            "upper",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sat in the balcony of the cinema",
+              "world_new": [
+                "cinema"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) balcony seats."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are continuous narrow balconies with double doors functioning as an intermediary between the busy through road and the interior.",
+    "First and second floor rooms have balconies.",
+    "The pristine white great hall provides access to the performance halls by a series of stacking, open balconies.",
+    "He has wandered through cities and seen balconies and cobbled streets and everything in the garden lovely—and he then comes across one or two dirty and untidy streets.",
+    "In any event there are facilities in the way of balconies, and of communal playgrounds for children in tenements abroad incomparably superior to anything we possess in this country.",
+    "I remember a housing scheme in which balconies fell off the houses.",
+    "Children are particularly at risk from accidents on the higher floors of high-rise flats—notably falls from windows or balconies.",
+    "All the apartments have balconies or roof gardens."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "baking powder",
+    "balance",
+    "balance of payments",
+    "balance sheet",
+    "balcony",
+    "bald",
+    "balding",
+    "baldly",
+    "baldness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318761_20e135b2e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318761_a1278a0b9e_o.png",
+      "id_image": "balcony_3062381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433948_42eff7fa1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433948_853f3602b2_o.png",
+      "id_image": "balcony_3062404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673549_6b3ce5485d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673549_bd01e718b2_o.png",
+      "id_image": "balcony_3062452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673514_c14a7e9b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673514_c47658cd7a_o.png",
+      "id_image": "balcony_4577518"
+    }
+  ]
+}

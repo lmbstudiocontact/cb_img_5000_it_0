@@ -1,0 +1,128 @@
+{
+  "english": "arrest",
+  "phat_am": "əˈrest",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt giữ",
+          "definition": "to capture or take hold of (a person) because he or she has broken the law",
+          "world_new": [
+            "capture",
+            "hold",
+            "broken",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police arrested the thief.",
+              "world_new": [
+                "police",
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngăn lại",
+          "definition": "to stop",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Economic difficulties arrested the growth of industry.",
+              "world_new": [
+                "growth",
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bắt giữ",
+          "definition": "the act of arresting; being arrested",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police made several arrests",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "He was questioned after his arrest."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hãm lại",
+          "definition": "a stopping of action",
+          "world_new": [
+            "stopping",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cardiac arrest is another term for heart failure.",
+              "world_new": [
+                "term",
+                "heart",
+                "failure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Official court records data for arrests formed the second indicator.",
+    "In the end, the beadles arrested them and the conflict was taken to court.",
+    "In this context, it would mean that all boys who were arrested early also had been identified even earlier as an antisocial child.",
+    "They reported it is possible for primary spermatocytes arrested before spermatogenesis to differentiate into spermatids.",
+    "There was also severe repression, in the shape of arrests and dismissals, of any dissenting voice from within the working class.",
+    "Besides disorderly conduct, the police increasingly arrested young people for theft.",
+    "At all time points, social preference was correlated positively with work 0 school engagement or academics and negatively correlated with arrests and antisocial behavior.",
+    "The results showed that the cell cycles of embryos can always be arrested at the interphase from the one-cell to the eight-cell stage."
+  ],
+  "list_see_also": [
+    "under arrest"
+  ],
+  "list_browse": [
+    "arrangement",
+    "arrangements",
+    "array",
+    "arrears",
+    "arrest",
+    "arrival",
+    "arrive",
+    "arrive at",
+    "arrogance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305341_a007bccbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305341_52972b2a9b_o.png",
+      "id_image": "arrest_1901785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660799_edc525859e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660799_52afe78580_o.png",
+      "id_image": "arrest_2399375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420368_a0c5403c0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420368_c8295e7715_o.png",
+      "id_image": "arrest_2670959"
+    }
+  ]
+}

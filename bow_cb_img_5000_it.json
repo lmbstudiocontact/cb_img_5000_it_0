@@ -1,0 +1,184 @@
+{
+  "english": "bow",
+  "phat_am": "bau",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cúi chào",
+          "definition": "to bend (the head and often also the upper part of the body) forwards in greeting a person etc",
+          "world_new": [
+            "bend",
+            "head",
+            "upper",
+            "part",
+            "greeting",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bowed to the ladies.",
+              "world_new": [
+                "bowed"
+              ]
+            },
+            {
+              "ex_of_definition": "They bowed their heads in prayer.",
+              "world_new": [
+                "bowed",
+                "their",
+                "heads",
+                "prayer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khâm phục",
+          "definition": "(with to) to accept",
+          "world_new": [
+            "accept"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bow to your superior knowledge.",
+              "world_new": [
+                "I",
+                "your",
+                "superior",
+                "knowledge"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cúi chào",
+          "definition": "a bowing movement",
+          "world_new": [
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a bow to the ladies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cung",
+          "definition": "a springy curved rod bent by a string, by which arrows are shot",
+          "world_new": [
+            "springy",
+            "curved",
+            "rod",
+            "bent",
+            "string",
+            "shot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bow and arrow.",
+              "world_new": [
+                "arrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây vĩ (violong)",
+          "definition": "a rod with horsehair stretched along it, by which the strings of a violin etc are sounded.",
+          "world_new": [
+            "rod",
+            "horsehair",
+            "strings",
+            "violin"
+          ]
+        },
+        {
+          "mean_english": "nơ con bướm",
+          "definition": "a looped knot of material",
+          "world_new": [
+            "knot",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her dress is decorated with bows.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũi tàu",
+          "definition": "the front of a ship or boat",
+          "world_new": [
+            "front",
+            "ship",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The waves broke over the bows.",
+              "world_new": [
+                "broke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To first order with respect to the slenderness parameter, the near-field flow appears to be two-dimensional in each transverse plane along the bow.",
+    "Probably unknown to the arrangers, adjustments in subtle nuances (bowing, articulation, timbre) appropriate for string writing were made by the veteran string musicians.",
+    "There is no single control; rather a combination of inputs such as bow-speed, bow pressure, choice of string and even finger position.",
+    "He shows how violinists and other string players held their instruments and their bows.",
+    "His sonatas show great concern with virtuosity of the bow, alternating sequential patterns with the articulation of ornaments.",
+    "Afterward he sees his favorite dancer wiping sweat from her face as she receives his complements with cool bows.",
+    "The numerical program has been verified by comparing with the analytical results for a thin wedge-shaped bow.",
+    "Seemingly paralysed and unprepared, the regency bowed to the inevitable dismissal, and were spared any reprisals."
+  ],
+  "list_see_also": [
+    "bowed"
+  ],
+  "list_browse": [
+    "bourgeois",
+    "bourgeoisie",
+    "bout",
+    "boutique",
+    "bow",
+    "bow tie",
+    "bowed",
+    "bowel",
+    "bowel movement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365282_60db7a3edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365282_3029ce2217_o.png",
+      "id_image": "bow_6240552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675364_f44e54f618_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675364_dc105eb15f_o.png",
+      "id_image": "bow_827173"
+    }
+  ]
+}

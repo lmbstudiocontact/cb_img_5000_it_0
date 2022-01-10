@@ -1,0 +1,74 @@
+{
+  "english": "accordion",
+  "phat_am": "əˈkoːdiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn ăc-cooc",
+          "definition": "a musical instrument with bellows and a keyboard",
+          "world_new": [
+            "musical",
+            "instrument",
+            "bellows",
+            "keyboard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you know how to play the accordion?",
+              "world_new": [
+                "know",
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Up to the 1970s the singers were usually, although with notable exceptions, the composers of vallenato as well as the accordion players.",
+    "Polyphonic instruments include pianos, guitars, violins, accordions and xylophones.",
+    "Gramophone now also recorded an increasing number of comic singers and accordion players.",
+    "In version 3, the first section is marked piano and features a static dissonant accompaniment for two flutes, accordion and piano.",
+    "Like an accordion, the genre can expand from the school to the discipline, and then to the profession.",
+    "The scoring of this work is mainly for woodwind and brass, including euphonium plus harp, accordion, piano doubling synthesiser, percussion and electric guitar.",
+    "Although the size of the user group was small (five unpaid subjects), a relatively wide range of musical experience was represented, ranging from an accordion player to a music teacher.",
+    "Moreover, the accordion becomes the signifying sonority of a sung genre whose lyrical and narrative characteristics come to represent one of its highest aesthetic values."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "accord",
+    "accordance",
+    "according to",
+    "accordingly",
+    "accordion",
+    "accost",
+    "account",
+    "account for",
+    "accountability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325191_2f32fa14b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325191_c8b012c097_o.png",
+      "id_image": "accordion_1624366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325151_76b66627db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325151_93523fa5e4_o.png",
+      "id_image": "accordion_1639345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370172_e9eca853c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370172_9cd8d274f9_o.png",
+      "id_image": "accordion_820138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370132_1ac16c9caf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370132_c429ab8c87_o.png",
+      "id_image": "accordion_848210"
+    }
+  ]
+}

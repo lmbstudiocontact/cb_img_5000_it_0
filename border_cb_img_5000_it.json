@@ -1,0 +1,123 @@
+{
+  "english": "border",
+  "phat_am": "ˈboːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường viền",
+          "definition": "the edge of a particular thing",
+          "world_new": [
+            "edge",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the border of a picture/handkerchief."
+            }
+          ]
+        },
+        {
+          "mean_english": "biên giới",
+          "definition": "the boundary of a country",
+          "world_new": [
+            "boundary",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ll ask for your passport at the border.",
+              "world_new": [
+                "ask",
+                "your",
+                "passport"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viền hoa",
+          "definition": "a flower bed round the edge of a lawn etc",
+          "world_new": [
+            "flower",
+            "bed",
+            "edge",
+            "lawn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flower border.",
+              "world_new": [
+                "flower"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp giáp",
+          "definition": "(with on) to come near to or lie on the border of",
+          "world_new": [
+            "lie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Germany borders on France."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was a high degree of cultural unity and market exchange across political borders, but autonomy of regional rulers from effective superior authority.",
+    "In the dim light their eyes meet mine, reaching as an open hand, their ears a bridge across the borders of our lives.",
+    "There are two very stable layers bordering on the linear gradient region.",
+    "Peace researchers, often with direct links to the peace campaigns, discussed the importance of communications across borders since the early 1960s.",
+    "As a global egalitarian, he wants to see resources distributed so as to maximize utility for all; borders and national groups have no moral standing.",
+    "In the present study, we found a clear relationship between modulation by homogeneous texture fields and by texture borders.",
+    "Any systematic examination of pre-state diversity and the borders that may have identified that diversity was one casualty of this premise.",
+    "Prosopon on borders and spines consists of dense concentration of relatively fine tubercles; small number of larger tubercles scattered on pleural ridges and major spines."
+  ],
+  "list_see_also": [
+    "borderline"
+  ],
+  "list_browse": [
+    "booth",
+    "booty",
+    "booze",
+    "booze-up",
+    "border",
+    "borderline",
+    "bore",
+    "bore/scare stiff",
+    "bored"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677554_09f694b01b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677554_a38bf197cc_o.png",
+      "id_image": "border_1082665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322456_c593ac0806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322456_70ac5b3acf_o.png",
+      "id_image": "border_341634"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367322_c191ea2a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367322_4c51e4b145_o.png",
+      "id_image": "border_4849859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677474_8060c0ee43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677474_b550cf7ff3_o.png",
+      "id_image": "border_5208307"
+    }
+  ]
+}

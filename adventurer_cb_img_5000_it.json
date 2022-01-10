@@ -1,0 +1,65 @@
+{
+  "english": "adventurer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phiêu lưu",
+          "definition": "a person who seeks adventure or fortune",
+          "world_new": [
+            "person",
+            "adventure",
+            "fortune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The intrepid adventurer is planning a trek though the Amazon jungle.",
+              "world_new": [
+                "intrepid",
+                "planning",
+                "trek",
+                "jungle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "advantageous",
+    "advantageously",
+    "advent",
+    "adventure",
+    "adventurer",
+    "adventurous",
+    "adventurously",
+    "adverb",
+    "adverbial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364527_3fae91cc6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364527_ca3608ae63_o.png",
+      "id_image": "adventurer_2822371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056385_b4c6ce58e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056385_c32e634839_o.png",
+      "id_image": "adventurer_4125835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056345_ae8dda228f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056345_4ae2dea6ff_o.png",
+      "id_image": "adventurer_4275690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434958_5c6fc01864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434958_694617e709_o.png",
+      "id_image": "adventurer_980768"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "ability",
+  "phat_am": "əˈbiləti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khả năng",
+          "definition": "the power, knowledge etc to do something",
+          "world_new": [
+            "power",
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has the ability to win the race",
+              "world_new": [
+                "win",
+                "race"
+              ]
+            },
+            {
+              "ex_of_definition": "I shall do the job to the best of my ability.",
+              "world_new": [
+                "I",
+                "job",
+                "best",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài năng",
+          "definition": "a skill",
+          "world_new": [
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man of many abilities."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The ability of this numerical method to consider non-isotropic initial data represents a decided advantage over other approaches.",
+    "The change trials tested the participants' ability to respond appropriately to relevant phonetic differences between tokens and distinguish stops drawn from two different categories.",
+    "Where communities are less well organized, the ability to use events to improve policy is reduced, even if policy making appears to be event-driven.",
+    "We made four predictions about the possible roles of group differences, perceptual- motor ability, task difficulty, and chronological age in nonlinguistic performance.",
+    "At first, infants display discriminatory abilities which span a broad range of phonetic pairs.",
+    "In conjunction, these properties of social-psychological research have impeded the development of theories with explanatory power and the ability to generate novel and nontrivial hypotheses.",
+    "The second part will consider evidence for teaching the ability and the impact of such instruction on reading comprehension development.",
+    "This is because their phonetic ability is low and their functional knowledge (in terms of the recoverability principle) is not yet developed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "abhorrence",
+    "abhorrent",
+    "abide",
+    "abide by",
+    "ability",
+    "abiotic",
+    "abject",
+    "abjectly",
+    "ablaze"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064370_15eac18212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064370_8db0230372_o.png",
+      "id_image": "ability_1441939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327641_438b382583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327641_96e637dbf5_o.png",
+      "id_image": "ability_4310280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372302_8c8e444905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372302_61a8f3f06e_o.png",
+      "id_image": "ability_4576910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327561_9a2f1db378_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327561_fce17c4463_o.png",
+      "id_image": "ability_6078418"
+    }
+  ]
+}

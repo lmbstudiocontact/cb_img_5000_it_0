@@ -1,0 +1,91 @@
+{
+  "english": "citizen",
+  "phat_am": "ˈsitizn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dân thành phố",
+          "definition": "an inhabitant of a city or town",
+          "world_new": [
+            "inhabitant",
+            "city",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a citizen of London."
+            }
+          ]
+        },
+        {
+          "mean_english": "công dân",
+          "definition": "a member of a state or country",
+          "world_new": [
+            "member",
+            "state",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a British citizen",
+              "world_new": [
+                "British"
+              ]
+            },
+            {
+              "ex_of_definition": "a citizen of the USA."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perhaps this is because higher taxes are often used to fund a higher level of desirable government services, leaving citizens equally well or better off.",
+    "They confronted the economic troubles of that decade already having enacted national programs to provide health care to all their citizens.",
+    "The powers that previous mayors enjoyed were seriously impeded, and they became powerless to solve citizens' economic and social problems.",
+    "While direct democracy might lead to lower political efficacy of minorities, it might have a positive general impact on citizen attitudes towards government.",
+    "In societies characterised by extreme inequality, the effects of unequal citizen involvement may actually exacerbate the inequitable provision of public security.",
+    "For these reasons alone, child delinquents constitute a disproportionate threat to the safety and property of citizens across the nation.",
+    "That is, a common language enables the speaker to be an active citizen.",
+    "This is a recipe for bribery, since private citizens now have an interest in breaking the law."
+  ],
+  "list_see_also": [
+    "citizenship"
+  ],
+  "list_browse": [
+    "circumstance",
+    "circus",
+    "cistern",
+    "citadel",
+    "citizen",
+    "citizenship",
+    "citric",
+    "citrus fruit",
+    "city"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661434_eedfa82da9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661434_9a7f970225_o.png",
+      "id_image": "citizen_1339965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305976_08c22d71e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305976_33f58b5530_o.png",
+      "id_image": "citizen_1339987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042960_ae9e63793f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042960_61baaf489d_o.png",
+      "id_image": "citizen_3571168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421078_c0629699ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421078_8532e6ce7c_o.png",
+      "id_image": "citizen_5605873"
+    }
+  ]
+}

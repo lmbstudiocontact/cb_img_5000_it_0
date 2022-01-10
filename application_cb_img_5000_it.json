@@ -1,0 +1,109 @@
+{
+  "english": "application",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đơn xin",
+          "definition": "a formal request; an act of applying",
+          "world_new": [
+            "formal",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have received several applications for the new job",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "The syllabus can be obtained on application to the headmaster.",
+              "world_new": [
+                "syllabus",
+                "headmaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chuyên cần",
+          "definition": "hard work",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has got a good job through sheer application.",
+              "world_new": [
+                "job",
+                "sheer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuốc mỡ",
+          "definition": "an ointment etc applied to a cut, wound etc.",
+          "world_new": [
+            "ointment",
+            "applied",
+            "cut",
+            "wound"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Reports and surveys dividends in so many areas where such promising applications are being developed.",
+    "More novel are the applications to text 'preprocessing', in particular numeral expansion and word segmentation.",
+    "Semantics, implementation and applications of this extension are considered.",
+    "Overall this book provides an extensive coverage of the key principles and applications of afterloaded brachytherapy in the current context of health care delivery.",
+    "Semantic applications will also need to work robustly in the face of inconsistencies.",
+    "In contrast, game theory uses the same tools in all these applications.",
+    "We do not expect our video annotation data model to support those types of applications.",
+    "The more deterministic the operating system, the more suitable that system will be for real-time applications."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "appliance",
+    "applicability",
+    "applicable",
+    "applicant",
+    "application",
+    "applied",
+    "apply",
+    "apply oneself/one’s mind",
+    "appoint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352367_d70b8e3fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352367_2dcc2dd17b_o.png",
+      "id_image": "applications_1776667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663424_2caa2e6d4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663424_a87c85001b_o.png",
+      "id_image": "applications_2472069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663409_803a647187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663409_6893d8fc05_o.png",
+      "id_image": "applications_4412888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045185_e5ae4a4d37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045185_8afcea8b83_o.png",
+      "id_image": "application_1556243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045165_7cd7b4c63b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045165_418c8366a7_o.png",
+      "id_image": "application_2542466"
+    }
+  ]
+}

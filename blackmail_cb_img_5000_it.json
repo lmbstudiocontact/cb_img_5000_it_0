@@ -1,0 +1,91 @@
+{
+  "english": "blackmail",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tống tiền",
+          "definition": "to obtain money illegally from (a person), usually by threatening to make known something which the victim wants to keep secret",
+          "world_new": [
+            "obtain",
+            "money",
+            "illegally",
+            "victim",
+            "keep",
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The politician was being blackmailed by an ex-girlfriend.",
+              "world_new": [
+                "politician"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tống tiền",
+          "definition": "the act of blackmailing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used blackmail to get money from the senator.",
+              "world_new": [
+                "money",
+                "senator"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the first place, factionalised parties made party leaders vulnerable to policy blackmail by powerful factions threatening to switch parties.",
+    "First, he claimed that he used the missing file to blackmail the secret police and save his life.",
+    "I have urged residents not to give way to blackmail and threats.",
+    "However, persuasion was not always enough, and the priests were forced into blackmail.",
+    "Unable to sell the worthless cargo, the trio decide to carry out their predecessors' plan to \"lose\" the ship, then blackmail its owner for the insurance money.",
+    "They consolidated their hold over the labourers, maximised their profits and used times of labour shortage to blackmail the planters and to extract exaggerated advances.",
+    "The firm is prepared to pay that money, not because of extortion or blackmail but because its unit costs are low.",
+    "The group claims that it has been blackmailed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blackcurrant",
+    "blacken",
+    "blackhead",
+    "blacklist",
+    "blackmail",
+    "blackmailer",
+    "blackness",
+    "blackout",
+    "blacksmith"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039555_97eb40cb11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039555_1bccfdf46b_o.png",
+      "id_image": "blackmail_2034575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658169_c20dc092f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658169_d742ffa4f4_o.png",
+      "id_image": "blackmail_2117432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302851_e4d8f1301c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302851_f822ce8dca_o.png",
+      "id_image": "blackmail_4542054"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "english": "advance",
+  "phat_am": "ədˈvaːns",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiến về; phát triển",
+          "definition": "to move forward",
+          "world_new": [
+            "move",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army advanced towards the town",
+              "world_new": [
+                "army",
+                "advanced",
+                "town"
+              ]
+            },
+            {
+              "ex_of_definition": "Our plans are advancing well"
+            },
+            {
+              "ex_of_definition": "He married the boss’s daughter to advance (= improve) his chances of promotion.",
+              "world_new": [
+                "married",
+                "daughter",
+                "promotion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả trước",
+          "definition": "to supply (someone) with (money) on credit",
+          "world_new": [
+            "supply",
+            "credit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bank will advance you $500.",
+              "world_new": [
+                "bank"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tiến bộ",
+          "definition": "moving forward or progressing",
+          "world_new": [
+            "moving",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve halted the enemy’s advance"
+            },
+            {
+              "ex_of_definition": "Great advances in medicine have been made in this century.",
+              "world_new": [
+                "medicine",
+                "century"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền tạm ứng",
+          "definition": "a payment made before the normal time",
+          "world_new": [
+            "payment",
+            "normal",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I have an advance on my salary?",
+              "world_new": [
+                "I",
+                "my",
+                "salary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời tán tỉnh",
+          "definition": "an attempt at (especially sexual) seduction",
+          "world_new": [
+            "attempt",
+            "seduction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rejected his advances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp trước",
+          "definition": "made or done before the necessary or agreed time",
+          "world_new": [
+            "necessary",
+            "agreed",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an advance payment.",
+              "world_new": [
+                "payment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm trước",
+          "definition": "made beforehand",
+          "world_new": [
+            "beforehand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an advance booking.",
+              "world_new": [
+                "booking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quân tiên phong",
+          "definition": "sent ahead of the main group or force",
+          "world_new": [
+            "ahead",
+            "main",
+            "group",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the advance guard.",
+              "world_new": [
+                "guard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "advanced",
+    "advancement",
+    "in advance"
+  ],
+  "list_browse": [
+    "adulatory",
+    "adult",
+    "adultery",
+    "adulthood",
+    "advance",
+    "advanced",
+    "advancement",
+    "advantage",
+    "advantageous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056690_b3b012e7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056690_b601faa579_o.png",
+      "id_image": "advance_3775997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675024_16de3b7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675024_ba3ce2b68c_o.png",
+      "id_image": "advantage_1622582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364762_86cf567855_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364762_e3e2cae3ef_o.png",
+      "id_image": "advantage_5999981"
+    }
+  ]
+}

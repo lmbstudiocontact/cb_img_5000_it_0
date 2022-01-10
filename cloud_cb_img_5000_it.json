@@ -1,0 +1,173 @@
+{
+  "english": "cloud",
+  "phat_am": "klaud",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "mây",
+          "definition": "a mass of tiny drops of water floating in the sky",
+          "world_new": [
+            "mass",
+            "tiny",
+            "water",
+            "sky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "white clouds in a blue sky",
+              "world_new": [
+                "white",
+                "blue",
+                "sky"
+              ]
+            },
+            {
+              "ex_of_definition": "The hills were hidden in cloud.",
+              "world_new": [
+                "hidden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đám",
+          "definition": "a great number or quantity of anything small moving together",
+          "world_new": [
+            "great",
+            "number",
+            "quantity",
+            "small",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cloud of flies."
+            }
+          ]
+        },
+        {
+          "mean_english": "bóng đen",
+          "definition": "something causing fear, depression etc",
+          "world_new": [
+            "fear",
+            "depression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cloud of sadness.",
+              "world_new": [
+                "sadness"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mây che phủ",
+          "definition": "(often with over) to become cloudy",
+          "world_new": [
+            "become",
+            "cloudy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky clouded over and it began to rain.",
+              "world_new": [
+                "sky",
+                "rain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm vẩn đục",
+          "definition": "to (cause to) become blurred or not clear",
+          "world_new": [
+            "become",
+            "blurred",
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her eyes were clouded with tears."
+            }
+          ]
+        },
+        {
+          "mean_english": "phiền muộn",
+          "definition": "to (cause to) become gloomy or troubled",
+          "world_new": [
+            "become",
+            "gloomy",
+            "troubled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His face clouded at the unhappy news.",
+              "world_new": [
+                "face",
+                "unhappy",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the stars enchain the clouds and direct them towards the back of the stage which lights up.",
+    "Although the years may have clouded his memory, this eccentric man had certainly lost none of his conviction.",
+    "They seem like clouds in the sky, like still dreams overhead, taking now this, now that form.",
+    "The situation is clouded by the common confusion, as ' auxiliaries', of operatives with periphrastic (or analytic) elements associated with the expression of verbal categories.",
+    "The overall understanding of the nature of atrioventricular valvar atresia is then clouded still further by ongoing morphological controversies.",
+    "Large-scale magnetic fields are also detected in molecular clouds.",
+    "Finally, stars are formed in cores with rotating disks around them, since the clouds are expected to have some angular momentum.",
+    "Because their minds are not clouded by passion or g reed, they are able to see through other people."
+  ],
+  "list_see_also": [
+    "cloudless",
+    "cloudy",
+    "cloudburst",
+    "under a cloud"
+  ],
+  "list_browse": [
+    "clothes moth",
+    "clothes peg",
+    "clothing",
+    "clotted cream",
+    "cloud",
+    "cloudberry",
+    "cloudburst",
+    "cloudless",
+    "cloudy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684124_2a76cb3155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684124_60549d4dd3_o.png",
+      "id_image": "clouds_238382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683994_cc85a0d71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683994_b6293f3937_o.png",
+      "id_image": "clouds_5903922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444218_645aa62601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444218_77fb5aa080_o.png",
+      "id_image": "cloud_350949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684204_9efbf763b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684204_cabe26d0b4_o.png",
+      "id_image": "cloud_383833"
+    }
+  ]
+}

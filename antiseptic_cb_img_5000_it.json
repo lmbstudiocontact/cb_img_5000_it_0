@@ -1,0 +1,67 @@
+{
+  "english": "antiseptic",
+  "phat_am": "ӕntiˈseptik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc khử trùng",
+          "definition": "(of) a substance that destroys bacteria (eg in a wound)",
+          "world_new": [
+            "substance",
+            "bacteria"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You ought to put some antiseptic on that cut",
+              "world_new": [
+                "cut"
+              ]
+            },
+            {
+              "ex_of_definition": "an antiseptic cream.",
+              "world_new": [
+                "cream"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "antipathy",
+    "antiquated",
+    "antique",
+    "antiquity",
+    "antiseptic",
+    "antisocial",
+    "antithesis",
+    "antler",
+    "antonym"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353992_469e27e960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353992_96ab02b78a_o.png",
+      "id_image": "antiseptic_1851336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665019_59624dc000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665019_6397eba723_o.png",
+      "id_image": "antiseptic_5243194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354052_dc1d0f36d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354052_b48c4a0e7b_o.png",
+      "id_image": "antiseptic_782277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354012_d912c1ffce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354012_f3479105b4_o.png",
+      "id_image": "antiseptic_843885"
+    }
+  ]
+}

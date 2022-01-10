@@ -1,0 +1,99 @@
+{
+  "english": "believe",
+  "phat_am": "biˈliːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "công nhận",
+          "definition": "to regard (something) as true",
+          "world_new": [
+            "regard",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I believe his story.",
+              "world_new": [
+                "I",
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin tưởng",
+          "definition": "to trust (a person), accepting what he says as true",
+          "world_new": [
+            "trust",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I believe you.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tưởng",
+          "definition": "to think (that)",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I believe he’s ill.",
+              "world_new": [
+                "I",
+                "ill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The liberal theorists believed that the institutions they sought to abolish were the cause of the underdevelopment in agriculture.",
+    "Quality is not believed to be omnipresent in any object at any one moment in time.",
+    "Protoconsciousness seems to be comparable to \"ether,\" the invisible form of matter that was once believed to fill all physical space.",
+    "The difference is produced over what one believes to be missing.",
+    "Ideas without a smidgen of belief are at one end; ideas that everyone believes completely are at the other end.",
+    "He doubted that these had ever existed - only people who believed they had universal systems.",
+    "The reason for believing that the outcome might occur lies in factors beyond the agent's control.",
+    "Both parties believed that they could achieve with certainty at least this outcome."
+  ],
+  "list_see_also": [
+    "believable",
+    "belief",
+    "believer",
+    "believe in"
+  ],
+  "list_browse": [
+    "belfry",
+    "belie",
+    "belief",
+    "believable",
+    "believe",
+    "believe in",
+    "believer",
+    "belittle",
+    "bell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045365_a4bab4f107_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045365_af8ce24f5a_o.png",
+      "id_image": "believe_2072701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045330_56e65ce765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045330_818e64702c_o.png",
+      "id_image": "believe_4576136"
+    }
+  ]
+}

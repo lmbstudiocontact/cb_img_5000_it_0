@@ -1,0 +1,154 @@
+{
+  "english": "cable",
+  "phat_am": "ˈkeibl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây neo",
+          "definition": "(a) strong rope or chain for hauling or tying anything, especially a ship",
+          "world_new": [
+            "strong",
+            "rope",
+            "chain",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The train is pulled by cables up the mountain.",
+              "world_new": [
+                "train",
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây cáp",
+          "definition": "(a set of) wires for carrying electric current or signals",
+          "world_new": [
+            "electric",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are laying a new electricity cable under the street.",
+              "world_new": [
+                "electricity",
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây cáp",
+          "definition": "(a rope made of) strands of metal wound together for supporting a bridge etc",
+          "world_new": [
+            "rope",
+            "metal",
+            "wound",
+            "supporting",
+            "bridge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A total of 18 steel cables support the suspension bridge.",
+              "world_new": [
+                "total",
+                "steel",
+                "support",
+                "suspension",
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điện tín",
+          "definition": "(also cablegram) a telegram sent by cable",
+          "world_new": [
+            "telegram"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Richard had sent her a cable from Istanbul."
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền hình cáp",
+          "definition": "cable television",
+          "world_new": [
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you have cable in your apartment?",
+              "world_new": [
+                "your",
+                "apartment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh điện",
+          "definition": "to telegraph by cable",
+          "world_new": [
+            "telegraph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cabled news of my mother’s death to our relations in Canada.",
+              "world_new": [
+                "I",
+                "news",
+                "my",
+                "death",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cable car",
+    "cable television"
+  ],
+  "list_browse": [
+    "cabaret",
+    "cabbage",
+    "cabin",
+    "cabinet",
+    "cable",
+    "cable car",
+    "cable television",
+    "cabomba",
+    "cacao"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306841_5cf0e82496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306841_5be180ed87_o.png",
+      "id_image": "cable_403081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306821_f8e59be192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306821_8bb34e9102_o.png",
+      "id_image": "cable_4275699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306791_089c655c4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306791_04b99aabef_o.png",
+      "id_image": "cable_4275708"
+    }
+  ]
+}

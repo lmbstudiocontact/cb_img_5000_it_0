@@ -1,0 +1,92 @@
+{
+  "english": "braid",
+  "phat_am": "breid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bện",
+          "definition": "to wind together (especially strands of hair)",
+          "world_new": [
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wants me to braid her hair with beads.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dải viền trang trí quần áo",
+          "definition": "threads twisted together and used as decoration on uniforms etc",
+          "world_new": [
+            "twisted",
+            "decoration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The admiral’s uniform was decorated with gold braid.",
+              "world_new": [
+                "uniform",
+                "gold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In all three basins, this mudstone-dominated interval passes into sandstonedominated sediments of a braided fluvial system.",
+    "Their analysis thus supports the low braid vorticity measured by us.",
+    "It may be time to rethink them in the plural, as forming a braid of overlapping processes acting simultaneously on different categories at different levels.",
+    "I provide no translation for line 3151; 3151b is usually expanded as 'bundenheorde' ('with hair bound up') or 'wundenheorde' ('with braided hair').",
+    "The postulated quadrupole structure of the source term in the braid region can clearly be recognized.",
+    "It is composed mainly of fine- to coarse-grained quartzitic and kaolinitic sandstones, deposited essentially in a continental environment (braided streams) and coastal to subcoastal conditions.",
+    "The successions represent two deepening-upward sequences, both starting as fluvial (braided river) systems and ending as shallow marine tidally dominated environments.",
+    "There remains to make explicit and prove the last assertion of the proposition, which requires some concrete background and notation on braid groups."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bracket",
+    "bracket fungus",
+    "brackish",
+    "brag",
+    "braid",
+    "braille",
+    "brain",
+    "brain drain",
+    "brainchild"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055710_e8ce816bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055710_877fc5a3e1_o.png",
+      "id_image": "braid_1053029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055675_22dcc85666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055675_9c5b201daa_o.png",
+      "id_image": "braid_1117999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319031_6820349f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319031_a13d86179c_o.png",
+      "id_image": "braid_3460366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434228_a28916eef2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434228_06bb0dc8ba_o.png",
+      "id_image": "braid_3684510"
+    }
+  ]
+}

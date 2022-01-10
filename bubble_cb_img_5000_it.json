@@ -1,0 +1,95 @@
+{
+  "english": "bubble",
+  "phat_am": "ˈbabl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bong bóng",
+          "definition": "a floating ball of air or gas",
+          "world_new": [
+            "ball",
+            "air",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Heat the liquid until bubbles start to appear.",
+              "world_new": [
+                "liquid",
+                "start",
+                "appear"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổi bong bóng",
+          "definition": "to form or rise in bubbles",
+          "world_new": [
+            "form",
+            "rise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The champagne bubbled in the glass.",
+              "world_new": [
+                "champagne",
+                "glass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, the bubbles which explode in that region are counted by a piezo-electrical ceramic which picks up the noise they emit when imploding downstream.",
+    "Etiope considered the transport of particles by mobile bubbles.",
+    "The dissolved gas will therefore diffuse towards and then into the bubbles.",
+    "The existence of the sunspot equilibria so defined provides a clear method for defining bubbles.",
+    "In the present study, we develop a detailed mathematical model to predict the distribution of desorbed bubbles in a solidified melt.",
+    "We have assumed in this section that the objective of the government was to fight bubbles.",
+    "In the first one, an appropriate monetary policy has eliminated bubbles.",
+    "However, every chartist knows that all bubbles eventually burst."
+  ],
+  "list_see_also": [
+    "bubbly",
+    "bubble gum",
+    "bubble over"
+  ],
+  "list_browse": [
+    "brute",
+    "brutish",
+    "BSc",
+    "BSE",
+    "bubble",
+    "bubble gum",
+    "bubble over",
+    "bubbly",
+    "buccaneer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050280_264ed8db2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050280_676886f582_o.png",
+      "id_image": "bubbles_2101422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357777_4fdd54b832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357777_4fb488275b_o.png",
+      "id_image": "bubbles_2383853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668514_5085b48967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668514_52ef345d05_o.png",
+      "id_image": "bubbles_525797"
+    }
+  ]
+}

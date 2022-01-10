@@ -1,0 +1,94 @@
+{
+  "english": "beggar",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguời ăn xin",
+          "definition": "a person who lives by begging",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The beggar was asking people in the street for money.",
+              "world_new": [
+                "people",
+                "street",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm nghèo đi",
+          "definition": "to make very poor",
+          "world_new": [
+            "poor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The nation was beggared by famine and war.",
+              "world_new": [
+                "nation",
+                "famine",
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The significance of the fact that it was the poor, beggars and vagrants who were accused of arson will be addressed later.",
+    "Positively, politicians of a country notoriously failing to achieve the criteria might be treated at international meetings if not like the pariah, then like poor beggars.",
+    "We are getting a lot of money; and beggars cannot be choosers.",
+    "At the beginning of the period, criminals were seen largely as ' members of social groups often on the fringe of ordinary society ' (p. 2) : vagrants, beggars, bandits, and the like.",
+    "In terms of preventive policing, it beggars belief that the police were unable to confiscate sealed containers and could only take opened containers.",
+    "At noon, the beggars who aroused the least repugnance were to call at houses in carefully selected streets.",
+    "A significant proportion of them were young, male beggars who were feared capable of working sorcery as a rite of revenge against householders who rejected their pleas for alms.",
+    "Showcasing some very original and interesting research, the authors present the experiences of participants in both sides of the 'begging encounter': beggars and members of the public approached by beggars."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "befriend",
+    "beg",
+    "beg someone’s pardon",
+    "beg to differ",
+    "beggar",
+    "beggar description",
+    "begin",
+    "beginner",
+    "beginning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423968_0349fd72b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423968_4a7f0e7e85_o.png",
+      "id_image": "beggar_4244635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045715_56858ea5d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045715_1ba689ecdc_o.png",
+      "id_image": "beggar_4244641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352902_3351a5137a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352902_b35d4a4ed3_o.png",
+      "id_image": "beggar_5256187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664034_6a9b7a6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664034_554fa23ea3_o.png",
+      "id_image": "beggar_949555"
+    }
+  ]
+}

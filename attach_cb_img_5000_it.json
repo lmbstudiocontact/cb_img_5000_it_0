@@ -1,0 +1,63 @@
+{
+  "english": "attach",
+  "phat_am": "əˈtӕtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắn",
+          "definition": "to fasten or join",
+          "world_new": [
+            "fasten",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I attached a label to my bag.",
+              "world_new": [
+                "I",
+                "attached",
+                "label",
+                "my",
+                "bag"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "attached",
+    "attachment"
+  ],
+  "list_browse": [
+    "atrociously",
+    "atrociousness",
+    "atrocity",
+    "atrophy",
+    "attach",
+    "attached",
+    "attachment",
+    "attack",
+    "attacker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808344052_babc26f3b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808344052_6746d6703c_o.png",
+      "id_image": "attach_1265877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328721_33bbf1bfdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328721_6878d9d4ef_o.png",
+      "id_image": "attach_1440359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328691_6fb42452c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328691_7a2aa18ef7_o.png",
+      "id_image": "attach_5512622"
+    }
+  ]
+}

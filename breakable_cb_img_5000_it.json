@@ -1,0 +1,77 @@
+{
+  "english": "breakable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dễ vỡ",
+          "definition": "(opposite unbreakable) likely to break",
+          "world_new": [
+            "likely",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "breakable goods.",
+              "world_new": [
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật dễ vỡ",
+          "definition": "something likely to break",
+          "world_new": [
+            "likely",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Glassware and other breakables should be packed with care.",
+              "world_new": [
+                "care"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is a view that marriage is a contract which should be as breakable as any other.",
+    "Dimensions and weight remain the same, but unfortunately the design also maintained the easily breakable neck of the original cabinet.",
+    "These grates are of thin cast iron and easily breakable.",
+    "Once all breakable bricks on the board have been cleared, the player advances to the next board.",
+    "The objective is to break all breakable blocks in the level by hitting these blocks with the ion sphere(s).",
+    "They do not regard computers as a threat or even breakable; they just work on them until they find what they want.",
+    "In fact, it will be uniquely breakable.",
+    "Some companies will only offer mechanical breakdown insurance, which only covers repairs necessary when breakable parts need to be fixed or replaced."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "break out in",
+    "break someone’s heart",
+    "break the ice",
+    "break up",
+    "breakable",
+    "breakage",
+    "breakdown",
+    "breaker",
+    "breakfast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054155_2bf429635e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054155_58be71263a_o.png",
+      "id_image": "breakable_1259988"
+    }
+  ]
+}

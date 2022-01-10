@@ -1,0 +1,87 @@
+{
+  "english": "academy",
+  "phat_am": "əˈkӕdəmi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "học viện",
+          "definition": "a higher school for special study",
+          "world_new": [
+            "school",
+            "special",
+            "study"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is studying at the Academy of Music."
+            }
+          ]
+        },
+        {
+          "mean_english": "hội các học giả",
+          "definition": "a society to encourage science, art etc",
+          "world_new": [
+            "society",
+            "encourage",
+            "science",
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Royal Academy."
+            }
+          ]
+        },
+        {
+          "mean_english": "trường phổ thông ở Xcôtlen",
+          "definition": "a type of senior school.",
+          "world_new": [
+            "type",
+            "senior",
+            "school"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sons of impoverished farmers poured into the military academies and increasingly turned against corrupt urban politicians.",
+    "Youth academies and youth development programmes will be threatened.",
+    "What is distinctive about the city academies when compared to city technology colleges and our specialist schools?",
+    "No provision for expenditure on technology academies was made in either 1987–88 or 1988–89.",
+    "We have not discussed the proposals on school organisation, which would allow the setting up of academies and other new schools.",
+    "The first relates to the need for proper consultation with local education authorities on the establishment of city academies.",
+    "Is it to sit in our academies and insist that we know the truth, we are the experts who can say that it was not so?",
+    "A casual look at the academies might give the impression that they were mostly social in nature, that they functioned as a pastime for bored aristocrats and ambitious letterati."
+  ],
+  "list_see_also": [
+    "academic",
+    "academically",
+    "academic year"
+  ],
+  "list_browse": [
+    "abyss",
+    "academic",
+    "academic year",
+    "academically",
+    "academy",
+    "accede",
+    "accelerate",
+    "acceleration",
+    "accelerator"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371252_2fab5743f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371252_6d1852e549_o.png",
+      "id_image": "academy_2070868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326576_d6c8f014a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326576_3a9f1dcab3_o.png",
+      "id_image": "academy_530000"
+    }
+  ]
+}

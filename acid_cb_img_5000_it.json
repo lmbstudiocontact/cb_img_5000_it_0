@@ -1,0 +1,104 @@
+{
+  "english": "acid",
+  "phat_am": "ˈӕsid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chất chua",
+          "definition": "(of taste) sharp or sour",
+          "world_new": [
+            "sharp",
+            "sour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lemons and limes are acid fruits."
+            }
+          ]
+        },
+        {
+          "mean_english": "mỉa mai",
+          "definition": "sarcastic",
+          "world_new": [
+            "sarcastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "acid humour/humor."
+            }
+          ]
+        },
+        {
+          "mean_english": "có chứa axít",
+          "definition": "containing acid",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "acid soil.",
+              "world_new": [
+                "soil"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "a-xít",
+          "definition": "a substance, containing hydrogen, which will dissolve metals etc",
+          "world_new": [
+            "substance",
+            "hydrogen",
+            "dissolve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spilt/spilled some acid which burned a hole in her dress.",
+              "world_new": [
+                "hole",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Genetics of monoamine metabolites in baboons : overlapping sets of genes influence levels of 5-hydroxyindolacetic acid, 3-hydroxy-4-methoxyphenylglycol, and homovanillic acid.",
+    "It must be borne in mind always that the efficacy of a vaccine depends on more than the primary amino acid sequence of the antigen.",
+    "The energy taken up by the sorbent is transferred to the adsorbed substances, both water and acid molecules.",
+    "In our study, these two serotypes had the highest rates of resistance to nalidixic acid.",
+    "Is the synthesis of rumen bacterial protein limited by the availability of pre-formed amino acids and/or peptides?",
+    "How different amino acid sequences determine similar protein structures : the structure and evolutionary dynamics of the globins.",
+    "Moreover, the high proportion of isolates resistant to kanamycin and nalidixic acid is striking.",
+    "While some stearic acid was extracted from most of the batches, yields are less than those obtained by liquid-liquid extraction for all sample batches."
+  ],
+  "list_see_also": [
+    "acidic",
+    "acidity",
+    "acid rain"
+  ],
+  "list_browse": [
+    "achieve",
+    "achievement",
+    "achiever",
+    "achy",
+    "acid",
+    "acid rain",
+    "acidic",
+    "acidity",
+    "acknowledge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678854_a9c5fb9b0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678854_a733bf9ef5_o.png",
+      "id_image": "acid_5671351"
+    }
+  ]
+}

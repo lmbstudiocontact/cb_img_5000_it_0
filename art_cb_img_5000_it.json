@@ -1,0 +1,126 @@
+{
+  "english": "art",
+  "phat_am": "aːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỹ thuật",
+          "definition": "painting and sculpture",
+          "world_new": [
+            "painting",
+            "sculpture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m studying art at college",
+              "world_new": [
+                "college"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you like modern art?",
+              "world_new": [
+                "modern"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an art college/exhibition."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ thuật",
+          "definition": "any of various creative forms of expression",
+          "world_new": [
+            "various",
+            "creative",
+            "expression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "painting, music, dancing, writing and the other arts.",
+              "world_new": [
+                "painting",
+                "music",
+                "dancing",
+                "arts"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tài riêng",
+          "definition": "an ability or skill; the (best) way of doing something",
+          "world_new": [
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the art of conversation/war."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By shedding excess and approaching sung dialogue as if it were speech, singers were to be singing actors - the imperative of a musical dramatic art.",
+    "These are: high or bourgeois art; commercial or popular art; and folk art.",
+    "The state of the art and the main results in the evaluation of these systems are reported.",
+    "In two sections: word lists and encyclopedic lists (including aspects of history, politics, war, art, music, and entertainment).",
+    "He understood the art of music and tried to practice it.",
+    "In arts and fashion people recognize styles when they see them, and people often agree on what is stylish or what is not.",
+    "In his evasion of type, he is permitted to choose his identity provisionally, to perform the role or roles that will best assist his art.",
+    "The related concept of inclusivity here refers to the unique ability of the arts to validate and encompass the individual's personal response or experience."
+  ],
+  "list_see_also": [
+    "artful",
+    "artfully",
+    "artfulness",
+    "arts",
+    "arty",
+    "arty-farty",
+    "art gallery",
+    "artwork"
+  ],
+  "list_browse": [
+    "arrowhead",
+    "arsenal",
+    "arsenic",
+    "arson",
+    "art",
+    "art gallery",
+    "artefact",
+    "arterial",
+    "artery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041690_66d16a9ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041690_a9ca12a657_o.png",
+      "id_image": "art_2361571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660164_5509520654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660164_3ef3294584_o.png",
+      "id_image": "art_2377412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041655_fda8bba14f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041655_6ca57a9dea_o.png",
+      "id_image": "art_5699993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660114_e2c038dc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660114_2af8daac80_o.png",
+      "id_image": "art_5700452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348962_a0a6526136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348962_20b183a5d0_o.png",
+      "id_image": "art_705058"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "beaker",
+  "phat_am": "ˈbiːkə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cốc vại",
+          "definition": "a large drinking-glass or mug",
+          "world_new": [
+            "large",
+            "mug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a beaker of hot milk.",
+              "world_new": [
+                "hot",
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cốc dùng trong phòng thí nghiệm",
+          "definition": "a deep glass container used in chemistry.",
+          "world_new": [
+            "deep",
+            "glass",
+            "container",
+            "chemistry"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Agitation and sedimentation was repeated in decreasing volume (5 l to 2 l to a 250 ml beaker).",
+    "The bridge breaks into droplets due to capillary action when the beakers are pulled apart at a critical distance, or the voltage is reduced to a critical value.",
+    "Nasca artists created ceremonial and utilitarian bowls and beakers, effigy jars, panpipes, and vessels of new designs, including the stepped-fret.",
+    "Artwork includes burial masks, beakers and metal vessels that previous cultures traditionally made of clay.",
+    "At 35 days post-infection, faeces from lambs infected with the same isolate were thoroughly mixed and aliquots of 10 g containing approximately 3000 epg were dispensed in plastic beakers.",
+    "When he was 23 he started on his own and became a prolific and notable silversmith making tankards, beakers, porringers, caudle cups and candlesticks.",
+    "Surely the world will not tumble down if we do not make such things as beakers, flasks, burettes, hosiery latch needles, ignition magnetos and permanent magnets.",
+    "Other shapes were oenochoes with spiral handles, dinos, kyathos, plates, beakers with high bases, and, less often, kantharos and other forms."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "beacon",
+    "bead",
+    "beady",
+    "beak",
+    "beaker",
+    "beam",
+    "bean",
+    "beanbag",
+    "bear"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356097_280bf23008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356097_4b4387d3a8_o.png",
+      "id_image": "beaker_310074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426898_ef1b8d538f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426898_796e0ffac8_o.png",
+      "id_image": "beaker_353569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426883_ed3aea3d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426883_1bb719e15e_o.png",
+      "id_image": "beaker_518979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312016_11f0baa64d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312016_cc89bdceda_o.png",
+      "id_image": "beaker_5903813"
+    }
+  ]
+}

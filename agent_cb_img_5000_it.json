@@ -1,0 +1,107 @@
+{
+  "english": "agent",
+  "phat_am": "ˈeidʒənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác nhân; chất",
+          "definition": "a person or thing that acts",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Detergents and other cleaning agents are stored in this cupboard.",
+              "world_new": [
+                "cupboard"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đại lý",
+          "definition": "a person who acts for someone in business etc",
+          "world_new": [
+            "person",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "our agent in London",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "a theatrical agent.",
+              "world_new": [
+                "theatrical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặc vụ",
+          "definition": "(especially secret agent) a spy",
+          "world_new": [
+            "spy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an agent for the Russians."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The agents are cooperative in the sense that they have to anticipate non-cooperative situations in order to avoid them.",
+    "The first approach is inspired by social science and models the environment as a set of mediating artifacts that agents can use.",
+    "Moreover, the question of using complex cognitive agents versus simple reactive ones is still a matter of debate.",
+    "The blame for pongaje was no longer put on the higher echelons of the political authority, but rather on its lowly agents.",
+    "Therefore, in this view, agents in the informal sector are not worse off than identical agents in the formal sector.",
+    "Users must trust their personal agents in order to volunteer information to them.",
+    "Agents are not cognizant of other agents' requirements.",
+    "The key hypothesis is that agents need not be stationary."
+  ],
+  "list_see_also": [
+    "agency",
+    "by/through the agency of"
+  ],
+  "list_browse": [
+    "ageist",
+    "ageless",
+    "agency",
+    "agenda",
+    "agent",
+    "aggravate",
+    "aggravating",
+    "aggravation",
+    "aggregate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318731_f8ecb0880c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318731_659ac9cffe_o.png",
+      "id_image": "agent_1018648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673544_75c98c4274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673544_cee1157589_o.png",
+      "id_image": "agent_1064339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433873_d114f745f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433873_61c936efa2_o.png",
+      "id_image": "agent_2238321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673454_a501091467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673454_18cb7b7c1c_o.png",
+      "id_image": "agent_4515750"
+    }
+  ]
+}

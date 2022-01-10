@@ -1,0 +1,97 @@
+{
+  "english": "canoe",
+  "phat_am": "kəˈnuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xuồng",
+          "definition": "a light narrow boat driven by a paddle or paddles",
+          "world_new": [
+            "light",
+            "narrow",
+            "boat",
+            "paddle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The canoe capsized (= turned over)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi bằng xuồng",
+          "definition": "to travel by canoe",
+          "world_new": [
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He canoed over the rapids.",
+              "world_new": [
+                "rapids"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No legislation to control the use of canoes is contemplated.",
+    "A party was made up for a practice run in three double and three single canoes.",
+    "Among the current activities organised by the police are canoeing and archery.",
+    "Then there is week-end camping, hiking and canoeing, adventure week-ends and other forms of sport which are popular.",
+    "Then the final approach is made either on the water in canoes or in inflatable rubber craft, in the water by surface swimmers, or under the water by frogmen.",
+    "While smaller canoes were used on rivers and streams, lake canoes were more commonly larger vessels measuring up to about 35 feet long.",
+    "The war canoes were the most important manifestations of naval forces during this early period.",
+    "No other canoes are mentioned in connection with him."
+  ],
+  "list_see_also": [
+    "canoeist"
+  ],
+  "list_browse": [
+    "cannily",
+    "cannon",
+    "cannonball",
+    "canny",
+    "canoe",
+    "canoeist",
+    "canon",
+    "canonical",
+    "canonization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375327_5c34e1fd42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375327_2a6f5df579_o.png",
+      "id_image": "canoe_2262886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330631_4a42e0b4b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330631_fd735ee082_o.png",
+      "id_image": "canoe_3904201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330576_11c2350ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330576_1d399e774c_o.png",
+      "id_image": "canoe_4610933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067370_674ecee9b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067370_1a25ce3575_o.png",
+      "id_image": "canoe_4737418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375197_d8dded3304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375197_07baca68bc_o.png",
+      "id_image": "canoe_4984981"
+    }
+  ]
+}

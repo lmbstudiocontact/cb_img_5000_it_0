@@ -1,0 +1,77 @@
+{
+  "english": "bin",
+  "phat_am": "bin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thùng",
+          "definition": "a container (usually metal or plastic, often large) in which corn etc is stored or rubbish is collected",
+          "world_new": [
+            "container",
+            "metal",
+            "plastic",
+            "corn",
+            "rubbish",
+            "collected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a waste-paper bin"
+            },
+            {
+              "ex_of_definition": "I threw it in the bin.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In contrast, we found no significant peaks in the 50-ms-bin covariograms.",
+    "These rules are analogous to the previous two, except for the addition of handling the recursive function bin ing.",
+    "The total number of responses (counted in 1 ms time bins) divided by 12 000 is presented, time-locked to the stimulus event.",
+    "For p > 1/2, it was known that with probability 1 one of the bins will lead the process at all large enough times.",
+    "We used a stringent criterion of p 0.0002 to consider a bin to have a statistically significant covariance.",
+    "To better illustrate the direction in which the neurites travel, each neurite was binned into a category ranging from 0-180° using 10° increments.",
+    "However, this is not a genuine two-bin dichotomy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "billow out",
+    "billowy",
+    "billy goat",
+    "bimonthly",
+    "bin",
+    "binary",
+    "bind",
+    "binding",
+    "bingo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042055_281047fce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042055_c037c4cf43_o.png",
+      "id_image": "bin_169788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305031_ec35fcc10e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305031_2833db6474_o.png",
+      "id_image": "bin_169827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041980_7a2911ef7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041980_ce4f177f9f_o.png",
+      "id_image": "bin_1730600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349182_9ae103901f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349182_536fb01cd3_o.png",
+      "id_image": "bin_2371884"
+    }
+  ]
+}

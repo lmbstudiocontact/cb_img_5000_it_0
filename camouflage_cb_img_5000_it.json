@@ -1,0 +1,95 @@
+{
+  "english": "camouflage",
+  "phat_am": "ˈkӕməflaːʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngụy trang",
+          "definition": "something, eg protective colouring/coloring, that makes an animal, person, building etc difficult for enemies to see against the background",
+          "world_new": [
+            "protective",
+            "animal",
+            "person",
+            "building",
+            "difficult",
+            "see",
+            "background"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tiger’s stripes are an effective camouflage in the jungle",
+              "world_new": [
+                "effective",
+                "jungle"
+              ]
+            },
+            {
+              "ex_of_definition": "The soldiers wound leaves and twigs round their helmets as camouflage.",
+              "world_new": [
+                "wound",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngụy trang",
+          "definition": "to conceal with camouflage",
+          "world_new": [
+            "conceal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The marines camouflaged their helmets with leaves and grass.",
+              "world_new": [
+                "their",
+                "grass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The necessity for camouflaging hangars is a matter of some urgency.",
+    "Then we should have horses which, if requisitioned in the event of war, would already be camouflaged.",
+    "The effect of it was camouflaged for a time.",
+    "Existing research has not focused on the pathways through which camouflaging self-presentations and concern about peer acceptance may act as risk factors for the development of externalizing symptoms.",
+    "Figures we had in abundance, but they were figures which clarified instead of camouflaging the reality.",
+    "Admittedly, it is dressed up in a form of words that camouflages some of the intention, but that is the reality.",
+    "With the best wills in the world, we are embarking on what is, in fact, camouflaged inflation.",
+    "After the experiments, stimulation ar tifacts were camouflaged in the broadband data by substituting ar tifact data samples by a linear interpolation between the adjacent time windows."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "camellia",
+    "cameo",
+    "camera",
+    "camomile",
+    "camouflage",
+    "camp",
+    "camp bed",
+    "camp fire",
+    "campaign"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660159_c3ece01162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660159_f5d2ed29ed_o.png",
+      "id_image": "camouflage_2472779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419783_a2be2975c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419783_c6724715b7_o.png",
+      "id_image": "camouflage_2621708"
+    }
+  ]
+}

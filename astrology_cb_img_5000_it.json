@@ -1,0 +1,75 @@
+{
+  "english": "astrology",
+  "phat_am": "əˈstrolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuật chiêm tinh",
+          "definition": "the study of the stars and their influence on people’s lives",
+          "world_new": [
+            "study",
+            "their",
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She doesn’t believe in astrology.",
+              "world_new": [
+                "believe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The catalogue contains about 400 volumes on astrology and astronomy.",
+    "Among such thinkers, astrology and eschatology frequently played an important role.",
+    "Later, from the mid nineteenth century, new modes came in with spiritualism and revamped more urbanised astrology and fortune-telling.",
+    "Nonetheless, it is clear from other sections of his encyclopedia, that he was much given to astrology.",
+    "He studied philosophy, medicine, and astrology, and possessed the highest quality of mind.",
+    "This astrological treatise concerned mainly with medical astrology appears to have been written, as the other components of the astrological encyclopedia, in two versions.",
+    "She also shows that he made few references to astrology.",
+    "Natural wisdoms like medicine, astrology, geography, and so forth came to be seen as the intellectual legacy of everyone, regardless of creed."
+  ],
+  "list_see_also": [
+    "astrologer",
+    "astrological"
+  ],
+  "list_browse": [
+    "astray",
+    "astride",
+    "astrologer",
+    "astrological",
+    "astrology",
+    "astronaut",
+    "astronomer",
+    "astronomical",
+    "astronomically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302486_aa54f26dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302486_fb87242885_o.png",
+      "id_image": "astrology_4793123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039055_0d34a30ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039055_c4b3cc76b1_o.png",
+      "id_image": "astrology_5539521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039040_f692fd6dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039040_b560e8f389_o.png",
+      "id_image": "astrology_5625509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417538_bdf7f6e233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417538_14ed417256_o.png",
+      "id_image": "astrology_749496"
+    }
+  ]
+}

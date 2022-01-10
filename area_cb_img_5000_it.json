@@ -1,0 +1,106 @@
+{
+  "english": "area",
+  "phat_am": "ˈeəriə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vùng",
+          "definition": "a place; part (of a town etc)",
+          "world_new": [
+            "part",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you live in this area?",
+              "world_new": [
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diện tích",
+          "definition": "the extent or size of a flat surface",
+          "world_new": [
+            "extent",
+            "size",
+            "flat",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The garden is 30 square yards in area.",
+              "world_new": [
+                "garden",
+                "square"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lĩnh vực",
+          "definition": "a particular subject or activity",
+          "world_new": [
+            "particular",
+            "subject",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her specialist area is corporate finance.",
+              "world_new": [
+                "specialist",
+                "corporate",
+                "finance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the case studies provide more detail in three areas: tax and benefit reform, performance management and transport.",
+    "As a consequence of this relationship of dependency, government handouts should affect these areas more than the overall state of the economy.",
+    "In the present study, most patients were inhabitants of rural and suburban areas (76.2%).",
+    "In addition, the rich net resources make it possible to control the robot from remote areas.",
+    "The groups were facilitated using an explicit schedule that covered the same topic areas as the interview schedule and questionnaire.",
+    "Circulating anodic antigen levels in two areas endemic for schistosomiasis mansoni indicate differences in worm fecundity.",
+    "Moreover, high prevalences in remote areas may imply that dog heartworm infection is transmitted indigenously before the import of dogs from endemic areas.",
+    "In general, low prevalences of dirofilariasis were found in areas with high altitude or high wind speed."
+  ],
+  "list_see_also": [
+    "area code"
+  ],
+  "list_browse": [
+    "ardour",
+    "arduous",
+    "arduously",
+    "arduousness",
+    "area",
+    "area code",
+    "arena",
+    "arguable",
+    "argue"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043335_7ef25259fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043335_fb3b446786_o.png",
+      "id_image": "area_1809127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306291_15c57d656e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306291_f0946d6b60_o.png",
+      "id_image": "area_1809295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306271_ab61f6e7ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306271_01706de8ff_o.png",
+      "id_image": "area_1968899"
+    }
+  ]
+}

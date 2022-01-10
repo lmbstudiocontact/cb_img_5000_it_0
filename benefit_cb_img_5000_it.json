@@ -1,0 +1,121 @@
+{
+  "english": "benefit",
+  "phat_am": "ˈbenəfit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi ích",
+          "definition": "something good to receive, an advantage",
+          "world_new": [
+            "receive",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At that time, I didn’t have the benefit of experience",
+              "world_new": [
+                "time",
+                "I",
+                "experience"
+              ]
+            },
+            {
+              "ex_of_definition": "the benefits of a healthy diet.",
+              "world_new": [
+                "healthy",
+                "diet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "được lợi",
+          "definition": "(usually with fromor by) to gain advantage",
+          "world_new": [
+            "gain",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He benefited from the advice.",
+              "world_new": [
+                "advice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lợi cho",
+          "definition": "to do good to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The long rest benefited her.",
+              "world_new": [
+                "long",
+                "rest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was a significant additional benefit following training with a high fidelity birth training mannequin compared with traditional training mannequins.",
+    "It allows both systems to be developed in parallel, with benefits of scale for any subsequent commercialisation.",
+    "A challenge in responding to such requests is in determining the comparative benefits and risks of different stem cell transplant methods.",
+    "Psychological inquiry into human prejudice processes also benefits from adaptationist principles.",
+    "Cost utility analysis permits the cost of treatment to be considered according to the amount of benefit afforded to the patients.",
+    "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself.",
+    "However, relatively little benefit may be felt within the school because these roles are fulfilled in an extra-curricular context.",
+    "First we set out the benefits of such a system and evaluate its compatibility with psychological constraints."
+  ],
+  "list_see_also": [
+    "give (someone) the benefit of the doubt"
+  ],
+  "list_browse": [
+    "benediction",
+    "benefactor",
+    "beneficial",
+    "beneficiary",
+    "benefit",
+    "benevolence",
+    "benevolent",
+    "benevolently",
+    "benign"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044690_96bbe7d81a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044690_ed4571e05d_o.png",
+      "id_image": "benefit_2191239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351797_5209822599_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351797_200a49bd96_o.png",
+      "id_image": "benefit_2419567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044635_a624c226d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044635_8a665b36d0_o.png",
+      "id_image": "benefit_5136089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044615_1345292bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044615_692d9d502a_o.png",
+      "id_image": "benefit_5455894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662864_00edfe4a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662864_97bd409a23_o.png",
+      "id_image": "benefit_6303114"
+    }
+  ]
+}

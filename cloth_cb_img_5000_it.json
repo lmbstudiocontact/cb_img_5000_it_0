@@ -1,0 +1,95 @@
+{
+  "english": "cloth",
+  "phat_am": "kloθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vải",
+          "definition": "(a piece of) woven material from which clothes and many other items are made",
+          "world_new": [
+            "piece",
+            "material",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tablecloth",
+              "world_new": [
+                "tablecloth"
+              ]
+            },
+            {
+              "ex_of_definition": "a face cloth",
+              "world_new": [
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "a floor cloth",
+              "world_new": [
+                "floor"
+              ]
+            },
+            {
+              "ex_of_definition": "Woollen cloth is often more expensive than other cloths.",
+              "world_new": [
+                "expensive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I have already provided for the manufacture of utility ready-made and made-to-measure overcoats from cloths weighing up to 22 ozs.",
+    "They consist mainly of cotton and woollen cloths, duck and canvas, narrow fabrics, and machine thread.",
+    "The clothing industry requirement for cheap suits and cloths contributes largely to its inefficiency.",
+    "In the glossary there should be provided standards for all the cloths we know that can be given standards.",
+    "I refer in particular to firms manufacturing industrial cloths.",
+    "Although supplies for the home market improved during 1949, production of these cloths is still substantially below the pre-war level.",
+    "Sheets and pillow cases are not subject to coupon; the only essential rationed household goods are towels and tea cloths.",
+    "Special attention is being given to the provision of cloths suitable for baby garments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "closet",
+    "closeted",
+    "closure",
+    "clot",
+    "cloth",
+    "clothe",
+    "clothes",
+    "clothes hanger",
+    "clothes line"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374212_dccb01ba25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374212_5924c12818_o.png",
+      "id_image": "clothes_1943869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444748_83a910b7bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444748_b3fbd08db5_o.png",
+      "id_image": "cloth_1065107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374347_e9f076bed6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374347_7d660284f2_o.png",
+      "id_image": "cloth_2954883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329701_6dba1d2a8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329701_f3e83e133e_o.png",
+      "id_image": "cloth_3540546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374307_db93310f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374307_2a8573034d_o.png",
+      "id_image": "cloth_4299125"
+    }
+  ]
+}

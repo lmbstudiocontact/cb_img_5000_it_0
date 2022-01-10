@@ -1,0 +1,130 @@
+{
+  "english": "alarm",
+  "phat_am": "əˈlaːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "báo động",
+          "definition": "something that gives warning of danger, attracts attention etc",
+          "world_new": [
+            "warning",
+            "danger",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sound the alarm!"
+            },
+            {
+              "ex_of_definition": "a fire-alarm"
+            },
+            {
+              "ex_of_definition": "(also adjective) an alarm clock.",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sợ hãi",
+          "definition": "sudden fear",
+          "world_new": [
+            "sudden",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We did not share her alarm at the suggestion.",
+              "world_new": [
+                "share",
+                "suggestion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo thức",
+          "definition": "an alarm clock",
+          "world_new": [
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you set the alarm?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho hoảng sợ",
+          "definition": "to make (someone) afraid",
+          "world_new": [
+            "afraid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The slightest sound alarms the old lady.",
+              "world_new": [
+                "slightest",
+                "sound",
+                "old",
+                "lady"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nevertheless, the results suggest that alarm pheromone compounds have significant potential to improve the efficacy of baits for the control of grass-cutting ants.",
+    "In a few other trials the subjects reported an error but did not make one (false alarm).",
+    "The factor income deficit (mainly onerous interests on shortterm credits and to some degree profit remittances) is growing although not alarming so far.",
+    "But soon settlers grew alarmed about the social effects of this new medium.",
+    "Thus, the parent as well as the infant should experience a volition to seek a haven of safety if sufficiently alarmed.",
+    "This sort of behaviour has long sounded critical alarm bells.",
+    "News of royal displeasure could cause alarm, but usually the king sought consensus, through negotiation and discussion, and achieved it.",
+    "But, there were statistically significant group differences in false alarm rates."
+  ],
+  "list_see_also": [
+    "alarming",
+    "alarmingly",
+    "alarmist",
+    "alarm clock"
+  ],
+  "list_browse": [
+    "aisle",
+    "ajar",
+    "akin",
+    "alacrity",
+    "alarm",
+    "alarm clock",
+    "alarming",
+    "alarmingly",
+    "alarmist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361597_666d7f1d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361597_253964f88d_o.png",
+      "id_image": "alarm_1010961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053755_f7e87582d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053755_ed7b7484f2_o.png",
+      "id_image": "alarm_121187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361622_04603bb0ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361622_b16d81a015_o.png",
+      "id_image": "alarm_388490"
+    }
+  ]
+}

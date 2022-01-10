@@ -1,0 +1,96 @@
+{
+  "english": "chemical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hóa học",
+          "definition": "of chemistry",
+          "world_new": [
+            "chemistry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chemical reaction.",
+              "world_new": [
+                "reaction"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hóa chất",
+          "definition": "a substance used in or obtained by a chemical process",
+          "world_new": [
+            "substance",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some chemicals give off harmful fumes.",
+              "world_new": [
+                "harmful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many chemical mediators are known to be released from the site of inflammation.",
+    "No reduction in chemical fertilizer use for potatoes and silage corn was observed and increased crop yields were unlikely.",
+    "Previous studies have suggested that mammalian spermatozoal chromatin is resistant to various physical and chemical disruptions.",
+    "The facility is used for different biological, chemical and aerodynamical experiments.",
+    "Recent years have seen considerable progress in the development of chemical self-replicating systems.",
+    "In addition, the chemical must be economically feasible and must not be hazardous to the environment and other organisms.",
+    "In summary, we used random chemical mutagenesis and screening to find a mouse model for autosomal dominant retinitis pigmentosa.",
+    "These early populations in chickpea often require chemical control to prevent dispersal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cheesed off",
+    "cheesy",
+    "cheetah",
+    "chef",
+    "chemical",
+    "chemical bond",
+    "chemical change",
+    "chemical formula",
+    "chemical symbol"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311221_b028e004a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311221_36c0347513_o.png",
+      "id_image": "chemicals_1486187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311171_46edb995b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311171_82305289e7_o.png",
+      "id_image": "chemicals_1631455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426203_d8a1e2a227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426203_d2fb6fb108_o.png",
+      "id_image": "chemical_1420272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048000_e6b83fede2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048000_acf43450ef_o.png",
+      "id_image": "chemical_416192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047975_352ec4f41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047975_e727a60014_o.png",
+      "id_image": "chemical_752552"
+    }
+  ]
+}

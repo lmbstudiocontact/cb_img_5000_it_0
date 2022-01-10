@@ -1,0 +1,154 @@
+{
+  "english": "chip",
+  "phat_am": "tʃip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sứt",
+          "definition": "to knock or strike small pieces off",
+          "world_new": [
+            "knock",
+            "strike",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This glass (was) chipped when I knocked it over.",
+              "world_new": [
+                "glass",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ sứt",
+          "definition": "a place from which a small piece is broken",
+          "world_new": [
+            "place",
+            "small",
+            "piece",
+            "broken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a chip in the edge of this saucer.",
+              "world_new": [
+                "edge",
+                "saucer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoai tây mỏng rán",
+          "definition": "a cut piece of potato (fried); French fries American",
+          "world_new": [
+            "cut",
+            "piece",
+            "potato"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "steak and chips.",
+              "world_new": [
+                "steak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẻ đánh bạc",
+          "definition": "a counter representing a certain value, used in gambling",
+          "world_new": [
+            "counter",
+            "certain",
+            "value",
+            "gambling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "gaming chips."
+            }
+          ]
+        },
+        {
+          "mean_english": "chíp điện tử",
+          "definition": "a very small printed circuit, as used in computers, TV sets etc",
+          "world_new": [
+            "small",
+            "circuit",
+            "TV"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a silicon chip.",
+              "world_new": [
+                "silicon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If so, which of the chips is unique green?",
+    "Unfortunately, the complexity of modern chips leads to proofs which are beyond the capabilities of current automatic theorem provers.",
+    "At the beginning of the entry or exit period you will receive an amount of chips (endowment).",
+    "The chips will need to be monitored as well as simply read to gain immediate information about its host.",
+    "I put out a coffee can with a sign, the rest of the office chips in, and you take the money to the florist.",
+    "Picking up a tile and checking that it is not cracked, chipped, stained, or otherwise defective.",
+    "Now we are told that chips have been developed that design themselves.",
+    "No open bowls of food such as chips or popcorn were served."
+  ],
+  "list_see_also": [
+    "chip in",
+    "chip off the old block"
+  ],
+  "list_browse": [
+    "china",
+    "chink",
+    "chintz",
+    "chinwag",
+    "chip",
+    "chip in",
+    "chip off the old block",
+    "chipmunk",
+    "chipper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308846_0f45b802a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308846_d73e38dfd2_o.png",
+      "id_image": "chips_2819418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424033_d07dfd03b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424033_7d6e3f1215_o.png",
+      "id_image": "chips_3728168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045865_02637c33d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045865_1dc73896b0_o.png",
+      "id_image": "chips_536103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353132_dea381f6f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353132_b3c654d82f_o.png",
+      "id_image": "chip_750992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308891_5f91af9d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308891_20554b634a_o.png",
+      "id_image": "chip_752568"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "blackhead",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mụn đầu đen",
+          "definition": "a small black-topped lump in a pore of the skin, especially of the face",
+          "world_new": [
+            "small",
+            "lump",
+            "pore",
+            "skin",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a facial mask for cleansing blackheads.",
+              "world_new": [
+                "facial",
+                "mask"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A comedo can be open (blackhead) or closed by skin (whitehead), and occur with or without acne.",
+    "A comedo may be open to the air (blackhead) or closed by skin (whitehead).",
+    "Oxidation rather than poor hygiene or dirt causes blackheads to be black.",
+    "The nematode causes a disease condition called toppling or blackhead disease in plants.",
+    "They are often confused with blackheads, a type of comedo.",
+    "Blackheads can be removed across an area with commercially available pore-cleansing strips or the more aggressive cyanoacrylate method used by dermatologists.",
+    "For this reason, those who frequently erupt with whiteheads or blackheads are advised to avoid topical use of this substance on the skin.",
+    "A characteristic symptom of the infection is the development of cyanotic (bluish) discoloration on the head, giving rise to the common name of the disease, blackhead."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blackboard",
+    "blackbody",
+    "blackcurrant",
+    "blacken",
+    "blackhead",
+    "blacklist",
+    "blackmail",
+    "blackmailer",
+    "blackness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039640_ecf088d87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039640_13a0ea8270_o.png",
+      "id_image": "blackhead_3791189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039635_eb66f6d9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039635_aa564510df_o.png",
+      "id_image": "blackhead_4236991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302931_03d1a4d712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302931_b27823e55e_o.png",
+      "id_image": "blackhead_5221326"
+    }
+  ]
+}

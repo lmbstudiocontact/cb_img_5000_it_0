@@ -1,0 +1,82 @@
+{
+  "english": "advocate",
+  "phat_am": "ˈӕdvəkət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người ủng hộ",
+          "definition": "a supporter, a person who is in favour (of)",
+          "world_new": [
+            "supporter",
+            "person",
+            "favour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is an advocate of reform.",
+              "world_new": [
+                "reform"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luật sư bào chữa",
+          "definition": "a lawyer who defends someone in court.",
+          "world_new": [
+            "lawyer",
+            "court"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tán thành",
+          "definition": "to recommend",
+          "world_new": [
+            "recommend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He advocated increasing the charges."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The advocates of lighthouse reform were thus not merely attacking corruption, they were attacking the very existence of private property in a public service.",
+    "Both authors advocate an eclectic mix of quantitative survey and qualitative interviews for the study of current rural labour transformations.",
+    "Some advocated performing with a mask, others performing with an expressionless or mask-like face.",
+    "Similarly, many are now aware of this polarized notion of the field and some have begun to advocate possible alternatives.",
+    "The model that advocates for separated bilingual lexicons would account for such cross-language differences.",
+    "These groups often advocate on behalf of underrepresented groups in society, which may lead to demands for changes in political institutions and procedures.",
+    "But on closer inspection, it becomes apparent that this is not the only option available to advocates of the politics of compulsion.",
+    "In short, a prioritarian will always find an egalitarian who advocates the same social ranking."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "advisable",
+    "advise",
+    "adviser",
+    "advisory",
+    "advocate",
+    "aerial",
+    "aerobatics",
+    "aerobe",
+    "aerobic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364102_f632c15d78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364102_103ee624c6_o.png",
+      "id_image": "advocate_4827334"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "english": "best",
+  "phat_am": "best",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tốt nhất; đẹp nhất",
+          "definition": "(something which is) good to the greatest extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wrote the best book on the subject",
+              "world_new": [
+                "book",
+                "subject"
+              ]
+            },
+            {
+              "ex_of_definition": "This is the best (that) I can do",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "She is my best friend",
+              "world_new": [
+                "my",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "Which method is (the) best?",
+              "world_new": [
+                "method"
+              ]
+            },
+            {
+              "ex_of_definition": "The flowers are at their best just now.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tốt nhất; hay nhất",
+          "definition": "in the best manner",
+          "world_new": [
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sings best (of all)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bại",
+          "definition": "to defeat",
+          "world_new": [
+            "defeat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was bested in the argument.",
+              "world_new": [
+                "argument"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "best man",
+    "bestseller",
+    "the best part of",
+    "do one’s best",
+    "for the best",
+    "get the best of",
+    "make the best of it"
+  ],
+  "list_browse": [
+    "beset",
+    "beside",
+    "besides",
+    "besiege",
+    "best",
+    "best man",
+    "bestow",
+    "bestowal",
+    "bestseller"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422323_5abe2c3db6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422323_1be484d2a9_o.png",
+      "id_image": "best_1018794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422288_2d1741a064_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422288_b930b972ee_o.png",
+      "id_image": "best_2545695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351227_caa6b8c38f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351227_71db2d4e07_o.png",
+      "id_image": "best_2911198"
+    }
+  ]
+}

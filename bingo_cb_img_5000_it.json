@@ -1,0 +1,67 @@
+{
+  "english": "bingo",
+  "phat_am": "ˈbiŋɡəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài bingo",
+          "definition": "a gambling game using cards with numbered squares",
+          "world_new": [
+            "gambling",
+            "game",
+            "cards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of bingo.",
+              "world_new": [
+                "game"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After closing as a cinema in the fifties, it housed bingo and shops.",
+    "During its time the premises hosted a single-parent club, photographic club, dancing and bingo.",
+    "The bingo logic is frequently used on scratch card games.",
+    "Later that same year, the bingo hall closed its doors for the last time.",
+    "The group reenters and returns to the bingo game.",
+    "Wild numbers allow bingo players to start with multiple called numbers.",
+    "The entire audience would have their own bingo card and would cross off the phrase once it was called out.",
+    "Bingo is also played and a game of snooker can be had anytime the club is open."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bin",
+    "binary",
+    "bind",
+    "binding",
+    "bingo",
+    "binoculars",
+    "biochemical",
+    "biochemist",
+    "biochemistry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041780_06f921228c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041780_d97dd17a14_o.png",
+      "id_image": "bingo_536135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660209_3b35ccd64b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660209_66e56c443b_o.png",
+      "id_image": "bingo_536146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348947_a4ba380a24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348947_cdde78bfc0_o.png",
+      "id_image": "bingo_5798129"
+    }
+  ]
+}

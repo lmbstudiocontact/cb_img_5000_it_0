@@ -1,0 +1,80 @@
+{
+  "english": "barrel",
+  "phat_am": "ˈbӕrəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thùng",
+          "definition": "a container of curved pieces of wood or of metal",
+          "world_new": [
+            "container",
+            "curved",
+            "wood",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The barrels contain beer.",
+              "world_new": [
+                "contain",
+                "beer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nòng súng",
+          "definition": "a long, hollow, cylindrical shape, especially the tube-shaped part of a gun",
+          "world_new": [
+            "long",
+            "hollow",
+            "cylindrical",
+            "shape",
+            "part",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bullet jammed in the barrel of the gun.",
+              "world_new": [
+                "bullet",
+                "gun"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barometric",
+    "baron",
+    "barracks",
+    "barrage",
+    "barrel",
+    "barren",
+    "barrenness",
+    "barricade",
+    "barrier"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669634_f2e50d4eb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669634_9c6e4cfb91_o.png",
+      "id_image": "barrel_123988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314941_d8577d72f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314941_95781f2462_o.png",
+      "id_image": "barrel_1580248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429838_9c69f7955c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429838_e82d48633c_o.png",
+      "id_image": "barrel_827185"
+    }
+  ]
+}

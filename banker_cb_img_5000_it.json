@@ -1,0 +1,72 @@
+{
+  "english": "banker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ ngân hàng",
+          "definition": "a person who owns or manages a bank",
+          "world_new": [
+            "person",
+            "bank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wealthy merchant banker.",
+              "world_new": [
+                "wealthy",
+                "merchant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The others were ecclesiastics, bankers and other commoners.",
+    "Artisans, merchants and even bankers sought to reclaim the losses suffered in such credit transactions at the expense of their employees.",
+    "When events confirmed much of what we said would happen, central bankers began to change.",
+    "Landowners, large industrialists, bankers, and merchants called themselves fuerzas vivas (literally 'living forces '), emphasising their essential contribution to the wellbeing of the nation.",
+    "Therefore, mobility of old bankers (labor demand) is sufficient, without mobility of workers (labor supply).",
+    "Industrialists and bankers, however, appear to have been the exception.",
+    "They are the same for all states, because defecting bankers have the flexibility to represent the state that provides the highest period utility.",
+    "Agents whose histories are a part of the public record are called bankers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bank account",
+    "bank book",
+    "bank holiday",
+    "bank on",
+    "banker",
+    "banker’s card",
+    "banknote",
+    "bankrupt",
+    "bankruptcy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053330_351e0edd93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053330_fb386df858_o.png",
+      "id_image": "banker_1899323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671584_d8c9480c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671584_4ecbcfe328_o.png",
+      "id_image": "banker_1909914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671559_5bdaa16e13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671559_5c2290698e_o.png",
+      "id_image": "banker_1983167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316861_a2af028ba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316861_898aa95bfa_o.png",
+      "id_image": "banker_2365051"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "advertise",
+  "phat_am": "ˈӕdvətaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quảng cáo",
+          "definition": "to make (something) known to the public by any of various methods",
+          "world_new": [
+            "public",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve advertised (my house) in the newspaper",
+              "world_new": [
+                "newspaper"
+              ]
+            },
+            {
+              "ex_of_definition": "I saw that new cat food advertised on TV.",
+              "world_new": [
+                "I",
+                "saw",
+                "cat",
+                "food",
+                "TV"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A total of 720 advertising spots were analyzed.",
+    "Private and especially corporate sponsors might be courted, and once a sponsor is found, the corporation's products would be advertised in a well-publicised exhibition.",
+    "Although disruptive from the point of view of heritage preservation, these two popular practices follow the established conventions of commemorating or advertising a superior achievement.",
+    "Having completed the work, he set about trying to advertise it, but those he approached seemed reluctant to assist him.",
+    "In recent years, several series of advertisements, often for tobacco products, have been deliberately obscure about which product they advertise.",
+    "Interestingly, they have advertising windows dedicated to specific national markets.",
+    "It is not alternative religion these practitioners are advertising but alternative medicine.",
+    "This argument might lead to the conclusion that groups should advertise continuously."
+  ],
+  "list_see_also": [
+    "advertisement",
+    "advertiser",
+    "advertising"
+  ],
+  "list_browse": [
+    "adverse",
+    "adversely",
+    "adversity",
+    "advert",
+    "advertise",
+    "advertisement",
+    "advertiser",
+    "advertising",
+    "advice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674579_592fb55d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674579_dbdd00592e_o.png",
+      "id_image": "advertisement_1208651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434778_8c2988e5cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434778_948d593113_o.png",
+      "id_image": "advertisement_2471424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319756_b1664a85d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319756_5ae4346ab6_o.png",
+      "id_image": "advertise_2472058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056120_b9d5703cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056120_b15e08fe74_o.png",
+      "id_image": "advertising_3827527"
+    }
+  ]
+}

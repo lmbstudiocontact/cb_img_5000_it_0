@@ -1,0 +1,97 @@
+{
+  "english": "bake",
+  "phat_am": "beik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nướng",
+          "definition": "to cook in an oven",
+          "world_new": [
+            "cook",
+            "oven"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to bake (some bread) today"
+            },
+            {
+              "ex_of_definition": "She baked the potatoes.",
+              "world_new": [
+                "baked"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nung",
+          "definition": "to dry or harden by heat",
+          "world_new": [
+            "dry",
+            "harden",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sun is baking the ground dry.",
+              "world_new": [
+                "sun",
+                "baking",
+                "ground",
+                "dry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In my estimation, there should be made easily available for every citizen the best bread that modern milling and baking can produce.",
+    "In furthering this principle, they should have regard to the type of wheat sown for bread baking.",
+    "No; my information is that the two sides of the baking industry are capable of regulating conditions of employment by themselves.",
+    "I am a baker with some special knowledge of the baking and the milling industry.",
+    "We are seeing a possible result of this kind in the baking industry, but it could spread to other areas.",
+    "Small-scale baking to-day ought to disappear just as the hand-loom weaving disappeared all that time ago.",
+    "The ultimate end is the absolute abolition of night baking.",
+    "No one on this side suggests that a trade board could bring about the abolition of night baking."
+  ],
+  "list_see_also": [
+    "baked",
+    "baked beans",
+    "baker",
+    "bakery",
+    "baking",
+    "baking powder",
+    "a baker’s dozen"
+  ],
+  "list_browse": [
+    "bail",
+    "bail out",
+    "bait",
+    "baize",
+    "bake",
+    "baked",
+    "baked beans",
+    "baker",
+    "bakery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319661_272da5681d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319661_c3168b888b_o.png",
+      "id_image": "bake_311781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056200_50a81c1c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056200_6a9122481e_o.png",
+      "id_image": "bake_3690196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434693_c7b2f8f454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434693_8f5cc9c5bd_o.png",
+      "id_image": "bake_3843522"
+    }
+  ]
+}

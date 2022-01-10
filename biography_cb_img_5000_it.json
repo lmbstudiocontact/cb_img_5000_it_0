@@ -1,0 +1,66 @@
+{
+  "english": "biography",
+  "phat_am": "baiˈoɡrəfi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiểu sử",
+          "definition": "a written account by someone of another person’s life",
+          "world_new": [
+            "account",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a biography of Admiral Nelson."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are other indications, however, that the biography of a house did not necessarily end with the end of habitation of the farmstead.",
+    "The exemplar biographies and contrasting employment histories clearly reveal considerable variability in the pension outcomes and several complexities in the social division of occupational welfare.",
+    "Sublime genres, such as the ode, the historical novel, and the heroic biography, were in demand in many empires.",
+    "It is also important that we can compare the contrasting biographies of houses, cemeteries, land divisions and enclosures.",
+    "Despite these differences a full employment biography guaranteed a pension worth at least 70% of a wage earner's last net wage.",
+    "This book permits the reader to see the many parallels between the biographies of the two lingua francas and the positions adopted by their elites.",
+    "But perhaps a biography, any biography, my biography, is basically chaotic, without much clear sense, governed by chance and coincidence!",
+    "This collective biography is a painstaking and very informative reconstruction of the lives of a number of these reformist intellectuals."
+  ],
+  "list_see_also": [
+    "biographer",
+    "biographical"
+  ],
+  "list_browse": [
+    "biodiversity",
+    "biofuel",
+    "biographer",
+    "biographical",
+    "biography",
+    "biological",
+    "biological warfare",
+    "biologically",
+    "biologist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348727_be0d24d60d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348727_7229af0208_o.png",
+      "id_image": "biography_3079112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041365_283aa723f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041365_67ebed7c57_o.png",
+      "id_image": "biography_3500513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659824_1f31c5ed0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659824_069f5effcf_o.png",
+      "id_image": "biography_3839656"
+    }
+  ]
+}

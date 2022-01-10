@@ -1,0 +1,308 @@
+{
+  "english": "clear",
+  "phat_am": "kliə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trong suốt",
+          "definition": "easy to see through; transparent",
+          "world_new": [
+            "easy",
+            "see",
+            "transparent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "clear glass.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong trẻo",
+          "definition": "free from mist or cloud",
+          "world_new": [
+            "free",
+            "mist",
+            "cloud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Isn’t the sky clear!",
+              "world_new": [
+                "sky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng",
+          "definition": "easy to see, hear or understand",
+          "world_new": [
+            "easy",
+            "see",
+            "hear",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clear explanation",
+              "world_new": [
+                "explanation"
+              ]
+            },
+            {
+              "ex_of_definition": "The details on that photograph are very clear.",
+              "world_new": [
+                "photograph"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không có trở ngại",
+          "definition": "free from difficulty or obstacles",
+          "world_new": [
+            "free",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a clear road ahead and we soon arrived at Jacksonville.",
+              "world_new": [
+                "road",
+                "ahead",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong sạch",
+          "definition": "free from guilt etc",
+          "world_new": [
+            "free",
+            "guilt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a completely a clear conscience.",
+              "world_new": [
+                "I",
+                "completely",
+                "conscience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng",
+          "definition": "free from doubt etc",
+          "world_new": [
+            "free",
+            "doubt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you quite clear about what I mean?",
+              "world_new": [
+                "quite",
+                "I",
+                "mean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không gặp khó khăn trở ngại",
+          "definition": "(often with of) without (risk of) being touched, caught etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is the ship clear of the rocks?",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "They were finally clear of danger.",
+              "world_new": [
+                "finally",
+                "danger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giũ bỏ",
+          "definition": "(often with of) free",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is now clear of debt",
+              "world_new": [
+                "debt"
+              ]
+            },
+            {
+              "ex_of_definition": "The patient is clear of all infection.",
+              "world_new": [
+                "patient",
+                "infection"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dọn sạch",
+          "definition": "to make or become free from obstacles etc",
+          "world_new": [
+            "become",
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cleared the table",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "I cleared my throat",
+              "world_new": [
+                "I",
+                "my",
+                "throat"
+              ]
+            },
+            {
+              "ex_of_definition": "He cleared the path of debris.",
+              "world_new": [
+                "path",
+                "debris"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "minh oan",
+          "definition": "(often with of) to prove the innocence of; to declare to be innocent",
+          "world_new": [
+            "prove",
+            "innocence",
+            "declare",
+            "innocent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was cleared of all charges."
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên trong trẻo",
+          "definition": "(of the sky etc) to become bright, free from cloud etc",
+          "world_new": [
+            "sky",
+            "become",
+            "bright",
+            "free",
+            "cloud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky cleared and the sun came out.",
+              "world_new": [
+                "sky",
+                "sun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vuợt qua",
+          "definition": "to get over or past something without touching it",
+          "world_new": [
+            "touching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse cleared the jump easily.",
+              "world_new": [
+                "horse",
+                "jump",
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another process that affects the higher desiccation rate of cleared areas is the diurnal cycle of temperature and wind.",
+    "The spatial expansion of agriculture is determined by what farmers can earn from clearing forest compared to other income sources.",
+    "Nematodes were collected, fixed, and cleared for examination with lactophenol.",
+    "In particular, they contributed to a clearer conclusion and drew my attention to the possibility of reflecting proof-irrelevance at the level of the theory.",
+    "The vocal density clears to a single voice and two male voices describe what can be seen in a number of squares.",
+    "The bootstrap's distinctive advantage over parametric inference is clearest when there is no parametric inference alternative.",
+    "The transformation observed in visual perception gives us the clearest insight into the nature of this unique computational strategy.",
+    "Identification of additional molecules that are involved in the trophic support of neurons by glia will lead to a clearer picture of nervous system development."
+  ],
+  "list_see_also": [
+    "clearance",
+    "clearing",
+    "clearly",
+    "clearness",
+    "clear-cut",
+    "clearway",
+    "clear off",
+    "clear out",
+    "clear up",
+    "get clear away",
+    ""
+  ],
+  "list_browse": [
+    "cleanliness",
+    "cleanly",
+    "cleanse",
+    "cleanser",
+    "clear",
+    "clear off",
+    "clear out",
+    "clear up",
+    "clear-cut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348507_d0f16581d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348507_266e9aaa46_o.png",
+      "id_image": "clear_1719139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419308_be9b72f7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419308_7726bfc205_o.png",
+      "id_image": "clear_2598786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419293_dc7bb3366b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419293_d46a191821_o.png",
+      "id_image": "clear_4647935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659624_62391c526e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659624_8c16e1a4cc_o.png",
+      "id_image": "clear_552424"
+    }
+  ]
+}

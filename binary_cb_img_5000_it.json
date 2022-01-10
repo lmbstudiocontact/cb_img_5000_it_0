@@ -1,0 +1,62 @@
+{
+  "english": "binary",
+  "phat_am": "ˈbainəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhị phân",
+          "definition": "the system of writing and calculating with numbers which uses only two digits (0 and 1) and has 2 as a base (101 = 1 four, 0 twos, 1 unit = 5)",
+          "world_new": [
+            "system",
+            "base",
+            "unit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Computers are based on the binary system.",
+              "world_new": [
+                "system"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mapping between surface and lexical levels is reduced to a single function call and two simple conversions from text to binary, and vice versa.",
+    "In this paper, we will focus on recursive trees and binary search trees as underlying classes of trees.",
+    "To explore further the relationship between the socio-demographic characteristics of the respondents and insecurity, a binary logistic regression model was calibrated.",
+    "These binary variables are coded positive if the symptom score is greater than or equal to 0.5, and zero otherwise.",
+    "In practice, ways of arranging difference are likely to be a mixture of the two, and binary oppositions us:not-us - are always a temptation.",
+    "We now describe a model for the evolution of binary sequences on a tree.",
+    "Such a ' binary ' approach could in principle be extended to vowel sonority.",
+    "The final syllable can support a stressed foot since it is binary at the level of the mora."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "billowy",
+    "billy goat",
+    "bimonthly",
+    "bin",
+    "binary",
+    "bind",
+    "binding",
+    "bingo",
+    "binoculars"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304956_788599c001_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304956_1955045156_o.png",
+      "id_image": "binary_1018797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349132_f0f83c7087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349132_20f4ce7f65_o.png",
+      "id_image": "binary_1465882"
+    }
+  ]
+}

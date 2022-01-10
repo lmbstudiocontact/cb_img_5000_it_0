@@ -1,0 +1,91 @@
+{
+  "english": "cassette",
+  "phat_am": "kəˈset",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cát xét",
+          "definition": "a plastic container holding photographic film or magnetic tape",
+          "world_new": [
+            "plastic",
+            "container",
+            "photographic",
+            "film",
+            "magnetic",
+            "tape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve put a new cassette in my camera",
+              "world_new": [
+                "my",
+                "camera"
+              ]
+            },
+            {
+              "ex_of_definition": "I bought a cassette of Scottish music",
+              "world_new": [
+                "I",
+                "music"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a cassette recorder.",
+              "world_new": [
+                "recorder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mural, new vocabulary, and the stories (listened to on the cassette player or read aloud by the teacher) are recurring aspects of each theme.",
+    "A cassette recorder was used to audio-record the experiment.",
+    "Their most popular recordings were also distributed via the informal cassette market.",
+    "It is under these names that one would normally find in a shop, the commercial cassettes and videotapes referred to here.",
+    "On the streets of the capital you can see men with a double-deck cassette player and a menu of tapes.",
+    "The accompanying cassettes provide a facility for self-study and explanatory background information.",
+    "Radio and cassette recorders are expensive, and there is usually no electricity to power them.",
+    "An important part of the journal's production is the annual cassette tape with music examples related to articles published during the year."
+  ],
+  "list_see_also": [
+    "cassette player"
+  ],
+  "list_browse": [
+    "cask",
+    "casket",
+    "cassava",
+    "casserole",
+    "cassette",
+    "cassette player",
+    "cassia",
+    "cassock",
+    "cast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676459_5b673f17ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676459_c4d67fe326_o.png",
+      "id_image": "cassette_1544422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366252_83f0cae554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366252_0db66683d4_o.png",
+      "id_image": "cassette_1923928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366342_20fe524dcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366342_7eaa670ebd_o.png",
+      "id_image": "cassette_526480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436648_02563cf151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436648_067888c4a2_o.png",
+      "id_image": "cassette_550474"
+    }
+  ]
+}

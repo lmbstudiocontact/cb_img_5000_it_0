@@ -1,0 +1,68 @@
+{
+  "english": "blueprint",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản kế hoạch",
+          "definition": "a detailed photographic plan of work to be carried out",
+          "world_new": [
+            "detailed",
+            "photographic",
+            "plan",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the blueprints for a new aircraft.",
+              "world_new": [
+                "aircraft"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His words about how international arrangements grow up, as opposed to all the blueprints about them, were most striking.",
+    "Very often those rigid blueprints simply reflect the views of those who are going to work in them initially.",
+    "Their studies can embrace the wider prospects for improving harbour facilities so that blueprints will exist should further commercial development seem justified.",
+    "In the end, as some of us have learned from parliamentary experience, grandiose designs often remain blueprints while less ambitious schemes such as this oft-times reach total fulfilment.",
+    "What use then will there be in blueprints for a hospital ship?",
+    "As long as the provider uses systematically developed blueprints flexibly, they can be useful guides to assessment and intervention at particular stages for particular problems.",
+    "In contemporary economies, the most important assets are immaterial: blueprints and production methods are often much more costly1 and valuable than machinery and land.",
+    "There are no blueprints available on the management of the planning process, including the regional research priority-setting approaches and methods to be used."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bluebell",
+    "blueberry",
+    "bluebottle",
+    "blueness",
+    "blueprint",
+    "Bluetooth",
+    "bluff",
+    "bluish",
+    "blunder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443053_b013cbfc98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443053_888463988c_o.png",
+      "id_image": "blueprint_585466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683014_cdc49af2ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683014_535caef313_o.png",
+      "id_image": "blueprint_735188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442928_cf6bd280ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442928_75a911b034_o.png",
+      "id_image": "blueprint_786815"
+    }
+  ]
+}

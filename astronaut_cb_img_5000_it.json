@@ -1,0 +1,73 @@
+{
+  "english": "astronaut",
+  "phat_am": "ˈӕstrənoːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà du hành vũ trụ",
+          "definition": "a person who travels in space",
+          "world_new": [
+            "person",
+            "travels",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who was the first astronaut to land on the moon?",
+              "world_new": [
+                "land",
+                "moon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The people aboard the vehicle are astronauts who think that they are going somewhere when they are going nowhere.",
+    "A few years ago, people would have scoffed at the suggestion of a female astronaut, let alone females in every profession.",
+    "We now go round the globe at just about 25,000 miles an hour, or at least the astronauts do.",
+    "There is also the whole field of creating new foods which can be used by astronauts on the journey.",
+    "First, in order to engage the child in the procedure, the experimenter told the child to pretend that s/he was an astronaut flying through an asteroid field.",
+    "When the astronaut goes into the computer and takes out the memory modules, the body of the computer is brought into view.",
+    "Such an automated remote sensing system would greatly reduce astronaut time required for monitoring crop productivity.",
+    "I do not understand about the astronauts and the bus."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "astride",
+    "astrologer",
+    "astrological",
+    "astrology",
+    "astronaut",
+    "astronomer",
+    "astronomical",
+    "astronomically",
+    "astronomy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346607_95e2d29202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346607_8a4ef41c72_o.png",
+      "id_image": "astronaut_167318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346602_ff408c732e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346602_2e59e52c2a_o.png",
+      "id_image": "astronaut_421626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809657584_6cb0b54a76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809657584_0cd661348c_o.png",
+      "id_image": "astronaut_6195676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346567_277747ec31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346567_8b1602c7c2_o.png",
+      "id_image": "astronaut_6195707"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "cheap",
+  "phat_am": "tʃiːp",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rẻ",
+          "definition": "low in price",
+          "world_new": [
+            "low",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Eggs are cheap just now."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc chất lượng kém",
+          "definition": "of poor quality; vulgar; contemptible",
+          "world_new": [
+            "poor",
+            "contemptible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everything in the room had a cheap look about it",
+              "world_new": [
+                "room",
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "a cheap trick.",
+              "world_new": [
+                "trick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cheaply",
+    "cheapness"
+  ],
+  "list_browse": [
+    "chauffeur",
+    "chauvinism",
+    "chauvinist",
+    "chauvinistic",
+    "cheap",
+    "cheaply",
+    "cheapness",
+    "cheat",
+    "check"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667494_c0da67d740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667494_72a3d46bc9_o.png",
+      "id_image": "cheap_1259997"
+    }
+  ]
+}

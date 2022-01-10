@@ -1,0 +1,85 @@
+{
+  "english": "battle",
+  "phat_am": "ˈbӕtl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trận đánh",
+          "definition": "a fight between opposing armies or individuals",
+          "world_new": [
+            "fight",
+            "opposing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Battle of Britain"
+            },
+            {
+              "ex_of_definition": "The two sides fought a fierce battle.",
+              "world_new": [
+                "fierce"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiến đấu",
+          "definition": "to fight",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Firefighters battled to gain control of the blaze.",
+              "world_new": [
+                "gain",
+                "control",
+                "blaze"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "battleaxe",
+    "battlefield",
+    "battleship"
+  ],
+  "list_browse": [
+    "batten",
+    "batter",
+    "battered",
+    "battery",
+    "battle",
+    "battleaxe",
+    "battlefield",
+    "battleship",
+    "batty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667539_d880c35a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667539_5e70b4e98d_o.png",
+      "id_image": "battle_1469810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667499_57d65a74fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667499_9414c2c60c_o.png",
+      "id_image": "battle_2507971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356672_32e550dafe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356672_5928d6d85c_o.png",
+      "id_image": "battle_2671422"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "autumn",
+  "phat_am": "ˈoːtəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mùa thu",
+          "definition": "the season of the year when leaves change colour and fall and fruits ripen; fall American",
+          "world_new": [
+            "season",
+            "year",
+            "change",
+            "colour",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Daylight gets shorter in the autumn."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "autumnal"
+  ],
+  "list_browse": [
+    "autopsy",
+    "autotroph",
+    "autotrophic",
+    "autotrophy",
+    "autumn",
+    "autumnal",
+    "auxiliary",
+    "auxiliary verb",
+    "avail"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439788_64bfd4c31a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439788_fb75c9300a_o.png",
+      "id_image": "autumn_2153158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439763_1131df7d14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439763_7940011948_o.png",
+      "id_image": "autumn_4968404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061550_7070a9c628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061550_4d2effee1c_o.png",
+      "id_image": "autumn_5265609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679814_e721000b58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679814_d177683c45_o.png",
+      "id_image": "autumn_5392259"
+    }
+  ]
+}

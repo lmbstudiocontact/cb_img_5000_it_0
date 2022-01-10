@@ -1,0 +1,102 @@
+{
+  "english": "awkward",
+  "phat_am": "ˈoːkwəd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vụng về",
+          "definition": "not graceful or elegant",
+          "world_new": [
+            "graceful",
+            "elegant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an awkward movement.",
+              "world_new": [
+                "movement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúng túng/ ngượng nghịu",
+          "definition": "difficult or causing difficulty, embarrassment etc",
+          "world_new": [
+            "difficult",
+            "difficulty",
+            "embarrassment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kept asking her awkward questions"
+            },
+            {
+              "ex_of_definition": "There was an awkward silence when he mentioned her ex-husband",
+              "world_new": [
+                "silence"
+              ]
+            },
+            {
+              "ex_of_definition": "The electric socket is in an awkward place.",
+              "world_new": [
+                "electric",
+                "socket",
+                "place"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We find that these features are necessary to avoid awkward designs, poor maintainability, and painfully verbose code.",
+    "When read by itself, this weaker statement appears awkward and ad hoc.",
+    "Words like awkward and coyote can be described as having informative beginnings, because they start with uncommon trigrams.",
+    "Some of the clients reported, however, that asking aiders to do extra could put them in an awkward position.",
+    "Furthermore, defining the branches of the polytypic function as records is somewhat awkward, and could be improved with specialized syntax.",
+    "The pronoun it might have been a bit awkward here followed by plus.",
+    "The opening phrases' serrated profile thematises awkward melodic disjunctures.",
+    "He knew that she would find it awkward, if not unacceptable, for his subordinate to address him by his first name."
+  ],
+  "list_see_also": [
+    "awkwardly",
+    "awkwardness"
+  ],
+  "list_browse": [
+    "awful",
+    "awfully",
+    "awfulness",
+    "awhile",
+    "awkward",
+    "awkwardly",
+    "awkwardness",
+    "awning",
+    "awry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438738_9c0b64b7a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438738_f7c18e796c_o.png",
+      "id_image": "awkward_1128916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323596_806d082535_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323596_b538284ac9_o.png",
+      "id_image": "awkward_2341942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368617_33336e2ef1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368617_eac259f93f_o.png",
+      "id_image": "awkward_520437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060400_640b93b4e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060400_cd408c89e9_o.png",
+      "id_image": "awkward_6000710"
+    }
+  ]
+}

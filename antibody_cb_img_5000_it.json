@@ -1,0 +1,71 @@
+{
+  "english": "antibody",
+  "phat_am": "(British) ˈæntiˌbodi; (American) ˈæntiːˌbodiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kháng thể",
+          "definition": "a substance produced by your body in the blood to fight disease",
+          "world_new": [
+            "substance",
+            "your",
+            "body",
+            "blood",
+            "fight",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Antibodies are produced by the body’s immune system.",
+              "world_new": [
+                "immune",
+                "system"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this higher detection rate does not explain the results of the antibody analysis.",
+    "This time is determined as the cycle at which the number of parasites exceeds the antibody trigger level plus a specified lag time.",
+    "Treatment just before the antibodies are triggered results in a very high probability of selecting a drug-resistant population.",
+    "As a detection reagent for biological substances, antibodies have the advantage of being conformational, rather than sequence-dependent.",
+    "If the participation of the former type of antibody were predominant or exclusive, sera would show similar reactivities against all antigens.",
+    "Furthermore, for immunological analysis it is difficult to exclude the possibility that the parasites carry antibody derived from the host.",
+    "We have also reviewed studies involving animal models, the analysis of human antibody sequences and studies of, and using, computer modelling and crystal structure.",
+    "At interview, a blood sample was collected and assayed for influenza antibodies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anti-Semite",
+    "anti-Semitic",
+    "anti-Semitism",
+    "antibiotic",
+    "antibody",
+    "anticipate",
+    "anticipation",
+    "anticlimax",
+    "anticlockwise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047120_032091e2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047120_3e6cfdac5e_o.png",
+      "id_image": "antibody_4171461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425298_c23f8bed6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425298_11307ca9a5_o.png",
+      "id_image": "antibody_5806374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310211_fb6dbe666e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310211_56db9f6315_o.png",
+      "id_image": "antibody_5903758"
+    }
+  ]
+}

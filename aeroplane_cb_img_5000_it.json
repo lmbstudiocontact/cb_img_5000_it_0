@@ -1,0 +1,62 @@
+{
+  "english": "aeroplane",
+  "phat_am": "ˈeərəplein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy bay",
+          "definition": "a machine for flying which is heavier than air and has wings",
+          "world_new": [
+            "machine",
+            "air",
+            "wings"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a jet aeroplane/airplane.",
+              "world_new": [
+                "jet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then application of passengers to the aeroplane depends on the order of registration, but this is rational, that is, spiritual.",
+    "If one were to follow the course of the moon far enough by aeroplane, one would even be able to see it on the 27th or the 28th.",
+    "From an appreciation of bridges, ships and aeroplanes he extrapolates three tenets of good construction: economy of material, structural expression and industrialisation of building.",
+    "We must remember, too, the very great economies that come from having a common engine in more than one type of aeroplane.",
+    "This is a commercial aeroplane in which people are going to fly and which is going to be run by airlines.",
+    "As any building is located in (aeroplanes, machinery and so on).",
+    "For example, upon boarding an aeroplane the majority of us enter an expert system of which we have no technical knowledge.",
+    "This relation is surreal because of the unusually low frequency content of the drone, its increase in dynamic level27 and the exaggerated reverberation: the behaviour of the aeroplane is impossible."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aerodynamic",
+    "aerodynamics",
+    "aeronautical",
+    "aeronautics",
+    "aeroplane",
+    "aerosol",
+    "aerospace",
+    "aesthetic",
+    "aesthetically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363967_fd053e362a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363967_35936033c1_o.png",
+      "id_image": "aeroplane_1737511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434408_96607b1b3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434408_719d994e2e_o.png",
+      "id_image": "aeroplane_1737512"
+    }
+  ]
+}

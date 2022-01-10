@@ -1,0 +1,65 @@
+{
+  "english": "airfare",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá vé đi máy bay",
+          "definition": "the price of a ticket to fly on a plane",
+          "world_new": [
+            "price",
+            "ticket",
+            "fly",
+            "plane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The travel agency specializes in cheap airfares to Europe.",
+              "world_new": [
+                "travel",
+                "agency",
+                "cheap"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, a couple may list dinner at an elegant restaurant, scuba diving lessons, or portions of hotel and airfare.",
+    "This prediction has come true, as vast numbers of business travelers are buying airfares only in economy class for business travel.",
+    "Travel agent websites allow any web surfer to retrieve multiple airlines' schedules and up-to-the-minute airfares, but search results invariably display a wide dispersion of fares for similar itineraries.",
+    "Board members and international volunteers pay all of their own expenses, including airfare, room and board.",
+    "For this race, the supplied credit card covers not only airfare, but also gasoline.",
+    "Airfare to and from the destination is not included.",
+    "The bill would define base airfare to mean the cost of passenger air transportation, excluding government-imposed taxes and fees.",
+    "As part of the teaching package, schools often offer their teachers free housing and round trip air-fare."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "airbag",
+    "airborne",
+    "aircraft",
+    "aircraft carrier",
+    "airfare",
+    "airfield",
+    "airgun",
+    "airhead",
+    "airily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053980_1e7191e6e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053980_563d7d1b12_o.png",
+      "id_image": "airfare_1719599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672209_052c5ee294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672209_56f03ab3d2_o.png",
+      "id_image": "airfare_1725489"
+    }
+  ]
+}

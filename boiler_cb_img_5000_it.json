@@ -1,0 +1,79 @@
+{
+  "english": "boiler",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nồi nấu",
+          "definition": "a vessel in which water is heated or steam is produced",
+          "world_new": [
+            "vessel",
+            "water",
+            "heated",
+            "steam"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot water boiler.",
+              "world_new": [
+                "hot",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, a comparative study of the station incinerator emissions with respect to other station emission sources (powerhouse generators, boilers, and vehicles) was conducted.",
+    "Selling the steam from your refuse destructor boilers is one way.",
+    "The above data, along with the data on the efficiency of the new boilers, are used to calculate the production and the emission parameters for the high-efficiency boilers.",
+    "Table 4 shows the total private costs of the high-efficiency boilers at each level of tax.",
+    "To this there are some exceptions in the case of low-capacity boilers for which estimates are drawn from emission factors.",
+    "They refused to put in the right kind of boilers and so on.",
+    "However, blending is constrained by the existing boilers used by the thermal power plants.",
+    "If the boilers serve the whole hospital, is that included?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bogus",
+    "boil",
+    "boil down to",
+    "boil over",
+    "boiler",
+    "boiling point",
+    "boisterous",
+    "bold",
+    "bold as brass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062905_0b069cae88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062905_a475b2b939_o.png",
+      "id_image": "boiler_1267818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441033_7aa87a70c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441033_bda590cfb5_o.png",
+      "id_image": "boiler_1484371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062825_fb91eb1513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062825_3de3eee19e_o.png",
+      "id_image": "boiler_1581265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062810_151aa8a09c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062810_f262344220_o.png",
+      "id_image": "boiler_2302564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370717_97962b5b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370717_dc64afcde8_o.png",
+      "id_image": "boiler_4427218"
+    }
+  ]
+}

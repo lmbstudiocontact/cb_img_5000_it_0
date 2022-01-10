@@ -1,0 +1,78 @@
+{
+  "english": "artistic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có năng khiếu nghệ thuật",
+          "definition": "liking or skilled in painting, music etc",
+          "world_new": [
+            "liking",
+            "skilled",
+            "painting",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She draws and paints – she’s very artistic."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ thuật",
+          "definition": "created or done with skill and good taste",
+          "world_new": [
+            "skill",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That flower arrangement looks very artistic.",
+              "world_new": [
+                "flower",
+                "arrangement",
+                "looks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here we are treated to a detailed account of the historical and artistic uses of travertines.",
+    "There are many reasons for this, including changes in artistic and business leadership.",
+    "Writers have characterised some relationships as arbitrary, whimsical, awkward or confusing, yet celebrated the carefully studied asymmetry of others as an artistic tour-de-force.",
+    "The addition of illustrations was associated with the general artistic upgrading of songs in the first quarter of the century.",
+    "The material and musical evidence situates at least some motets much further down the scale of artistic hierarchy than many scholars have imagined.",
+    "Like the women whose artistic work these books explore, all three authors are demonstrably as learned as they are virtuosic.",
+    "The risk-taking necessary for artistic enterprise was becoming less common.",
+    "They felt as if they were in a ' toyland ' country, inhabited by artistic people, and decorated with beautiful, easily accessible women."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "artillery",
+    "artisan",
+    "artist",
+    "artiste",
+    "artistic",
+    "artistic licence",
+    "artistically",
+    "artistry",
+    "arts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041160_9f202c0556_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041160_0da36d1f5a_o.png",
+      "id_image": "artistic_360141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304311_5c8f2b0984_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304311_3b0b5611ca_o.png",
+      "id_image": "artistic_5100265"
+    }
+  ]
+}

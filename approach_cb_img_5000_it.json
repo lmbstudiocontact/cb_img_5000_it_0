@@ -1,0 +1,131 @@
+{
+  "english": "approach",
+  "phat_am": "əˈprəutʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đến gần",
+          "definition": "to come near (to)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car approached (the traffic lights) at top speed",
+              "world_new": [
+                "car",
+                "traffic",
+                "top",
+                "speed"
+              ]
+            },
+            {
+              "ex_of_definition": "Christmas is approaching.",
+              "world_new": [
+                "Christmas",
+                "approaching"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đến gần",
+          "definition": "the act of coming near",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boys ran off at the approach of a policeman.",
+              "world_new": [
+                "policeman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lối vào",
+          "definition": "a road, path etc leading to a place",
+          "world_new": [
+            "road",
+            "path",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the approaches to the village were blocked by floods.",
+              "world_new": [
+                "village",
+                "blocked"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tiếp cận",
+          "definition": "an attempt to obtain or attract a person’s help, interest etc",
+          "world_new": [
+            "attempt",
+            "obtain",
+            "attract",
+            "help",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have made an approach to the government for help",
+              "world_new": [
+                "government",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "That fellow makes approaches to (= he tries to become friendly with) every woman he meets.",
+              "world_new": [
+                "fellow",
+                "become",
+                "friendly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This indicator aimed to validate teachers' approach to lesson planning while attempting to link teacher thinking and administrator thinking through a shared discourse.",
+    "At the outer edges of the plume, however, the production and destruction terms rapidly approach zero and advection and transport balance each other.",
+    "The nearer that this model is approached, the more successful a purely quantitative approach will be, as in drug trials.",
+    "Constructions: a construction grammar approach to argument structure.",
+    "This more holistic approach is supposedly reflected in the importance now accorded to social and psychological aspects of the disabling process.",
+    "Involving consumers in assessing service quality : benefits of using a qualitative approach.",
+    "His approach to psychopathology was sceptical and philosophical; and he never created his own school of psychiatric, let alone psychopathological, teaching.",
+    "The third approach uses planning effects on task performance to investigate how learners monitor their language."
+  ],
+  "list_see_also": [
+    "approachable",
+    "approaching"
+  ],
+  "list_browse": [
+    "apprehensively",
+    "apprehensiveness",
+    "apprentice",
+    "apprenticeship",
+    "approach",
+    "approachable",
+    "approaching",
+    "approbation",
+    "appropriate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044595_dc8ce927cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044595_d457e8cc92_o.png",
+      "id_image": "approach_2191189"
+    }
+  ]
+}

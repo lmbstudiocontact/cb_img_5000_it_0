@@ -1,0 +1,95 @@
+{
+  "english": "choke",
+  "phat_am": "tʃəuk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghẹt thở",
+          "definition": "to (cause to) stop, or partly stop, breathing",
+          "world_new": [
+            "stop",
+            "partly",
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The gas choked him",
+              "world_new": [
+                "gas"
+              ]
+            },
+            {
+              "ex_of_definition": "He choked to death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tắc",
+          "definition": "to block",
+          "world_new": [
+            "block"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This pipe was choked with dirt.",
+              "world_new": [
+                "pipe",
+                "dirt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bướm gió",
+          "definition": "an apparatus in a car engine etc to prevent the passage of too much air when starting the engine",
+          "world_new": [
+            "apparatus",
+            "car",
+            "engine",
+            "prevent",
+            "passage",
+            "air",
+            "engine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll need to use the choke to get the bike started when it’s cold.",
+              "world_new": [
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chloroplast",
+    "chocolate",
+    "choice",
+    "choir",
+    "choke",
+    "cholera",
+    "cholesterol",
+    "choose",
+    "chop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045220_c638eafaf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045220_e3ce29dab5_o.png",
+      "id_image": "choke_4658059"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "biofuel",
+  "phat_am": "(British) ˈbaiouˌfjuəl; (American) ˈbaiouˌfjuːəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiên liệu sinh học",
+          "definition": "fuel that is made from renewable plant or animal sources, for example ethanol, methane, or wood",
+          "world_new": [
+            "fuel",
+            "renewable",
+            "plant",
+            "animal",
+            "example",
+            "methane",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the growing demand for biofuel",
+              "world_new": [
+                "demand"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the biofuel industry.",
+              "world_new": [
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using it for biofuel crop production—for biodiesel, short-rotation coppicing or elephant grass to fuel combined heat and power plants—would have multiple benefits.",
+    "We must take care to maintain the balance between the development of biofuels and food security, especially in these critical times.",
+    "That support must, however, ensure that the production of biofuels proceeds on the basis of their relative worth and their positive effect on the environment.",
+    "The unique value of inulin and the tuber in human and animal diets, and for biofuel uses are explained.",
+    "The addition of biofuels enables immediate reduction in pollution thanks to their zero sulphur compound content and their capacity to improve combustion.",
+    "They offer better greenhouse gas performance and improve security of supply by widening the range of feedstocks from which biofuels can be made.",
+    "One alternative consisted of producing biofuel for traction from rapeseed on the farm using a low-technology method suitable for individual farms (scenario 2).",
+    "One of the causes of the rise in food prices is undoubtedly the rapid increase in production of biofuels."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biochemist",
+    "biochemistry",
+    "biodegradable",
+    "biodiversity",
+    "biofuel",
+    "biographer",
+    "biographical",
+    "biography",
+    "biological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041425_04fc43119c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041425_215f91882b_o.png",
+      "id_image": "biofuel_2997194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419543_cecc091e16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419543_e5752ed500_o.png",
+      "id_image": "biofuel_4815214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041385_81e443c852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041385_1aa9178317_o.png",
+      "id_image": "biofuel_4815558"
+    }
+  ]
+}

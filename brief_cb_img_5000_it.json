@@ -1,0 +1,125 @@
+{
+  "english": "brief",
+  "phat_am": "briːf",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngắn gọn",
+          "definition": "not long; short",
+          "world_new": [
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a brief visit",
+              "world_new": [
+                "visit"
+              ]
+            },
+            {
+              "ex_of_definition": "He gave us a brief account of what happened.",
+              "world_new": [
+                "account"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản tóm tắt của luật sư bào chữa",
+          "definition": "a short statement of facts (especially in a lawsuit, of a client’s case)",
+          "world_new": [
+            "short",
+            "statement",
+            "lawsuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lawyer’s brief."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ dẫn chi tiết",
+          "definition": "to give detailed instructions to (especially a barrister, group of soldiers etc)",
+          "world_new": [
+            "detailed",
+            "barrister",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The astronauts were briefed before the space mission.",
+              "world_new": [
+                "space",
+                "mission"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I chose it because it is recent, brief and relevant to ordinary people.",
+    "In every chapter the narrative is given colour by local case studies from urban and rural congregations, brief vignettes of church leaders and telling incidents.",
+    "Its antidepressant effect is usually brief ; indeed, full or partial relapse usually follows recovery sleep or even short naps.",
+    "Patients diagnosed with depression, or mixed anxiety and depression, for whom a brief psychological intervention was indicated.",
+    "The twelve physiotherapists trained in the brief intervention delivered both treatments offered in the trial, while the remaining physiotherapists provided only usual physiotherapy.",
+    "However, it is possible that use of relatively inexperienced staff with only brief training made the intervention less effective.",
+    "Having outlined our methodological wish list and defined our key independent variables, we turn to a brief discussion of our dependent variables.",
+    "Titles should be brief, but informative, and should indicate the nature of the contents, not their import."
+  ],
+  "list_see_also": [
+    "briefing",
+    "briefly",
+    "briefs",
+    "brevity",
+    "briefcase",
+    "in brief"
+  ],
+  "list_browse": [
+    "bridegroom",
+    "bridesmaid",
+    "bridge",
+    "bridle",
+    "brief",
+    "briefcase",
+    "briefing",
+    "briefly",
+    "briefs"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670744_94c971b7d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670744_3978b6a070_o.png",
+      "id_image": "briefing_1265879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360302_6019c4b25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360302_9775272d66_o.png",
+      "id_image": "briefing_1999235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360232_449651e72a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360232_6a74b0a7ff_o.png",
+      "id_image": "briefing_3050479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360207_24f30ef3c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360207_9e26da99c4_o.png",
+      "id_image": "briefing_4213340"
+    }
+  ]
+}

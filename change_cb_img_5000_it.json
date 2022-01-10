@@ -1,0 +1,264 @@
+{
+  "english": "change",
+  "phat_am": "tʃeindʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thay đổi",
+          "definition": "to make or become different",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have changed the time of the train",
+              "world_new": [
+                "time",
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "He has changed since I saw him last.",
+              "world_new": [
+                "I",
+                "saw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi",
+          "definition": "to give or leave (one thing etc for another)",
+          "world_new": [
+            "leave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She changed my library books for me.",
+              "world_new": [
+                "my",
+                "library"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay quần áo",
+          "definition": "(sometimes with into) to remove (clothes etc) and replace them by clean or different ones",
+          "world_new": [
+            "remove",
+            "replace",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m just going to change (my shirt)"
+            },
+            {
+              "ex_of_definition": "I’ll change into an old pair of trousers.",
+              "world_new": [
+                "old",
+                "pair",
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến thành",
+          "definition": "(with into) to make into or become (something different)",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prince was changed into a frog.",
+              "world_new": [
+                "prince",
+                "frog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi ra tiền lẻ",
+          "definition": "to give or receive (one kind of money for another)",
+          "world_new": [
+            "receive",
+            "kind",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you change this banknote for cash?",
+              "world_new": [
+                "banknote",
+                "cash"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thay đổi",
+          "definition": "the process of becoming or making different",
+          "world_new": [
+            "process",
+            "becoming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The town is currently undergoing a lot of change.",
+              "world_new": [
+                "town",
+                "currently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động đổi",
+          "definition": "an instance of this",
+          "world_new": [
+            "instance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a change in the programme/program."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái dùng thay cho nhau",
+          "definition": "a substitution of one thing for another",
+          "world_new": [
+            "substitution"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a change of clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền lẻ",
+          "definition": "coins rather than paper money",
+          "world_new": [
+            "rather",
+            "paper",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have to give you a note – I don’t have any change.",
+              "world_new": [
+                "note",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền trả lại",
+          "definition": "money left over or given back from the amount given in payment",
+          "world_new": [
+            "money",
+            "left",
+            "amount",
+            "payment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He paid with a dollar and got 20 cents change.",
+              "world_new": [
+                "dollar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kỳ nghỉ",
+          "definition": "a holiday, rest etc",
+          "world_new": [
+            "holiday",
+            "rest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been ill – the change will do him good.",
+              "world_new": [
+                "ill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But she also knows that when she is old her mind will have changed.",
+    "You should say them all in the prescribed manner; do not change a thing.",
+    "Ideas can \"become true\" if the world changes.",
+    "The upshot of this is that adaptation to nonstationarity does not require qualitative changes in a learning algorithm.",
+    "In each experimental session, there was just one color change to the sky or sphere and just one test-surface color.",
+    "Co-ordination of head and eyes in the gaze changing behavior of cats.",
+    "Dark- and light-induced changes in coupling between horizontal cells in mammalian retina.",
+    "The screening system permitted a population approach for quantification of changes in seed population thermal behaviour in relation to dormancy loss."
+  ],
+  "list_see_also": [
+    "changeable",
+    "changing room",
+    "change hands",
+    "a change of heart",
+    "the change of life",
+    "change one’s mind",
+    "for a change"
+  ],
+  "list_browse": [
+    "chancellor",
+    "Chancellor of the Exchequer",
+    "chancy",
+    "chandelier",
+    "change",
+    "change hands",
+    "change one’s mind",
+    "change one’s tune",
+    "change the subject"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429263_3107581854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429263_152a81feaf_o.png",
+      "id_image": "change_1605275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050920_9076b2cecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050920_01a4f26b67_o.png",
+      "id_image": "change_2164459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429178_9dd4b6e2c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429178_7daf379ac1_o.png",
+      "id_image": "change_4845867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050855_4ae4b9e05f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050855_4749eb7e9e_o.png",
+      "id_image": "change_6192275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669064_a307e0a2d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669064_8fd0b38d18_o.png",
+      "id_image": "change_939245"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "archivist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyên viên lưu trữ",
+          "definition": "a person who looks after archives",
+          "world_new": [
+            "person",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is Chief Archivist at the John F. Kennedy Presidential Library and Museum.",
+              "world_new": [
+                "F"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What is surprising is not only the quantity and variety of his activities but also his meticulousness as an archivist.",
+    "The archivists there also provided information regarding other research using the documents in the collection.",
+    "Such is the appeal of having your very own archivist.",
+    "During this time he remade himself into an archivist, a gatherer of historical facts.",
+    "It is one which other ecclesiastical archivists can only be exhorted to follow.",
+    "An archivist normally does not ask this major question.",
+    "The author would like to thank all of the archivists who have guided him through these collections.",
+    "In theory, archives are best made by archivists, who have a dispassionate relationship with their data and a methodologically correct approach to its organisation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "architect",
+    "architectural",
+    "architecture",
+    "archive",
+    "archivist",
+    "archway",
+    "Arctic",
+    "ardent",
+    "ardently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661774_63f6ac5346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661774_f6431856e9_o.png",
+      "id_image": "archivist_2310260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043480_3976bfe8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043480_fe284f65e4_o.png",
+      "id_image": "archivist_827063"
+    }
+  ]
+}

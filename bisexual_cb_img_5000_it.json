@@ -1,0 +1,80 @@
+{
+  "english": "bisexual",
+  "phat_am": "(British) baiˈseksjuəl; (American) baiˈsekʃuːəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lưỡng tính",
+          "definition": "sexually attracted to both men and women",
+          "world_new": [
+            "sexually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bisexual man/woman."
+            }
+          ]
+        },
+        {
+          "mean_english": "lưỡng tính",
+          "definition": "(of plants and animals) having both male and female reproductive organs",
+          "world_new": [
+            "male",
+            "female",
+            "reproductive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bisexual flower/plant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lưỡng tính",
+          "definition": "someone who is sexually attracted to both men and women.",
+          "world_new": [
+            "sexually"
+          ]
+        },
+        {
+          "mean_english": "sinh vật lưỡng tính",
+          "definition": "an organism that has both male and female reproductive organs.",
+          "world_new": [
+            "organism",
+            "male",
+            "female",
+            "reproductive"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bisexuality"
+  ],
+  "list_browse": [
+    "birthplace",
+    "birthrate",
+    "biscuit",
+    "bisect",
+    "bisexual",
+    "bisexuality",
+    "bishop",
+    "bison",
+    "bit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658644_b8d8da4e71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658644_00424122eb_o.png",
+      "id_image": "bisexual_1480920"
+    }
+  ]
+}

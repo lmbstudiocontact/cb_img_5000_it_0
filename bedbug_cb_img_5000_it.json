@@ -1,0 +1,63 @@
+{
+  "english": "bedbug",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con rệp",
+          "definition": "a small blood-sucking insect that lives in houses, especially beds",
+          "world_new": [
+            "small",
+            "insect",
+            "especially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their hotel room was infested with bedbugs.",
+              "world_new": [
+                "hotel",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He slept fitfully, constantly waking up to find bedbugs scurrying away after feeding on him.",
+    "Bedbugs have mouth parts that saw through the skin, and inject saliva with anticoagulants and painkillers.",
+    "Goods may cause problems beyond their value; for example, furniture may have not easily seen bedbugs, which may cause an infestation which is difficult and expensive to eradicate.",
+    "He was reluctant to sleep on the bed after discovering the bedbugs as he entered the room a little after midnight.",
+    "Insects and arachnids of medical importance for being hematophagous, at least in some species, include the sandfly, blackfly, tsetse fly, bedbug, assassin bug, mosquito, tick, louse, mite, midge, and flea.",
+    "Dried leaves are widely used as an arthropod repellent, such as a filling material for mattresses and pillows against fleas, lice and bedbugs.",
+    "The drug enters the human bloodstream and if the bedbugs bite during that time, the bedbug will die in a few days.",
+    "The hotel staff had used hydrogen cyanide against bedbugs and hadn't cleared the room as prescribed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "becomingly",
+    "bed",
+    "bed and breakfast",
+    "bed of roses",
+    "bedbug",
+    "bedclothes",
+    "bedcover",
+    "-bedded",
+    "bedding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665549_e222a25498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665549_a2a62e8d35_o.png",
+      "id_image": "bedbug_2849861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354547_1550f86b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354547_b0a5969824_o.png",
+      "id_image": "bedbug_854693"
+    }
+  ]
+}

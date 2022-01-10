@@ -1,0 +1,103 @@
+{
+  "english": "analysis",
+  "phat_am": "əˈnӕləsis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phân tích",
+          "definition": "(a) detailed examination of something (a sentence, a chemical compound etc) especially by breaking it up into the parts of which it is made up",
+          "world_new": [
+            "detailed",
+            "examination",
+            "sentence",
+            "chemical",
+            "compound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sent the sample to the laboratory for analysis",
+              "world_new": [
+                "sample",
+                "laboratory"
+              ]
+            },
+            {
+              "ex_of_definition": "She is carrying out a close analysis of the situation.",
+              "world_new": [
+                "close",
+                "situation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân tâm học",
+          "definition": "psycho-analysis",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is undergoing analysis for his emotional problems.",
+              "world_new": [
+                "emotional"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, we did not pursue analyses in this small subset.",
+    "Although many different accounts of clitic climbing have been offered, certain broad questions distinguish classes of analyses.",
+    "The analyses show that miconazole was inactive, while sinefungin was 7-5 times more active than sodium stibogluconate.",
+    "All will be included in the intentto-treat analyses.",
+    "In particular, crossed-phase analyses would be especially helpful in identifying the driving modes that excite discrete magnetospheric phenomena.",
+    "We will therefore focus on fluke population structure and analyses of costructures.",
+    "The study sponsor did not have a role in the study desig n, data collection and analyses, or manuscr ipt preparation.",
+    "What we seek are analyses of stress systems, not analyses of individual words that we happen to encounter."
+  ],
+  "list_see_also": [
+    "analyse",
+    "analyst",
+    "analytical"
+  ],
+  "list_browse": [
+    "anal",
+    "analogous",
+    "analogy",
+    "analyse",
+    "analysis",
+    "analyst",
+    "analytical",
+    "anarchic",
+    "anarchism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357537_f21665ec14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357537_e0b56bf3dc_o.png",
+      "id_image": "analysis_1281688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428263_4a2dea2045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428263_9eeae551a8_o.png",
+      "id_image": "analysis_1382093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357462_d49bc9f875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357462_5f56d0f7e3_o.png",
+      "id_image": "analysis_1382100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428228_3db0c0058c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428228_35272d8823_o.png",
+      "id_image": "analysis_1382127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357567_c8abebd62f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357567_8842a0f72f_o.png",
+      "id_image": "analysis_411737"
+    }
+  ]
+}

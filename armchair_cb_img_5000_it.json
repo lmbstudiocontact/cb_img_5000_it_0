@@ -1,0 +1,64 @@
+{
+  "english": "armchair",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế bành",
+          "definition": "a chair with arms at each side",
+          "world_new": [
+            "chair",
+            "arms",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a reclining armchair."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When one raises capital to build a hotel one is, by implication, raising capital to buy television sets, armchairs, carpets, cutlery, and all the paraphernalia that go into hotels.",
+    "There were armchairs on which the legs became loose after a week or two.",
+    "There are 15 swivelling armchairs in the docks of the jury courts.",
+    "He had even placed two armchairs and a bottle of champagne in the cabin for the occasion.",
+    "Emphasis for furniture was on carved and turned members, which were elaborately placed on high-back armchairs and tables.",
+    "The nuclear submarine is not—as some defence commentators, from the depths of their armchairs, have assured us—just an improved submarine.",
+    "In the first-class carriage, two armchairs arranged in two rows in the standard cars two and three in the two series.",
+    "We hear of people sleeping in baths, on billiard tables or in armchairs, because there is no other accommodation available for them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arm",
+    "arm-in-arm",
+    "armament",
+    "armband",
+    "armchair",
+    "armed",
+    "armful",
+    "armistice",
+    "armour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350047_d05e58e091_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350047_84ae7fe393_o.png",
+      "id_image": "armchair_603357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305796_126bfd5a86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305796_e48c326ed0_o.png",
+      "id_image": "armchair_603358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349992_bf3dbbfffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349992_2e7516ff45_o.png",
+      "id_image": "armchair_603359"
+    }
+  ]
+}

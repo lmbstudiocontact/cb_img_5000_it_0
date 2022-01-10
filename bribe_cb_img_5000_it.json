@@ -1,0 +1,93 @@
+{
+  "english": "bribe",
+  "phat_am": "braib",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật hối lộ",
+          "definition": "a gift offered to persuade a person to do something, usually dishonest",
+          "world_new": [
+            "gift",
+            "persuade",
+            "person",
+            "dishonest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Police officers are not allowed to accept bribes.",
+              "world_new": [
+                "accept"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hối lộ",
+          "definition": "to give (someone) a bribe",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bribed the guards to let him out of prison.",
+              "world_new": [
+                "let",
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the average, about a third of the respondents indicated that inspection officials were unfriendly or impolite, introduced artificial complications, explicitly or implicitly asked for bribes, or were incompetent.",
+    "They were corrupt, accumulated bribes and gifts, and opposed major reforms in the operation of the papacy.",
+    "Specifically, the costs associated with administrative corruption, namely paying bribes, impose a significant burden on firms.",
+    "As this involved bribes, naturally the state banned it as illegal.",
+    "Furthermore, did she know about the allegations that bungs or bribes were being paid?",
+    "I have never thought that men could be bribed into the forces, or that we should try to do so.",
+    "I said that that is bribing electors with their own money.",
+    "In exchange for bribes and campaign contributions, leaders made policies that benefited the few at the expense of the many."
+  ],
+  "list_see_also": [
+    "bribery"
+  ],
+  "list_browse": [
+    "brevity",
+    "brew",
+    "brewer",
+    "brewery",
+    "bribe",
+    "bribery",
+    "brick",
+    "brickbat",
+    "bricklayer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360862_e87e098e09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360862_3e36ae1680_o.png",
+      "id_image": "bribery_2631520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431558_d3e7bee940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431558_e4750a407e_o.png",
+      "id_image": "bribery_5434240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671374_86ca22aea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671374_a17c4dc79c_o.png",
+      "id_image": "bribe_3830650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671344_b5e95b20e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671344_6a9e729c3d_o.png",
+      "id_image": "bribe_5291764"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "cattle",
+  "phat_am": "ˈkӕtl",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "gia súc",
+          "definition": "grass-eating animals, especially cows, bulls and oxen",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rare breeds of cattle",
+              "world_new": [
+                "rare"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a cattle farmer.",
+              "world_new": [
+                "farmer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cattle were infested artificially with 2 x 10000 larvae and the engorging adult females counted.",
+    "According to the headman of the town, cattle live well here but horses die off soon after ai^rival.",
+    "Digestion by cattle, and storage within a manure heap for 6 months or longer, further reduced seed germination.",
+    "These include commercial maize production, horticulture, tree crops, dairy, and cattle ranching.",
+    "For this purpose, the distribution of people and cattle would need to be estimated, possibly over large areas.",
+    "Livers obtained from two cattle negative for infection were included as control tissue.",
+    "They lost virtually all their cattle and were left with the choice of abandoning the lobola system or finding a new lobola currency.",
+    "A standardized questionnaire was developed and administered to the cattle owner or manager."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cation",
+    "Catseye",
+    "catsuit",
+    "cattail",
+    "cattle",
+    "catty",
+    "catwalk",
+    "Caucasian",
+    "cauldron"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363757_d92a2c634b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363757_8b1632efc1_o.png",
+      "id_image": "cattle_4212534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055700_85e1137edd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055700_fa0eddec30_o.png",
+      "id_image": "cattle_4496220"
+    }
+  ]
+}

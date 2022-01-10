@@ -1,0 +1,78 @@
+{
+  "english": "army",
+  "phat_am": "ˈaːmi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quân đội",
+          "definition": "a large number of men armed and organized for war",
+          "world_new": [
+            "large",
+            "number",
+            "armed",
+            "organized",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two armies met at dawn.",
+              "world_new": [
+                "dawn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đám đông",
+          "definition": "a large number (of people etc)",
+          "world_new": [
+            "large",
+            "number",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an army of tourists."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Especially horrific were 1796, 1799, 1805, 1809, and 1813-15, for it was then that the biggest armies were present for longest.",
+    "Voluntary enlistment in the royalist armies is also highlighted as a route to freedom.",
+    "The army's offensive operation quickly gave way to attrition.",
+    "The fear of standing armies went hand-in-hand with the fear of a corruption of the body politic.",
+    "At the same time the chief of the army's general staff had gained confidence in his own success.",
+    "The resulting instability would ensure rule by vast standing armies.",
+    "The salt voucher system thus provided a means whereby merchants supplying frontier armies in the northwest ultimately received reimbursement in bronze coin.",
+    "The army's political power distorted rights protection and market fairness."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "armoured",
+    "armoury",
+    "armpit",
+    "arms",
+    "army",
+    "aroma",
+    "aromatherapy",
+    "aromatic",
+    "around"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661029_62e3303cbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661029_ab28026c89_o.png",
+      "id_image": "army_1733969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420613_9269341736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420613_41110bb692_o.png",
+      "id_image": "army_1750028"
+    }
+  ]
+}

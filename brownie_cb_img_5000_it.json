@@ -1,0 +1,81 @@
+{
+  "english": "brownie",
+  "phat_am": "ˈbrauni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội viên hội hướng đạo sinh",
+          "definition": "(short for Brownie Guide) a junior Girl Guide.",
+          "world_new": [
+            "junior"
+          ]
+        },
+        {
+          "mean_english": "bánh sôcôla hạnh nhân",
+          "definition": "a sweet chocolate and nut cake",
+          "world_new": [
+            "sweet",
+            "chocolate",
+            "nut",
+            "cake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She baked some chocolate brownies.",
+              "world_new": [
+                "baked",
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He deserves extra brownie points for that.",
+    "That would be marvellous; if he did so, he would earn a lot of brownie points.",
+    "That is much more important than winning brownie points.",
+    "First, as an employer you will get brownie points, which is very fashionable.",
+    "Brownies for younger girls was officially recognized in the mid-1920s though it had existed earlier.",
+    "Instead, there is constant unnecessary doom and gloom simply to score a few brownie points in the local government elections.",
+    "I hope in that respect at least that we shall receive some brownie points.",
+    "Many such pupils always felt that only the pure academics in the class received all the stars, the brownie points and the encouragement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brotherly",
+    "brow",
+    "brown",
+    "browned off",
+    "brownie",
+    "browse",
+    "browser",
+    "bruise",
+    "brunch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314246_57122f1ff9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314246_10588d3b18_o.png",
+      "id_image": "brownie_1056800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314211_18c2fb66d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314211_89c9a24168_o.png",
+      "id_image": "brownie_1725722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314186_ed8f11c62f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314186_be01e41c7c_o.png",
+      "id_image": "brownie_2002712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050795_d645216086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050795_25ee6d7d12_o.png",
+      "id_image": "brownie_2255705"
+    }
+  ]
+}

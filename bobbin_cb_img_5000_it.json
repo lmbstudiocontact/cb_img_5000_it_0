@@ -1,0 +1,69 @@
+{
+  "english": "bobbin",
+  "phat_am": "ˈbobin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống chỉ",
+          "definition": "a (usually wooden) reel or spool for winding thread etc",
+          "world_new": [
+            "reel",
+            "spool",
+            "winding",
+            "thread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no thread left on the bobbin.",
+              "world_new": [
+                "thread",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The spun yarn is wound onto bobbins to provide the ingredients of weft (left to right threads) and warp (vertical threads) supplied to the weavers.",
+    "Reeling is the process where the silk that has been wound into skeins, is cleaned, receives a twist and is wound onto bobbins.",
+    "Most hold between three and four bobbins.",
+    "The mule consisted of a fixed frame containing a creel of bobbins holding the roving, connected through the headstock to a parallel carriage containing the spindles.",
+    "Most hobby spinners (who use spinning wheels) ply from bobbins.",
+    "The bobbins, turned from wood, bone, or plastic, hold threads which are woven together and held in place with pins stuck in the pattern on the pillow.",
+    "Materials required include multiple colours of yarn, standard needles, and \"bobbins\".",
+    "Depending on the pattern, as few as two dozen or as many as several hundred bobbins may be used."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "boat",
+    "boatman",
+    "boatswain",
+    "bob",
+    "bobbin",
+    "bobsleigh",
+    "bode",
+    "bodice",
+    "bodily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682144_919790994f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682144_318f8c2774_o.png",
+      "id_image": "bobbin_1047335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326961_d43cb35370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326961_dbb8d944a6_o.png",
+      "id_image": "bobbin_2472668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063800_23323ee2b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063800_c2b9a6e4ec_o.png",
+      "id_image": "bobbin_6306761"
+    }
+  ]
+}

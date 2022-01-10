@@ -1,0 +1,78 @@
+{
+  "english": "chairlift",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế treo trên dây cáp và lên xuống để chở người",
+          "definition": "a set of seats hanging from a cable, used to take skiers etc up a mountain",
+          "world_new": [
+            "hanging",
+            "cable",
+            "mountain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They took the chairlift to the top of the mountain.",
+              "world_new": [
+                "top",
+                "mountain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The area has three chairlifts and a vertical drop exceeding 2000 ft.",
+    "Each area has its own chairlifts and runs.",
+    "There are also swings, roundabouts, chairlifts, rowing boats and minigolf.",
+    "There is one cable car, 3 gondolas, 8 chairlifts and 5 conveyors.",
+    "For example, if a chairlift is provided for a disabled person, that may also enable a person who has broken an ankle in a skiing accident to go into work.",
+    "Since then, fifteen new gondolas and chairlifts have replaced older ones across the ski-resort.",
+    "She has been waiting for a chairlift.",
+    "Tourists use the chairlifts in summer so that they can walk on the top of the mountain."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chain gang",
+    "chain mail",
+    "chain store",
+    "chair",
+    "chairlift",
+    "chairman",
+    "chairmanship",
+    "chalet",
+    "chalice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670119_02a4ac61f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670119_6656fe8b55_o.png",
+      "id_image": "chairlift_1983616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670079_9e7eb3b751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670079_0732bb1511_o.png",
+      "id_image": "chairlift_2038058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315431_b4810dbdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315431_2110026855_o.png",
+      "id_image": "chairlift_2357263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359557_53bf93cc2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359557_0d8abf1fdb_o.png",
+      "id_image": "chairlift_3684277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051965_8218a29f66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051965_a1811d9ea4_o.png",
+      "id_image": "chairlift_980788"
+    }
+  ]
+}

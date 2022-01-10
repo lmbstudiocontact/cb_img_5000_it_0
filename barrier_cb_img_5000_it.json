@@ -1,0 +1,88 @@
+{
+  "english": "barrier",
+  "phat_am": "ˈbӕriə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng rào",
+          "definition": "something put up as a defence or protection",
+          "world_new": [
+            "defence",
+            "protection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a safety barrier.",
+              "world_new": [
+                "safety"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở ngại",
+          "definition": "something that causes difficulty",
+          "world_new": [
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His lack of formal qualifications was a barrier to promotion.",
+              "world_new": [
+                "lack",
+                "formal",
+                "promotion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All remaining barriers to foreign competition in the banking industry were dropped in 1998.",
+    "Further, we expect these differences to be exacerbated by barriers to participation.",
+    "A considerable degree of misunderstanding, cultural pressures, and social barriers were observed with respect to previous contraceptive practice.",
+    "Are there strong historical paths that provide patterns for interpreting and translating the idea and perhaps create resistance points or barriers?",
+    "Reinforcement of reproductive barriers may have led to the avoidance of hybridization.",
+    "Indeed, the low topographical relief, the continuity of forest cover and apparent structure were unlikely to be barriers to bird dispersal.",
+    "Thus, the king faced the nation, a multitude of isolated individuals, while there were no barriers to counteract the ministers if they had bad designs.",
+    "If heterogeneous service composition is a reality, then what are the additional barriers?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barrel",
+    "barren",
+    "barrenness",
+    "barricade",
+    "barrier",
+    "barrister",
+    "barrow",
+    "barter",
+    "basalt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429688_cda44f1c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429688_ec14ab629e_o.png",
+      "id_image": "barrier_313075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314741_a598d7d673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314741_6921bdcefa_o.png",
+      "id_image": "barrier_3267514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358877_7831b40e09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358877_2f9a4b6c5c_o.png",
+      "id_image": "barrier_786800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669409_47336aabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669409_5ffc41a7b8_o.png",
+      "id_image": "barrier_804579"
+    }
+  ]
+}

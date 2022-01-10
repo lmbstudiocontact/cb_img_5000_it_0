@@ -1,0 +1,181 @@
+{
+  "english": "clean",
+  "phat_am": "kliːn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sạch",
+          "definition": "free from dirt, smoke etc",
+          "world_new": [
+            "free",
+            "dirt",
+            "smoke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean window",
+              "world_new": [
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "a clean dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gọn gàng",
+          "definition": "neat and tidy in one’s habits",
+          "world_new": [
+            "neat",
+            "tidy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cats are very clean animals."
+            }
+          ]
+        },
+        {
+          "mean_english": "chưa dùng đến",
+          "definition": "unused",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean sheet of paper.",
+              "world_new": [
+                "sheet",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong sáng",
+          "definition": "free from evil or indecency",
+          "world_new": [
+            "free",
+            "evil",
+            "indecency"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to keep your language clean!",
+              "world_new": [
+                "keep",
+                "your",
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "neat and even",
+          "world_new": [
+            "neat",
+            "even"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clean cut.",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got clean away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sạch",
+          "definition": "to (cause to) become free from dirt etc",
+          "world_new": [
+            "become",
+            "free",
+            "dirt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The windows need cleaning."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cleaner",
+    "cleanly",
+    "cleanliness",
+    "clean-cut",
+    "clean out",
+    "clean up",
+    "a clean bill of health",
+    "a clean slate",
+    "come clean",
+    "make a clean sweep"
+  ],
+  "list_browse": [
+    "claustrophobia",
+    "claustrophobic",
+    "claw",
+    "clay",
+    "clean",
+    "clean out",
+    "clean up",
+    "clean-cut",
+    "cleaner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304581_84c897813a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304581_e1e280a1e7_o.png",
+      "id_image": "clean_1466228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041390_4f61fd34cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041390_6e3d2c9077_o.png",
+      "id_image": "clean_2785851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419513_482ed37a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419513_b0c2729218_o.png",
+      "id_image": "clean_2869031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659864_7b045aea83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659864_464a48d7d1_o.png",
+      "id_image": "clean_3022073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304521_6059b575d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304521_bcc600dc51_o.png",
+      "id_image": "clean_3022147"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "english": "bank",
+  "phat_am": "bӕŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bờ (sông)",
+          "definition": "the ground at the edge of a river, lake etc",
+          "world_new": [
+            "ground",
+            "edge",
+            "river",
+            "lake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The river overflowed its banks.",
+              "world_new": [
+                "river",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đống",
+          "definition": "a mound or ridge (of earth etc)",
+          "world_new": [
+            "mound",
+            "ridge",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She climbed up the bank to pick some flowers.",
+              "world_new": [
+                "pick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bãi ngầm",
+          "definition": "a raised area of sand under the sea",
+          "world_new": [
+            "area",
+            "sand",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sandbank.",
+              "world_new": [
+                "sandbank"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chất đống",
+          "definition": "(often with up) to form into a bank or banks",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The earth was banked up against the wall of the house.",
+              "world_new": [
+                "earth",
+                "wall",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiêng đi",
+          "definition": "to tilt (an aircraft etc) while turning",
+          "world_new": [
+            "tilt",
+            "aircraft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane banked steeply.",
+              "world_new": [
+                "plane",
+                "steeply"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngân hàng",
+          "definition": "a place where money is lent or exchanged, or put for safety and/or to acquire interest",
+          "world_new": [
+            "place",
+            "money",
+            "lent",
+            "safety",
+            "acquire",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has plenty of money in the bank",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "I must go to the bank today.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kho lưu giữ",
+          "definition": "a place for storing other valuable material",
+          "world_new": [
+            "place",
+            "valuable",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blood bank.",
+              "world_new": [
+                "blood"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi tiền vào ngân hàng",
+          "definition": "to put into a bank",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He banks his wages every Friday.",
+              "world_new": [
+                "Friday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng loạt",
+          "definition": "a collection of rows (of instruments etc)",
+          "world_new": [
+            "collection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pilot has to check several banks of instruments before take-off.",
+              "world_new": [
+                "pilot",
+                "check"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Urban respondents were more likely to owe money to a loan-agent, and less likely to owe it to a bank.",
+    "Items pertaining to each of these five skills are kept in separate item banks, and five distinct subtests are administered to each test taker.",
+    "While being more permissive in regard to economically stronger banks, they do not allow weaker (poorly capitalized) banks to participate in credit expansion.",
+    "Otherwise, for its risk-averse nonmoving clientele, the bank will always prefer cash reserves over storage; the latter will then never be used in equilibrium.",
+    "When troubles arose, the ministry arranged mergers, utilizing its informal ties with banks.",
+    "The bank will only use the less costly of the two methods.",
+    "They campaigned for a change in the law and encouraged banks and specialist brokers to adopt professional standards.",
+    "His proposals to establish a national bank, encourage domestic manufactures and create an efficient federal bond market were an integral part of the vision."
+  ],
+  "list_see_also": [
+    "banker",
+    "bank account",
+    "bank book",
+    "banker’s card",
+    "bank holiday",
+    "banknote",
+    "bank on"
+  ],
+  "list_browse": [
+    "banish",
+    "banishment",
+    "banister",
+    "banjo",
+    "bank",
+    "bank account",
+    "bank book",
+    "bank holiday",
+    "bank on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431988_6ab9c6d939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431988_f86b5c30e9_o.png",
+      "id_image": "bank_1101598"
+    }
+  ]
+}

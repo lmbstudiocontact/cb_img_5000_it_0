@@ -1,0 +1,184 @@
+{
+  "english": "address",
+  "phat_am": "əˈdres",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đề địa chỉ",
+          "definition": "to put a name and address on (an envelope etc)",
+          "world_new": [
+            "name",
+            "envelope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Address the parcel clearly.",
+              "world_new": [
+                "parcel",
+                "clearly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói với hay viết cho ai",
+          "definition": "to speak or write to",
+          "world_new": [
+            "speak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He addressed his remarks to the younger members of the audience.",
+              "world_new": [
+                "audience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chú tâm đến",
+          "definition": "to begin to deal with a problem",
+          "world_new": [
+            "begin",
+            "deal",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government needs to address the issue of unemployment.",
+              "world_new": [
+                "government",
+                "issue",
+                "unemployment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xưng hô",
+          "definition": "to use a particular name or title when you speak or write to someone",
+          "world_new": [
+            "particular",
+            "name",
+            "title",
+            "speak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How should the students address the lecturers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "địa chỉ",
+          "definition": "the name of the house, street, town etc where a person lives",
+          "world_new": [
+            "name",
+            "house",
+            "street",
+            "town",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His address is 30 Main St, Springfield.",
+              "world_new": [
+                "St"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài diễn văn",
+          "definition": "a speech",
+          "world_new": [
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a long and boring address.",
+              "world_new": [
+                "long",
+                "boring"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "địa chỉ",
+          "definition": "a series of letters and numbers that tells you where to send an email to someone or where to find a website on the internet",
+          "world_new": [
+            "series",
+            "send",
+            "find",
+            "website"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an email address"
+            },
+            {
+              "ex_of_definition": "a website address.",
+              "world_new": [
+                "website"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The biological basis and pathophysiology of negative symptoms are also addressed.",
+    "It will be important for future work to continue to address these issues by attempting to differentiate lexical from phonological representations.",
+    "The first point to address, then, is whether the findings of variationist sociolinguistics are indeed compatible with such a model.",
+    "Every centre was encouraged to strengthen its social science research, to address particular themes and overall staff numbers.",
+    "Longterm exclosure plots currently capturing and protecting seeds falling into the crab-zone will help address this uncertainty.",
+    "The initial measures addressed sociodemographic variables, psychological\\psychiatric problems and social disability.",
+    "It was first returned because it had been drafted by counsel; government could only be addressed by principals, not their agents.",
+    "Philosophical arguments address one of the most fundamental yet elusive questions facing behavioral scientists, namely, what constitutes a disorder?"
+  ],
+  "list_see_also": [
+    "addressee"
+  ],
+  "list_browse": [
+    "addictive",
+    "addition",
+    "additional",
+    "additive",
+    "address",
+    "addressee",
+    "adept",
+    "adequacy",
+    "adequate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057970_b48fb0cb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057970_a36a5faa37_o.png",
+      "id_image": "address_1076323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321166_5445c7558e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321166_90cb0678d1_o.png",
+      "id_image": "address_1915040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057890_764bfaf66c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057890_a10821fac9_o.png",
+      "id_image": "address_3163168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321076_6178415433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321076_b58a8f3f59_o.png",
+      "id_image": "address_5778919"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "chapter",
+  "phat_am": "ˈtʃӕptə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chương",
+          "definition": "a main division of a book",
+          "world_new": [
+            "main",
+            "division",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are fifteen chapters in his new book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This chapter is particularly interesting for the detailed case studies that follow, which illustrate the changes that children's phonological systems undergo during treatment.",
+    "In every chapter the narrative is given colour by local case studies from urban and rural congregations, brief vignettes of church leaders and telling incidents.",
+    "This chapter includes a significant amount of technical information that may be beyond the nonspecialist audience.",
+    "The chapters illustrate a range of methods, although there is an overall emphasis in favour of qualitative approaches.",
+    "The extensive chapter on abolition, for example, skims over modes of liberation, the roles of families and post-liberation livelihoods.",
+    "Chapter five is again a rather theoretical one because the author deals with different types of policy and policy-making, policy analysis and electoral systems.",
+    "Some chapters remain mired in highly technical language, while others fail to transcend the limited social, cultural contexts of their studies.",
+    "These and other themes are developed in six substantive chapters."
+  ],
+  "list_see_also": [
+    "a chapter of accidents"
+  ],
+  "list_browse": [
+    "chapel",
+    "chaperone",
+    "chaplain",
+    "chapped",
+    "chapter",
+    "char",
+    "character",
+    "characteristic",
+    "characteristically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314001_f307c67319_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314001_f0a87decb7_o.png",
+      "id_image": "chapter_5115465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358212_47a58bca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358212_dd64266e12_o.png",
+      "id_image": "chapter_6347479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428833_13928456e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428833_66a6eaf0f3_o.png",
+      "id_image": "chapter_6347512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313916_710587f45c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313916_448869fa0f_o.png",
+      "id_image": "chapter_6348276"
+    }
+  ]
+}

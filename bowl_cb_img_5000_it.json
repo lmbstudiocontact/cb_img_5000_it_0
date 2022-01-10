@@ -1,0 +1,164 @@
+{
+  "english": "bowl",
+  "phat_am": "bəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả bóng bowling",
+          "definition": "a wooden ball rolled along the ground in playing bowls. See also bowls below.",
+          "world_new": [
+            "wooden",
+            "ball",
+            "ground",
+            "bowls"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chơi bóng gỗ",
+          "definition": "to play bowls.",
+          "world_new": [
+            "play",
+            "bowls"
+          ]
+        },
+        {
+          "mean_english": "ném bóng qua đầu",
+          "definition": "to deliver or send (a ball) towards the batsman in cricket",
+          "world_new": [
+            "deliver",
+            "send",
+            "batsman",
+            "cricket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Occasionally he bowls a slow one to try and deceive the batsman.",
+              "world_new": [
+                "bowls",
+                "slow",
+                "try",
+                "deceive",
+                "batsman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đưa ra nghỉ",
+          "definition": "to put (a batsman) out by hitting the wicket with the ball",
+          "world_new": [
+            "wicket",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smith was bowled for eighty-five (= Smith was put out after making eighty-five runs)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bát",
+          "definition": "a round, deep dish eg for mixing or serving food etc",
+          "world_new": [
+            "deep",
+            "dish",
+            "serving",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a baking bowl",
+              "world_new": [
+                "baking"
+              ]
+            },
+            {
+              "ex_of_definition": "a soup bowl.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nõ tẩu thuốc",
+          "definition": "a round hollow part, especially of a tobacco pipe, a spoon etc",
+          "world_new": [
+            "hollow",
+            "part",
+            "tobacco",
+            "pipe",
+            "spoon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bowl of this spoon is dirty.",
+              "world_new": [
+                "spoon",
+                "dirty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A few other vessels, almost always additional bowls, could be placed in the same feature.",
+    "In winter, prisoners went to bed fully clothed and often could not wash in the morning as the water in their bowls had turned to ice.",
+    "Small centers tended to have more large monochrome bowls and basins and fewer coarseware storage jars.",
+    "Initially 40 egg rafts were reared individually in small bowls which contained approximately 400 mis of distilled water.",
+    "They do not muck about and go around with begging bowls asking people whether they would throw in a few coins.",
+    "The target test items were all compounds (mice houses, teeth cups, feet rings, cherry bowls, dog stores, animal truck, eye plants, flower chairs, butterfly pillows, and fish shoes).",
+    "Shallow dishes, bowls, and necked jars were produced in this ware; their sur faces frequently decorated with visually subtle, very shallow preslip grooving in diagonally hatched or crisscrossing multiple-line patterns.",
+    "The upper two bowls formed the nor th-south axis, the bottom two, the east-west."
+  ],
+  "list_see_also": [
+    "bowler",
+    "bowling",
+    "bowls",
+    "bowling alley",
+    "bowling green",
+    "bowl over"
+  ],
+  "list_browse": [
+    "bow tie",
+    "bowed",
+    "bowel",
+    "bowel movement",
+    "bowl",
+    "bowl over",
+    "bowler",
+    "bowling",
+    "bowling alley"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435268_64b5c6342a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435268_a1f30e4d6d_o.png",
+      "id_image": "bowls_2455841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675234_c2157a98a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675234_ed6e8b82d4_o.png",
+      "id_image": "bowl_270261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675204_e595fbee12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675204_6d5c175e99_o.png",
+      "id_image": "bowl_5830303"
+    }
+  ]
+}

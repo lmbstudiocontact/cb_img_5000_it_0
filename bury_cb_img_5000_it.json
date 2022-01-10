@@ -1,0 +1,89 @@
+{
+  "english": "bury",
+  "phat_am": "ˈberi",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chôn cất",
+          "definition": "to place (a dead body) in a grave, the sea etc",
+          "world_new": [
+            "place",
+            "dead",
+            "grave",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was buried in the local cemetery.",
+              "world_new": [
+                "local",
+                "cemetery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấu đi",
+          "definition": "to hide (under the ground etc)",
+          "world_new": [
+            "hide",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My socks are buried somewhere in this drawer.",
+              "world_new": [
+                "somewhere",
+                "drawer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, the conversationalists communicate through subtle indications or hints, where the message itself is buried between the lines without being explicitly expressed.",
+    "The sweat bath, the angled wall, and the rear piers were removed or buried.",
+    "Personal identities seem to have been linked to the number of beads with which one was buried, rather than to the distinctiveness of the beads.",
+    "Since most of the leaves of all species were at the apex of the stem, this did not involve burying any leaves.",
+    "What makes this episode resonate as a vernacular form of archaeological thinking buried deep in the literary imagination of the mid-19th century?",
+    "Seed distributions in the bucket experiment differed among species, with small seeds being buried deeper than large seeds.",
+    "So when the eighth child died, those who buried it inflicted some injuries under the sole of the feet, probably with thorns.",
+    "The cave's entrance became buried, and inadequate ventilation caused an episode of hypoxia and carbon monoxide poisoning."
+  ],
+  "list_see_also": [
+    "burial",
+    "bury the hatchet"
+  ],
+  "list_browse": [
+    "burp",
+    "burrow",
+    "burst",
+    "burst open",
+    "bury",
+    "bury the hatchet",
+    "bus",
+    "bus stop",
+    "bush"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353537_c222e628ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353537_6b1cab8f2b_o.png",
+      "id_image": "burial_1450728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309261_6d70ae7ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309261_c889fb369e_o.png",
+      "id_image": "burial_2458045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424433_c52f6a6872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424433_0d02dac102_o.png",
+      "id_image": "burial_6000688"
+    }
+  ]
+}

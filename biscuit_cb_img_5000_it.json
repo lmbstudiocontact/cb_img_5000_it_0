@@ -1,0 +1,81 @@
+{
+  "english": "biscuit",
+  "phat_am": "ˈbiskit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh bích quy",
+          "definition": "a crisp, sweet piece of dough baked in small flat cakes; cookie American",
+          "world_new": [
+            "crisp",
+            "sweet",
+            "piece",
+            "dough",
+            "baked",
+            "small",
+            "flat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a packet of chocolate biscuits.",
+              "world_new": [
+                "packet",
+                "chocolate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bánh bơ tròn",
+          "definition": "a small soft round cake.",
+          "world_new": [
+            "small",
+            "soft",
+            "cake"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At mid-morning they had half a pint of milk with biscuits, and this could be repeated if they wanted it.",
+    "One pays the same for a certain brand of biscuits in one part of the country as in another.",
+    "The children were thus failing to subordinate biscuits (anyway a separate foot) to chocolate as part of the same small intonational phrase/accent group.",
+    "All that they require and ask for generally is a cup of tea and a few biscuits.",
+    "The only items which it provides are light refreshments (tea, coffee, soft drinks, biscuits) for meetings and chilled water for staff.",
+    "I am told that sweet and semi-sweet biscuits are being bought readily at the present points values.",
+    "Purchase tax on confectionery (including chocolate biscuits) yielded about £75 million in the calendar year 1971.",
+    "He referred to the range of quantities in which biscuits are sold at present."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "birthday",
+    "birthmark",
+    "birthplace",
+    "birthrate",
+    "biscuit",
+    "bisect",
+    "bisexual",
+    "bisexuality",
+    "bishop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040280_eb1f371b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040280_944cd4924f_o.png",
+      "id_image": "biscuit_1659653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303586_ef9a190d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303586_5ab5fdbfd0_o.png",
+      "id_image": "biscuit_3867081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658779_a5bb6ab46e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658779_ae812e4ba6_o.png",
+      "id_image": "biscuit_4082494"
+    }
+  ]
+}

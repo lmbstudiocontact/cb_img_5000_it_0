@@ -1,0 +1,86 @@
+{
+  "english": "appointment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc hẹn",
+          "definition": "(an) arrangement to meet someone; I made an appointment to see him.",
+          "world_new": [
+            "arrangement",
+            "meet"
+          ]
+        },
+        {
+          "mean_english": "sự bổ nhiệm",
+          "definition": "the job or position to which a person is appointed",
+          "world_new": [
+            "job",
+            "position",
+            "person",
+            "appointed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His appointment was for one year only.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the influence of these clauses on actual appointments - top positions excepted - is far from clear.",
+    "In return, these politicians used their offices to stoke the party machine with a steady supply of patronage appointments and government contracts.",
+    "The latter is directed at curbing the political as opposed to the judicial criteria for appointments.",
+    "In the absence of reliable telephones, every step in the interview process requires physical contact with the respondent, to book, reschedule, and keep appointments.",
+    "He believed that the monarch should take a share in all government decisions, recommend and veto appointments, and make dismissals when necessary.",
+    "Patronage appointments were routine and extensive throughout the national public administration, not only in specific localities.",
+    "Patient perspectives explored emergency appointments, young people's needs, fertility awareness and patients access to their own records.",
+    "Regime theories suggest that a partisan agenda will strongly influence personnel decisions, which include discretionary military command appointments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apply",
+    "apply oneself/one’s mind",
+    "appoint",
+    "appointed",
+    "appointment",
+    "apportion",
+    "appraisal",
+    "appraise",
+    "appreciable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352062_85f1bcce7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352062_7b25e12c8e_o.png",
+      "id_image": "appointments_4200409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423073_d63548cb68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423073_19b9f5d0a9_o.png",
+      "id_image": "appointments_4514867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423258_13b52f0500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423258_91e4f2f092_o.png",
+      "id_image": "appointment_1694418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308051_9d83e12880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308051_f9ec4f66e4_o.png",
+      "id_image": "appointment_2419579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352092_f4103f497b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352092_2cafb4b141_o.png",
+      "id_image": "appointment_4624216"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "cedar",
+  "phat_am": "ˈsiːdə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây tuyết tùng",
+          "definition": "a cone-bearing evergreen tree",
+          "world_new": [
+            "evergreen",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A line of cedars blocked our view to the left.",
+              "world_new": [
+                "line",
+                "blocked",
+                "our",
+                "view",
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gỗ cây tuyết tùng",
+          "definition": "(also cedarwood) its hard, sweet-smelling wood",
+          "world_new": [
+            "its",
+            "sweet-smelling",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chest made of cedar.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Trees include plane trees, cedars, maples, chestnuts, and coast sequoias.",
+    "Diverse species of trees, such as oaks, hickories, gums, cedars, maples, and pines, create a cover of shade in the cemetery.",
+    "Among the species of flora stand out from the pine trees, pines, cedars, trumpet trees, palm trees and bromeliads.",
+    "Although the pines dominate the area there are also maple trees, birches, cedars, oaks, magnolia, and sassafras trees along the trail.",
+    "The palace grounds accentuate the alpine look of the place with its manicured gardens, firs and cedars.",
+    "Evolutionary implications of fruit-processing limitations in cedar waxwings.",
+    "Cedars most often grow in the creek bottoms while others are spread throughout the landscape.",
+    "Were there a row of cedar, that would constitute a problem, but where one stands alone it can be a landscape feature."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cease",
+    "ceasefire",
+    "ceaseless",
+    "ceaselessly",
+    "cedar",
+    "ceiling",
+    "celebrate",
+    "celebrated",
+    "celebration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054695_863372da48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054695_c850af04a9_o.png",
+      "id_image": "cedar_1867198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318051_733710f5d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318051_ca2698c9ff_o.png",
+      "id_image": "cedar_4292731"
+    }
+  ]
+}

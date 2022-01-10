@@ -1,0 +1,50 @@
+{
+  "english": "carol",
+  "phat_am": "ˈkӕrəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài hát mừng (thường vào dịp lễ nô-en)",
+          "definition": "a song of joy or praise for Christmas",
+          "world_new": [
+            "song",
+            "joy",
+            "praise",
+            "Christmas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a carol service (=a church service at which carols are sung).",
+              "world_new": [
+                "service",
+                "church",
+                "service"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "carnation",
+    "carnival",
+    "carnivore",
+    "carnivorous",
+    "carol",
+    "carousal",
+    "carouse",
+    "carousel",
+    "carp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439838_b810f53146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439838_9399c7f525_o.png",
+      "id_image": "carol_667718"
+    }
+  ]
+}

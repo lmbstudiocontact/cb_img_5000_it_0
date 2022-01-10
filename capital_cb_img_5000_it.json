@@ -1,0 +1,173 @@
+{
+  "english": "capital",
+  "phat_am": "ˈkӕpitl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủ đô",
+          "definition": "the chief town or seat of government",
+          "world_new": [
+            "chief",
+            "town",
+            "seat",
+            "government"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Paris is the capital of France."
+            }
+          ]
+        },
+        {
+          "mean_english": "chữ hoa",
+          "definition": "(also capital letter) any letter of the type found at the beginning of sentences, proper names etc",
+          "world_new": [
+            "letter",
+            "type",
+            "found",
+            "beginning",
+            "proper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "THESE ARE CAPITAL LETTERS / CAPITALS."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền vốn",
+          "definition": "money (for investment etc)",
+          "world_new": [
+            "money",
+            "investment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You need capital to start a new business.",
+              "world_new": [
+                "start",
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "án tử hình",
+          "definition": "involving punishment by death",
+          "world_new": [
+            "punishment",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a capital offence",
+              "world_new": [
+                "offence"
+              ]
+            },
+            {
+              "ex_of_definition": "capital punishment.",
+              "world_new": [
+                "punishment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuất sắc",
+          "definition": "excellent",
+          "world_new": [
+            "excellent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a capital idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc thủ đô",
+          "definition": "(of a city) being a capital",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rome and other capital cities."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đỉnh cột",
+          "definition": "in architecture, the top part of a column of a building etc",
+          "world_new": [
+            "architecture",
+            "top",
+            "part",
+            "column",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the capitals of the ancient Temple of Saturn.",
+              "world_new": [
+                "ancient",
+                "Saturn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "capitalism",
+    "capitalist",
+    "capitalist"
+  ],
+  "list_browse": [
+    "capacity",
+    "cape",
+    "caper",
+    "capillary",
+    "capital",
+    "capitalism",
+    "capitalist",
+    "capitulate",
+    "capitulation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443783_bef39af277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443783_6c89825611_o.png",
+      "id_image": "capital_1622590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328761_e3ab683a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328761_bd9f5baa69_o.png",
+      "id_image": "capital_1900189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683804_f391dd1b84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683804_9a8b179e7a_o.png",
+      "id_image": "capital_2590457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443663_e13c99cddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443663_d4eedbccc2_o.png",
+      "id_image": "capital_4327409"
+    }
+  ]
+}

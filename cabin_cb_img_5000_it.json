@@ -1,0 +1,105 @@
+{
+  "english": "cabin",
+  "phat_am": "ˈkӕbin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà gỗ nhỏ",
+          "definition": "a small house or hut (made eg of logs)",
+          "world_new": [
+            "small",
+            "house",
+            "hut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a log cabin.",
+              "world_new": [
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cabin",
+          "definition": "a (small) room in a ship for sleeping in",
+          "world_new": [
+            "room",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve reserved a four-berth cabin.",
+              "world_new": [
+                "reserved"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoang",
+          "definition": "the part of an aircraft containing seating for passengers",
+          "world_new": [
+            "part",
+            "aircraft",
+            "seating"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) the cabin staff.",
+              "world_new": [
+                "staff"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We can sleep 300 sailors in our cabins each night.",
+    "Our efforts in those directions are being \"cribbed, cabin'd and confined\" by these dusty and fusty remnants of 19th century problems.",
+    "We know that until the mid-1980s airlines used to pump fresh air into cabins; now, however, they recycle old air through filter systems.",
+    "Other furnishings of the cabins were a small table and chairs of comfortable design, matching the wardrobe, etc.",
+    "All camps consist of groups of cabins.",
+    "At every turn he is \"cabin'd, cribb'd, confined\" by the existing law as to the limits of what he shall say.",
+    "How many complaints from members of the public have been received about smoke odours and fumes in aircraft cabins?",
+    "Great attention has been paid to cabins, as opposed to messes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "c/o",
+    "cab",
+    "cabaret",
+    "cabbage",
+    "cabin",
+    "cabinet",
+    "cable",
+    "cable car",
+    "cable television"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422238_557562634c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422238_327ebc2dc0_o.png",
+      "id_image": "cabin_1348663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044095_b68afcb8f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044095_332a1567cf_o.png",
+      "id_image": "cabin_3762888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307026_e3d723bcfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307026_944fe540b3_o.png",
+      "id_image": "cabin_3827704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662414_8194eb3693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662414_125123a695_o.png",
+      "id_image": "cabin_613855"
+    }
+  ]
+}

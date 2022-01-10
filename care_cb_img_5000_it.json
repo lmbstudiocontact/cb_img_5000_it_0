@@ -1,0 +1,193 @@
+{
+  "english": "care",
+  "phat_am": "keə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cẩn thận",
+          "definition": "close attention",
+          "world_new": [
+            "close",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do it with care."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trông nom",
+          "definition": "keeping; protection",
+          "world_new": [
+            "protection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your belongings will be safe in my care.",
+              "world_new": [
+                "belongings",
+                "safe",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lo âu",
+          "definition": "(a cause for) worry",
+          "world_new": [
+            "cause",
+            "worry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt free from all the cares of the world.",
+              "world_new": [
+                "felt",
+                "free",
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều trị",
+          "definition": "treatment",
+          "world_new": [
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "medical care",
+              "world_new": [
+                "medical"
+              ]
+            },
+            {
+              "ex_of_definition": "skin care.",
+              "world_new": [
+                "skin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lo lắng",
+          "definition": "to be anxious or concerned",
+          "world_new": [
+            "anxious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t you care if you fail?",
+              "world_new": [
+                "fail"
+              ]
+            },
+            {
+              "ex_of_definition": "I couldn’t care less (= It’s of no importance to me)",
+              "world_new": [
+                "I",
+                "importance"
+              ]
+            },
+            {
+              "ex_of_definition": "She really cares about her career.",
+              "world_new": [
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "muốn",
+          "definition": "to be willing (to)",
+          "world_new": [
+            "willing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Would you care to have dinner with me?",
+              "world_new": [
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After death, family members reported the actual family involvement in health care decisions near death.",
+    "Some medical specialty societies already are recognized as proponents of standards of care by health plans.",
+    "On average, comfort care plans were put in place 9 days prior to death.",
+    "Administrative staff in enhanced and usual care practices completed an 8-hour training session on recruiting eligible patients using a two-stage screening process.",
+    "This was reinforced by the low priority given to public health work at all levels within the organization and by primary care team colleagues.",
+    "It developed plans to offer medical care, hospital treatment, electricity, and water trucking.",
+    "The impact of care-giving on care-givers : factors associated with the psychological well-being of people supporting a dementing relative in the community.",
+    "Tables 3 and 4 detail the eight most frequently specified services in the care plans."
+  ],
+  "list_see_also": [
+    "careful",
+    "carefully",
+    "carefulness",
+    "careless",
+    "carelessly",
+    "carelessness",
+    "carer",
+    "carefree",
+    "’caregiver",
+    "caretaker",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "cardinal",
+    "cardinal numbers",
+    "cardiovascular",
+    "cards",
+    "care",
+    "care for",
+    "care of",
+    "career",
+    "carefree"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325871_bc1212df3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325871_3510f93771_o.png",
+      "id_image": "care_2037226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325811_b8fbee4e40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325811_0c422a4e55_o.png",
+      "id_image": "care_2871743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062570_1d172ba71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062570_b53478f81d_o.png",
+      "id_image": "care_2997187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681019_10d52bee55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681019_2a92eb915a_o.png",
+      "id_image": "care_436662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440748_abbffd1aa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440748_d82bb0147d_o.png",
+      "id_image": "care_5102111"
+    }
+  ]
+}

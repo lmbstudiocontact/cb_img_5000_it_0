@@ -1,0 +1,135 @@
+{
+  "english": "associate",
+  "phat_am": "əˈsəusieit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "liên tưởng",
+          "definition": "to connect in the mind",
+          "world_new": [
+            "connect",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always associated the smell of tobacco with his father.",
+              "world_new": [
+                "smell",
+                "tobacco",
+                "father"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tụ tập",
+          "definition": "(usually with with) to join (with someone) in friendship or work",
+          "world_new": [
+            "join",
+            "friendship",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They don’t usually associate (with each other) after office hours.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "phó",
+          "definition": "having a lower position or rank",
+          "world_new": [
+            "lower",
+            "position",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an associate professor.",
+              "world_new": [
+                "professor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên kết",
+          "definition": "joined or connected",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "associate organizations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cộng tác",
+          "definition": "a colleague or partner; a companion",
+          "world_new": [
+            "colleague",
+            "companion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Professor Wilson and his associates are carrying out the research.",
+              "world_new": [
+                "research"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The weights associated with output connections are, however, re-estimated after a new hidden unit is recruited.",
+    "She has refused to be associated with it.",
+    "Psychological distress among older primary care attenders is associated with frequent attendance.",
+    "Each of these intervals is supposed to have an associated (very small) probability.",
+    "Nonlinear confining and deconfining forces associated with the interaction of laser radiation with plasma.",
+    "There were very few instances of fasciculation between fibers in which fibers were closely associated with each other following essentially identical paths within the tectum.",
+    "In the ratings made for the subjects when aged from 13 to 16, delinquent behaviour and ' other problems ' were weakly associated with these symptoms.",
+    "The table contains estimates of the maximal-moment exponent of the pricing error associated with stock returns for various values of the preference parameters."
+  ],
+  "list_see_also": [
+    "association",
+    "in association with"
+  ],
+  "list_browse": [
+    "assimilation",
+    "assist",
+    "assistance",
+    "assistant",
+    "associate",
+    "association",
+    "assorted",
+    "assortment",
+    "assume"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302846_fd6414b49c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302846_fdb9de9da8_o.png",
+      "id_image": "association_1622586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302826_cd62f495cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302826_1c4b0058a5_o.png",
+      "id_image": "association_2517375"
+    }
+  ]
+}

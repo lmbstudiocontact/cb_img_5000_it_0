@@ -1,0 +1,67 @@
+{
+  "english": "asteroid",
+  "phat_am": "ˈæstəˌroid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiểu hành tinh",
+          "definition": "one of several very small planets that move around the sun",
+          "world_new": [
+            "small",
+            "move",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Asteroids sometimes collide with each other.",
+              "world_new": [
+                "collide"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other discoveries have led to the conclusion that several percent of all asteroids have satellites large enough to be discovered remotely.",
+    "In the former case, comets are rocky asteroids surrounded by a debris cloud.",
+    "The jumps take place in an apparently chaotic fashion and lead to random walks across the asteroid belt.",
+    "Similar solutions trapped in asteroids during aqueous alteration, and in meteorites on aqueous planets, can form complex biomolecules, including vesicle-forming membranes.",
+    "Early carbonaceous asteroids contained liquid solutions that we reconstructed for biological tests.",
+    "Imagine that the giant asteroid has missed, and the dinosaurs survive.",
+    "If an asteroid of the smallest size is hit, it disperses into space dust.",
+    "Once this is achieved, a new level is reached, and another random amount of large asteroids appears."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assurance",
+    "assure",
+    "assured",
+    "asterisk",
+    "asteroid",
+    "asthma",
+    "asthmatic",
+    "astonish",
+    "astonishing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346892_a185986203_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346892_d75a90af61_o.png",
+      "id_image": "asteroid_290814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346877_711767a045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346877_e86e5518e5_o.png",
+      "id_image": "asteroid_433853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039210_f132bf7d8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039210_a34e3175c8_o.png",
+      "id_image": "asteroid_4698808"
+    }
+  ]
+}

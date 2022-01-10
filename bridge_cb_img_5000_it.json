@@ -1,0 +1,164 @@
+{
+  "english": "bridge",
+  "phat_am": "bridʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cầu",
+          "definition": "a structure carrying a road or railway over a river etc",
+          "world_new": [
+            "structure",
+            "road",
+            "railway",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We crossed the bridge."
+            }
+          ]
+        },
+        {
+          "mean_english": "đài chỉ huy của thuyền trưởng",
+          "definition": "the narrow raised platform for the captain of a ship",
+          "world_new": [
+            "narrow",
+            "platform",
+            "captain",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The captain was standing on the bridge.",
+              "world_new": [
+                "captain",
+                "standing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống mũi",
+          "definition": "the bony part (of the nose)",
+          "world_new": [
+            "bony",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a bandage across the bridge of his nose.",
+              "world_new": [
+                "bandage",
+                "across",
+                "nose"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cầu ngựa (mảnh gỗ di động trên đó căng dây đàn violon)",
+          "definition": "the support of the strings of a violin etc",
+          "world_new": [
+            "support",
+            "strings",
+            "violin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The strings are stretched over the bridge.",
+              "world_new": [
+                "strings"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khắc phục",
+          "definition": "to close a gap, pause etc",
+          "world_new": [
+            "close",
+            "gap",
+            "pause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bridged the awkward silence with a funny remark.",
+              "world_new": [
+                "awkward",
+                "silence",
+                "funny",
+                "remark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xây cầu",
+          "definition": "to build a bridge over",
+          "world_new": [
+            "build"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They bridged the stream.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Early-retirement benefits bridged the period between the cessation of work and the date of entitlement to a state and supplementary pension.",
+    "Bifurcations occur a t the ends of these bridges and show the same strong asymmetry along the axis of rotational symmetry.",
+    "The junction area degenerates to the junction point, when the thickness of bridges tends to zero.",
+    "Biomolecular dynamics at long timesteps : bridging the time scale gap between simulation and experimentation.",
+    "I doubt, however, that many in either camp would agree that he has bridged the gap.",
+    "Analysis of bridges with friction controllable sliding isolation system.",
+    "Such conditions arise from the matching with the solution in thin bridges (56).",
+    "If it had been accepted, a quite unnecessary chasm between analytical jurists and socio-legal scholars might have been bridged."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bridal",
+    "bride",
+    "bridegroom",
+    "bridesmaid",
+    "bridge",
+    "bridle",
+    "brief",
+    "briefcase",
+    "briefing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316256_7bfc96a1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316256_74dd357abc_o.png",
+      "id_image": "bridge_172757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670854_db707dea6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670854_429ef612d4_o.png",
+      "id_image": "bridge_1742466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360477_3ee4276b00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360477_da2378434f_o.png",
+      "id_image": "bridge_183375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316226_0fb9e72558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316226_169532bb88_o.png",
+      "id_image": "bridge_3722837"
+    }
+  ]
+}

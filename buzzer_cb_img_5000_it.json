@@ -1,0 +1,63 @@
+{
+  "english": "buzzer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "còi",
+          "definition": "an electrical or other apparatus producing a buzzing sound",
+          "world_new": [
+            "electrical",
+            "apparatus",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Press the buzzer if you require help.",
+              "world_new": [
+                "require",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the controller can drive a buzzer to generate signals during operation and in error conditions.",
+    "The light and buzzer were used to attract infants' attention between trials when necessary.",
+    "Here the pilots have noted that they are approaching their assigned altitude, and the altitude progress was confirmed by an altitude alert buzzer (there are also alert lights).",
+    "They work from the moment the whistle blows in the morning to when the buzzer goes at five o'clock at night.",
+    "If feeding was regularly preceded by some \"indifferent stimulus,\" such as a buzzer or a light or an electric shock, the dog would learn to salivate at that signal.",
+    "There is the buzzer type that is far more universally fitted and that does not do these things.",
+    "Audible door buzzers have been installed on new central line trains.",
+    "A buzzer sounded when they had not looked to the left for fifteen seconds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "buxom",
+    "buy",
+    "buzz",
+    "buzzard",
+    "buzzer",
+    "buzzword",
+    "by",
+    "by a short head",
+    "by all accounts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662679_40dd9198f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662679_9861636246_o.png",
+      "id_image": "buzzer_2195400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044300_a5b389b2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044300_6bfa468bd4_o.png",
+      "id_image": "buzzer_5387094"
+    }
+  ]
+}

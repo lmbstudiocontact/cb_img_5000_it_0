@@ -1,0 +1,84 @@
+{
+  "english": "angel",
+  "phat_am": "ˈeindʒəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiên thần",
+          "definition": "a messenger or attendant of God",
+          "world_new": [
+            "messenger",
+            "attendant",
+            "God"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The angels announced the birth of Christ to the shepherds.",
+              "world_new": [
+                "birth",
+                "Christ"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người phúc hậu",
+          "definition": "a very good or beautiful person",
+          "world_new": [
+            "beautiful",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s been an absolute angel about helping us.",
+              "world_new": [
+                "absolute",
+                "helping"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "angelic",
+    "angelically",
+    "angel-fish"
+  ],
+  "list_browse": [
+    "anecdote",
+    "anemometer",
+    "anemone",
+    "anew",
+    "angel",
+    "angel-fish",
+    "angelic",
+    "angelically",
+    "anger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427508_e9ca1c5f53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427508_58060e0ea3_o.png",
+      "id_image": "angel_1221456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667474_d839b7a214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667474_c0ab2dca97_o.png",
+      "id_image": "angel_1775574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427573_bfb3a9b68e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427573_aa81967b3e_o.png",
+      "id_image": "angel_348968"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356722_b14421a29f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356722_2639bf2623_o.png",
+      "id_image": "angel_643956"
+    }
+  ]
+}

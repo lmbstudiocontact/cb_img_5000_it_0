@@ -1,0 +1,75 @@
+{
+  "english": "airport",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân bay",
+          "definition": "a place where passenger aircraft arrive and depart, with buildings for customs, waiting-rooms etc",
+          "world_new": [
+            "place",
+            "passenger",
+            "aircraft",
+            "arrive",
+            "depart",
+            "customs"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John F. Kennedy International Airport is the United States’ 6th busiest airport.",
+              "world_new": [
+                "F"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They dealt with the maintenance of sanitary conditions, carrying out of preventive measures against communicable diseases at international seaports and airports, and exchange of information.",
+    "Of course, airports vary in details from the point of view of pilots, managers, airport officials, regulators, passengers, their families, smugglers and other users.",
+    "We now want to compute all airport pairs that are reachable by flying through at most one intermediate city.",
+    "For such reasons one might expect that comparison and generalisation would be much more problematic in respect of prisons than of airports.",
+    "Large airports produce as much refuse and garbage as small cities and create potentially serious problems of sanitation.",
+    "The entire compositional material is computer controlled to be synchronised with the airport flight schedule.",
+    "The amount of accessible area in the eastern and western regions was smaller because of the presence of airports and military areas.",
+    "Everywhere the reign of these non-places is growing, in the forms of supermarkets, motorways, airports, and so on."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "airmail",
+    "airman",
+    "airplane",
+    "airplay",
+    "airport",
+    "airship",
+    "airspace",
+    "airstrip",
+    "airtight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317411_3157ec6c07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317411_00c2171fe1_o.png",
+      "id_image": "airport_2169353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361727_b3813044f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361727_2798472b85_o.png",
+      "id_image": "airport_2569850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672089_bbe7c1ec97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672089_511942345f_o.png",
+      "id_image": "airport_4327378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672184_1ecea98368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672184_e6e459ae2e_o.png",
+      "id_image": "airport_674501"
+    }
+  ]
+}

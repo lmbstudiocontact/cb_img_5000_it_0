@@ -1,0 +1,155 @@
+{
+  "english": "brand",
+  "phat_am": "brӕnd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhãn mác",
+          "definition": "a maker’s name or trademark",
+          "world_new": [
+            "name",
+            "trademark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a new brand of dog food",
+              "world_new": [
+                "dog",
+                "food"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a brand name.",
+              "world_new": [
+                "name"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiểu cách",
+          "definition": "a variety",
+          "world_new": [
+            "variety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has his own brand of humour/humor."
+            }
+          ]
+        },
+        {
+          "mean_english": "vết dấu sắt nung",
+          "definition": "a mark on cattle etc to show who owns them, made with a hot iron.",
+          "world_new": [
+            "mark",
+            "cattle",
+            "hot",
+            "iron"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng dấu bằng sắt nung",
+          "definition": "to mark cattle etc with a hot iron",
+          "world_new": [
+            "mark",
+            "cattle",
+            "hot",
+            "iron"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cows are branded for identification purposes.",
+              "world_new": [
+                "identification"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khắc sâu",
+          "definition": "to make a permanent impression on",
+          "world_new": [
+            "permanent",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His name is branded on my memory.",
+              "world_new": [
+                "name",
+                "my",
+                "memory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết tội",
+          "definition": "to attach (permanent) disgrace to",
+          "world_new": [
+            "attach",
+            "disgrace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was branded for life as a thief.",
+              "world_new": [
+                "life",
+                "thief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "brand-new"
+  ],
+  "list_browse": [
+    "braise",
+    "brake",
+    "bran",
+    "branch",
+    "brand",
+    "brand-new",
+    "brandish",
+    "brandy",
+    "brash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054810_792920e839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054810_efbfc02502_o.png",
+      "id_image": "brand_1622679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054795_9830eb4a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054795_5627d5c717_o.png",
+      "id_image": "brand_1999234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362712_204eaf5dda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362712_8dc5121947_o.png",
+      "id_image": "brand_2132232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433363_608763d7e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433363_a49abbd0f4_o.png",
+      "id_image": "brand_5823739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673104_2bd52041da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673104_dfa27d4237_o.png",
+      "id_image": "brand_741882"
+    }
+  ]
+}

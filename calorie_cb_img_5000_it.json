@@ -1,0 +1,100 @@
+{
+  "english": "calorie",
+  "phat_am": "ˈkӕləri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đơn vị đo nhiệt lượng, calo",
+          "definition": "a unit of heat",
+          "world_new": [
+            "unit",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It takes 1.0 calories of heat to warm 1 g of water up by 1°C.",
+              "world_new": [
+                "heat",
+                "warm",
+                "g",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đơn vị đo giá trị năng lượng của thức ăn calo",
+          "definition": "a unit of energy given by food",
+          "world_new": [
+            "unit",
+            "energy",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My diet allows me 1,200 calories per day.",
+              "world_new": [
+                "diet",
+                "per",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The evidence which he, or those who quote him, give is that we cannot judge the calories by statistics and must judge them by results.",
+    "They were previously 1,050 calories, and they have been increased to 1,550.",
+    "He attacked my contention that the average actual intake of this country is not 2,900 calories or anything like it.",
+    "Their daily ration amounts to 2,200 calories, not counting fresh fruit and vegetables.",
+    "The saccharin would provide the flavor; the liquid diet, the calories.",
+    "The two foods have the same number of calories (we'll assume) so they increase weight the same amount.",
+    "The prison diet provides a man with more than 4,000 calories a day.",
+    "Figure 26 shows why two foods with the same number of calories can raise the set point by different amounts."
+  ],
+  "list_see_also": [
+    "calorific"
+  ],
+  "list_browse": [
+    "calm",
+    "calm down",
+    "calmly",
+    "calmness",
+    "calorie",
+    "calorific",
+    "calve",
+    "calypso",
+    "calyx"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420208_26129895e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420208_26ff66a1a4_o.png",
+      "id_image": "calories_1813420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660544_3e41445718_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660544_37eea6c077_o.png",
+      "id_image": "calories_2117186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042050_0696d7bfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042050_a98f8e9806_o.png",
+      "id_image": "calories_2548475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305001_d2f4ab5f92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305001_acbec379ba_o.png",
+      "id_image": "calories_3632468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305176_4b15f77a32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305176_53975d2568_o.png",
+      "id_image": "calorie_2860821"
+    }
+  ]
+}

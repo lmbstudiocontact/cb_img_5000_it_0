@@ -1,0 +1,73 @@
+{
+  "english": "buffer",
+  "phat_am": "ˈbafə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật đệm",
+          "definition": "an apparatus for lessening the force with which a moving object strikes something",
+          "world_new": [
+            "apparatus",
+            "force",
+            "moving",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The train had stopped at the buffers.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pellet was resuspended in buffer and after 40 minutes this suspension was centrifuged as before.",
+    "The pellets were washed with 1 ml washing buffer and re-pelleted.",
+    "An equal number of mice sham- inoculated with phosphate buffer saline were used as controls.",
+    "At 300 mm into the move, another tangent move enters the move buffer of length 100 mm.",
+    "The path length may increase because a motion buffer frees a slot for a move that is tangent to the move currently being processed.",
+    "Inhibitors were also included in the postelectrophoresis incubation buffer.",
+    "Interaction with a significant adult mentor provides the most powerful buffer against risk factors.",
+    "Upon centrifugation, the pellet, containing cellular matrix, was resuspended in high salt buffer to release cytoskeleton-associated components."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "budgerigar",
+    "budget",
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet",
+    "bug",
+    "buggy",
+    "bugle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312851_aa2301c83d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312851_382ecbf259_o.png",
+      "id_image": "buffer_1619251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382071_48f8ea2fd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382071_a1235cddd5_o.png",
+      "id_image": "buffer_2009750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312741_dbbacbe231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312741_549958edb9_o.png",
+      "id_image": "buffer_2009830"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667599_8bf7939d20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667599_d23b41c0ac_o.png",
+      "id_image": "buffer_5362232"
+    }
+  ]
+}

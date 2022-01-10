@@ -1,0 +1,122 @@
+{
+  "english": "alien",
+  "phat_am": "ˈeiliən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc nước ngoài",
+          "definition": "strange and very different from what you are used to; foreign",
+          "world_new": [
+            "strange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They found themselves in an alien environment",
+              "world_new": [
+                "found",
+                "environment"
+              ]
+            },
+            {
+              "ex_of_definition": "alien customs.",
+              "world_new": [
+                "customs"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ngoài hành tinh",
+          "definition": "relating to creatures from another planet",
+          "world_new": [
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "alien beings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngoại kiều",
+          "definition": "a foreigner",
+          "world_new": [
+            "foreigner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an illegal alien.",
+              "world_new": [
+                "illegal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ngoài hành tinh",
+          "definition": "a creature from another planet",
+          "world_new": [
+            "creature",
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "aliens from outer space",
+              "world_new": [
+                "outer",
+                "space"
+              ]
+            },
+            {
+              "ex_of_definition": "He claims that he was abducted by aliens."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "alienate",
+    "alienation"
+  ],
+  "list_browse": [
+    "algebra",
+    "algebraic",
+    "alias",
+    "alibi",
+    "alien",
+    "alienate",
+    "alienation",
+    "alight",
+    "align"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360797_1b02e2bcce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360797_ba0fcc105b_o.png",
+      "id_image": "aliens_3306585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671259_28f535032f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671259_729c7ac0ac_o.png",
+      "id_image": "aliens_5570658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671314_99ac98a1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671314_5289895236_o.png",
+      "id_image": "alien_1171404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316596_00804ea51f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316596_7db09e24a4_o.png",
+      "id_image": "alien_784897"
+    }
+  ]
+}

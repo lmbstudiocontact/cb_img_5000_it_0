@@ -1,0 +1,70 @@
+{
+  "english": "chopper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dao bầu",
+          "definition": "an instrument for chopping",
+          "world_new": [
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a meat chopper.",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy bay trực thăng",
+          "definition": "a helicopter",
+          "world_new": [
+            "helicopter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ride in a chopper.",
+              "world_new": [
+                "ride"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "choose",
+    "chop",
+    "chop and change",
+    "chop down",
+    "chopper",
+    "choppiness",
+    "choppy",
+    "chopsticks",
+    "choral"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663064_1594966d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663064_7fd08ea3a0_o.png",
+      "id_image": "chopper_2160628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422938_c11feb0269_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422938_79601d805f_o.png",
+      "id_image": "chopper_5238581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307766_650c1cfc0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307766_0e2aaf48f6_o.png",
+      "id_image": "chopper_5663653"
+    }
+  ]
+}

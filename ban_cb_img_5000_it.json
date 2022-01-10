@@ -1,0 +1,93 @@
+{
+  "english": "ban",
+  "phat_am": "bӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lệnh cấm",
+          "definition": "an order that a certain thing may not be done",
+          "world_new": [
+            "order",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ban on smoking.",
+              "world_new": [
+                "smoking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cấm",
+          "definition": "to forbid",
+          "world_new": [
+            "forbid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government banned publication of his book.",
+              "world_new": [
+                "government",
+                "publication",
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The mainstream can ban the public performances, but it cannot banish the belief in spirits.",
+    "Even the most controlled commodity, rice, has seen greater freedom with the relaxing of the import ban and state-controlled distribution system.",
+    "The use of bare hands should be banned.",
+    "They did not necessarily halt the traffic-porous borders and administrative graft militated against the effectiveness of bans and controls-but prices were usually not left unaffected.",
+    "Some independent argument is needed to show why such a ban would be illegitimate.",
+    "The livestock markets were closed as a result of this ban.",
+    "With all herbicides banned, manual weeding is usually a considerable cost factor in organic coffee production.",
+    "The female students already enrolled protested this sudden ban, with limited success."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "balsa",
+    "balsam",
+    "bamboo",
+    "bamboozle",
+    "ban",
+    "banana",
+    "band",
+    "Band-Aid",
+    "bandage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672369_67b03b022b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672369_f04745af70_o.png",
+      "id_image": "ban_1620446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361912_739a0fe153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361912_701a498bd1_o.png",
+      "id_image": "ban_2762477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432663_eb9b51bed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432663_406b491e6b_o.png",
+      "id_image": "ban_2762560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672379_6478f37ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672379_84bd1318dd_o.png",
+      "id_image": "ban_768384"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "clone",
+  "phat_am": "kləun",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sản sinh vô tính",
+          "definition": "to produce a copy of an animal or plant from a single cell of that animal or plant",
+          "world_new": [
+            "produce",
+            "copy",
+            "animal",
+            "plant",
+            "single",
+            "cell",
+            "animal",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In February 1997 scientists announced that they had successfully cloned a sheep.",
+              "world_new": [
+                "February",
+                "successfully",
+                "sheep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dòng vô tính",
+          "definition": "a copy of an animal or plant produced from that animal or plant",
+          "world_new": [
+            "copy",
+            "animal",
+            "plant",
+            "animal",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A plant cutting can be used to generate a clone.",
+              "world_new": [
+                "plant",
+                "cutting",
+                "generate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of the clones, 21 were full-length (2n9 kb) elements and the rest were shorter elements due to internal deletions.",
+    "To our knowledge, few studies have been carried out on the cell-cycle stage of ear fibroblast cells from transgenic cloned cattle.",
+    "Second, slower growing clones would be expected to lose out in competitive interactions in mixed infections.",
+    "In this study cumulus cells were used as donor cells because they have been shown to serve as ideal somatic cells for cloning.",
+    "Data on viability of cultures, and the proportion of live cells which had differentiated on day 7 were collected for 11 clones.",
+    "To overcome this, many molecular techniques have been used recently to distinguish clones of enteric pathogens for epidemiological investigations.",
+    "The observed morphological variation was probably due to genetic differences, since all clones were reared in a common environment.",
+    "Within the clades, ' randomized congregations ' of clones representing different isolates and different geographical origins were identified."
+  ],
+  "list_see_also": [
+    "cloning"
+  ],
+  "list_browse": [
+    "clod",
+    "clog",
+    "clogging",
+    "cloister",
+    "clone",
+    "cloning",
+    "close",
+    "close at hand",
+    "close call/shave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685394_4e8422109a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685394_c1e6bff664_o.png",
+      "id_image": "clone_2010139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445228_d67647bf39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445228_514a54cbbb_o.png",
+      "id_image": "clone_2742119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685469_090089dbd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685469_ae3db83e9f_o.png",
+      "id_image": "clone_648433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445303_dc1fbbcabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445303_dc213d1983_o.png",
+      "id_image": "clone_815310"
+    }
+  ]
+}

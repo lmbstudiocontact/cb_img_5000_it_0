@@ -1,0 +1,158 @@
+{
+  "english": "bug",
+  "phat_am": "baɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con bọ",
+          "definition": "informal, especially American) an insect",
+          "world_new": [
+            "insect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a bug crawling up your arm.",
+              "world_new": [
+                "your",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con rệp",
+          "definition": "an insect that lives in dirty houses and beds",
+          "world_new": [
+            "insect",
+            "dirty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bedbug.",
+              "world_new": [
+                "bedbug"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vi trùng",
+          "definition": "a germ or infection",
+          "world_new": [
+            "germ",
+            "infection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stomach bug.",
+              "world_new": [
+                "stomach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy ghi âm nhỏ",
+          "definition": "a small hidden microphone",
+          "world_new": [
+            "small",
+            "hidden",
+            "microphone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The FBI had hidden a bug in his office.",
+              "world_new": [
+                "FBI",
+                "hidden",
+                "office"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt máy nghe trộm",
+          "definition": "to place small hidden microphones in (a room etc)",
+          "world_new": [
+            "place",
+            "small",
+            "hidden",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The spy’s hotel bedroom was bugged.",
+              "world_new": [
+                "hotel",
+                "bedroom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phát cáu",
+          "definition": "to annoy",
+          "world_new": [
+            "annoy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s bugging him?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finding a bug in the expression evaluator seemed to require some 50-60 questions to be answered on average.",
+    "These could be viewed as either features or bugs, depending on one's perspective.",
+    "The parasites appeared to be merely digested by the bug, the rate of digestion being governed by the temperature at which the insects were maintained.",
+    "Unfortunately, a bug has crept into the adapted code, leading to a black hole.",
+    "This security bug was later fixed by the developers when the second author made them aware of the problem.",
+    "It commonly takes a few iterations before one begins to find bugs in the program itself.",
+    "For example, when asked to find the stickbug, the children who erred most often selected the stick, rather than the other (not stick-like) bug.",
+    "In practice, this capability is quite useful in discovering 'hard-to-find' bugs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet",
+    "bug",
+    "buggy",
+    "bugle",
+    "bugler",
+    "build"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049140_64902b0192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049140_36a2d9a44c_o.png",
+      "id_image": "bug_1018798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427298_e4d7ebb0d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427298_48733a96f9_o.png",
+      "id_image": "bug_1590014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049060_213f2c29df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049060_ae4d2f503d_o.png",
+      "id_image": "bug_1590034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312596_cd4173f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312596_cea157101d_o.png",
+      "id_image": "bug_269064"
+    }
+  ]
+}

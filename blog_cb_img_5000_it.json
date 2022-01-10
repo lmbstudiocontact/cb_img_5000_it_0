@@ -1,0 +1,96 @@
+{
+  "english": "blog",
+  "phat_am": "(British) bloɡ; (American) bloːɡ, bloɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "blog",
+          "definition": "a website, often updated daily, in which someone writes about their thoughts or experiences relating to a particular subject",
+          "world_new": [
+            "website",
+            "daily",
+            "their",
+            "particular",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She writes a daily blog",
+              "world_new": [
+                "daily"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a blog entry.",
+              "world_new": [
+                "entry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viết blog",
+          "definition": "to write a blog",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What has he been blogging about recently?",
+              "world_new": [
+                "blogging",
+                "recently"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She was also charged for communicating with the boy via blogs and a website.",
+    "However, we share the view, with many web-bloggers, that violations and slander are equally punishable on web-blogs as in other media.",
+    "Other blogs such as the have also picked up on the acts.",
+    "You order up sample textbooks from publishers' websites, and of course you look at how your peers have covered the same material, browsing their websites and reading their blogs.",
+    "Blogs and other 'user-generated content' provide a lively contribution to the multifaceted media landscape and are increasingly influential in the interpretation of news and current affairs.",
+    "One of the blogs belongs to the gorilla zookeeper.",
+    "Who let the blogs out?",
+    "Blogs have redefined our relationship to the content industry as they allowed access to non-professional content."
+  ],
+  "list_see_also": [
+    "blogger",
+    "blogging"
+  ],
+  "list_browse": [
+    "blockade",
+    "blockage",
+    "blocked",
+    "blockhead",
+    "blog",
+    "blogger",
+    "blogging",
+    "bloke",
+    "blond"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329236_91ab48278a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329236_955cf08d37_o.png",
+      "id_image": "blog_1925401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066075_b99721a771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066075_4f9d827d5b_o.png",
+      "id_image": "blog_228901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329296_4bd2c5fe43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329296_2361154192_o.png",
+      "id_image": "blog_543926"
+    }
+  ]
+}

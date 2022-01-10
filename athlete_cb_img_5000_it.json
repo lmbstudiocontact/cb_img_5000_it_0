@@ -1,0 +1,70 @@
+{
+  "english": "athlete",
+  "phat_am": "ˈӕθliːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vận động viên điền kinh",
+          "definition": "a person who is good at sport, especially running, jumping etc",
+          "world_new": [
+            "person",
+            "sport",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hundreds of athletes participated in the games.",
+              "world_new": [
+                "games"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Perhaps they served with her in a war, or know her as an outstanding musician, or as a former professional athlete.",
+    "Not all dive routines are considered to be about just whether the athlete moves from the diving board into the water.",
+    "Examples include physician participation in capital punishment by lethal injection and prescribing anabolic steroids for athletes.",
+    "In the first place they were not athletes but warriors and not necessarily the best either.",
+    "He doesn't try to understand any of us, the changes in society, the different role of the athlete and the coach.",
+    "These hearings, involving some of the nations' most celebrated athletes, generated a feeding frenzy of media coverage.",
+    "One important context that shaped the young athletes' perceptions of self-ageing was the family.",
+    "They defined themselves as athletes and participated competitively in either team (15) or individual (7) sports."
+  ],
+  "list_see_also": [
+    "athletic",
+    "athletics"
+  ],
+  "list_browse": [
+    "at/on one’s heels",
+    "atheism",
+    "atheist",
+    "atheistic",
+    "athlete",
+    "athletic",
+    "athletics",
+    "atlas",
+    "ATM"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302241_55cde303df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302241_2eac211f8d_o.png",
+      "id_image": "athlete_4010240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346422_d63308f1b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346422_e1043e1ebb_o.png",
+      "id_image": "athlete_4633072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417253_2d4aeb4bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417253_4de2f861a1_o.png",
+      "id_image": "athlete_6036734"
+    }
+  ]
+}

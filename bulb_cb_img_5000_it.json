@@ -1,0 +1,97 @@
+{
+  "english": "bulb",
+  "phat_am": "balb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng đèn",
+          "definition": "(also light bulb) a pear-shaped glass globe surrounding the element of an electric light",
+          "world_new": [
+            "pear-shaped",
+            "glass",
+            "globe",
+            "surrounding",
+            "element",
+            "electric",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an energy-saving bulb."
+            }
+          ]
+        },
+        {
+          "mean_english": "củ, thân (hành, tỏi)",
+          "definition": "the ball-shaped part of the stem of certain plants, eg onions, tulips etc, from which their roots grow",
+          "world_new": [
+            "part",
+            "stem",
+            "certain",
+            "their",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Plant the bulbs in rows, about six inches apart",
+              "world_new": [
+                "apart"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bầu (nhiệt kế)",
+          "definition": "the pear-shaped end of a thermometer.",
+          "world_new": [
+            "pear-shaped",
+            "thermometer"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They say they did a second analysis subtracting out the olfactory bulb, but surprisingly report no detailed results.",
+    "The user therefore has to interpolate from his measured wet-bulb temperature to find the vapour pressure or relative humidity.",
+    "Evidence for increased extraction of oxygen and desaturation in the jugular venous bulb is frequently evident during rewarming.",
+    "In addition to the dry appearance the bulbs are frequently quite definitely below the size to be expected and are somewhat soft.",
+    "As the foliage dies back the mites wander along it and so cross to adjacent bulbs.",
+    "Memories of olfactory sensation are created in the olfactory bulb.",
+    "The marks are made by those mites which congregate at these points almost immediately upon the bulbs first being subjected to artificial heat.",
+    "A number of respondents thought they might be safer than ordinary bulbs, as they needed to be changed less often."
+  ],
+  "list_see_also": [
+    "bulbous"
+  ],
+  "list_browse": [
+    "building site",
+    "building society",
+    "built-in",
+    "built-up",
+    "bulb",
+    "bulbous",
+    "bulbul",
+    "bulge",
+    "bulimia"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426703_00013b15b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426703_0ae8fce572_o.png",
+      "id_image": "bulb_393649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048425_882db1e471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048425_a01f5c8472_o.png",
+      "id_image": "bulb_407446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048390_87275d2cbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048390_e4a523bfbc_o.png",
+      "id_image": "bulb_420300"
+    }
+  ]
+}

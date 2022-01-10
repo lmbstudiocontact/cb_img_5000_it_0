@@ -1,0 +1,114 @@
+{
+  "english": "branch",
+  "phat_am": "braːntʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cành cây",
+          "definition": "an arm-like part of a tree",
+          "world_new": [
+            "part",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cut some branches off the oak tree.",
+              "world_new": [
+                "cut",
+                "oak",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhánh",
+          "definition": "an offshoot from the main part (of a business, railway/railroad etc)",
+          "world_new": [
+            "main",
+            "part",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There isn’t a branch of that store in this town",
+              "world_new": [
+                "store",
+                "town"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) That train runs on the branch line.",
+              "world_new": [
+                "train",
+                "line"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân nhánh; chia ngả",
+          "definition": "(usually with out/off) to spread out like, or into, a branch or branches",
+          "world_new": [
+            "spread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road to the coast branches off here.",
+              "world_new": [
+                "road",
+                "coast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The higher-order branches of solutions correspond to rescaled periodic extensions of this fundamental branch.",
+    "The level of expression of the 6 isoform in the cells of the right bundle branch was always lower than that of the surrounding myocardium.",
+    "For the arterial trunks, this is an easy matter, since the pattern of branching permits ready distinction of an aorta from a pulmonary trunk.",
+    "Three independent branches can be seen: degeneracy has been removed by breaking symmetry through displacement of one of the jets.",
+    "Each frontal strut gives off a short, broad branch directed inwards, at the posterior corner of which is another mandibular condyle.",
+    "All branches of nursing have since evolved towards a more holistic approach to care.",
+    "The former tries to delay some computations while the second drives different computations through a tree of branching paths.",
+    "It is possible that one or more of these branches is an unstable steady state, and hence would not be observed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brainy",
+    "braise",
+    "brake",
+    "bran",
+    "branch",
+    "brand",
+    "brand-new",
+    "brandish",
+    "brandy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055010_8f5b3159a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055010_3f64f3d13b_o.png",
+      "id_image": "branch_2153130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318426_8c3851faf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318426_3a4583b45b_o.png",
+      "id_image": "branch_2640154"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433598_8d94b225a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433598_db634d0423_o.png",
+      "id_image": "branch_6357748"
+    }
+  ]
+}

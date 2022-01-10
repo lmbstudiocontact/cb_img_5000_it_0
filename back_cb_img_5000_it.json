@@ -1,0 +1,319 @@
+{
+  "english": "back",
+  "phat_am": "bӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái lưng",
+          "definition": "in humans, the part of the body from the neck to the bottom of the spine",
+          "world_new": [
+            "part",
+            "body",
+            "neck",
+            "bottom",
+            "spine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lay on her back.",
+              "world_new": [
+                "lay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lưng động vật",
+          "definition": "in animals, the upper part of the body",
+          "world_new": [
+            "upper",
+            "part",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put the saddle on the horse’s back.",
+              "world_new": [
+                "saddle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đằng sau",
+          "definition": "that part of anything opposite to or furthest from the front",
+          "world_new": [
+            "part",
+            "opposite",
+            "furthest",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the back of the house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "She sat at the back of the hall.",
+              "world_new": [
+                "hall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hậu vệ",
+          "definition": "in soccer, hockey etc a player who plays behind the forwards",
+          "world_new": [
+            "soccer",
+            "hockey",
+            "player"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a left/right back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đằng sau",
+          "definition": "of or at the back",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the back door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trở lại",
+          "definition": "to, or at, the place or person from which a person or thing came",
+          "world_new": [
+            "place",
+            "person",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I went back to the shop",
+              "world_new": [
+                "I",
+                "shop"
+              ]
+            },
+            {
+              "ex_of_definition": "He gave the watch back to its owner.",
+              "world_new": [
+                "watch",
+                "its",
+                "owner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách xa",
+          "definition": "away (from something); not near (something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Move back! Let the ambulance get to the injured man",
+              "world_new": [
+                "ambulance",
+                "injured"
+              ]
+            },
+            {
+              "ex_of_definition": "Keep back from me or I’ll hit you!",
+              "world_new": [
+                "hit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quay trở lại",
+          "definition": "towards the back (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ted was sitting back in his chair.",
+              "world_new": [
+                "sitting",
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản ứng lại",
+          "definition": "in return; in response to",
+          "world_new": [
+            "response"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the teacher is telling you off, don’t answer back.",
+              "world_new": [
+                "teacher",
+                "telling",
+                "answer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghĩ lại",
+          "definition": "to, or in, the past",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Think back to your childhood.",
+              "world_new": [
+                "your",
+                "childhood"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lùi",
+          "definition": "to (cause to) move backwards",
+          "world_new": [
+            "move",
+            "backwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He backed (his car) out of the garage.",
+              "world_new": [
+                "garage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ủng hộ",
+          "definition": "to help or support",
+          "world_new": [
+            "help",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you back me against the others?"
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh cuộc",
+          "definition": "to bet or gamble on",
+          "world_new": [
+            "bet",
+            "gamble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I backed your horse to win.",
+              "world_new": [
+                "I",
+                "your",
+                "horse",
+                "win"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authorities soon backed away from these draconian measures, yet throughout the war salons operated under the most severe restrictions.",
+    "I discuss below the financial incentives that backed this up.",
+    "Unable and unwilling to rely on an urban treatment network, voluntary providers turned their backs on the city.",
+    "She then rose, backed away rapidly with joined hands and bowed head toward him, and fled.",
+    "The web closes again as the other maids, backed by their overseer, cast the fifth maid out and resume their discourse.",
+    "Both use a repertoire of technical tricks to achieve this: camera angles, amplification, lighting, editing, backing tapes, and so forth.",
+    "In addition, despite early set-backs, it appears that significant progress has been made in the acquisition of needed credit and business management skills.",
+    "Each link or single step in the chain of argumentation takes the form of a conclusion backed up by premises at the next level."
+  ],
+  "list_see_also": [
+    "backer",
+    "backache",
+    "backbiting",
+    "backbone",
+    "backbreaking",
+    "backdate",
+    "backfire",
+    "backgammon",
+    "background",
+    "backhand",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "babysitter",
+    "babysitting",
+    "bac’terial",
+    "bachelor",
+    "back",
+    "back and forth",
+    "back down",
+    "back number",
+    "back of"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059665_77f0c6ed26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059665_e409728034_o.png",
+      "id_image": "back_269076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367777_bc225dacf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367777_f5e536c08f_o.png",
+      "id_image": "back_2926412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677964_51ee8d8ecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677964_d5ff15d608_o.png",
+      "id_image": "back_4843948"
+    }
+  ]
+}

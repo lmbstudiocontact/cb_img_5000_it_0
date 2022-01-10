@@ -1,0 +1,78 @@
+{
+  "english": "blood",
+  "phat_am": "blad",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máu",
+          "definition": "the red fluid pumped through the body by the heart",
+          "world_new": [
+            "red",
+            "fluid",
+            "body",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Blood poured from the wound in his side.",
+              "world_new": [
+                "wound",
+                "side"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bloodless",
+    "bloody",
+    "blood cell",
+    "bloodcurdling",
+    "blood donor",
+    "blood group/type",
+    "blood-poisoning",
+    "blood pressure",
+    "bloodshed",
+    "bloodshot",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "blogging",
+    "bloke",
+    "blond",
+    "blonde",
+    "blood",
+    "blood cell",
+    "blood donor",
+    "blood group/type",
+    "blood pressure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328971_bf2ec68213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328971_6d1130c271_o.png",
+      "id_image": "blood_1548345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684019_a57705b5e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684019_fac96838e0_o.png",
+      "id_image": "blood_205916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373667_4a17d52d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373667_af5f6b3d5e_o.png",
+      "id_image": "blood_2904539"
+    }
+  ]
+}

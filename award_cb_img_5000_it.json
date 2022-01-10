@@ -1,0 +1,97 @@
+{
+  "english": "award",
+  "phat_am": "əˈwoːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thưởng",
+          "definition": "to give (someone something that he has won or deserved)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They awarded her first prize.",
+              "world_new": [
+                "prize"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phạt",
+          "definition": "to give",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was awarded damages of $5,000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giải thưởng",
+          "definition": "a prize etc awarded",
+          "world_new": [
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Cannes film awards are presented annually.",
+              "world_new": [
+                "film",
+                "annually"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results we present here show that compulsory retirement rules require more attention from a policy design perspective than previously awarded in the literature.",
+    "He won many distinguished awards but this seems particularly resonant and appropriate.",
+    "Between 1981 and 1990, the government awarded scholarships to a total of 167 students.",
+    "The j ob will likely be awarded on the basis of interviews and your ostensible qualifications, such as experience with similar projects.",
+    "The awards for this section were of 6000 and 3000 marks, raising the total available prize money to the substantial sum of 20,000 marks.",
+    "One or zero points were awarded depending on the accuracy of each targeted item identified for a possible total of 10.",
+    "Because women were new to the system, however, and very few were qualified for professorships, most professorships continued to be awarded to men.",
+    "A number of them received top international awards for magic, were hailed as national heroes and seen on a par with their western counterparts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "await",
+    "awake",
+    "awaken",
+    "awakening",
+    "award",
+    "aware",
+    "awareness",
+    "awash",
+    "away"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368912_3e5f81b94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368912_d6ee069e26_o.png",
+      "id_image": "award_1426431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368872_6c0954c1c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368872_b291e516c8_o.png",
+      "id_image": "award_1426432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679114_943fd69615_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679114_1cfd8f79ee_o.png",
+      "id_image": "award_1529224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438928_460cf4881a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438928_6ef465628d_o.png",
+      "id_image": "award_5132995"
+    }
+  ]
+}

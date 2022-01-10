@@ -1,0 +1,86 @@
+{
+  "english": "clamp",
+  "phat_am": "klӕmp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái kẹp",
+          "definition": "a piece of wood, iron etc used to fasten things together or to strengthen them",
+          "world_new": [
+            "piece",
+            "wood",
+            "iron",
+            "fasten",
+            "strengthen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an adjustable clamp.",
+              "world_new": [
+                "adjustable"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cặp",
+          "definition": "to bind together with a clamp",
+          "world_new": [
+            "bind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They clamped the iron rods together.",
+              "world_new": [
+                "iron"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "clamp down"
+  ],
+  "list_browse": [
+    "clamber",
+    "clammy",
+    "clamorous",
+    "clamour",
+    "clamp",
+    "clamp down",
+    "clan",
+    "clandestine",
+    "clang"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420503_f82296ca25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420503_282f21c947_o.png",
+      "id_image": "clamp_1907765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305401_966fa25744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305401_7ff1c1df29_o.png",
+      "id_image": "clamp_4646813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305386_16ff5f5434_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305386_3b952f2eeb_o.png",
+      "id_image": "clamp_4705342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305471_51f70ae89a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305471_207ca395ed_o.png",
+      "id_image": "clamp_664101"
+    }
+  ]
+}

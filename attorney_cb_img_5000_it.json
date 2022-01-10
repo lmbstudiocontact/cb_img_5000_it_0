@@ -1,0 +1,78 @@
+{
+  "english": "attorney",
+  "phat_am": "əˈtəːni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người được uỷ quyền",
+          "definition": "a person who has the legal power to act for another person.",
+          "world_new": [
+            "person",
+            "legal",
+            "power",
+            "act",
+            "person"
+          ]
+        },
+        {
+          "mean_english": "luật sư",
+          "definition": "a lawyer",
+          "world_new": [
+            "lawyer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have a right to an attorney in a criminal case.",
+              "world_new": [
+                "right",
+                "criminal",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their voices show that attorneys were not always able to steer witnesses along by putting words in their mouths or by asking leading questions.",
+    "The plaintiff (most probably at the suggestion of her attorney) changed strategy and decided to employ a procedural argument rather than substantive one.",
+    "But the attorney general could and sometimes did require the accused to post securities for good behaviour before admitting him to bail.",
+    "We encourage families to obtain durable power of attorney for health care for their demented relatives and avoid the cost and procedures of guardianship.",
+    "As a consequence of these various pressures attorneys tended to remain aloof from politics and interested primarily in their own professional advancement.",
+    "More encouraging still is the emergence of a new strategy in collaborative family practice, begun by attorneys who felt uncomfor table with adversarial dispute resolutions.",
+    "In the face of these developments, defense attorneys were learning to stay away from fingerprint examiners.",
+    "In the autumn of 1764 he seemed likely to return to office, either as attorney general or master of the rolls."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "attentiveness",
+    "attic",
+    "attire",
+    "attitude",
+    "attorney",
+    "attract",
+    "attraction",
+    "attractive",
+    "attractively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373047_ba967663b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373047_d1b5e635d3_o.png",
+      "id_image": "attorney_2310222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328246_2bcf2d8743_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328246_6ddc58fec5_o.png",
+      "id_image": "attorney_2861226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683324_4bbb93427d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683324_8674449ed1_o.png",
+      "id_image": "attorney_6333136"
+    }
+  ]
+}

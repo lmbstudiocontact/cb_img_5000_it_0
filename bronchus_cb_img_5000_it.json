@@ -1,0 +1,65 @@
+{
+  "english": "bronchus",
+  "phat_am": "ˈbroŋkəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phế quản",
+          "definition": "either of the two main tubes of the trachea (= windpipe) that carry air into the lungs",
+          "world_new": [
+            "main",
+            "trachea",
+            "carry",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an inflammation of the bronchi.",
+              "world_new": [
+                "inflammation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The aorta was posterior and left-sided, its arch running over the right bronchus.",
+    "In the bronchi and larger bronchioles, the fibres are arranged predominantly longitudinally.",
+    "The vagus also regulates the stress response in other organs such as the bronchi, esophagus, pharynx, and heart.",
+    "The relationship between the bronchus and the pulmonary artery was morphologically left bilaterally in all patients.",
+    "The trachea, bronchi and bronchioles were cut open and examined for lungworms.",
+    "Considerations initiated by 3 cases of absent spleen with discordant anatomy between bronchi and atria.",
+    "At autopsy, there was left isomerism of the atrial appendages and bronchi, with the apex of the heart pointing to the right.",
+    "This large vessel compresses the right upper lobe bronchus resulting in emphysema."
+  ],
+  "list_see_also": [
+    "bronchial"
+  ],
+  "list_browse": [
+    "brolly",
+    "bronchial",
+    "bronchitic",
+    "bronchitis",
+    "bronchus",
+    "bronze",
+    "bronze medal",
+    "bronzed",
+    "brooch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314886_c9f6da8f15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314886_ba3bef04b0_o.png",
+      "id_image": "bronchus_2287837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051445_7ae6d43cfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051445_195e3e0e64_o.png",
+      "id_image": "bronchus_655298"
+    }
+  ]
+}

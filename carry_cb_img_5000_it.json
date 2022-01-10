@@ -1,0 +1,154 @@
+{
+  "english": "carry",
+  "phat_am": "ˈkӕri",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mang; vác",
+          "definition": "to take from one place etc to another",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She carried the child over the river",
+              "world_new": [
+                "child",
+                "river"
+              ]
+            },
+            {
+              "ex_of_definition": "Flies carry disease.",
+              "world_new": [
+                "disease"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền đi",
+          "definition": "to go from one place to another",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sound carries better over water.",
+              "world_new": [
+                "better",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đỡ",
+          "definition": "to support",
+          "world_new": [
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These stone columns carry the weight of the whole building.",
+              "world_new": [
+                "stone",
+                "weight",
+                "whole",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứa đựng",
+          "definition": "to have or hold",
+          "world_new": [
+            "hold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This job carries great responsibility.",
+              "world_new": [
+                "job",
+                "great",
+                "responsibility"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông qua",
+          "definition": "to approve (a bill etc) by a majority of votes",
+          "world_new": [
+            "approve",
+            "bill",
+            "majority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The parliamentary bill was carried by forty-two votes.",
+              "world_new": [
+                "parliamentary",
+                "bill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cư xử",
+          "definition": "to hold (oneself) in a certain way",
+          "world_new": [
+            "hold",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carries himself like a soldier.",
+              "world_new": [
+                "soldier"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "carry-all",
+    "carrycot",
+    "carry-out",
+    "be/get carried away",
+    "carry forward",
+    "carry off",
+    "carry on",
+    "carry-on",
+    "carry-on",
+    "carry out",
+    ""
+  ],
+  "list_browse": [
+    "carriageway",
+    "carrier bag",
+    "carrion",
+    "carrot",
+    "carry",
+    "carry forward",
+    "carry off",
+    "carry on",
+    "carry weight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368352_fe656b7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368352_e5b7f94c98_o.png",
+      "id_image": "carrying_4770336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438618_2e77c69230_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438618_ca4d69a0ea_o.png",
+      "id_image": "carry_1165761"
+    }
+  ]
+}

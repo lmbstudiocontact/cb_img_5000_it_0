@@ -1,0 +1,106 @@
+{
+  "english": "bone",
+  "phat_am": "bəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ xương",
+          "definition": "the hard substance forming the skeleton of man, animals etc",
+          "world_new": [
+            "substance",
+            "skeleton"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bone decays far more slowly than flesh.",
+              "world_new": [
+                "far",
+                "slowly",
+                "flesh"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xương",
+          "definition": "a piece of this substance",
+          "world_new": [
+            "piece",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She broke two of the bones in her foot.",
+              "world_new": [
+                "broke",
+                "foot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gỡ xương",
+          "definition": "to take the bones out of (fish etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trainee chefs are taught how to bone various types of fish.",
+              "world_new": [
+                "trainee",
+                "various",
+                "fish"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bony",
+    "bone china",
+    "bone idle",
+    "a bone of contention",
+    "have a bone to pick with (someone)",
+    "to the bone"
+  ],
+  "list_browse": [
+    "bonanza",
+    "bond",
+    "bondage",
+    "bonded store/warehouse",
+    "bone",
+    "bone china",
+    "bone idle",
+    "bonfire",
+    "bonfire night"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061670_90f6995b0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061670_4fd5e49dc1_o.png",
+      "id_image": "bones_1488108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324671_157082b219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324671_1196d35a15_o.png",
+      "id_image": "bones_1732469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324631_0c9c8a4dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324631_8d97611875_o.png",
+      "id_image": "bones_2188047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369617_5b22a8cdce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369617_83ae3ecfc7_o.png",
+      "id_image": "bone_1123917"
+    }
+  ]
+}

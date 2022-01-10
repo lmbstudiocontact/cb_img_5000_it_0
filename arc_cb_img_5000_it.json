@@ -1,0 +1,74 @@
+{
+  "english": "arc",
+  "phat_am": "aːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình cung",
+          "definition": "a part of the line which forms a circle or other curve",
+          "world_new": [
+            "part",
+            "line",
+            "circle",
+            "curve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many methods have been used to measure the arc of a circle.",
+              "world_new": [
+                "measure",
+                "circle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The circuit cover problem for mixed graphs (those containing edges and/or arcs) is defined as follows.",
+    "While domain reduction ensuring arc- or hyperarc consistency is relatively simple for indexing over discrete variables, the case of continuous variables is much less explored.",
+    "Derivation of some modern arc magmas by melting of young subducted lithosphere.",
+    "Each vignette is vividly contextualized, but a larger historical arc that would unify the profiles fails to emerge.",
+    "This intersection is an arc of a great circle whose endpoints lie on this meridian.",
+    "Thus, elemental carbon was released from the electrodes during arcing.",
+    "Then the adjacent bubble surfaces would be circular arcs concave upward.",
+    "We point out that our graphs are usually called directed graphs without multiple arcs or digraphs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arbitrary",
+    "arbitrate",
+    "arbitration",
+    "arbitrator",
+    "arc",
+    "arcade",
+    "arch",
+    "arch-enemy",
+    "archaeological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044220_d675abdf92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044220_c44bed8b01_o.png",
+      "id_image": "arc_1277731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351317_f14ba1a12f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351317_f604498032_o.png",
+      "id_image": "arc_2885530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351292_a26bc684d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351292_06a4fed4eb_o.png",
+      "id_image": "arc_4440024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044240_1577cf5a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044240_8609196331_o.png",
+      "id_image": "arc_576753"
+    }
+  ]
+}

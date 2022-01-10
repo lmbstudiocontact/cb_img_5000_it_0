@@ -1,0 +1,84 @@
+{
+  "english": "animal",
+  "phat_am": "ˈӕniməl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động vật",
+          "definition": "a living being which can feel things and move freely",
+          "world_new": [
+            "living",
+            "feel",
+            "move",
+            "freely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What are the differences between man and other animals?"
+            }
+          ]
+        },
+        {
+          "mean_english": "loài động vật",
+          "definition": "an animal other than man",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a book on man’s attitude to animals",
+              "world_new": [
+                "book",
+                "attitude"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) animal behaviour.",
+              "world_new": [
+                "behaviour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anguished",
+    "angular",
+    "angularity",
+    "anhydrous",
+    "animal",
+    "animate",
+    "animated",
+    "animatedly",
+    "animation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667199_c0aeabbd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667199_4126cca833_o.png",
+      "id_image": "animal_1718000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312241_1509551e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312241_04c571f265_o.png",
+      "id_image": "animal_1730469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427068_d9722defde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427068_93c0bf8fd8_o.png",
+      "id_image": "animal_1772248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312196_2484895daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312196_fa42df8063_o.png",
+      "id_image": "animal_1772252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356182_7ef59ff7e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356182_71b4e4c6fa_o.png",
+      "id_image": "animal_3317392"
+    }
+  ]
+}

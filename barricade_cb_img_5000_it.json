@@ -1,0 +1,90 @@
+{
+  "english": "barricade",
+  "phat_am": "bӕriˈkeid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật chướng ngại",
+          "definition": "a barrier put up to block a street etc",
+          "world_new": [
+            "barrier",
+            "block",
+            "street"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police used barricades to keep back the crowds.",
+              "world_new": [
+                "police",
+                "keep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chặn lại",
+          "definition": "to block something (eg a street) with a barricade",
+          "world_new": [
+            "block"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The protesters barricaded the streets."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Schoolboys helped to man the barricades, and even the women fought.",
+    "Was there really none or virtually none on the troops' side behind the barricades, to see what was going on there?",
+    "The soldiers had their arms taken away and their vehicles were commandeered and used to build barricades.",
+    "The response should certainly not be to dig in and build more barricades.",
+    "Talks should certainly continue, to cement the improved relationship and prevent a return to the political barricades.",
+    "The practice of barricading the streets is well under way.",
+    "Just in removing the barricades, 4,000 tons of debris and 200 vehicles, many of them buses, were removed.",
+    "The barricades have gone up with a vengeance."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barrage",
+    "barrel",
+    "barren",
+    "barrenness",
+    "barricade",
+    "barrier",
+    "barrister",
+    "barrow",
+    "barter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314901_45ccaf0dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314901_e3f757c60b_o.png",
+      "id_image": "barricade_2399379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669544_32f159f1ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669544_4e57c53cce_o.png",
+      "id_image": "barricade_2709313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051385_0978bf1351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051385_48f41131e9_o.png",
+      "id_image": "barricade_3530644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669484_761d5a5082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669484_ff5154d509_o.png",
+      "id_image": "barricade_3842755"
+    }
+  ]
+}

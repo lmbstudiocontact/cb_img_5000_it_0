@@ -1,0 +1,54 @@
+{
+  "english": "ballpoint",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bút bi",
+          "definition": "a pen having a tiny ball as the writing point",
+          "world_new": [
+            "pen",
+            "tiny",
+            "ball",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The note was written in blue ballpoint.",
+              "world_new": [
+                "note",
+                "blue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ballet dancer",
+    "ballistic missile",
+    "balloon",
+    "ballot",
+    "ballpoint",
+    "ballroom",
+    "balls-up",
+    "ballyhoo",
+    "balm"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672649_5796f91acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672649_064ee75018_o.png",
+      "id_image": "ballpoint_1547644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317831_63544818ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317831_8edaef9cb5_o.png",
+      "id_image": "ballpoint_3553663"
+    }
+  ]
+}

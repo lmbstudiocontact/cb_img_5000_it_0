@@ -1,0 +1,78 @@
+{
+  "english": "bee",
+  "phat_am": "biː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con ong",
+          "definition": "a four-winged insect that makes honey",
+          "world_new": [
+            "insect",
+            "honey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bumblebee.",
+              "world_new": [
+                "bumblebee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buổi lao động tập thể",
+          "definition": "a meeting for combined work and enjoyment",
+          "world_new": [
+            "meeting",
+            "work",
+            "enjoyment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a knitting bee.",
+              "world_new": [
+                "knitting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How are stingless bee colonies distributed in tropical wet forests?",
+    "How to measure apid bee abundance and species richness in a forest?",
+    "Comparative foraging behavior of six stingless bee species exploiting a standardized resource.",
+    "A bee buzzes thanks to ' internal causation ', but a doorbell requires external causation ; so only in the second use does the unaccusative-causative alternation obtain.",
+    "The book concludes with a very long literature list of 63 pages, suitably cross-referenced, covering the biology and taxonomy of solitary bees and wasps.",
+    "Resampling of selected locations tested the repeatability of responses of bees to baits.",
+    "During the course of research for this book, 2000 nest sites of selected solitary bees and wasps were 'evaluated and interpreted'.",
+    "Alternative methods involve censusing foraging bees at natural o r artificial resources."
+  ],
+  "list_see_also": [
+    "beehive",
+    "beeswax",
+    "a bee in one’s bonnet",
+    "make a beeline for"
+  ],
+  "list_browse": [
+    "bedside",
+    "bedsit",
+    "bedspread",
+    "bedtime",
+    "bee",
+    "beech",
+    "beef",
+    "beefburger",
+    "beefy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353332_932a50ca84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353332_e68de0805d_o.png",
+      "id_image": "bees_2247409"
+    }
+  ]
+}

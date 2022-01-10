@@ -1,0 +1,83 @@
+{
+  "english": "catapult",
+  "phat_am": "ˈkӕtəpalt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng cao su",
+          "definition": "a small forked stick with an elastic string fixed to the two prongs for firing small stones etc, usually used by children; slingshot American",
+          "world_new": [
+            "small",
+            "forked",
+            "stick",
+            "elastic",
+            "string",
+            "fixed",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boys began firing a catapult at the birds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắn bằng súng cao su",
+          "definition": "to throw violently",
+          "world_new": [
+            "throw",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The driver was catapulted through the windscreen when his car hit the wall.",
+              "world_new": [
+                "driver",
+                "windscreen",
+                "car",
+                "hit",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "catalogue",
+    "catalyst",
+    "catalytic",
+    "catamaran",
+    "catapult",
+    "cataract",
+    "catarrh",
+    "catastrophe",
+    "catastrophic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056835_6b4f3c4c23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056835_7926bd927e_o.png",
+      "id_image": "catapult_1339624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675114_7307508aab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675114_31089a1ef9_o.png",
+      "id_image": "catapult_3943633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435333_fe6343e321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435333_f000c3a42e_o.png",
+      "id_image": "catapult_506943"
+    }
+  ]
+}

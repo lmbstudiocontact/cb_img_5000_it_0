@@ -1,0 +1,72 @@
+{
+  "english": "accommodation",
+  "phat_am": "əˌkoməˈdeiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ ở",
+          "definition": "room(s) in a house or hotel in which to live, especially for a short time",
+          "world_new": [
+            "house",
+            "hotel",
+            "live",
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is difficult to find cheap accommodation in London in August.",
+              "world_new": [
+                "difficult",
+                "find",
+                "cheap",
+                "August"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accommodation, assimilation and reciprocity are refrains heard throughout the edition.",
+    "The implicit scoping modification induced by binding operations prevents them from accommodation into the usual apparatus within free algebras (abstract syntax).",
+    "The septic fringe of the city, being inadequately administered, usually offers very poor accommodation, if any, to the newcomer.",
+    "Those living alone, whether in their own apartment or in a service house (sheltered accommodation), preferred visits to phone calls.",
+    "He was frustrated by the time and accommodation for music and in the end only taught a few lessons.",
+    "Creative approaches to funding the cost of accommodation, meals and transport should be explored by local authorities, home managers and voluntary organisations.",
+    "This scheme showed that rehabilitation of historic buildings could provide accommodation at affordable prices for the less affluent.",
+    "They parallel the early stages of human vocal acquisition and production, including babbling, turn taking, control, and accommodation, with those of nonhuman primates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "acclimatization",
+    "acclimatize",
+    "accommodate",
+    "accommodating",
+    "accommodation",
+    "accompaniment",
+    "accompanist",
+    "accompany",
+    "accomplice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370352_f9dde391e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370352_6833667aaa_o.png",
+      "id_image": "accommodation_2569880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440518_79318b5472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440518_4d10e635d4_o.png",
+      "id_image": "accommodation_5965429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062220_41335bcde1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062220_8aa042f3e6_o.png",
+      "id_image": "accommodation_6213279"
+    }
+  ]
+}

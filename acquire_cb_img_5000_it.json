@@ -1,0 +1,93 @@
+{
+  "english": "acquire",
+  "phat_am": "əˈkwaiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thu được",
+          "definition": "to get",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He acquired a lot of interesting antiques over the course of his life.",
+              "world_new": [
+                "interesting",
+                "course",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "học được",
+          "definition": "to learn",
+          "world_new": [
+            "learn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She acquired a working knowledge of Chinese.",
+              "world_new": [
+                "knowledge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Examination of eels on day 112 revealed no indication for acquired immunity resulting from the primary infection.",
+    "When this occurs, the debate is no longer purely scientific, but acquires an \"ideological\" facet.",
+    "Other representations concerned with technical, cognitive and musical skills may be acquired concurrently.",
+    "Then, through the paths of the digraph representing the design problem decomposition, the dependent descriptor will eventually acquire its value.",
+    "The presence of dead parasites may not confer an acquired immunity to re-infection.",
+    "Effects of learning method and word type on acquiring vocabulary in an unfamiliar language.",
+    "So, such representations could only be acquired as identical (' homophonous ').",
+    "Nevertheless, we consider them here for their insight into systems that acquire representations appropriate for a cognitive domain through a learning process."
+  ],
+  "list_see_also": [
+    "acquisition",
+    "acquisitive",
+    "acquisitiveness"
+  ],
+  "list_browse": [
+    "acquaintance",
+    "acquiesce",
+    "acquiescence",
+    "acquiescent",
+    "acquire",
+    "acquisition",
+    "acquisitive",
+    "acquisitiveness",
+    "acquit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323336_1813646de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323336_624f0b28f8_o.png",
+      "id_image": "acquire_1622673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060045_1448224027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060045_20733fc5c8_o.png",
+      "id_image": "acquire_5155895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678469_a1e6f654b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678469_c5b4d51136_o.png",
+      "id_image": "acquisition_3335554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323196_72b7a91def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323196_60bb590556_o.png",
+      "id_image": "acquisition_4597437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059950_70b0bceb07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059950_c4984db56b_o.png",
+      "id_image": "acquisition_5024694"
+    }
+  ]
+}

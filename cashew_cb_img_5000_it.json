@@ -1,0 +1,76 @@
+{
+  "english": "cashew",
+  "phat_am": "ˈkӕʃuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây đào lộn hột",
+          "definition": "a type of small nut",
+          "world_new": [
+            "type",
+            "small",
+            "nut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "roasted cashews."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc cây đào lộn hột",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cashew nut.",
+              "world_new": [
+                "nut"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, seedlings of other crops such as cashew, oil palm, kola and coffee were raised and distributed to farmers.",
+    "These red soil forests are densely planted with palm trees, cashew plantations, and other crops typical of the region.",
+    "Cashew paste can also be added, and will make the gravy thicker.",
+    "Cashew ownership was widespread but not universal.",
+    "It is often garnished using almonds, cashews, raisins and pistachios.",
+    "Perennial cash crops include cashew and coffee, as well as banana, mango, pomelo, and durian.",
+    "On the other hand, fruit trees were the products sold for cash income in the moist forest region, and included citrus, mango, cocoa and cashew.",
+    "The broader point suggested by the example of cashew is that markets are socially embedded."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cash machine",
+    "cash register",
+    "cash-and-carry",
+    "cashback",
+    "cashew",
+    "cashier",
+    "cashmere",
+    "casino",
+    "cask"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058835_3dee87d0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058835_b153470f45_o.png",
+      "id_image": "cashew_4056997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366957_5e115a62ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366957_58a3cf8e1f_o.png",
+      "id_image": "cashew_5854167"
+    }
+  ]
+}

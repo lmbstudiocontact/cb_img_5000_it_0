@@ -1,0 +1,113 @@
+{
+  "english": "ache",
+  "phat_am": "eik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đau",
+          "definition": "a continuous pain",
+          "world_new": [
+            "continuous",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have an ache in my stomach.",
+              "world_new": [
+                "I",
+                "my",
+                "stomach"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bị đau",
+          "definition": "to be in continuous pain",
+          "world_new": [
+            "continuous",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My tooth aches.",
+              "world_new": [
+                "tooth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khát khao",
+          "definition": "to have a great desire",
+          "world_new": [
+            "great",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was aching to tell him the news.",
+              "world_new": [
+                "tell",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One does not ask: what are you belly-aching about, or what is it that you want to do?",
+    "A very much larger number of provincial galleries than two or three are aching to show pictures which they hope to borrow from the national collection.",
+    "Certainly mine aches at the thought of the millions of pounds needed to preserve our heritage.",
+    "I have aches and pains all over.",
+    "Every man in that room became me, every man had drunk from that source and was aching with a love impossible to abandon.",
+    "Their belly aches were merely flatulent and added nothing to the debate.",
+    "A person with listeriosis usually has fever and muscle aches, often preceded by diarrhea or other gastrointestinal symptoms.",
+    "Sides are slightly convex, converge toward a narrowly ached venter."
+  ],
+  "list_see_also": [
+    "achy"
+  ],
+  "list_browse": [
+    "accustom",
+    "accustomed",
+    "accustomed to",
+    "ace",
+    "ache",
+    "achievable",
+    "achieve",
+    "achievement",
+    "achiever"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439078_0fc66d5efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439078_aed5d8af92_o.png",
+      "id_image": "ache_5746147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439053_d8e5cd9282_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439053_2e8aa7eb02_o.png",
+      "id_image": "ache_5746222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368837_468db6b87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368837_0e454bf37e_o.png",
+      "id_image": "ache_5746398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368802_416231c325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368802_96b17ef393_o.png",
+      "id_image": "ache_5775353"
+    }
+  ]
+}

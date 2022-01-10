@@ -1,0 +1,46 @@
+{
+  "english": "blowpipe",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống thổi phi tiêu",
+          "definition": "a tube from which a dart (often poisonous) is blown",
+          "world_new": [
+            "tube",
+            "dart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tribesmen were armed with blowpipes.",
+              "world_new": [
+                "armed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blow over",
+    "blow up",
+    "blowhole",
+    "blowout",
+    "blowpipe",
+    "blowtorch",
+    "blubber",
+    "blue",
+    "blue-collar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443268_208794b044_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443268_affbb10c79_o.png",
+      "id_image": "blowpipe_1069600"
+    }
+  ]
+}

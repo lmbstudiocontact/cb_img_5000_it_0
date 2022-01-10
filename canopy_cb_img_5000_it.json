@@ -1,0 +1,67 @@
+{
+  "english": "canopy",
+  "phat_am": "ˈkӕnəpi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trướng; vòm",
+          "definition": "a covering hung over a throne, bed etc or (on poles) as a shelter",
+          "world_new": [
+            "covering",
+            "throne",
+            "bed",
+            "shelter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sheltered under a canvas canopy in front of the restaurant entrance.",
+              "world_new": [
+                "sheltered",
+                "canvas",
+                "front",
+                "restaurant",
+                "entrance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Tree canopies were closed throughout the study period with virtually no undergrowth.",
+    "Epiphytic bryophytes can comprise a substantial amount of the biomass in forest canopies but few studies have examined their contribution to nutrient cycling.",
+    "The objective of this study was to determine the time course of leaf area index and closure of oil palm canopies.",
+    "Within-row tree canopies were closed throughout the period of study.",
+    "A comparison of a hierarchy of models for determining energy-balance components over vegetation canopies.",
+    "Two living trees that had broken canopies and no leaves were neither collected nor identified to morphospecies, but they were counted and measured.",
+    "No significant differences were found in the survival of seedlings that were labelled under conspecific canopies and those of a similar age that had survived from gorilla dung.",
+    "Ground absorption is higher and non-foliar absorption is lower in canopies in the moisture-limited plots."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "canon",
+    "canonical",
+    "canonization",
+    "canonize",
+    "canopy",
+    "cant",
+    "cantankerous",
+    "canteen",
+    "canter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330156_9c5cfba769_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330156_69e99522f8_o.png",
+      "id_image": "canopy_1455789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374817_b349ce7dc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374817_fe461dd8e1_o.png",
+      "id_image": "canopy_3806660"
+    }
+  ]
+}

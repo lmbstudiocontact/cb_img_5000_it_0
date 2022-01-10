@@ -1,0 +1,93 @@
+{
+  "english": "apron",
+  "phat_am": "ˈeiprən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tấm tạp dề",
+          "definition": "a piece of cloth, plastic etc worn over the front of the clothes for protection against dirt etc",
+          "world_new": [
+            "piece",
+            "cloth",
+            "plastic",
+            "worn",
+            "front",
+            "clothes",
+            "protection",
+            "dirt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tied on her apron before preparing the dinner.",
+              "world_new": [
+                "dinner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thềm để máy bay",
+          "definition": "something like an apron in shape, eg a hard surface for aircraft on an airfield.",
+          "world_new": [
+            "shape",
+            "surface",
+            "aircraft",
+            "airfield"
+          ]
+        },
+        {
+          "mean_english": "thềm sân khấu",
+          "definition": "(also apron-stage) the part of the stage in a theatre which is in front of the curtain.",
+          "world_new": [
+            "part",
+            "stage",
+            "theatre",
+            "front",
+            "curtain"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They have increased police checks, they are introducing additional identity checks and, as far as possible, they are limiting numbers on the aprons.",
+    "All the cranes have been removed but crane rails survive on some wharf aprons.",
+    "Once again, technicians are inside the theatre and wear lead aprons, whereas radiographers work outside behind a protective screen.",
+    "Lineated floor deposits may be related to lobate debris aprons, which have been proven to contain large amounts of ice.",
+    "However, where they can be recognized, these extensive aprons allow a generalized regional stratigraphic sequence to be determined.",
+    "In addition, their employers may provide them with coupon free oilskin aprons and leggings or gaiters, rubber boots and in certain cases with oilskin jackets and industrial gloves.",
+    "In addition to cloth, aprons can be made from a variety of materials.",
+    "White garments are typical for the continental region, but each has its own decorative scarves, shawls, aprons, and jewellery."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Apr",
+    "apricot",
+    "April",
+    "April Fool’s Day",
+    "apron",
+    "apt",
+    "aptitude",
+    "aptly",
+    "aptness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307366_e39f33417e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307366_7235e19157_o.png",
+      "id_image": "apron_1279856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422468_7e4621b6e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422468_7a4329b2c9_o.png",
+      "id_image": "apron_1393918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351417_5fc7cd53ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351417_bc5455dcde_o.png",
+      "id_image": "apron_6419681"
+    }
+  ]
+}

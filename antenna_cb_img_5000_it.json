@@ -1,0 +1,85 @@
+{
+  "english": "antenna",
+  "phat_am": "ӕnˈtenə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "râu của loài sâu bọ",
+          "definition": "(plural antennae-niː) a feeler of an insect",
+          "world_new": [
+            "feeler",
+            "insect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cockroach uses its antennae to smell decomposing food.",
+              "world_new": [
+                "cockroach",
+                "its",
+                "smell",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ang ten",
+          "definition": "(plural antennas) American a wire or rod (or a set of these) able to send or receive radio waves etc); aerial British",
+          "world_new": [
+            "wire",
+            "rod",
+            "send",
+            "receive",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a radio/television antenna."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The carotenoid accessory pigments are intimately associated with both the antenna and reaction chlorophylls, and increases in these pigments may indicate adaptation to higher irradiance.",
+    "The head-capsule, however, ruptures along two lateral longitudinal lines, thus forming three flaps, the median one bearing the antennae.",
+    "Figure 1 (d) shows a circular-loop antenna with axis aligned along the magnetic field.",
+    "This is another case where more structures of antenna complexes are needed before the importance of this possible effect can be evaluated.",
+    "The results show that antennae are necessary for wing induction in the presence of natural enemies.",
+    "They serve as an excellent subject for trials of a system where each packet is fitted with tiny microchips and antennae.",
+    "The motor data used in the simulation of the robot model, described above, are also used in the antenna simulation.",
+    "The first is the regulation of the biosynthesis of the various components required to build an antenna complex, which are the apoproteins and the pigments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Antarctic",
+    "anteater",
+    "antelope",
+    "antenatal",
+    "antenna",
+    "anthem",
+    "anther",
+    "anthill",
+    "anthology"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310591_4725cb4440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310591_13719e6284_o.png",
+      "id_image": "antenna_213365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310546_9a07f527e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310546_25585481c6_o.png",
+      "id_image": "antenna_329872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425508_f5872292c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425508_17f7f84c4d_o.png",
+      "id_image": "antenna_420450"
+    }
+  ]
+}

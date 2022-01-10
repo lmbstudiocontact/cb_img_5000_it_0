@@ -1,0 +1,82 @@
+{
+  "english": "bacteria",
+  "phat_am": "bakˈtiəriə",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "vi khuẩn",
+          "definition": "organisms not able to be seen except under a microscope, found in rotting matter, in air, in soil and in living bodies, some being the germs of disease",
+          "world_new": [
+            "microscope",
+            "found",
+            "matter",
+            "air",
+            "soil",
+            "living",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The throat infection was caused by bacteria.",
+              "world_new": [
+                "throat",
+                "infection"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, such systems are liquid based, so it is possible that the attachment of bacteria makes very little contribution to the overall bacterial profile.",
+    "Routine microbiological testing of stool samples and food is mainly confined to bacteria.",
+    "In addition to the host's diet at different intervals during the day, oral bacteria in vivo can also obtain nutrients from saliva.",
+    "The collective behavior of bacteria is significant in bioengineering, agriculture, medicine, dentistry and geosciences, among other disciplines.",
+    "Such bacteria are not detected by visual assessment of plant cultures and are propagated together with the plant material.",
+    "On each slide, bacteria were viewed at 630x magnification and 10 square fields measuring 145 m per side.",
+    "From a probabilistic point of view, distributions of bacteria counts are neither continuous nor categorical.",
+    "Bacteria behave as individual microorganisms with survival strategies directed towards reproductive success of a single cell, and not the whole population (colony)."
+  ],
+  "list_see_also": [
+    "bac’terial",
+    "bacteriology",
+    "bacteriological",
+    "bacteriologist"
+  ],
+  "list_browse": [
+    "backwash",
+    "backwater",
+    "backyard",
+    "bacon",
+    "bacteria",
+    "bacteriological",
+    "bacteriologist",
+    "bacteriology",
+    "bad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366262_ff01a73484_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366262_2814a94178_o.png",
+      "id_image": "bacteria_1176251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676369_05273321d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676369_9949304022_o.png",
+      "id_image": "bacteria_1343904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436543_81cfdf54df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436543_da5045da36_o.png",
+      "id_image": "bacteria_2563396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436493_abb17a07c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436493_c27ee28ab3_o.png",
+      "id_image": "bacteria_2873787"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "athletic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc điền kinh",
+          "definition": "of athletics",
+          "world_new": [
+            "athletics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is taking part in the athletic events.",
+              "world_new": [
+                "part"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoẻ mạnh",
+          "definition": "good at athletics; strong and able to move easily and quickly",
+          "world_new": [
+            "strong",
+            "move",
+            "easily",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looks very athletic.",
+              "world_new": [
+                "looks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have had to distinguish between business and pleasure throughout this consideration of athletic gear.",
+    "There were no differences between the groups in global self-worth or in the domains pertaining to close friendships, physical appearance or romantic appeal, scholastic, social or athletic competence.",
+    "In addition to illustrating the way imaginative construction may serve an instrumental purpose without selfdeception, the athletic analogy may be revealing in another respect as well.",
+    "Both his narrative and athletic tactics not only aim at obstructing but also at redefining the meaning of reality.",
+    "She had done well in her athletic training, and was without cardiovascular symptoms.",
+    "We have 412 athletic tracks and 116 swimming pools, which is a record.",
+    "Better training and dietary regimens have also enhanced goalkeepers' natural athletic ability.",
+    "Clinical instructors' and student athletic trainers' perceptions of helpful clinical instructor characteristics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "atheism",
+    "atheist",
+    "atheistic",
+    "athlete",
+    "athletic",
+    "athletics",
+    "atlas",
+    "ATM",
+    "atmosphere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038820_20cb0ebbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038820_6c138e7b41_o.png",
+      "id_image": "athlete_1112630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038815_c530585c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038815_7d249b3947_o.png",
+      "id_image": "athlete_2825238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808345947_e655e8b824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808345947_f678e0d512_o.png",
+      "id_image": "athlete_6213214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808345942_abd765958c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808345942_30bc56343e_o.png",
+      "id_image": "athletic_5252646"
+    }
+  ]
+}

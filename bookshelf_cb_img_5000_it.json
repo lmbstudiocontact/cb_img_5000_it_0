@@ -1,0 +1,65 @@
+{
+  "english": "bookshelf",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá sách",
+          "definition": "a shelf on which books are kept",
+          "world_new": [
+            "shelf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s putting up a new bookshelf in the study.",
+              "world_new": [
+                "study"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The nature of the book clearly belongs on the bookshelf of anyone interested in the history of the book and\\or the history of science.",
+    "In this way it will be a necessary acquisition for any medical library and a helpful source of information on personal bookshelves.",
+    "I remember it as a pretty large, bare room, with a couple of tables and no doubt a bookshelf or two.",
+    "That aside, this is an excellent publication which should be on the bookshelves of all those interested in novel and non-food crops.",
+    "The bookshelves in her office groan with work on historical institutions - the state is back in with a vengeance.",
+    "Finally, during the fourth phase, velocities are set to constant values, and the book is actually extracted from the bookshelf.",
+    "It's not on a library bookshelf, it's not in a documentary - your performances might be recorded on film or video, but your knowledge is not.",
+    "It is not expensive and might justify a place on the bookshelf as an 'alternative view', but only if accompanied by more comprehensive accounts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "booklet",
+    "bookmaker",
+    "bookmark",
+    "bookseller",
+    "bookshelf",
+    "bookshop",
+    "bookworm",
+    "boom",
+    "boomerang"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678494_ee555de867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678494_6a38654a35_o.png",
+      "id_image": "bookshelf_3576899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368162_79cfc5eede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368162_986ba07c31_o.png",
+      "id_image": "bookshelf_4216254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368247_392d97c5e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368247_c7b06202a0_o.png",
+      "id_image": "bookshelf_530005"
+    }
+  ]
+}

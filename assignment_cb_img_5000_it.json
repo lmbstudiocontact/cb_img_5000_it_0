@@ -1,0 +1,71 @@
+{
+  "english": "assignment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiệm vụ",
+          "definition": "a duty assigned to someone",
+          "world_new": [
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must complete this assignment by tomorrow.",
+              "world_new": [
+                "complete",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In most cases the two analyses predict similar stress assignments.",
+    "A pedal board is used to shape the mix and toggle between sensor assignments.",
+    "Intuitively, taking advantage of sequential evaluation of boolean connectors in such a context means mixing enumeration of variable assignments and evaluation of boolean expressions.",
+    "Two individual maps or assignments are consistent when they have exactly one line or arc set in common.",
+    "A constraint agent is interested in the assignments to those variable agents to which it is adjacent.",
+    "As expected, there is some variation in the relative values when compared with the sample with only phase-specific assignments.",
+    "Our assignments were compared and discrepancies resolved by discussion.",
+    "Course assignments and hiring procedures continue to reflect misconceptions about linguistics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assets",
+    "assiduous",
+    "assiduously",
+    "assign",
+    "assignment",
+    "assimilate",
+    "assimilation",
+    "assist",
+    "assistance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039860_aba581eaea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039860_82aabe5a91_o.png",
+      "id_image": "assignment_1328248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418128_c5066f93eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418128_e7188c12c3_o.png",
+      "id_image": "assignment_4806020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658369_baa1307010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658369_69202c423c_o.png",
+      "id_image": "assignment_6213275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303101_07a8f3f7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303101_8af01d3132_o.png",
+      "id_image": "assignment_6305590"
+    }
+  ]
+}

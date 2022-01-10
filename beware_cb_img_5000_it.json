@@ -1,0 +1,72 @@
+{
+  "english": "beware",
+  "phat_am": "biˈweə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thận trọng",
+          "definition": "(usually with of) to be careful (of)",
+          "world_new": [
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Beware of the dog.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chú ý",
+          "definition": "to be careful",
+          "world_new": [
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He told them to beware."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We should beware of so burdening our staffs overseas that they become even more under pressure than at present.",
+    "Let us beware of the fate of the sheep.",
+    "The reader must beware that formula (3.6) does not make sense in general.",
+    "We ought to beware of loose thinking on the subject of monopolies.",
+    "I have been here long enough to beware of these technical preparations.",
+    "The maxim caveat emptor—let the buyer beware—still has relevance.",
+    "We must also beware of the market's tendency to destroy diversity, the tendency for it to produce lots of different kinds of the same thing.",
+    "If we are to send children to special schools because they have particular talents, we must beware how far this goes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "between you and me / between ourselves",
+    "bevel",
+    "bevelled",
+    "beverage",
+    "beware",
+    "bewilder",
+    "bewilderment",
+    "bewitch",
+    "bewitching"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306611_aae90c2fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306611_9151b5a97b_o.png",
+      "id_image": "beware_4172769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661969_4099db6271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661969_ee16f22b84_o.png",
+      "id_image": "beware_5351166"
+    }
+  ]
+}

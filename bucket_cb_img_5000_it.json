@@ -1,0 +1,68 @@
+{
+  "english": "bucket",
+  "phat_am": "ˈbakit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thùng; xô",
+          "definition": "a container for holding water, milk etc",
+          "world_new": [
+            "container",
+            "water",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We carried water in buckets to the burning house.",
+              "world_new": [
+                "water",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The situation is modified when records are stored in buckets holding several records, but synonyms still occur.",
+    "Eggs and tadpoles were reared to metamorphosis in buckets of stream water to confirm species identification.",
+    "The -supply of rubber boots and galvanised buckets is also very limited.",
+    "People are, at this moment, standing on icy paths, with buckets in their hands and possibly at frozen standpipes.",
+    "The results showed that drums, tubs and basins, buckets, tyres and small miscellaneous containers were the key containers found on key premises.",
+    "When the cells are eventually opened, nearly 300 prisoners must rush to slop out their overfull chamber pots or buckets.",
+    "The composite samples were placed in large buckets lined with plastic bags and the soil thoroughly mixed by hand.",
+    "They already publicise the worst cases that are detected—called the \"rust buckets\"—in a monthly list of \"ships of shame\"."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bubbly",
+    "buccaneer",
+    "buck",
+    "buck up",
+    "bucket",
+    "buckle",
+    "buckskin",
+    "bud",
+    "Buddhism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357562_70b4ff4c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357562_417e3a402f_o.png",
+      "id_image": "bucket_1682254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050105_ae593c29f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050105_700f83bb6d_o.png",
+      "id_image": "bucket_387350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050075_7c69e7dc40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050075_2e689297c9_o.png",
+      "id_image": "bucket_685151"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "assumption",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giả định",
+          "definition": "something assumed",
+          "world_new": [
+            "assumed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "On the assumption that we can produce four pages an hour, the work will be finished tomorrow.",
+              "world_new": [
+                "produce",
+                "hour",
+                "work",
+                "finished",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other work7,8 is reported to tackle the nonlinearity in the output; they, however, are not applicable to a parallel robot due to the unsuitable assumptions.",
+    "Recently, more and more results have been proved that free the general theory from particular assumptions on the type functor.",
+    "We consider only derivations with atoms as assumptions and conclusion, because the logical rules permute down with respect to the mathematical rules.",
+    "I develop the idea that they are both special cases of a more general model that makes different simplifying assumptions.",
+    "Although they may not accurately reflect reality, these assumptions help us develop a simple, cross-national measure of malapportionment.",
+    "In contrast to such models, we argue here for a model based on assumptions of preferences and intentions, operating on perceived oppor tunities.",
+    "As a result, in this article we provide a framework for studying road traffic control under less restrictive assumptions.",
+    "Clearly, all three methods involve different assumptions, and all three methods require extrapolation to reach the same initial and final states."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assorted",
+    "assortment",
+    "assume",
+    "assumed",
+    "assumption",
+    "assurance",
+    "assure",
+    "assured",
+    "asterisk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417808_8f10d5412b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417808_feedc29734_o.png",
+      "id_image": "assumption_3079152"
+    }
+  ]
+}

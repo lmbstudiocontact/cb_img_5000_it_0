@@ -1,0 +1,63 @@
+{
+  "english": "alcoholism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác hại của rượu",
+          "definition": "the condition suffered by an alcoholic",
+          "world_new": [
+            "condition",
+            "alcoholic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s recovering from alcoholism."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results also demonstrated that several risk factors associated with paternal alcoholism like paternal depression, antisocial behavior, and aggression were associated with lower paternal sensitivity.",
+    "Direct interview data confirmed that neither biological nor custodial parents met criteria for a lifetime alcoholism diagnosis.",
+    "It was hypothesized that fathers' alcoholism would be associated with lower parental sensitivity and higher negative affect.",
+    "Therefore, the familial nature of alcoholism may differ among families recruited in treatment centres from those identified in the general community.",
+    "These consistencies with prominent theories of adult alcoholism suggest that some aspects of theories of adult alcoholism may be usefully applied to adolescent substance use.",
+    "Offspring of parents in which at least one parent is affected by alcoholism have an increased risk of developing such a disorder.",
+    "These factors are explored in two cases of public health policy: anti-smoking policy and alcoholism policy.",
+    "As a result, parental behaviors were examined as mediators of the association of familial alcoholism to child coping."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alchemist",
+    "alchemy",
+    "alcohol",
+    "alcoholic",
+    "alcoholism",
+    "alcove",
+    "ale",
+    "alert",
+    "alertly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053375_3594ff7d05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053375_4a1d137cc5_o.png",
+      "id_image": "alcoholism_4200791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431963_ceb2c2aa29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431963_7aefa45a64_o.png",
+      "id_image": "alcoholism_6350005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361212_f6cb0896d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361212_3d5bf6b24a_o.png",
+      "id_image": "alcoholism_6350073"
+    }
+  ]
+}

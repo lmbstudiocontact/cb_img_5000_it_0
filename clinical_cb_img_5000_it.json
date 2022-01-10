@@ -1,0 +1,64 @@
+{
+  "english": "clinical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc phòng khám",
+          "definition": "of a clinic",
+          "world_new": [
+            "clinic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clinical procedure.",
+              "world_new": [
+                "procedure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãnh đạm",
+          "definition": "calm and cold without emotion",
+          "world_new": [
+            "calm",
+            "cold",
+            "emotion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He describes the incident in a clinical detached manner.",
+              "world_new": [
+                "incident",
+                "detached",
+                "manner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clinch",
+    "cling",
+    "clingfilm",
+    "clinic",
+    "clinical",
+    "clink",
+    "clip",
+    "clip art",
+    "clipboard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376262_349b6dfe44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376262_76281a069c_o.png",
+      "id_image": "clinical_5458932"
+    }
+  ]
+}

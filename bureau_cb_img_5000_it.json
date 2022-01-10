@@ -1,0 +1,90 @@
+{
+  "english": "bureau",
+  "phat_am": "ˈbjuərəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn giấy",
+          "definition": "a writing desk with drawers",
+          "world_new": [
+            "desk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He keeps his diary in the top drawer of the bureau.",
+              "world_new": [
+                "diary",
+                "top",
+                "drawer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tủ có ngăn kéo",
+          "definition": "a chest of drawers.",
+          "world_new": [
+            "chest"
+          ]
+        },
+        {
+          "mean_english": "cục; nha; vụ",
+          "definition": "an office for collecting and supplying information etc",
+          "world_new": [
+            "office",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a travel bureau.",
+              "world_new": [
+                "travel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are the public interest and the bureau-shaping models.",
+    "The minister in turn gave instructions to his vice minister, the bureau chief, and the director of the related section.",
+    "The bureau was initially financed by the state, but the plan was that the fees would eventually make it self-supporting.",
+    "In keeping with the bureau-shaping models assertions, senior public servants tended to stay in parent departments, retained policy and strategic roles.",
+    "Do these three forces explain the behavior of census bureaus in other nations?",
+    "Every imaginable policy sector materialises in its own regional bureau, ranging from women's affairs to tourism, culture, and information.",
+    "The local market used to be directly administered by the district government's bureau of industry and commerce.",
+    "None has outlawed faculty participation in speaker's bureaus, or participation in consulting arrangements that are thinly veiled marketing efforts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "buoy",
+    "buoyancy",
+    "buoyant",
+    "burden",
+    "bureau",
+    "bureaucracy",
+    "bureaucrat",
+    "bureaucratic",
+    "burger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424783_806b0e4d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424783_9030d540eb_o.png",
+      "id_image": "bureau_3035263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353882_1059b15c00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353882_6012866a1b_o.png",
+      "id_image": "bureau_3232916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664944_1dda66ea9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664944_7cf676d515_o.png",
+      "id_image": "bureau_4353003"
+    }
+  ]
+}

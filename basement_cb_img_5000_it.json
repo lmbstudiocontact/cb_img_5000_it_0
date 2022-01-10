@@ -1,0 +1,76 @@
+{
+  "english": "basement",
+  "phat_am": "ˈbeismənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tầng hầm",
+          "definition": "the lowest floor of a building, usually below ground level",
+          "world_new": [
+            "floor",
+            "building",
+            "ground",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a wine cellar in the basement of the house",
+              "world_new": [
+                "wine",
+                "cellar",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a basement flat.",
+              "world_new": [
+                "flat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, passive bending of the structures, resulting from pinning on the uplifted basement block probably also accounts for the fold-belt curvature.",
+    "Upon reaching the surface, the vacuoles were fused, leading to disruption of the apical region of syncytial tegument along the basement layer.",
+    "The basement is thought to be oceanic crust, generated either at a mid-ocean ridge or by back-arc spreading dependent on the favoured model.",
+    "The fold is cut by juxtaposed thrusts giving rise to the formation of three structurally higher basement-dominated thrust sheets.",
+    "However, typical geometries are truncated by subsequent generation of basement inherited faults.",
+    "The inner crater in the crystalline basement is often the only part of the concentric structure that is preserved or recognizable.",
+    "Only a few theca cells were still attached to the basement membrane.",
+    "Structurally, the skin consists of epidermis, dermis and basement membrane zone."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "base",
+    "baseball",
+    "baseless",
+    "basely",
+    "basement",
+    "baseness",
+    "bash",
+    "bash on/ahead (with)",
+    "bashful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314526_92629a637f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314526_f1fb49e5b7_o.png",
+      "id_image": "basement_3650788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429353_e4ca8da494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429353_6f1935fd28_o.png",
+      "id_image": "basement_5233786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051015_8ff6bc545a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051015_9069be316c_o.png",
+      "id_image": "basement_5775271"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "blossom",
+  "phat_am": "ˈblosəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoa",
+          "definition": "flowers, especially of a fruit tree",
+          "world_new": [
+            "fruit",
+            "tree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "apple blossom.",
+              "world_new": [
+                "apple"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra hoa",
+          "definition": "to develop flowers",
+          "world_new": [
+            "develop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cherry tree has blossomed.",
+              "world_new": [
+                "cherry",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trổ hoa",
+          "definition": "to flourish",
+          "world_new": [
+            "flourish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She blossomed into a beautiful woman.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What was once the scraggly effort of a few odd individuals has now blossomed into a major field.",
+    "Cultural arguments have always been considered an important explanatory variable in the development literature that blossomed since the 1960s.",
+    "The focus of chemical-pharmaceutical practice was the extraction of aqueous and oily distillates from vegetable materials such as spices, herbs, blossoms, fruits, seeds, woods, husks, and barks.",
+    "You moved on exactly when this was blossoming.",
+    "He blossomed again, found work, became a very good officer worker earning a high salary.",
+    "Following almost every privatisation, we have seen boardroom share options blossoming and people ripping off public funds like there was no tomorrow.",
+    "The same children have blossomed in the special school environment.",
+    "The thought blossomed like a magician's bouquet."
+  ],
+  "list_see_also": [
+    "blossoming"
+  ],
+  "list_browse": [
+    "bloodthirstiness",
+    "bloodthirsty",
+    "bloody",
+    "bloom",
+    "blossom",
+    "blossoming",
+    "blot",
+    "blot one’s copybook",
+    "blot out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683899_f9e309f2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683899_3e1c75af60_o.png",
+      "id_image": "blossom_1727579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683859_aa9be32611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683859_be94e3f173_o.png",
+      "id_image": "blossom_1749856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065600_fe4fc8a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065600_373ee50c98_o.png",
+      "id_image": "blossom_1772129"
+    }
+  ]
+}

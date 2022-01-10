@@ -1,0 +1,67 @@
+{
+  "english": "celebrity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người nổi tiếng",
+          "definition": "a well-known person",
+          "world_new": [
+            "well-known",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "celebrities from the world of entertainment.",
+              "world_new": [
+                "world",
+                "entertainment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Festember has played host to numerous celebrities and dignitaries in the past.",
+    "I would not compare my worst enemy with either of these two celebrities.",
+    "Among her subjects during this period were buildings (such as casinos and palaces), automobiles, celebrities, and common people.",
+    "We believe that these characters, known as television celebrities, are something like domestic pets.",
+    "Older established brands created catchy slogans or characters and even engaged celebrities to endorse their products.",
+    "Many people still have the impression that stalking is little more than a nuisance and affects only celebrities who have in some way forfeited their right to privacy.",
+    "A record will be made that includes local celebrities and local people.",
+    "Included are the responses of employed, unemployed, and retired persons; educators and students; members of various religious faiths; homemakers; national celebrities; barkeepers; business people; and farmers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ceiling",
+    "celebrate",
+    "celebrated",
+    "celebration",
+    "celebrity",
+    "celery",
+    "celestial",
+    "celibacy",
+    "celibate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432818_cbdc46af05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432818_c9c013368a_o.png",
+      "id_image": "celebrity_1999341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317651_0a31812baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317651_36c9b3d1a1_o.png",
+      "id_image": "celebrity_2132490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054215_c8a483cec5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054215_cbc5281cf8_o.png",
+      "id_image": "celebrity_879498"
+    }
+  ]
+}

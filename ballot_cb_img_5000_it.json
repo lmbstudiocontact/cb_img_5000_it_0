@@ -1,0 +1,97 @@
+{
+  "english": "ballot",
+  "phat_am": "ˈbӕlət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bỏ phiếu kín",
+          "definition": "a method of voting in secret by marking a paper and putting it into a box",
+          "world_new": [
+            "method",
+            "secret",
+            "paper",
+            "box"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They held a ballot to choose a new chairman",
+              "world_new": [
+                "choose",
+                "chairman"
+              ]
+            },
+            {
+              "ex_of_definition": "The question was decided by ballot",
+              "world_new": [
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a ballot box",
+              "world_new": [
+                "box"
+              ]
+            },
+            {
+              "ex_of_definition": "a ballot paper.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The statute provides also for derecognition ballots to be held.",
+    "Another possibility is that these ballots are cast by minor-party supporters who find both themselves and their district candidates on the losing side of an important intra-party struggle.",
+    "We have also tabled an amendment, to which we shall come later, on the supervision of ballots.",
+    "Were there ballots on closed shops between 1971 and 1974?",
+    "Where initiatives appear frequently on state ballots, it is more likely that active campaigns or media coverage might focus public attention on a major public issue or set of issues.",
+    "Throughout this entire period men were more likely than women to mis-mark their ballots or cast blank ones.",
+    "I was also able to calculate how many of those voting cast spoiled and blank ballots.",
+    "Eventually, after several attempts to rerun these ballots, the results from sub-optimal voter turn-outs were accepted, with obvious implications for the perceived legitimacy of the women who won the seats."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ballet",
+    "ballet dancer",
+    "ballistic missile",
+    "balloon",
+    "ballot",
+    "ballpoint",
+    "ballroom",
+    "balls-up",
+    "ballyhoo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672764_03b464798a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672764_8a639709a5_o.png",
+      "id_image": "ballot_1666054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362387_d98443f692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362387_077e7e230b_o.png",
+      "id_image": "ballot_1844805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317891_27fa8ee5e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317891_081d143daa_o.png",
+      "id_image": "ballot_2472927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054455_31789bd055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054455_19f73b0839_o.png",
+      "id_image": "ballot_4474030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054590_c89959e5b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054590_e968a556ec_o.png",
+      "id_image": "ballot_927297"
+    }
+  ]
+}

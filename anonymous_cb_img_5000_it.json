@@ -1,0 +1,81 @@
+{
+  "english": "anonymous",
+  "phat_am": "əˈnonəməs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khuyết tên",
+          "definition": "without the name of the author, giver etc being known or given",
+          "world_new": [
+            "name",
+            "author"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The donor wished to remain anonymous",
+              "world_new": [
+                "donor",
+                "remain"
+              ]
+            },
+            {
+              "ex_of_definition": "an anonymous poem.",
+              "world_new": [
+                "poem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We would like to thank three anonymous reviewers for their invaluable comments on an earlier draft of this paper.",
+    "They are all neutral and anonymous places where people do not really meet each other but remain strictly passengers or passers-by.",
+    "Many thanks to the anonymous referee for helping us improve the quality of the paper.",
+    "I would also like to thank the two anonymous referees, for their critical observations and suggestions for improvement.",
+    "We would like to thank two anonymous reviewers for their helpful comments.",
+    "The authors thank anonymous referees and the associate editor for their excellent comments.",
+    "The importance of discussing this point was pointed out to me by an anonymous reviewer.",
+    "We are grateful to an anonymous referee for drawing our attention to an argument which may operate in the opposite direction."
+  ],
+  "list_see_also": [
+    "anonymously",
+    "anonymity"
+  ],
+  "list_browse": [
+    "anomalous",
+    "anomaly",
+    "anon",
+    "anonymity",
+    "anonymous",
+    "anonymously",
+    "anorak",
+    "anorexia",
+    "anorexic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311011_0df03e9d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311011_7a77268740_o.png",
+      "id_image": "anonymous_1534082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310981_41d52242d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310981_2fb3b92730_o.png",
+      "id_image": "anonymous_1590041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355072_8c795184a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355072_e475b0153a_o.png",
+      "id_image": "anonymous_1685696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426008_805bd3e63f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426008_f58d00dbc2_o.png",
+      "id_image": "anonymous_892694"
+    }
+  ]
+}

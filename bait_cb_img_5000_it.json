@@ -1,0 +1,101 @@
+{
+  "english": "bait",
+  "phat_am": "beit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mồi",
+          "definition": "food used to attract fish, animals etc which one wishes to catch, kill etc",
+          "world_new": [
+            "food",
+            "attract",
+            "fish",
+            "catch",
+            "kill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Before he went fishing, he dug up some worms for bait.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mắc mồi",
+          "definition": "to put bait on or in (a hook, trap etc)",
+          "world_new": [
+            "hook",
+            "trap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He baited the mousetrap with cheese.",
+              "world_new": [
+                "mousetrap",
+                "cheese"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The use of relatively small baits ensured that competition would have occurred even at low beetle densities.",
+    "The presence of ant species and their relative abundances in rice fields during the dry fallow and rice crop seasons were determined using baits.",
+    "The mean numbers of faeces collected every month were 86n0 (57-155) and 103n7 (71-151) in the baited and the non-baited sections, respectively.",
+    "The traps were baited with octenol and compared in paired blocks with 8 replicates.",
+    "Both studies recorded significant decreases in the percentage of coproantigen-positive specimens from baited areas compared to control areas.",
+    "There was no significant difference in captures between traps baited with butyl hexanoate alone and traps baited with both butyl hexanoate and ammonium carbonate.",
+    "All previous studies of blowfly aggregation have used traps baited with carrion.",
+    "Both traps in the fourth chambers were baited with hexane-treated septa."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bags of",
+    "baguette",
+    "bail",
+    "bail out",
+    "bait",
+    "baize",
+    "bake",
+    "baked",
+    "baked beans"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434918_c7660b0824_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434918_f98c7de35a_o.png",
+      "id_image": "bait_3830504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056350_982e4d2b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056350_2854e5f20b_o.png",
+      "id_image": "bait_4201185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319841_b8a9facd37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319841_3dc122f4f6_o.png",
+      "id_image": "bait_440130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674619_88cc6d0881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674619_b68372497f_o.png",
+      "id_image": "bait_4410229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434823_548af44e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434823_4ab7053b3b_o.png",
+      "id_image": "bait_4690404"
+    }
+  ]
+}

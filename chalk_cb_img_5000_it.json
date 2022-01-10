@@ -1,0 +1,92 @@
+{
+  "english": "chalk",
+  "phat_am": "tʃoːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá phấn",
+          "definition": "a white rock; a type of limestone",
+          "world_new": [
+            "white",
+            "type",
+            "limestone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soil is made of chalk and clay.",
+              "world_new": [
+                "soil",
+                "clay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phấn viết",
+          "definition": "(a piece of) a chalk-like substance used for writing (especially on blackboards)",
+          "world_new": [
+            "piece",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a box of chalks.",
+              "world_new": [
+                "box"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Hoch was released at the end of his jail term, chalking up another 15 wives before his ultimate arrest in 1905.",
+    "In the election in the south in 1978, chalked on the pavement was the figure 78.",
+    "The seconds solved the difficulty by chalking out a portion of the fat man's body to equal that of his opponent.",
+    "There are the men chalking up the prices on the wall.",
+    "The £2,000 million deficit that we chalked up in 1974 is running at a rate of £2,400 million in the first quarter of 1975.",
+    "If one can demonstrate that, or make it appear probable in one line of research rather than another, a score is chalked up for that line.",
+    "On the day of my visit the menu was chalked up on a blackboard.",
+    "The way the chalk image was made, and made to be seen, shatters that neutrality."
+  ],
+  "list_see_also": [
+    "chalky",
+    "chalkboard"
+  ],
+  "list_browse": [
+    "chairman",
+    "chairmanship",
+    "chalet",
+    "chalice",
+    "chalk",
+    "chalkboard",
+    "chalky",
+    "challenge",
+    "challenger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315066_6cb0a0a59e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315066_f22e01a453_o.png",
+      "id_image": "chalks_546642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315106_7c58fbe504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315106_da509b5612_o.png",
+      "id_image": "chalk_1298728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430043_4653d99204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430043_1831b8499a_o.png",
+      "id_image": "chalk_200427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359202_5379567953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359202_efa3d1926a_o.png",
+      "id_image": "chalk_4539150"
+    }
+  ]
+}

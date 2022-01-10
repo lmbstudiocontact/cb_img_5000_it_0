@@ -1,0 +1,130 @@
+{
+  "english": "bend",
+  "phat_am": "bend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cúi xuống; làm cong",
+          "definition": "to make, become, or be, angled or curved",
+          "world_new": [
+            "become",
+            "curved"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t bend my arm properly",
+              "world_new": [
+                "I",
+                "my",
+                "arm",
+                "properly"
+              ]
+            },
+            {
+              "ex_of_definition": "She bent down to pick up the coin",
+              "world_new": [
+                "bent",
+                "pick",
+                "coin"
+              ]
+            },
+            {
+              "ex_of_definition": "The road bends to the right",
+              "world_new": [
+                "road",
+                "right"
+              ]
+            },
+            {
+              "ex_of_definition": "He could bend an iron bar.",
+              "world_new": [
+                "iron",
+                "bar"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt phải theo",
+          "definition": "to force (someone) to do what one wants",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bent me to his will.",
+              "world_new": [
+                "bent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ uốn",
+          "definition": "a curve or angle",
+          "world_new": [
+            "curve",
+            "angle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bend in the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These surfaces are distorted by hydrostatic balance toward negative anomalies of pressure produced by the bend of the low-pressure vortex cores.",
+    "Turn the right foot to a 90 angle, inhale and as you exhale bend the right knee keeping the hips facing forwards.",
+    "Since she could no longer bend her arm sufficiently, she had exchanged the violin for a mouth-organ.",
+    "Nor do the authors accept the close link between thrusting and folding (fault propagation folds, fault-bend folds) in contractional orogens.",
+    "The bend sensors are accompanied by four to eight switch elements that are housed within a glove.",
+    "The adjacent modules are linked with special universal joints; they can bend from 90 degree to + 90 degree around the joint.",
+    "Within this approach, the capsid is described by two elastic constants characterizing the in plane stretching of the shell, and its bending out of plane.",
+    "The purpose of this instrument is to bend the pitch of the incoming audio feed in real time."
+  ],
+  "list_see_also": [
+    "the bends",
+    "bent on"
+  ],
+  "list_browse": [
+    "belt",
+    "belted",
+    "bemused",
+    "bench",
+    "bend",
+    "bend over backwards",
+    "beneath",
+    "benediction",
+    "benefactor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351962_c4a3d31623_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351962_44f5eb940c_o.png",
+      "id_image": "bending_1055057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307806_867883d40e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307806_bb4ab4be4e_o.png",
+      "id_image": "bending_1055085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351912_cba33dcb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351912_e0bb7dd578_o.png",
+      "id_image": "bending_2450532"
+    }
+  ]
+}

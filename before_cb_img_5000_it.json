@@ -1,0 +1,147 @@
+{
+  "english": "before",
+  "phat_am": "biˈfoː",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "sớm hơn",
+          "definition": "earlier than",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a teacher before the war",
+              "world_new": [
+                "teacher",
+                "war"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m sure he’ll be here before very long.",
+              "world_new": [
+                "sure",
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đằng trước",
+          "definition": "in front of",
+          "world_new": [
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was before me in the queue.",
+              "world_new": [
+                "queue"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hơn; thà… còn hơn",
+          "definition": "rather than",
+          "world_new": [
+            "rather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Honour/Honor before wealth.",
+              "world_new": [
+                "wealth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trước đây",
+          "definition": "earlier",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve seen you somewhere before.",
+              "world_new": [
+                "somewhere"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "trước khi",
+          "definition": "earlier than the time when",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Before I go, I must call my parents.",
+              "world_new": [
+                "I",
+                "I",
+                "call",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There, before her preferred audience of assembled lords, gentlemen, ladies and others, the wedding ceremonials were played out with maximum splendour and magnificence.",
+    "The gas pressure in the valve before a nozzle was 10 - 40 bars.",
+    "Before rejecting this assumption, we should consider the alternative and its consequences.",
+    "While it would take six more years before they could consolidate their gains, the die was cast.",
+    "The value of this book, however, is to tease out the various 'micro-foundations' of divergent employer preferences, and to evaluate them more systematically than before.",
+    "Then, a large amount of conver ter material had to burn through before the capsule saw a source over the waist.",
+    "Before going any further, let us discuss this problem.",
+    "The smaller the number of cases, ceteris paribus, the larger any differences need to be before they are significant."
+  ],
+  "list_see_also": [
+    "beforehand"
+  ],
+  "list_browse": [
+    "beet",
+    "beetle",
+    "beetroot",
+    "befall",
+    "before",
+    "before (very) long",
+    "before/under one’s very eyes",
+    "beforehand",
+    "befriend"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308861_308f2dc361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308861_42525998b9_o.png",
+      "id_image": "before_5200143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424048_aa5ae3512b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424048_76b53920b2_o.png",
+      "id_image": "before_5454100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664114_cd13841012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664114_3043207c71_o.png",
+      "id_image": "before_5518098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045790_632683063f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045790_480c44c23a_o.png",
+      "id_image": "before_5659344"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "adaptor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nắn dòng điện",
+          "definition": "a device which enables an electrical plug of one type to be used in a socket of another type, or several plugs to be used in the same socket at the same time",
+          "world_new": [
+            "device",
+            "electrical",
+            "plug",
+            "type",
+            "socket",
+            "type",
+            "socket",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a travel adapter.",
+              "world_new": [
+                "travel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "adapt",
+    "adaptability",
+    "adaptable",
+    "adaptation",
+    "adaptor",
+    "add",
+    "add insult to injury",
+    "add on",
+    "add up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436873_86b9ca2408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436873_f508129104_o.png",
+      "id_image": "adaptor_1675097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366562_1e7a7c8e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366562_07c7ce5380_o.png",
+      "id_image": "adaptor_3463892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436823_9fc4d1f91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436823_0a328d5e38_o.png",
+      "id_image": "adaptor_4269044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058340_64125bd732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058340_c2cecda4bf_o.png",
+      "id_image": "adaptor_4612158"
+    }
+  ]
+}

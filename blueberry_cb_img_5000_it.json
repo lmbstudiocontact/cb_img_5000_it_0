@@ -1,0 +1,69 @@
+{
+  "english": "blueberry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây việt quất",
+          "definition": "a dark blue edible berry that grows on a bush",
+          "world_new": [
+            "dark",
+            "blue",
+            "edible",
+            "berry",
+            "bush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "also adjective blueberry pie.",
+              "world_new": [
+                "pie"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As spring moves northward so do the beekeepers, to supply bees for tree fruits, blueberries, strawberries, cranberries and later vegetables.",
+    "Sanitary audit of the orchard revealed multiple opportunities for contamination of blueberries by pickers.",
+    "Balic also makes fruit wines from almonds, blackberries, blueberries, cherries, cranberries, mangoes, pomegranates, raspberries, and strawberries.",
+    "In response to the outbreak some wholesalers of blueberries have adopted an approved supplier policy whereby only product from producers with approved food safety programmes will be marketed.",
+    "There are suggestions for growing blueberries and other exotica.",
+    "The flowers of infected blueberry plants may have a pink tinge or reddish streaks on the petals.",
+    "I cannot imagine who would want to burn blueberries.",
+    "Dairy farming is common, as is cultivation of blueberries, strawberries, raspberries and cranberries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blubber",
+    "blue",
+    "blue-collar",
+    "bluebell",
+    "blueberry",
+    "bluebottle",
+    "blueness",
+    "blueprint",
+    "Bluetooth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064815_ab54f1ff68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064815_0015f0fdda_o.png",
+      "id_image": "blueberry_1292503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328036_8480bc07b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328036_51fe443707_o.png",
+      "id_image": "blueberry_2836918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064865_0b7312dcb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064865_3bd209c801_o.png",
+      "id_image": "blueberry_771852"
+    }
+  ]
+}

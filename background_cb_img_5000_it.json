@@ -1,0 +1,110 @@
+{
+  "english": "background",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nền",
+          "definition": "the space behind the principal or most important figures or objects of a picture etc",
+          "world_new": [
+            "space",
+            "principal",
+            "important",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always paints ships against a background of stormy skies",
+              "world_new": [
+                "stormy"
+              ]
+            },
+            {
+              "ex_of_definition": "She had drawn some trees in the background of the picture.",
+              "world_new": [
+                "drawn",
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bối cảnh",
+          "definition": "happenings that go before, and help to explain, an event etc",
+          "world_new": [
+            "help",
+            "explain",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He explained the background of the current situation.",
+              "world_new": [
+                "current",
+                "situation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông tin cá nhân",
+          "definition": "a person’s origins, education etc",
+          "world_new": [
+            "origins",
+            "education"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was ashamed of her humble background.",
+              "world_new": [
+                "ashamed",
+                "humble"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This book will be useful to those who, regardless of their background and experience, are involved in caring for dying people.",
+    "It was further assumed that the background turbulence is isotropic.",
+    "This works well, although is a little unclear when a 'black' mineral like magnetite is viewed against the black background.",
+    "In other words, the theoretical background is primarily based on processual history.",
+    "He surveys the sacred meals against a carefully assembled background of ordinary meal-taking and the general philosophy of food in each region.",
+    "With this as background, we turn now to a non-finality analysis of weight-sensitivity, beginning with unbounded stress systems.",
+    "Typically, an object of interest (such as a prey species) is of a different material than the background, and therefore it will affect light differently.",
+    "This provides the background of our main task."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "backdate",
+    "backer",
+    "backfire",
+    "backgammon",
+    "background",
+    "backhand",
+    "backlog",
+    "backpack",
+    "backpacker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059165_a6d298184f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059165_e34c2080bc_o.png",
+      "id_image": "background_232867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322311_591a85e8b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322311_602754d099_o.png",
+      "id_image": "background_3879544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367192_5bfa0955e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367192_2d9bec5054_o.png",
+      "id_image": "background_3997800"
+    }
+  ]
+}

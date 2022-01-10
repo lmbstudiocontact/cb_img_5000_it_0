@@ -1,0 +1,109 @@
+{
+  "english": "assemble",
+  "phat_am": "əˈsembl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tụ tập",
+          "definition": "(of people) to come together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A crowd had assembled in the hall.",
+              "world_new": [
+                "crowd",
+                "hall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập hợp",
+          "definition": "to call or bring together",
+          "world_new": [
+            "call",
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He assembled his family and told them of his plan.",
+              "world_new": [
+                "family",
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lắp ráp",
+          "definition": "to put together (a machine etc)",
+          "world_new": [
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He assembled the model aeroplane.",
+              "world_new": [
+                "model",
+                "aeroplane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are, in fact, dynamic structures capable of assembling and disassembling during normal cell cycles and, consequently, making and breaking interactions with other cellular components.",
+    "Such a narrative risks excluding some key events from the sequences of data it assembles.",
+    "Building a successful acquisition theory is more like assembling a skeleton in archaeology than manipulating statistics in psychology.",
+    "Occasional imprecise splicing can generate new proteins assembled from parts of old ones without sacrificing the original genes.",
+    "Individual sample data are assembled on the vertical axis, firstly in terrane order, secondly in stratigraphic order.",
+    "The most common manufacturing methods are based on assembling an entire body from separate par ts.",
+    "The life stories were assembled over several conversations, and all were taped and transcribed.",
+    "Although the editors have assembled incredibly rich material for these diverse cases, they did not give themselves suf®cient space to explore it."
+  ],
+  "list_see_also": [
+    "assembly",
+    "assembly line"
+  ],
+  "list_browse": [
+    "assassin",
+    "assassinate",
+    "assassination",
+    "assault",
+    "assemble",
+    "assembly",
+    "assembly line",
+    "assent",
+    "assert"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040315_5e900deb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040315_7d2fd9aca8_o.png",
+      "id_image": "assemble_3103949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418578_50be6442be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418578_a68f53a8be_o.png",
+      "id_image": "assembling_6310902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040285_845614da88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040285_8f9b517648_o.png",
+      "id_image": "assembly_1453773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418548_3b127cd19a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418548_3c2813f40f_o.png",
+      "id_image": "assembly_2082147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658769_b244e97dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658769_2e6501be45_o.png",
+      "id_image": "assembly_2752790"
+    }
+  ]
+}

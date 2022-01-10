@@ -1,0 +1,106 @@
+{
+  "english": "aspect",
+  "phat_am": "ˈӕspekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khía cạnh",
+          "definition": "a part of something to be thought about",
+          "world_new": [
+            "part",
+            "thought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must consider every aspect of the problem.",
+              "world_new": [
+                "consider",
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng",
+          "definition": "a side of a building etc or the direction it faces in",
+          "world_new": [
+            "side",
+            "building",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the north-facing aspect of the property.",
+              "world_new": [
+                "property"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diện mạo",
+          "definition": "look or appearance",
+          "world_new": [
+            "look",
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His face had a frightening aspect.",
+              "world_new": [
+                "face",
+                "frightening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ordinary women's inferior rights to land were a key aspect in women's subordination as a whole.",
+    "More recently however, increasing attention has been paid to the psychological aspects of space.",
+    "The squares are replaced by intermittent hexagonal patterns when the aspect ratio is increased.",
+    "We take these different aspects to correlate with a representation's availability to both phenomenal experience and to control processes.",
+    "It is of interest to discuss some qualitative aspects of the solution before carrying out the calculation.",
+    "This phonetic aspect is the main important difference between the two cases for other reasons as well.",
+    "Scale models were the preferred method because they allowed not only a quantitative analysis, but also the qualitative aspects to be represented.",
+    "Personhood is the complex of physical, spiritual, psychological and social aspects that make up an individual life."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ask for",
+    "askew",
+    "asleep",
+    "asparagus",
+    "aspect",
+    "aspersion",
+    "asphalt",
+    "asphyxiate",
+    "asphyxiation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347972_324ff6d3ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347972_6995aa08e5_o.png",
+      "id_image": "aspect_1149546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303761_96001ea202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303761_9a8399df8f_o.png",
+      "id_image": "aspect_1149554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658999_df02511b1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658999_4351ce5246_o.png",
+      "id_image": "aspect_5068409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658984_850cf5b41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658984_3c106d7729_o.png",
+      "id_image": "aspect_5496654"
+    }
+  ]
+}

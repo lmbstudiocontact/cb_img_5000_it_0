@@ -1,0 +1,75 @@
+{
+  "english": "bacon",
+  "phat_am": "ˈbeikən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt lợn muối xông khói",
+          "definition": "the flesh of the back and sides of a pig, salted and dried, used as food",
+          "world_new": [
+            "flesh",
+            "pig",
+            "salted",
+            "dried",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "eggs and bacon"
+            },
+            {
+              "ex_of_definition": "(also adjective) a bacon sandwich.",
+              "world_new": [
+                "sandwich"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Books were what - across the arc of his career - brought home the bacon.",
+    "We shall have a good gammon of bacon.",
+    "Huddling for warmth, they chewed lumps of pemmican and raw bacon; without fuel there was no water to drink.",
+    "They bought bread, ready-cooked potatoes and bacon if it could be afforded.",
+    "Bacon and eggs makes a good solid breakfast.",
+    "Deprivation manifested itself in reduced expenditure on bread, potatoes, meat and bacon, and an increased expenditure on tea, coffee, sugar and treacle and some dairy products."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "backwards and forwards",
+    "backwash",
+    "backwater",
+    "backyard",
+    "bacon",
+    "bacteria",
+    "bacteriological",
+    "bacteriologist",
+    "bacteriology"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321341_ff154c8c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321341_1177888b50_o.png",
+      "id_image": "bacon_4825193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058220_c605e565e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058220_fb2dcb14af_o.png",
+      "id_image": "bacon_485629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366347_0694f968be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366347_9cecf5a3ab_o.png",
+      "id_image": "bacon_534590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436653_0ff7e8fed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436653_2730b5c240_o.png",
+      "id_image": "bacon_590709"
+    }
+  ]
+}

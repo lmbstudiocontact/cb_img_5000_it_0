@@ -1,0 +1,99 @@
+{
+  "english": "biomass",
+  "phat_am": "ˈbaiouˌmæs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh khối",
+          "definition": "the total amount of living plants and animals in a particular area, expressed either as the weight per unit of land or unit volume of water.",
+          "world_new": [
+            "total",
+            "amount",
+            "living",
+            "particular",
+            "area",
+            "weight",
+            "per",
+            "unit",
+            "land",
+            "unit",
+            "volume",
+            "water"
+          ]
+        },
+        {
+          "mean_english": "sinh khối",
+          "definition": "plant or animal matter used as a renewable source of fuel or energy",
+          "world_new": [
+            "plant",
+            "animal",
+            "matter",
+            "renewable",
+            "source",
+            "fuel",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The use of biomass, such as wood chips, is also beneficial because the trees are sourced from sustainable woods",
+              "world_new": [
+                "wood",
+                "beneficial",
+                "sustainable"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the biomass market/industry."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rates of species and biomass accumulation, as well as the composition of successional communities vary.",
+    "Consequences of competition are more severe for small seedlings than for tall seedlings due to the higher grass biomass encountered.",
+    "Although significant differences were found in total biomass, the species composition remains mainly constant during the year.",
+    "The density and biomass of groundfeeding birds were regressed on the number and biomass of litter invertebrates.",
+    "The spawning stock biomasses are at unprecedentedly low levels.",
+    "Their results yielded total above-ground and leaf biomasses ranging from 245 to 440 t ha-1 and from 3.7 to 6.4 t ha-1 respectively.",
+    "The weight of the airdried biomass was determined for the fractions grasses, herbs and leaf litter.",
+    "In contrast, biomass allocation and leaf area ratios were only comparable for forest and shadehouse seedlings grown in the high-light treatment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biological warfare",
+    "biologically",
+    "biologist",
+    "biology",
+    "biomass",
+    "bionic",
+    "bionics",
+    "biopic",
+    "biopsy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659644_2c49836195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659644_247e372c96_o.png",
+      "id_image": "biomass_1208493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419313_6ef0977f12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419313_e1c27e459b_o.png",
+      "id_image": "biomass_1208507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041145_97cc561af1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041145_e42f44e0a3_o.png",
+      "id_image": "biomass_2628724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348462_f2df173f7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348462_48791bea7e_o.png",
+      "id_image": "biomass_4157622"
+    }
+  ]
+}

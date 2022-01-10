@@ -1,0 +1,79 @@
+{
+  "english": "bolster",
+  "phat_am": "ˈboulstə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gối ôm",
+          "definition": "a long, often round pillow.",
+          "world_new": [
+            "long",
+            "pillow"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "củng cố",
+          "definition": "(often with up) to prop up",
+          "world_new": [
+            "prop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a plan to bolster (up) the economy.",
+              "world_new": [
+                "plan",
+                "economy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Successive military leaders bolstered their position in the capital by reinforcing established symbols of traditional authority in the building of residences, temples and urban monuments.",
+    "Our legal rights will be bolstered, such as in court cases involving international adoption, or maintenance issues having international implications.",
+    "Such perceptions have been bolstered by welfare policies and institutional practices that create relationships of enforced dependency.",
+    "He bolstered the party where it was already self-sufficient, rather than encouraging it to meet new challenges where its instincts were inhibiting.",
+    "Cobble stair bolstered by cut blocks ascends the eastern facade.",
+    "Our informal user studies so far suggest that users catch on remarkably quickly, perhaps bolstered by the fact that they can ask for a reminder at any time.",
+    "He argues that in allowing citizens to participate in policy decisions, direct democracy bolsters civic virtues since the very system tells voters they are to be trusted.",
+    "The cultural task of selling had much more to do with entrenching hierarchies, reinforcing hegemonic assumptions, and bolstering expectations of coherence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "boldness",
+    "bole",
+    "bolero",
+    "bollard",
+    "bolster",
+    "bolt",
+    "bolt(-)upright",
+    "bomb",
+    "bombard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325571_9014f4ae22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325571_2b2e51eede_o.png",
+      "id_image": "bolster_3364573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680594_cd566dc101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680594_3545b44781_o.png",
+      "id_image": "bolster_3958379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680584_6eb6d52bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680584_8934535d47_o.png",
+      "id_image": "bolster_6214710"
+    }
+  ]
+}

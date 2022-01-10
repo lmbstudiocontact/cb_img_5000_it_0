@@ -1,0 +1,90 @@
+{
+  "english": "bouncer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảo vệ hộp đêm",
+          "definition": "someone whose job is to stop unwanted people from entering a club or bar, and to make people leave if they are behaving badly",
+          "world_new": [
+            "job",
+            "stop",
+            "people",
+            "club",
+            "bar",
+            "people",
+            "leave",
+            "badly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nightclub bouncer.",
+              "world_new": [
+                "nightclub"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú ném trong môn bóng chày",
+          "definition": "(in cricket) a ball thrown very fast that rises above the batsman’s chest after it bounces",
+          "world_new": [
+            "ball",
+            "fast",
+            "chest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bowled a couple of nasty bouncers.",
+              "world_new": [
+                "couple",
+                "nasty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The door should stay open; we should not behave like nightclub bouncers letting a privileged few slip in and slamming the door on others outside.",
+    "He recognises that, sadly, links have been proven between more disreputable night club bouncers and the trade in illegal drugs.",
+    "If they won't let us in there's usually aggro—either on the bouncer or damage.",
+    "Does he not agree that such practices should be stopped as quickly as possible; and when are we going to start bowling a few bouncers?",
+    "Some managements have endeavoured to curb this by employing people who are officially referred to as security attendants, but who are commonly known as \"bouncers\".",
+    "He was there once socially when one of the bouncers had trouble and was attacked by others.",
+    "Those drunks do not walk into nightclubs, because there are bouncers on the doors to keep them out.",
+    "Recruitment of guards and bouncers will certainly be considered as part of this process."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bougainvillaea",
+    "bough",
+    "boulder",
+    "bounce",
+    "bouncer",
+    "bouncing",
+    "-bound",
+    "bound for",
+    "bound to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435938_51dfcdaeaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435938_de04bb5e62_o.png",
+      "id_image": "bouncer_2132299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675779_b3e107a612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675779_4c2f923288_o.png",
+      "id_image": "bouncer_2917431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320706_846bc9cff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320706_f98d54c8d5_o.png",
+      "id_image": "bouncer_3320224"
+    }
+  ]
+}

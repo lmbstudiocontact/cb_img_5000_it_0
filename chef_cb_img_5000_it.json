@@ -1,0 +1,69 @@
+{
+  "english": "chef",
+  "phat_am": "ʃef",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bếp trưởng",
+          "definition": "a head cook, especially a man, in a hotel etc",
+          "world_new": [
+            "head",
+            "cook",
+            "hotel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s the head chef at a top London restaurant.",
+              "world_new": [
+                "head",
+                "top",
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Which pot did the chef cook the really tasty meat in during the afternoon?",
+    "Which meal did the chef cook the really tasty meat for during the afternoon?",
+    "This finding may be of importance to food outlets and chefs that exclusively use animal fat as the principle cooking fat source.",
+    "The fault lies with the two chefs de canton.",
+    "The recommendations from these meetings are referred to the weekly meetings of the chefs de cabinets.",
+    "In 1935, the chefs de canton asked the strangers to request authorisation before settling and to pay a fee (whose amount was not stated).",
+    "The interviews also revealed that the chefs wanted fresh huitlacoche 'cleaned' off the cob and ready to use.",
+    "The specialists meet twice a week, and these meetings are called 'special chefs meetings'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cheesecake",
+    "cheesed off",
+    "cheesy",
+    "cheetah",
+    "chef",
+    "chemical",
+    "chemical bond",
+    "chemical change",
+    "chemical formula"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355562_c5822d77c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355562_4dcd486816_o.png",
+      "id_image": "chef_307964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666389_671e77e981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666389_3dc775c8af_o.png",
+      "id_image": "chef_773377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426293_bc07523b08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426293_cb17901992_o.png",
+      "id_image": "chef_843311"
+    }
+  ]
+}

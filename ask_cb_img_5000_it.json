@@ -1,0 +1,148 @@
+{
+  "english": "ask",
+  "phat_am": "aːsk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hỏi",
+          "definition": "to put a question",
+          "world_new": [
+            "question"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He asked me what the time was",
+              "world_new": [
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "Ask the price of that scarf",
+              "world_new": [
+                "price",
+                "scarf"
+              ]
+            },
+            {
+              "ex_of_definition": "Ask her where to go"
+            },
+            {
+              "ex_of_definition": "Ask him about it"
+            },
+            {
+              "ex_of_definition": "If you don’t know, ask.",
+              "world_new": [
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề nghị",
+          "definition": "to express a wish to someone for something",
+          "world_new": [
+            "express",
+            "wish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I asked her to help me",
+              "world_new": [
+                "I",
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked (him) for a day off",
+              "world_new": [
+                "I",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "He rang and asked for you"
+            },
+            {
+              "ex_of_definition": "Can I ask a favour of you?",
+              "world_new": [
+                "I",
+                "favour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mời",
+          "definition": "to invite",
+          "world_new": [
+            "invite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He asked her to his house for lunch.",
+              "world_new": [
+                "house",
+                "lunch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They agree, and then ask where she is planning to go.",
+    "Questions regarding the bill may then be asked, and debate follows.",
+    "Although teachers minimally are asked to perform as practitioners, it is preferable that they be encouraged to assume other roles as well.",
+    "Here we will ask whether such differences in the shape of development are also observed in these measures of structural complexity.",
+    "If at any time the experimenter was unsure whether the child understood the word, further questions were asked.",
+    "The party preference equation represents the selection process that determined which respondents were asked the strategic party switching question.",
+    "This possibility was tested by asking the subjects to move fingers on a virtual hand presented to them on a computer screen.",
+    "For our present purpose it is enough to ask what quantity the numerical solution is supposed to approximate, at least to a first-order approximation."
+  ],
+  "list_see_also": [
+    "ask after",
+    "ask for",
+    "for the asking"
+  ],
+  "list_browse": [
+    "ashore",
+    "ashtray",
+    "Asian",
+    "aside",
+    "ask",
+    "ask after",
+    "ask for",
+    "askew",
+    "asleep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303976_b55c5cd1eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303976_842b9c9958_o.png",
+      "id_image": "ask_1027576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418998_16bc7df192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418998_a00d4d46ee_o.png",
+      "id_image": "ask_1809613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348157_b52dc358d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348157_0fff55243d_o.png",
+      "id_image": "ask_3079141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303906_ede718f033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303906_07aa5baa65_o.png",
+      "id_image": "ask_3079146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659204_1fd2bb727e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659204_257e08cf37_o.png",
+      "id_image": "ask_4109566"
+    }
+  ]
+}

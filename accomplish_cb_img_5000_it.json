@@ -1,0 +1,69 @@
+{
+  "english": "accomplish",
+  "phat_am": "əˈkampliʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn thành",
+          "definition": "to complete (something) successfully",
+          "world_new": [
+            "complete",
+            "successfully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had accomplished everything he had intended to do.",
+              "world_new": [
+                "accomplished"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of course, many of the objectives could have also been accomplished by regulations.",
+    "However, a single syntactic processor can accomplish self-monitoring by switching between encoding and decoding modes (\"timesharing\").",
+    "The way the balance between the two is accomplished is dependent upon the developmental potential of the individual in the different life stages.",
+    "But this balancing act is quite difficult to accomplish given that the first problem for the cosmopolite is deciding whose values are selected as universal.",
+    "Our purpose here is to accomplish this result deterministically by means of a construction that is explicit in a sense to be described precisely below.",
+    "Although there has been enormous progress toward accomplishing parts of the vision, the core problem - the design of ligands to bind proteins - has remained intractable.",
+    "It would have been useful if the editors had been able to accomplish a similar thing regarding the topic of whether pensions are net saving.",
+    "The virtual nature of a computer-based training simulation enables training to be accomplished without risking damage to man or in most cases to expensive equipment."
+  ],
+  "list_see_also": [
+    "accomplished",
+    "accomplishment"
+  ],
+  "list_browse": [
+    "accompaniment",
+    "accompanist",
+    "accompany",
+    "accomplice",
+    "accomplish",
+    "accomplished",
+    "accomplishment",
+    "accord",
+    "accordance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325376_2abb5c0df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325376_3cf30dd37b_o.png",
+      "id_image": "accomplishment_1482256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370217_94abe1a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370217_ca9a75095d_o.png",
+      "id_image": "accomplishment_2765665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370277_0a9117a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370277_834d29fbc4_o.png",
+      "id_image": "accomplish_5520767"
+    }
+  ]
+}

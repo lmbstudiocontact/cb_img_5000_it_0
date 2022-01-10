@@ -1,0 +1,79 @@
+{
+  "english": "calibrate",
+  "phat_am": "ˈkӕlibreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "định cỡ",
+          "definition": "to mark out the scale on (a measuring instrument)",
+          "world_new": [
+            "mark",
+            "scale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you know how to calibrate a barometer?",
+              "world_new": [
+                "know",
+                "barometer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "căn chỉnh dụng cụ",
+          "definition": "to correct or adjust (the scale or instrument)",
+          "world_new": [
+            "correct",
+            "adjust",
+            "scale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He calibrated the weighing machine.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "First, images were calibrated to radiance values and then the multispectral images were co-registered to subpixel accuracy.",
+    "The wealth equivalent of nominal annuities decreased only slightly when they assumed i. i. d inflation calibrated to 1926 - 97 data.",
+    "The initial mortality rates, which are group specific, are calibrated to match the life expectancy in the 1990s across the different occupational groups.",
+    "In other words, the parallel robot itself is precisely calibrated.",
+    "By assuming differential in mortality between the different professional categories (and calibrating this parameter), we could reproduce the current distribution of pensioners.",
+    "The gauges were calibrated statically and found to have linear voltage-displacement characteristics.",
+    "In this region of practical interest and importance, we have today limited amount of a data for testing and calibrating modern theoretical models.",
+    "The questions should be carefully calibrated to achieve a specific set of research objectives."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "calculation",
+    "calculator",
+    "calendar",
+    "calf",
+    "calibrate",
+    "calibre",
+    "caliph",
+    "caliphate",
+    "call"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349997_3db1f87d89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349997_99296a5934_o.png",
+      "id_image": "calibrate_4395040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349952_c01be876df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349952_4def54988e_o.png",
+      "id_image": "calibrate_4395059"
+    }
+  ]
+}

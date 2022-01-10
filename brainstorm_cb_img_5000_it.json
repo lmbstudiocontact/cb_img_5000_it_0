@@ -1,0 +1,119 @@
+{
+  "english": "brainstorm",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn động não",
+          "definition": "a sudden inability to think clearly or logically with the result that you do something silly",
+          "world_new": [
+            "sudden",
+            "inability",
+            "think",
+            "clearly",
+            "logically",
+            "result",
+            "silly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know why I made such a stupid mistake – I must have had a brainstorm.",
+              "world_new": [
+                "I",
+                "know",
+                "I",
+                "stupid",
+                "mistake",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý tưởng chợt lóe lên",
+          "definition": "a good idea that comes to someone suddenly; brainwave British",
+          "world_new": [
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a brainstorm: what about replacing the broken part with one from another machine?",
+              "world_new": [
+                "broken",
+                "part",
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "động não",
+          "definition": "to generate new ideas from a group of people by means of a discussion in which they make several suggestions and the best ones are adopted",
+          "world_new": [
+            "generate",
+            "group",
+            "people",
+            "means",
+            "discussion",
+            "best",
+            "adopted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We brainstormed names for the new shampoo.",
+              "world_new": [
+                "shampoo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mixing and sharing of roles in the music sessions also lead to brainstorming administrative problems with each other.",
+    "They work as a team to brainstorm a solution to a problem, using the blackboard as the workplace for cooperatively developing the solution.",
+    "After a function structure is created, a good design exercise is to independently brainstorm solutions for each function while temporarily suspending the limitations or constraints between functions.",
+    "The data demonstrated that explicit instruction of brainstorming strategy had a measurable influence on writing performance.",
+    "It was only the autonomy of local authorities and local democracy that prevented one man's brainstorm from becoming the nation's disaster.",
+    "The emergency situation stimulated brainstorm activity on the part of agricultural chemists, who organized the production of fertilizers and searched for non-traditional substitutes.",
+    "What did he say after 10 months' of brainstorming on a new policy?",
+    "The article describes the instruction that was provided and the findings of the effects of brainstorming instruction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "brain drain",
+    "brainchild",
+    "brainless",
+    "brainstem",
+    "brainstorm",
+    "brainstorming",
+    "brainwash",
+    "brainwashing",
+    "brainwave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318756_85df2ce2de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318756_94c48a318c_o.png",
+      "id_image": "brainstorm_1608265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055385_6851eee592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055385_3c886f9f09_o.png",
+      "id_image": "brainstorm_395674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318811_7f51db56b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318811_5e3bf89e6c_o.png",
+      "id_image": "brainstorm_562528"
+    }
+  ]
+}

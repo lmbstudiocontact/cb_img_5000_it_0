@@ -1,0 +1,113 @@
+{
+  "english": "captain",
+  "phat_am": "ˈkӕptən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuyền trưởng; cơ trưởng",
+          "definition": "the commander of a ship, an aircraft, or a group of soldiers",
+          "world_new": [
+            "commander",
+            "ship",
+            "aircraft",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ship’s captain"
+            },
+            {
+              "ex_of_definition": "Captain James Cook."
+            }
+          ]
+        },
+        {
+          "mean_english": "đội trưởng",
+          "definition": "(abbreviated to Capt., when written in titles) the leader of a team or club",
+          "world_new": [
+            "leader",
+            "team",
+            "club"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s captain of the college rugby team.",
+              "world_new": [
+                "college",
+                "rugby",
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm đội trưởng",
+          "definition": "to be captain of (something non-military)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John captained the football team last year.",
+              "world_new": [
+                "football",
+                "team",
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Upon reflection, it should be apparent that the captain of the boat is committed to acting in accordance with meshing subplans.",
+    "A non-owner captain operating in marine fisheries has avenues to demonstrate behavior contrasting to that found in agriculture.",
+    "Accordingly, they decide to appoint one member of the group as the captain and entrust him with authority to resolve these disputes.",
+    "There separate deals could be cut with local coastal authorities, and if the price wasn't right the captain could simply move on.",
+    "They also entertained those naval captains who successfully escorted convoys, rewarding them with presents and personally congratulating them in published resolutions in the newspapers.",
+    "When the captain tied down the boiler safety valve, the engines generated enormous and sometimes boiler-exploding power.",
+    "The key details are the captains among the ranks who must be identified and briefed early - before the troops go into battle.",
+    "If the captain believes it preferable to rig the sail herself, she must find out whether anyone else intends to rig the sail as well."
+  ],
+  "list_see_also": [
+    "captaincy"
+  ],
+  "list_browse": [
+    "Capricorn",
+    "capsize",
+    "capstan",
+    "capsule",
+    "captain",
+    "captaincy",
+    "caption",
+    "captivate",
+    "captive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442753_4058d12807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442753_d8013fa5d6_o.png",
+      "id_image": "captain_1733953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064405_7ced9b2dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064405_7921ea710a_o.png",
+      "id_image": "captain_1876747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372367_727bd4107c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372367_6b3e16ac09_o.png",
+      "id_image": "captain_6150306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327796_61c8cf066f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327796_94d5b2514f_o.png",
+      "id_image": "captain_683825"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "antibiotic",
+  "phat_am": "ˌӕntibaiˈotik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc kháng sinh",
+          "definition": "(a medicine) which is used to kill the bacteria that cause disease",
+          "world_new": [
+            "kill",
+            "bacteria",
+            "cause",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Doctors can prescribe antibiotics for a variety of conditions.",
+              "world_new": [
+                "prescribe",
+                "variety"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anti-aircraft",
+    "anti-Semite",
+    "anti-Semitic",
+    "anti-Semitism",
+    "antibiotic",
+    "antibody",
+    "anticipate",
+    "anticipation",
+    "anticlimax"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047190_145f00c950_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047190_89c9e2a754_o.png",
+      "id_image": "antibiotic_2231116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425358_6a2a891125_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425358_24bca7c134_o.png",
+      "id_image": "antibiotic_2328285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665594_cc56855144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665594_f7a524cf2c_o.png",
+      "id_image": "antibiotic_843172"
+    }
+  ]
+}

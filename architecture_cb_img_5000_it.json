@@ -1,0 +1,74 @@
+{
+  "english": "architecture",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công trình kiến trúc",
+          "definition": "the art of designing buildings",
+          "world_new": [
+            "art",
+            "designing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s studying architecture"
+            },
+            {
+              "ex_of_definition": "modern architecture.",
+              "world_new": [
+                "modern"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several architectures of parallel robots which are solicited in macroscopic applications might be adapted for microassembly tasks.",
+    "Behaviour-based architectures were very much in evidence, in these and other papers.",
+    "The 'extended architectures', based on the core ideas for the settlement as a whole, can and should be implemented by other designers.",
+    "Addressing the role of epistasis in evolution will require understanding the mechanisms that underpin the genetic architectures discovered.",
+    "Therefore, in the last decade hybrid manipulators have given great attention to robotic manipulators that are a combination of serial and parallel chain architectures.",
+    "Design of modular product architectures in discrete design spaces subject to life cycle issues.",
+    "The configuration algorithms that we presented here does not rely on functional architectures.",
+    "In section 5, some important layered architectures are overviewed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "archetype",
+    "archipelago",
+    "architect",
+    "architectural",
+    "architecture",
+    "archive",
+    "archivist",
+    "archway",
+    "Arctic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350737_4960bfc4c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350737_6ccc5e10dd_o.png",
+      "id_image": "architecture_1134312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661914_21fe7a93b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661914_bf762a7120_o.png",
+      "id_image": "architecture_1134319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661984_dfd27d413c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661984_ace7eba349_o.png",
+      "id_image": "architecture_807841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350752_b80d10434d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350752_4b0d66a41c_o.png",
+      "id_image": "architecture_837200"
+    }
+  ]
+}

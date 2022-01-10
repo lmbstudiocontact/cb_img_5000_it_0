@@ -1,0 +1,171 @@
+{
+  "english": "bolt",
+  "phat_am": "boult",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "then cửa",
+          "definition": "a bar to fasten a door etc",
+          "world_new": [
+            "bar",
+            "fasten",
+            "door"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have a bolt as well as a lock on the door.",
+              "world_new": [
+                "lock",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bu lông",
+          "definition": "a round bar of metal, often with a screw thread for a nut",
+          "world_new": [
+            "bar",
+            "metal",
+            "screw",
+            "thread",
+            "nut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nuts and bolts."
+            }
+          ]
+        },
+        {
+          "mean_english": "chớp",
+          "definition": "a flash of lightning",
+          "world_new": [
+            "flash",
+            "lightning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was struck by a lightning bolt.",
+              "world_new": [
+                "lightning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "súc vải",
+          "definition": "a roll (of cloth)",
+          "world_new": [
+            "roll"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bolt of silk.",
+              "world_new": [
+                "silk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cài then",
+          "definition": "to fasten with a bolt",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bolted the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nuốt chửng",
+          "definition": "to swallow hastily",
+          "world_new": [
+            "swallow",
+            "hastily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child bolted her food.",
+              "world_new": [
+                "child",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lao đi",
+          "definition": "to go away very fast",
+          "world_new": [
+            "fast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse bolted in terror.",
+              "world_new": [
+                "horse",
+                "terror"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bolt(-)upright",
+    "a bolt from the blue"
+  ],
+  "list_browse": [
+    "bole",
+    "bolero",
+    "bollard",
+    "bolster",
+    "bolt",
+    "bolt(-)upright",
+    "bomb",
+    "bombard",
+    "bombardment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370312_cdb4ce24c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370312_d970ef3107_o.png",
+      "id_image": "bolt_1719846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440458_40a5c1df4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440458_f28a76b11a_o.png",
+      "id_image": "bolt_1752462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440408_11c7be1bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440408_8446f4c7e7_o.png",
+      "id_image": "bolt_3155263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440323_284ef00dc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440323_de197ddbd9_o.png",
+      "id_image": "bolt_3468393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062085_1dac083963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062085_e996596998_o.png",
+      "id_image": "bolt_6196102"
+    }
+  ]
+}

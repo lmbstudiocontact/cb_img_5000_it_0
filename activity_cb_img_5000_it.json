@@ -1,0 +1,114 @@
+{
+  "english": "activity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoạt động",
+          "definition": "the state of being active or lively",
+          "world_new": [
+            "state",
+            "active",
+            "lively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The streets are full of activity this morning.",
+              "world_new": [
+                "full",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trò giải trí",
+          "definition": "something which one does as a pastime, as part of one’s job etc",
+          "world_new": [
+            "pastime",
+            "part",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His free time activities include fishing and golf.",
+              "world_new": [
+                "free",
+                "time",
+                "include",
+                "fishing",
+                "golf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động",
+          "definition": "things which people do in order to achieve an aim",
+          "world_new": [
+            "people",
+            "order",
+            "achieve",
+            "aim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "business/criminal activities."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Little information is available on how much time was spent on labour activities once pupils had left school.",
+    "To the extent that conversations are implicitly expected or planned to co-occur with dinners, coffee breaks, or other scheduled activities, they are also temporally constrained.",
+    "However patient participation activities were reported to be variable, dependent on the motivation and interest of individual general practices.",
+    "They are distinguished from mental activity that is purely verbal or abstract.",
+    "Different forms of activity-traces have been preserved in different landscapes; some forms of evidence have been completely removed.",
+    "The objective reality in which an individual lives and acts is not \"purely natural\" but includes products of former human social activity.",
+    "In the present work we wanted to verify whether oocytes recovered from preantral follicles were able to acquire calcium activity during follicle culture.",
+    "Men, women and children in vulnerable livelihood systems negotiate different activity roles and access patterns to household capital."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "active",
+    "actively",
+    "activeness",
+    "activist",
+    "activity",
+    "actor",
+    "actual",
+    "actuality",
+    "actually"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367182_c8479c7a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367182_65ed64a8bb_o.png",
+      "id_image": "activity_202393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437458_4de9ed708b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437458_f8379d9816_o.png",
+      "id_image": "activity_2191209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677304_3100e46338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677304_5f1eff8828_o.png",
+      "id_image": "activity_2919941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367087_89840f19b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367087_fe1ae03eb1_o.png",
+      "id_image": "activity_3475151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677364_7375e61013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677364_30c573ee01_o.png",
+      "id_image": "activity_392778"
+    }
+  ]
+}

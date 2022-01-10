@@ -1,0 +1,106 @@
+{
+  "english": "alcoholic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chứa cồn",
+          "definition": "(opposite non-alcoholic) of or containing alcohol",
+          "world_new": [
+            "alcohol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re not allowed to sell alcoholic drinks to people under 18 years of age.",
+              "world_new": [
+                "sell",
+                "people",
+                "age"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "do rượu",
+          "definition": "caused by alcohol",
+          "world_new": [
+            "alcohol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an alcoholic stupor.",
+              "world_new": [
+                "stupor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người nghiện rượu",
+          "definition": "a person who suffers from a dependence on alcohol",
+          "world_new": [
+            "person",
+            "dependence",
+            "alcohol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a recovering alcoholic."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Coping with stress in a family with an alcoholic parent.",
+    "No discrepancies have been found in incomes between young male alcoholics and nonalcoholics.",
+    "On three separate items, subjects report frequency of alcohol use in the past 30 days for each of the three different types of alcoholic beverages.",
+    "Thus, it can be argued that slower colour-naming times for tobacco or alcohol related words among smokers or alcoholics offers support for either model.",
+    "The participants were 223 families (104 nonalcoholic families and 119 alcoholic families) with 12-month-old infants recruited through birth records.",
+    "Accordingly, parent-infant interactions among alcoholic families may vary as a function of several comorbid disorders and associated family characteristics.",
+    "Fewer studies have focused on younger children of alcoholics.",
+    "Few previous studies have examined potential protective factors among children of alcoholics, making comparisons with previous studies difficult."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "albumen",
+    "alchemist",
+    "alchemy",
+    "alcohol",
+    "alcoholic",
+    "alcoholism",
+    "alcove",
+    "ale",
+    "alert"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361272_3fe514d0c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361272_4abdd2fe3d_o.png",
+      "id_image": "alcoholic_1366367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432113_d103946ba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432113_8aa6d148eb_o.png",
+      "id_image": "alcoholic_261827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317031_bf876d40fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317031_556f038d54_o.png",
+      "id_image": "alcoholic_311813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432038_e3d9ed8b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432038_c32d400ab7_o.png",
+      "id_image": "alcoholic_343869"
+    }
+  ]
+}

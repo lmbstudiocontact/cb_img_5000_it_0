@@ -1,0 +1,82 @@
+{
+  "english": "ash",
+  "phat_am": "ӕʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tro",
+          "definition": "the dust etc that remains after anything is burnt",
+          "world_new": [
+            "dust",
+            "remains"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cigarette ash",
+              "world_new": [
+                "cigarette"
+              ]
+            },
+            {
+              "ex_of_definition": "the ashes of the bonfire.",
+              "world_new": [
+                "ashes",
+                "bonfire"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Concentrations of accretionary lapilli and diffuse trains of small pumices define bedding in this thick ash bed.",
+    "Once the ash had cooled, it was transferred into plastic bags, which were weighed and labelled for each burn.",
+    "Most likely, these ashes were the burnt residue of the roof cover (reed mats).",
+    "Bedding surfaces may contain relatively coarse, heavily weathered, volcanic clasts, degraded ash particles and mica flakes.",
+    "Successive 5-min periods of ashing established the depth for each set of observations.",
+    "This is overlain by a thin lenticular ignimbrite flow-unit draped by a fine ash layer, and buried by thick massive lapilli-tuff.",
+    "Most are indurated by vapour phase alteration of the phonolite glass ash matrix.",
+    "A simple high sample volume ashing procedure for deter mination of soil organic matter."
+  ],
+  "list_see_also": [
+    "ashen",
+    "ashes",
+    "ashtray"
+  ],
+  "list_browse": [
+    "ASCII",
+    "ascribe",
+    "asexual",
+    "asexual reproduction",
+    "ash",
+    "Ash Wednesday",
+    "ashamed",
+    "ashen",
+    "ashes"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304121_f9d07a25fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304121_3798095b44_o.png",
+      "id_image": "ashes_1450751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304106_54c883f16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304106_0611266bca_o.png",
+      "id_image": "ashes_3768731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304066_e48680398a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304066_faf8ba60d0_o.png",
+      "id_image": "ashes_4545211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304151_d4543e30b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304151_dea754668d_o.png",
+      "id_image": "ash_1650364"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "bronze",
+  "phat_am": "bronz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng thiếc",
+          "definition": "(of) an alloy of copper and tin",
+          "world_new": [
+            "alloy",
+            "copper",
+            "tin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The medal is (made of) bronze.",
+              "world_new": [
+                "medal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màu đồng thiếc",
+          "definition": "(of) its reddish brown colour/color",
+          "world_new": [
+            "its",
+            "reddish",
+            "brown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bronze eye shadow.",
+              "world_new": [
+                "eye",
+                "shadow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ bằng đồng thiếc",
+          "definition": "(a work of art) made of bronze",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an exhibition of bronzes.",
+              "world_new": [
+                "exhibition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The team finished with two gold medals, one silver, and five bronzes.",
+    "Architectural bronzes usually contain about 90% copper and 10% tin, although the content may vary widely.",
+    "Similarly, melon beads and bronze pendants found inside military forts are usually considered to be associated with cavalry horses.",
+    "The same is true of some of the early bronze age round barrows.",
+    "Here he won the silver medal in 1950, and bronzes in 1946 and 1952.",
+    "Greek bronzes were cast in sections and then assembled.",
+    "He branched out into the realm of limited edition prints, bronzes, and wearable art.",
+    "The monumental marble and the dynamic bronzes give nevertheless a coherent impression."
+  ],
+  "list_see_also": [
+    "bronzed",
+    "bronze medal"
+  ],
+  "list_browse": [
+    "bronchial",
+    "bronchitic",
+    "bronchitis",
+    "bronchus",
+    "bronze",
+    "bronze medal",
+    "bronzed",
+    "brooch",
+    "brood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051390_009f28fcdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051390_7c45fddd9d_o.png",
+      "id_image": "bronze_1921777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358957_42b59afe8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358957_7f4b245a88_o.png",
+      "id_image": "bronze_4033748"
+    }
+  ]
+}

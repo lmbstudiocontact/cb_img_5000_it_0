@@ -1,0 +1,67 @@
+{
+  "english": "checkbook",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sổ séc",
+          "definition": "a chequebook",
+          "world_new": [
+            "chequebook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A woman told police she believes her checkbook was stolen from her purse while she was at a restaurant.",
+              "world_new": [
+                "police",
+                "purse",
+                "restaurant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He uses the room to discipline the boys, make phone calls, and balance his checkbook.",
+    "Most individuals begin as cash method taxpayers because their first form of bookkeeping is a checkbook.",
+    "He hated being trotted out to cajole financiers wanting to look him over before opening the checkbook.",
+    "At trial, the defendant testified that the daughter had given him her parents' checkbook and credit cards with the understanding he could use them.",
+    "Questions range from basic skills such as making change, calculating tips, and balancing checkbooks to basic probability, algebra, logic, and geometry.",
+    "While some units were possibly expandable to the checkbook balancing/homework typing stage, most were intended more for education on the use and application of microprocessors.",
+    "The unified budget deficit, a cash-basis measurement, is the equivalent of a checkbook balance.",
+    "In some cases, when families requested to be sent a full payout in the form of a check, the family was sent a checkbook, rather than the amount due."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "check out",
+    "check up (on)",
+    "check-in",
+    "check-up",
+    "checkbook",
+    "checked",
+    "checkers",
+    "checkmate",
+    "checkout"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427348_46e04e5013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427348_2cd1c9b138_o.png",
+      "id_image": "checkbook_1354959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312466_6dd63bed96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312466_e1c2bb1ccd_o.png",
+      "id_image": "checkbook_2200788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356587_7a56ce3c64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356587_9e022e900e_o.png",
+      "id_image": "checkbook_941007"
+    }
+  ]
+}

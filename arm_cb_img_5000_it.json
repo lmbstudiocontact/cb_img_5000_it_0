@@ -1,0 +1,131 @@
+{
+  "english": "arm",
+  "phat_am": "aːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cánh tay",
+          "definition": "the part of the body between the shoulder and the hand",
+          "world_new": [
+            "part",
+            "body",
+            "shoulder",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has broken his arm.",
+              "world_new": [
+                "broken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật hình cánh tay",
+          "definition": "anything shaped like or similar to this",
+          "world_new": [
+            "shaped",
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sat on the arm of the chair.",
+              "world_new": [
+                "chair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trang bị vũ khí",
+          "definition": "to give weapons to (a person etc)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A decision was taken to arm the prison guards.",
+              "world_new": [
+                "decision",
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuẩn bị chiến đấu",
+          "definition": "to prepare for battle, war etc",
+          "world_new": [
+            "prepare",
+            "battle",
+            "war"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They armed for battle.",
+              "world_new": [
+                "armed",
+                "battle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two assumed modes are used to model the planar elbow arm.",
+    "The microcontroller generates pulses to activate the wheel stepper motors and arm servos.",
+    "To compare survival, safety, dose-intensity and total dose between the two treatment arms.",
+    "She exhibited a striking deficit in \"motor control,\" in that she was unable to reach to a target after passive movement of her arm.",
+    "In fact, a human-like motion requires that right arm moves forward while right leg moves backward and similarly for the other leg and arm.",
+    "A notable improvement is the research of the upper arm, which extends from + 240° to 130°.",
+    "In step (1), the robot arm and the object are located in a random position which belongs to the workspace of the vision system.",
+    "Both sisters have similar skeletal features, including mild shortening of the arms, double joints of elbows, with an extra flexion crease and small hands."
+  ],
+  "list_see_also": [
+    "armful",
+    "armband",
+    "armchair",
+    "armpit",
+    "arm-in-arm",
+    "keep at arm’s length",
+    "with open arms"
+  ],
+  "list_browse": [
+    "aristocratic",
+    "aristocratically",
+    "arithmetic",
+    "arithmetical",
+    "arm",
+    "arm-in-arm",
+    "armament",
+    "armband",
+    "armchair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421048_007bab96ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421048_a68931e669_o.png",
+      "id_image": "arm_1733396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042860_348f2cb939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042860_05ee0e96b8_o.png",
+      "id_image": "arm_2375321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420973_9c848cab8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420973_b9c84e0320_o.png",
+      "id_image": "arm_6147326"
+    }
+  ]
+}

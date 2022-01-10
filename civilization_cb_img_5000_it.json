@@ -1,0 +1,90 @@
+{
+  "english": "civilization",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khai hóa",
+          "definition": "the act of civilizing, or process or state of being civilized",
+          "world_new": [
+            "act",
+            "process",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the gradual civilization of the local tribes.",
+              "world_new": [
+                "gradual",
+                "local"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nền văn minh",
+          "definition": "a civilized people and their way of life",
+          "world_new": [
+            "people",
+            "their",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ancient civilizations of Egypt and Greece.",
+              "world_new": [
+                "ancient"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Lacking a knowledge of advanced biological or postbiological motivations, we are unable to predict the nature of civilizations millions or billions of years older than ours.",
+    "Such a \"clash of civilizations\" perspective ignores commonalties between their underlying ethical systems.",
+    "According to this logic, the impact of the clash of civilizations should have been either negative or statistically insignificant.",
+    "Theoretically speaking, we could contact any number of these civilizations : one, two, several or even none.",
+    "A formulation for the number of communicating civilizations in the galaxy.",
+    "The essence of this technological development is visible in the remarkable difference between large-scale projects in the early modern period and in ancient urban civilizations.",
+    "Much of the alleged \"clash of civilizations\" can certainly be traced to distrust born of misunderstanding.",
+    "To explain this, the new meta-histories turn to the cultures that define civilizations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "civil service",
+    "civil war",
+    "civilian",
+    "civility",
+    "civilization",
+    "civilize",
+    "civilly",
+    "CJD",
+    "cl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661189_76cb7143ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661189_c1523c093c_o.png",
+      "id_image": "civilization_3317437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661179_242cac009e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661179_860cb477b9_o.png",
+      "id_image": "civilization_5234355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349957_1232ce6dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349957_e1b6a81374_o.png",
+      "id_image": "civilization_5998818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349902_451d234c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349902_b601f97fd8_o.png",
+      "id_image": "civilization_6193005"
+    }
+  ]
+}

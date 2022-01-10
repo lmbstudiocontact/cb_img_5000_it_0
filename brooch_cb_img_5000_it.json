@@ -1,0 +1,73 @@
+{
+  "english": "brooch",
+  "phat_am": "brəutʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghim hoa (gài cổ áo)",
+          "definition": "a decoration, especially for a woman’s dress, fastened by a pin",
+          "world_new": [
+            "decoration",
+            "dress",
+            "pin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore a brooch on the collar of her dress.",
+              "world_new": [
+                "collar",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Badges and brooches are given at the discretion of the local authority to volunteers who have completed one month's service and are considered efficient in their duties.",
+    "Iron brooches and coins have been found there.",
+    "They are given one of the cheapest forms of plastic brooches, which breaks if you touch it, and that is the only designation they receive.",
+    "There are other articles of personal adornment, such as brooches.",
+    "The tiara can be converted into a necklace and brooches.",
+    "Women nominated will wear a badge brooch.",
+    "Girls wear a white blouse, brooch, pinstripe skirt, black jacket, black tights and black shoes.",
+    "On another field, if there had been a metal detector the person going down would have found a small broken bronze brooch—not very valuable in itself."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bronchus",
+    "bronze",
+    "bronze medal",
+    "bronzed",
+    "brooch",
+    "brood",
+    "brook",
+    "broom",
+    "broomstick"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314826_e485cf7fc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314826_421bd08a7f_o.png",
+      "id_image": "brooch_2856471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358882_9e1fdbb165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358882_e30964161a_o.png",
+      "id_image": "brooch_2927793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669419_238a62c179_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669419_09f7c56808_o.png",
+      "id_image": "brooch_4301193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429618_207d1c4296_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429618_5c3098cb8b_o.png",
+      "id_image": "brooch_4612601"
+    }
+  ]
+}

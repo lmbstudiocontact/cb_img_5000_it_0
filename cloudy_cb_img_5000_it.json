@@ -1,0 +1,87 @@
+{
+  "english": "cloudy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có mây",
+          "definition": "full of, having, or covered with clouds",
+          "world_new": [
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is a bit cloudy today.",
+              "world_new": [
+                "bit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẩn đục",
+          "definition": "not clear",
+          "world_new": [
+            "clear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cloudy photograph/memory."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I note what was said about \"cloudy\" glass, which is of some importance.",
+    "They are not to be disposed of by cloudy generalisations or by pejorative epithets.",
+    "The lateral band is composed of round dots, cloudy suffusion, and dark patches occupying irregular depressions in the integument.",
+    "Egg development was monitored twice daily and the incubation solution was replaced as it became cloudy.",
+    "On cloudy days, values were typically 2.0 mm s71.",
+    "Would it not be a good idea if we had a short debate, to clarify this cloudy matter?",
+    "Winter begins dry and rather sunny but becomes progressively wetter and cloudier.",
+    "The climate is cold, cloudy, and windy, with frequent gales."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cloud",
+    "cloudberry",
+    "cloudburst",
+    "cloudless",
+    "cloudy",
+    "clout",
+    "clove",
+    "cloven hoof",
+    "clover"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328826_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328826_f73f01ec09_o.png",
+      "id_image": "cloudy_1462983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065630_0973cdcac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065630_87053d7144_o.png",
+      "id_image": "cloudy_4968414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683829_a4d61ee82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683829_fde0e9197f_o.png",
+      "id_image": "cloudy_4968458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373662_bb9b26b42b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373662_f4581fc2e2_o.png",
+      "id_image": "cloudy_762531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328891_0fe76c03ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328891_8c6d7d1ba1_o.png",
+      "id_image": "cloudy_765847"
+    }
+  ]
+}

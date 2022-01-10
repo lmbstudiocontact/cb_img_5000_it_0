@@ -1,0 +1,60 @@
+{
+  "english": "clef",
+  "phat_am": "klef",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khóa âm nhạc",
+          "definition": "in music, a sign eg or on the stave fixing the pitch of the notes",
+          "world_new": [
+            "music",
+            "sign",
+            "stave",
+            "pitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the bass/treble clef."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Clef usage and the range of the individual parts offer some help where instrumental designations are lacking.",
+    "I have become fascinated with romans a clef, a very popular genre in the eighteenth century.",
+    "This is made possible by writing the music without clefs or key signatures, allowing the singers to assume those suited to the chosen mode.",
+    "Some elements of the roman a clef can be found throughout the text.",
+    "Another peculiar aspect of the notation of partimento fugues resides in the numerous clef changes, which can even be found after the exposition.",
+    "It must be said, however, that the absence of clefs in the fragment makes it impossible to be quite certain about the pitch levels intended.",
+    "Is it at all possible to find a few books that are all in the same mode and the same clef?",
+    "The first is an incorrect clef."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clearway",
+    "cleavage",
+    "cleave",
+    "cleaver",
+    "clef",
+    "cleft",
+    "clemency",
+    "clement",
+    "clench"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304296_610057f697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304296_87764cf77e_o.png",
+      "id_image": "clef_1544504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659539_6bb1163f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659539_31bc73a9e0_o.png",
+      "id_image": "clef_1910790"
+    }
+  ]
+}

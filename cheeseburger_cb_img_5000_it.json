@@ -1,0 +1,65 @@
+{
+  "english": "cheeseburger",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh humbuger kẹp phô mai",
+          "definition": "a hamburger served with a slice of cheese on top of the meat",
+          "world_new": [
+            "hamburger",
+            "slice",
+            "cheese",
+            "top",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I ordered a cheeseburger with fries.",
+              "world_new": [
+                "I",
+                "fries"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Popular menu items include cheeseburgers and plates of tuna and chicken salad.",
+    "The cheeseburger was billed on the menu as the world's best hamburger.",
+    "Each team member is responsible for one of three diner classics: the tuna melt, the cheeseburger, or the club sandwich.",
+    "Is very adamant about returning to the land of cheeseburgers and fries.",
+    "He had a cheeseburger for a head, and sported a top hat, a diplomat's sash, and a pair of pince-nez spectacles.",
+    "However, being a vegetarian, the man can not eat the cheeseburger, rendering his attempts at working out the true nature of reality pointless.",
+    "Savory foods include potato chips, cheeseburgers, tacos, and pizza, while excluding foods like cinnamon rolls or lollipops.",
+    "I will probably need a rubbishy microwaved cheeseburger, which will be served in a container."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cheerless",
+    "cheers!",
+    "cheery",
+    "cheese",
+    "cheeseburger",
+    "cheesecake",
+    "cheesed off",
+    "cheesy",
+    "cheetah"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311601_03e90f04e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311601_bcf0745234_o.png",
+      "id_image": "cheeseburger_4647066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666649_e9ac6b0cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666649_50acc4bc93_o.png",
+      "id_image": "cheeseburger_676707"
+    }
+  ]
+}

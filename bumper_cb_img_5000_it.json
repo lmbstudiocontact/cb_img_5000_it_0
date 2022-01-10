@@ -1,0 +1,92 @@
+{
+  "english": "bumper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đỡ va (ô tô)",
+          "definition": "a bar on a motor vehicle to lessen damage when it collides with anything; fender American",
+          "world_new": [
+            "bar",
+            "motor",
+            "vehicle",
+            "lessen",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The collision left a dent in the bumper.",
+              "world_new": [
+                "collision",
+                "left",
+                "dent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bội thu",
+          "definition": "excellent in some way, especially by being large",
+          "world_new": [
+            "excellent",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a bumper crop of strawberries.",
+              "world_new": [
+                "crop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I have but one course open to me; to take him on the front bumpers.",
+    "Especially with bumpers that can absorb shocks at low speeds, such a provision would have considerable advantages over the present position with bumpers at different heights.",
+    "What is more, cars are using new materials such as plastic bumpers and fibre bodywork so that the weight of a car is being reduced considerably.",
+    "Adverse weather can lead to a dramatic reduction in supply; good weather conditions in contrast can result in bumper harvests for producers.",
+    "The 1946 model showed few changes from the 1942 model, including a mild grille redesign and new bumpers.",
+    "The bumpers were redesigned to become better integrated into the bodywork.",
+    "The term \"unfair industrial practice\" tends to conjure up an idea of something which is not quite cricket—like bowling too many bumpers.",
+    "In general, bumpers are suitable only for low-energy contact of the sort encountered in harbours and terminals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bumblebee",
+    "bump",
+    "bump into",
+    "bump off",
+    "bumper",
+    "bumpkin",
+    "bumptious",
+    "bumpy",
+    "bun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666004_0916af3df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666004_d17a174513_o.png",
+      "id_image": "bumper_1514207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310841_b1e8ecfa18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310841_812ab70655_o.png",
+      "id_image": "bumper_2597874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310801_1013a94914_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310801_ae1a882547_o.png",
+      "id_image": "bumper_4805794"
+    }
+  ]
+}

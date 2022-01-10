@@ -1,0 +1,77 @@
+{
+  "english": "ballroom",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng khiêu vũ",
+          "definition": "a large room for a formal dance",
+          "world_new": [
+            "large",
+            "room",
+            "formal",
+            "dance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The annual dinner dance will be held in the ballroom.",
+              "world_new": [
+                "annual",
+                "dinner",
+                "dance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "một kiểu khiêu vũ theo những nhịp điệu quy ước",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ballroom dancing.",
+              "world_new": [
+                "dancing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The established code of social ballroom dancing, with which many dancers became well acquainted in their youth, is that the man leads at all times.",
+    "Besides the more widespread availability of sequence dancing, there are other reasons for its greater popularity than ballroom dancing.",
+    "We found that at the venues where the predominant genre was ballroom, participants criticised other dancers and did not identify themselves with a group.",
+    "It was the presence of men in ballroom drag that is of interest here.",
+    "The complexities of ballroom dance pedagogy created significant obstacles for students who wished to learn the basics quickly.",
+    "At the masquerade, the eight men run into the ballroom at the stroke of midnight and scare the gathered revelers.",
+    "There is, one should note, less scope for mild or hidden subversion of the codes of social ballroom dancing.",
+    "The materials and finish give it the impression of a ballroom: velvet on the rear wall, red wall surfaces."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ballistic missile",
+    "balloon",
+    "ballot",
+    "ballpoint",
+    "ballroom",
+    "balls-up",
+    "ballyhoo",
+    "balm",
+    "balminess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672579_d90c3ab6ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672579_57b1b01aba_o.png",
+      "id_image": "ballroom_5774994"
+    }
+  ]
+}

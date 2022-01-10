@@ -1,0 +1,64 @@
+{
+  "english": "aerobics",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thể dục nhịp điệu",
+          "definition": "physical exercises to make the heart and lungs stronger, often done to music in a class",
+          "world_new": [
+            "physical",
+            "heart",
+            "music",
+            "class"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water aerobics can help you to burn calories.",
+              "world_new": [
+                "help",
+                "burn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Aerobics would become a sport if there were some form of judgment involved.",
+    "Perhaps we should redefine the nature of sport, when aerobics is considered a sport and line dancing is not.",
+    "As such, exercises can be issued in a very similar way to aerobics.",
+    "Aerobics have replaced jogging as the \"in\" way to keep fit.",
+    "The current fad for aerobics, for instance, if it is a fad, has moved into a competitive area.",
+    "They may be aerobics, choir practice, music, drama, dance, photography, philately, or anything one likes to think of.",
+    "One person reported having a thought inserted into her head that she was to be attacked, and consequently she quickly fled the aerobics class she was in.",
+    "It is on the basis that the girls do not like it and can get perfectly healthy exercise by taking part in dance or aerobics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aerial",
+    "aerobatics",
+    "aerobe",
+    "aerobic",
+    "aerobics",
+    "aerodrome",
+    "aerodynamic",
+    "aerodynamics",
+    "aeronautical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674264_2067a4c58a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674264_a1d090395e_o.png",
+      "id_image": "aerobics_2566277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364032_cffe8acf83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364032_4f4e6c4546_o.png",
+      "id_image": "aerobics_3475123"
+    }
+  ]
+}

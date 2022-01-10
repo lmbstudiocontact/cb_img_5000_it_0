@@ -1,0 +1,105 @@
+{
+  "english": "classical",
+  "phat_am": "ˈklӕsikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kinh điển",
+          "definition": "(especially of literature, art etc) of ancient Greece and Rome",
+          "world_new": [
+            "literature",
+            "art",
+            "ancient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "classical studies."
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ điển",
+          "definition": "(of music) having the traditional, established harmony and/or form",
+          "world_new": [
+            "traditional",
+            "established",
+            "harmony",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He prefers classical music to rock.",
+              "world_new": [
+                "music",
+                "rock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạng ưu",
+          "definition": "(of literature) considered to be of the highest class",
+          "world_new": [
+            "class"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "classical literature such as Chaucer, Shakespeare, and Dickens.",
+              "world_new": [
+                "literature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With non-classical processes there is no possibility of learning about your design thinking as you write the rules.",
+    "Several problems have been shown to admit an increase in speed for a quantum computer compared with classical computation.",
+    "Such types do not readily fit into our 'classical control' paradigm.",
+    "On the other hand, domain theory has brought tools from classical topology to the study of partial order based models.",
+    "The call-by-value lambda calculus, or v -calculus, is a restriction of the classical -calculus, based on the concept of value.",
+    "However, it is also possible to turn it into a classical representation by describing it verbally or by giving it a name.",
+    "Nevertheless, one can think of this product by the reals as representing a trace of the (underlying) classical theory.",
+    "Lagrangian submanifolds are maximal submanifolds, on which the symplectic form vanishes; they represent so-called semi-classical approximations to quantum mechanical wave functions."
+  ],
+  "list_see_also": [
+    "classic"
+  ],
+  "list_browse": [
+    "clash",
+    "clasp",
+    "class",
+    "classic",
+    "classical",
+    "classification",
+    "classified",
+    "classified ad",
+    "classify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420043_9b2109645f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420043_8b37b6163e_o.png",
+      "id_image": "classical_2368400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349147_7fcea26708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349147_e1ea9d4aa5_o.png",
+      "id_image": "classical_3500485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349112_d8d187f748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349112_8a27e9cb51_o.png",
+      "id_image": "classical_3500586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349077_01d8ee398d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349077_ffd0e6a1be_o.png",
+      "id_image": "classical_4635433"
+    }
+  ]
+}

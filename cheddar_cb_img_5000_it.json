@@ -1,0 +1,60 @@
+{
+  "english": "cheddar",
+  "phat_am": "tʃedə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phô mai dầy cheddar",
+          "definition": "a type of smooth hard yellow cheese",
+          "world_new": [
+            "type",
+            "smooth",
+            "yellow",
+            "cheese"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mild/mature cheddar."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Strong, extra-mature cheddar, sometimes called vintage, needs to be matured for up to 15 months.",
+    "Cheddar made in the classical way tends to have a sharp, pungent flavour, often slightly earthy.",
+    "It contained cheddar mixed with white truffles and sprinkled with edible gold dust, and cost 110.59.",
+    "Cheddar is usually sold as mild, medium, mature, extra mature or vintage.",
+    "One batch is given orange food dye to produce the orange cheddar, while a separate batch is not given any dye in order to produce white cheddar.",
+    "Some suggestions include cheddar and dill, sundried tomato and herb, garlic and feta, etc.",
+    "Preparation includes the pouring of cheddar sauce over chips or sprinkling cheddar over chips and then putting the dish under a grill.",
+    "They were once made in extra cheddar flavors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "checkers",
+    "checkmate",
+    "checkout",
+    "checkpoint",
+    "cheddar",
+    "cheek",
+    "cheekbone",
+    "cheekiness",
+    "cheeky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426953_58685ff941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426953_ab47cc24c6_o.png",
+      "id_image": "cheddar_3823104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666959_6fa0d7a033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666959_f455f9129a_o.png",
+      "id_image": "cheddar_3823117"
+    }
+  ]
+}

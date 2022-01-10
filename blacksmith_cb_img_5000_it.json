@@ -1,0 +1,68 @@
+{
+  "english": "blacksmith",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ rèn",
+          "definition": "a person who makes and repairs by hand things made of iron",
+          "world_new": [
+            "person",
+            "hand",
+            "iron"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blacksmith made a new shoe for the horse.",
+              "world_new": [
+                "shoe",
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in this context, the actual image of a blacksmith using his hammer is likely to be invoked as well.",
+    "The first was a house with a shop for a blacksmith, for which he received an annual rent of 2 florins.",
+    "The masks and puppets are carved by the local blacksmith, while the under-structures and mobile stages are constructed by the male members of the ton.",
+    "Most, as in any society, were labourers, artisans, craftsmen: dockworkers, blacksmiths, bricklayers, plasterers, caterers and cigar rollers.",
+    "The blacksmith's son's forearms would bulge with pride on account of the blacksmith's toil.",
+    "The waxwork blacksmith, for example, could be poised ready to strike with his hammer at the forge.",
+    "Active use or disuse of an organ or function, such as the blacksmith's forearm, or the mole's eyes, might also be a source of variation.",
+    "But the hunter imagery also had its counterpart, ' the blacksmith king ' (or spokesman king)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blackmail",
+    "blackmailer",
+    "blackness",
+    "blackout",
+    "blacksmith",
+    "bladder",
+    "blade",
+    "blame",
+    "blameless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347132_19db426dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347132_2f01c8aa7d_o.png",
+      "id_image": "blacksmith_1504108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658139_d30d337209_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658139_d7a3d58a69_o.png",
+      "id_image": "blacksmith_2670334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658129_af7d9ee6ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658129_fbefcfd39f_o.png",
+      "id_image": "blacksmith_3943605"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "automatic",
+  "phat_am": "oːtəˈmatik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tự động",
+          "definition": "(of a machine etc) working by itself",
+          "world_new": [
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an automatic washing machine.",
+              "world_new": [
+                "washing",
+                "machine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô ý thức",
+          "definition": "(of an action) without thinking",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an automatic response.",
+              "world_new": [
+                "response"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tất yếu",
+          "definition": "always happening because of a rule or system",
+          "world_new": [
+            "happening",
+            "rule",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Failure of the test is automatic if you don’t complete all the questions.",
+              "world_new": [
+                "test",
+                "complete"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng tự động",
+          "definition": "a self-loading gun",
+          "world_new": [
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has two automatics and a rifle.",
+              "world_new": [
+                "rifle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe tự động",
+          "definition": "a car with a system of gears that works by itself without the driver having to do anything",
+          "world_new": [
+            "car",
+            "system",
+            "works",
+            "driver"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives an automatic."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Often, however, authors operationally define automatic processing simply as very fast responding.",
+    "The encoding is automatic in the case of auditory presentation, but effortful for visual items.",
+    "Massing states that the notion of underconstrained perception runs into automatic difficulties when faced with the spectrum of psychotic symptoms.",
+    "An automatic search of the spoken part of the corpus generated 88 tokens of the word please.",
+    "Salaries and stipends must be pegged to the actual cost of living with automatic raises to compensate for inflation.",
+    "The techniques are syntactic and can easily be implemented in a fully automatic optimizing compiler.",
+    "In order to overcome these problems, techniques such as data discretization, automatic rule extraction, and rule simplification and pruning are needed.",
+    "In the mean time, the automatic cleaning mechanism will be designed into the stirring-fry and dispersing mechanism."
+  ],
+  "list_see_also": [
+    "automated",
+    "automatically",
+    "automation",
+    "automaton"
+  ],
+  "list_browse": [
+    "autocrat",
+    "autocratic",
+    "autograph",
+    "automated",
+    "automatic",
+    "automatically",
+    "automation",
+    "automaton",
+    "automobile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325306_7a42342839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325306_e3e65cd802_o.png",
+      "id_image": "automatic_1857061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325261_1dff36cfa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325261_44b3fb22aa_o.png",
+      "id_image": "automatic_2597414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062050_132901c242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062050_80a2f84cc1_o.png",
+      "id_image": "automatic_2598061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440188_2354afd5d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440188_cc024a272d_o.png",
+      "id_image": "automatic_5351139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680279_e14374bccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680279_ea9e607721_o.png",
+      "id_image": "automatic_5612467"
+    }
+  ]
+}

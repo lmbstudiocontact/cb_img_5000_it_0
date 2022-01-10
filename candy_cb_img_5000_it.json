@@ -1,0 +1,83 @@
+{
+  "english": "candy",
+  "phat_am": "ˈkӕndi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẹo",
+          "definition": "a sweet or sweets; (a piece of) confectionery",
+          "world_new": [
+            "sweet",
+            "piece",
+            "confectionery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That child eats too much candy",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "Have a candy!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The child was instructed to wait for the experimenter to ring a bell before eating a piece of candy.",
+    "Coughing fits, rustling candy wrappers - auditory interference which can bedevil any theatrical experience - are, in-the-round, aggravated by visual 'noise'.",
+    "Often, the non-social independent variable was tokens or candy, and the social independent variable was the verbal reward from the experimenters.",
+    "The child was asked to hold a small piece of candy on his 0 her tongue, without chewing, eating, or swallowing it.",
+    "The child was required to wait while the examiner rang a bell before retrieving a small piece of candy from under a glass cup.",
+    "She opens up a plastic bag with some candy in it.",
+    "This suggests that, as the target word unfolds in real time, both \"candle\" and \"candy\" are activated in parallel during monolingual language processing.",
+    "In addition, the parent may give the child a candy bar in those circumstances even if he or she is not tired either."
+  ],
+  "list_see_also": [
+    "candied",
+    "candy floss"
+  ],
+  "list_browse": [
+    "candle",
+    "candlelight",
+    "candlestick",
+    "candour",
+    "candy",
+    "candy floss",
+    "cane",
+    "cane sugar",
+    "canine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040465_47a197bbbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040465_caa3707407_o.png",
+      "id_image": "candy_5965115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040445_820e965d52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040445_c8460f4868_o.png",
+      "id_image": "candy_5965142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303691_2dc67ca5d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303691_7ea826f7d8_o.png",
+      "id_image": "candy_6119325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658949_d6100f012e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658949_900d0baa7d_o.png",
+      "id_image": "candy_6347547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303681_b74b240522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303681_7e9243cdf8_o.png",
+      "id_image": "candy_6347610"
+    }
+  ]
+}

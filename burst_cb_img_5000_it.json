@@ -1,0 +1,147 @@
+{
+  "english": "burst",
+  "phat_am": "bəːst",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổ tung",
+          "definition": "to break open or in pieces suddenly",
+          "world_new": [
+            "break",
+            "open",
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bag/balloon burst."
+            }
+          ]
+        },
+        {
+          "mean_english": "xồng xộc",
+          "definition": "(with in, into, through etc) to come or go suddenly or violently",
+          "world_new": [
+            "suddenly",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He burst in without knocking"
+            },
+            {
+              "ex_of_definition": "He burst into the room",
+              "world_new": [
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "She burst into tears."
+            }
+          ]
+        },
+        {
+          "mean_english": "tràn",
+          "definition": "(of rivers) to overflow or flood (the banks)",
+          "world_new": [
+            "overflow",
+            "flood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The river has burst its banks.",
+              "world_new": [
+                "river",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nổ tung",
+          "definition": "a break or explosion",
+          "world_new": [
+            "break",
+            "explosion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a burst in the pipes.",
+              "world_new": [
+                "pipes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nổ ra",
+          "definition": "an (often sudden and short) outbreak",
+          "world_new": [
+            "sudden",
+            "outbreak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a burst of applause.",
+              "world_new": [
+                "applause"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The ver tical dashed line separating the peaks shows the criterion used for clustering the spikes into bursts.",
+    "Synaptic connections involved in the spontaneous correlated bursts in the developing tur tle retina.",
+    "Such bursts are noted in the 1830s, the 1910s and the 1940s but not, rather surprisingly, in the 1980s.",
+    "Why are long periods of political stability punctuated by sudden bursts of intense instability?",
+    "No marked bursts of turbulence are found in the wave-form.",
+    "The production of intense radiation bursts, by the electron beam during the reflection process, was also demonstrated.",
+    "Another feature of our numerical experiments is the appearance of intermittent bursts.",
+    "From the space-time auto-correlation of the intermittency function, one may conclude that the individual turbulent bursts are solitary and that they occur at random."
+  ],
+  "list_see_also": [
+    "burst open"
+  ],
+  "list_browse": [
+    "burner",
+    "burnish",
+    "burp",
+    "burrow",
+    "burst",
+    "burst open",
+    "bury",
+    "bury the hatchet",
+    "bus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664184_f1ddce1fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664184_122094b461_o.png",
+      "id_image": "burst_1408476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353087_e1b9d5c7a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353087_dbf1dc1a7c_o.png",
+      "id_image": "burst_1733408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308916_5490e97f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308916_b876fe7480_o.png",
+      "id_image": "burst_316528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664149_9dc3cc0332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664149_e2171bc84d_o.png",
+      "id_image": "burst_6315782"
+    }
+  ]
+}

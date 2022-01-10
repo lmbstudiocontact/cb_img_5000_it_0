@@ -1,0 +1,84 @@
+{
+  "english": "bathroom",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buồng tắm",
+          "definition": "a room in a house etc which contains a bath",
+          "world_new": [
+            "room",
+            "house",
+            "bath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an en-suite bathroom (= one that is joined onto a bedroom)."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà vệ sinh",
+          "definition": "a lavatory",
+          "world_new": [
+            "lavatory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need to use the bathroom (= use the lavatory).",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The feature node allows the designer to structure share the bathroom solution of the second design with the first.",
+    "The average household had 4n0 members, living in a house with 4n4 rooms, which generally included at least one bedroom and one bathroom.",
+    "Both hotel staff and attendees should practice effective hand washing after using the bathroom.",
+    "No unprotected heater or exposed pipes in bathroom.",
+    "Housekeeping personnel should be instructed on safe personal hygiene when cleaning contaminated guest bathrooms and the importance of not crosscontaminating guest bathrooms.",
+    "Because the institution did not have a bathroom, she had to take children to a public bathhouse nearby for a bath every month.",
+    "The bathroom cabinet and its contents turn out to be revealing from the point of view of grammar and linguistic behaviour.",
+    "Each bathroom was equipped with grab rails, seats and pull cords so that the resident could summon help if it was needed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bather",
+    "bathing",
+    "bathing suit",
+    "bathrobe",
+    "bathroom",
+    "bathtub",
+    "batik",
+    "baton",
+    "batsman"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668149_3d79320a90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668149_366238d090_o.png",
+      "id_image": "bathroom_2073140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357407_c9297c2213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357407_9638b8fd48_o.png",
+      "id_image": "bathroom_456665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428133_c6b9f8ebce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428133_f393ed448e_o.png",
+      "id_image": "bathroom_5252796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313366_b497a68f2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313366_330f30f40e_o.png",
+      "id_image": "bathroom_655894"
+    }
+  ]
+}

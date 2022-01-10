@@ -1,0 +1,140 @@
+{
+  "english": "bill",
+  "phat_am": "bil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mỏ (chim)",
+          "definition": "a bird’s beak",
+          "world_new": [
+            "beak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The toucan has a bright orange bill.",
+              "world_new": [
+                "toucan",
+                "bright",
+                "orange"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoá đơn",
+          "definition": "an account of money owed for goods etc",
+          "world_new": [
+            "account",
+            "money",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electricity bill.",
+              "world_new": [
+                "electricity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hối phiếu",
+          "definition": "a banknote",
+          "world_new": [
+            "banknote"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a five-dollar bill."
+            }
+          ]
+        },
+        {
+          "mean_english": "tờ quảng cáo",
+          "definition": "a poster used for advertising",
+          "world_new": [
+            "poster",
+            "advertising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wall was covered in advertising bills.",
+              "world_new": [
+                "wall",
+                "advertising"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lập hoá đơn",
+          "definition": "to send an account (to someone)",
+          "world_new": [
+            "send",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll bill you next month for your purchases.",
+              "world_new": [
+                "month",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A bill based on the weight of the copper (and later zinc), and hence the amount of electricity used, was sent to the household.",
+    "Therefore, if legislators predict that bills will be enacted, they will vote for bills although they prefer to defeat bills.",
+    "To drive the bill against a substrate to remove some of the exterior of the substrate.",
+    "A provisional compromise has been reached in this case, which forms the basis for the future bill.",
+    "This omission could have serious consequences for the vitality of a bill of rights.",
+    "Even (seemingly) unimportant enacted laws change the status quo policy and have greater utility than dead important bills.",
+    "Bank-issued bills of exchange in gold are the perfectly elastic currency.",
+    "The bill did allow producers to update their historical production bases and yields, and soybean was included for the first time."
+  ],
+  "list_see_also": [
+    "billboard",
+    "billfold",
+    "bill of rights",
+    "fill / fit the bill"
+  ],
+  "list_browse": [
+    "bile",
+    "bilingual",
+    "bilious",
+    "biliousness",
+    "bill",
+    "bill of rights",
+    "billboard",
+    "billet",
+    "billfold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420698_7f4c4e28eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420698_9021a8036b_o.png",
+      "id_image": "bill_1580789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305586_fa21d0d25f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305586_7a3a9eb4e4_o.png",
+      "id_image": "bill_1605273"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "english": "chalet",
+  "phat_am": "ˈʃӕlei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà gỗ (ở miền núi Thụy Sỹ)",
+          "definition": "in Switzerland, a summer hut in the mountains for shepherds etc.",
+          "world_new": [
+            "summer",
+            "hut"
+          ]
+        },
+        {
+          "mean_english": "nhà nghỉ",
+          "definition": "a small (wooden) house used by holidaymakers etc",
+          "world_new": [
+            "small",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ski chalet.",
+              "world_new": [
+                "ski"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other chalets and static caravans such as mine are temporarily occupied during the summer season.",
+    "The plots to have flowers and small lawns, as well as a place for vegetables and possibly, perhaps, a garden chalet.",
+    "For example, perhaps it is let as a holiday chalet at the moment.",
+    "Until then, the chalet dwellers owned their chalets, but were granted individual licences by the freeholders.",
+    "That is simply to ensure that hotel residents include those who now live in the rather popular separate chalets.",
+    "As for dialogue, actors were locked in rooms or chalets easily reproduced in the studio.",
+    "On stretches of our coast there are small towns of chalet bungalows, with recreations and amusements of all kinds.",
+    "They are large chalet type structures, but just small enough to qualify on agricultural grounds for exemption from planning control."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chair",
+    "chairlift",
+    "chairman",
+    "chairmanship",
+    "chalet",
+    "chalice",
+    "chalk",
+    "chalkboard",
+    "chalky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359377_05d6d03169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359377_c747308973_o.png",
+      "id_image": "chalet_4585415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430098_fa90cfe5f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430098_9c790a96d4_o.png",
+      "id_image": "chalet_505616"
+    }
+  ]
+}

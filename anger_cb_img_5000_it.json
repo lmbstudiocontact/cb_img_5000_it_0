@@ -1,0 +1,92 @@
+{
+  "english": "anger",
+  "phat_am": "ˈӕŋɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tức giận",
+          "definition": "a violent, bitter feeling (against someone or something)",
+          "world_new": [
+            "violent",
+            "bitter",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was filled with anger about the way he had been treated.",
+              "world_new": [
+                "filled"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ai tức giận",
+          "definition": "to make someone angry",
+          "world_new": [
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His words angered her very much."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Everyone knows that about nine months ago the country was angered over those regulations in a way in which it has seldom been angered.",
+    "Our fishermen are greatly angered by seeing other nations fishing large quantities for industrial purposes.",
+    "If we look at the problem that way, we begin to understand why they are so bothered and angered about double standards.",
+    "We do not even debate substantial pieces of legislation now, and that is what angers me.",
+    "What evidence is there that people are bound to be angered?",
+    "I am angered by the negative coverage that my constituency receives.",
+    "On the contrary, they have written to me saying unanimously that they were further angered when they realised from the report what was going on.",
+    "What appals, puzzles and angers me is the basic neglect which still continues so far as elementary police needs are concerned."
+  ],
+  "list_see_also": [
+    "angry",
+    "angrily"
+  ],
+  "list_browse": [
+    "angel",
+    "angel-fish",
+    "angelic",
+    "angelically",
+    "anger",
+    "angle",
+    "angler",
+    "Anglican",
+    "Anglicanism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427408_97fe09cb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427408_2261fd5d8a_o.png",
+      "id_image": "anger_1933046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312561_9b7ee66789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312561_d6f7a299a2_o.png",
+      "id_image": "anger_1933048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049115_a6aec44e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049115_d3ee0172d4_o.png",
+      "id_image": "anger_3426105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427453_d877e7893a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427453_8f75e94028_o.png",
+      "id_image": "anger_555680"
+    }
+  ]
+}

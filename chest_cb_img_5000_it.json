@@ -1,0 +1,101 @@
+{
+  "english": "chest",
+  "phat_am": "tʃest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngực",
+          "definition": "the part of the body between the neck and waist, containing the heart and the lungs",
+          "world_new": [
+            "part",
+            "body",
+            "neck",
+            "waist",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was complaining of a severe pain in his chest.",
+              "world_new": [
+                "severe",
+                "pain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hòm, tủ",
+          "definition": "a large, strong wooden or metal box",
+          "world_new": [
+            "large",
+            "strong",
+            "wooden",
+            "metal",
+            "box"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sheets were kept in a wooden chest.",
+              "world_new": [
+                "wooden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They either had bandy legs, knock knees, or pigeon chests.",
+    "I called on all members to stop playing their cards so close to their chests and start putting them on the table.",
+    "Their shoulders are round and very falling, their chests and hips narrow, their hands and feet very small, their stature from four feet eight inches to five feet one inch.",
+    "Why, then, do birds kept in such conditions have broken wings and cysts on their chests and are defeathered and need de-beaking?",
+    "We make men without chests and expect of them virtue and enterprise.",
+    "The only effect such remarks often have is to get the matter off our chests, but the damage lives on afterwards.",
+    "In 1909 the export will be limited to 56,800 chests.",
+    "Chests of tea vary from 90 lbs."
+  ],
+  "list_see_also": [
+    "get something off one’s chest"
+  ],
+  "list_browse": [
+    "cherry",
+    "cherub",
+    "cherubic",
+    "chess",
+    "chest",
+    "chest of drawers",
+    "chestnut",
+    "chew",
+    "chewing gum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310516_9f7dd86b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310516_8f8d4a55cb_o.png",
+      "id_image": "chest_4033801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665679_aa4168a516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665679_076b71df1e_o.png",
+      "id_image": "chest_4287213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665644_74f31f21cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665644_2387571994_o.png",
+      "id_image": "chest_4760653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425423_333348c241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425423_663b42d89e_o.png",
+      "id_image": "chest_5327086"
+    }
+  ]
+}

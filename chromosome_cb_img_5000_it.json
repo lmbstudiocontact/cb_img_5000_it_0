@@ -1,0 +1,66 @@
+{
+  "english": "chromosome",
+  "phat_am": "ˈkrouməˌsoum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiễm sắc thể",
+          "definition": "one of the thread-shaped structures that are found in the central part (= nucleus) of living cells and contain genes",
+          "world_new": [
+            "found",
+            "central",
+            "part",
+            "living",
+            "contain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Human cells have 23 pairs of chromosomes."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Physical mapping of the corresponding chromosome size variants should allow confirmation of this hypothesis.",
+    "Homoeologous relationships of rice, wheat and maize chromosomes.",
+    "The relative contribution of the genetic factors on the second and third chromosomes was investigated by comparing the genetic variances.",
+    "The stages at which human fertilization arrests: microtubule and chromosome configurations in inseminated oocytes which failed to complete fertilization and development in humans.",
+    "Rather than the expected two signals, 11 % of analysed oocytes had three signals for one or more chromosomes.",
+    "Slides were screened for metaphase identification and chromosome analysis (chromosome count).",
+    "This is much larger than the value for chromosomes from nature, as might be expected since it involves an arithmetic rather than a harmonic mean.",
+    "Identification and characterization of a new blast resistance gene located on rice chromosome 1 through linkage and differential analysis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Christmas tree",
+    "chromatic",
+    "chrome",
+    "chromium",
+    "chromosome",
+    "chronic",
+    "chronically",
+    "chronicle",
+    "chronicler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307386_d06ee6a931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307386_f00a0b19ef_o.png",
+      "id_image": "chromosome_4072385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662664_37c38fe927_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662664_ba4c4c626f_o.png",
+      "id_image": "chromosome_5903860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044295_15e8221acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044295_5952a8cb2b_o.png",
+      "id_image": "chromosome_5903907"
+    }
+  ]
+}

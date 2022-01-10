@@ -1,0 +1,137 @@
+{
+  "english": "cart",
+  "phat_am": "kaːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe ngựa",
+          "definition": "a two-wheeled (usually horse-drawn) vehicle for carrying loads",
+          "world_new": [
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a farm cart.",
+              "world_new": [
+                "farm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe cút kít",
+          "definition": "a small wheeled vehicle pushed by hand, for carrying groceries, golf clubs etc",
+          "world_new": [
+            "small",
+            "wheeled",
+            "vehicle",
+            "hand",
+            "groceries",
+            "golf",
+            "clubs"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a golf cart.",
+              "world_new": [
+                "golf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chở bằng xe cút kít",
+          "definition": "to carry (in a cart)",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He carted the manure into the field.",
+              "world_new": [
+                "manure",
+                "field"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mang",
+          "definition": "to carry",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t want to cart this luggage around all day.",
+              "world_new": [
+                "I",
+                "want",
+                "luggage",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But that would be placing the cart before the horse.",
+    "It is assumed that the peg is infinitely rigid, and thus, deformation appears on the cart side only.",
+    "A stand, the cart is pushed and it stops in the street.",
+    "At 1930 prices, bullock carts worked out much cheaper than motor lorries, both in terms of initial and recurring costs.",
+    "They also provided transport, pushing the beggars who could not walk in carts.",
+    "Harvesting millet stover to feed animals held in paddocks (stalls) near homesteads, requires labour to harvest and transport stover often using animal-drawn carts.",
+    "The computed densities are applied in the context of probabilistic path planning for kinematic cart in the plane and flexible needle steering in three-dimensional space.",
+    "Until the 1910s, the rubbish carts did not travel far."
+  ],
+  "list_see_also": [
+    "cartwheel"
+  ],
+  "list_browse": [
+    "carry weight",
+    "carry-all",
+    "carry-out",
+    "carrycot",
+    "cart",
+    "cartilage",
+    "cartographer",
+    "cartographic",
+    "cartography"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678429_7045e40c71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678429_02774316e2_o.png",
+      "id_image": "cart_1361982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368077_b514726234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368077_12006cc695_o.png",
+      "id_image": "cart_5131908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678359_a909991c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678359_26b79333a4_o.png",
+      "id_image": "cart_5207115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368207_d2d570921d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368207_c45286a614_o.png",
+      "id_image": "cart_529917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438378_4b0bb8d461_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438378_78f451dd5e_o.png",
+      "id_image": "cart_618059"
+    }
+  ]
+}

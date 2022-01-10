@@ -1,0 +1,66 @@
+{
+  "english": "allergic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dị ứng",
+          "definition": "(with to) medical affected in a bad way by (certain) things",
+          "world_new": [
+            "affected",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is allergic to certain flowers.",
+              "world_new": [
+                "certain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To a large group of people, sulphites may cause health problems, particularly in the form of allergic reactions, especially in asthmatics.",
+    "Quality of life assessment in allergic rhinitis : the role of generic and disease specific quality of life scales.",
+    "Generally, the health effects are multi-faceted, as a variety of different atmospheric and allergic conditions have to be taken into account.",
+    "There were no outliers in the depressive group and the allergic control group.",
+    "Allergic reactions were only observed in children treated with streptokinase.",
+    "There are certain people who are allergic to certain conditions.",
+    "Surely one person here and another person there may be allergic to certain things.",
+    "As a known component of indoor bioaerosol, (13) -glucan (cell wall components of most fungi) is proposed to be the causative agent of mold-induced nonallergic inflammatory reactions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alleged",
+    "allegedly",
+    "allegiance",
+    "allegory",
+    "allergic",
+    "allergy",
+    "alleviate",
+    "alleviation",
+    "alley"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360572_77c884a2ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360572_83d94c1a4c_o.png",
+      "id_image": "allergic_2400741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670964_07d1cedcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670964_c557b8dae5_o.png",
+      "id_image": "allergic_2400744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360512_efe3534883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360512_d1a62533a2_o.png",
+      "id_image": "allergic_2854973"
+    }
+  ]
+}

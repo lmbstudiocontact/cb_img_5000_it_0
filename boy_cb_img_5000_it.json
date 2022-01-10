@@ -1,0 +1,87 @@
+{
+  "english": "boy",
+  "phat_am": "boi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con trai",
+          "definition": "a male child",
+          "world_new": [
+            "male",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has three girls and one boy."
+            }
+          ]
+        },
+        {
+          "mean_english": "cậu thanh niên",
+          "definition": "(as part of another word) a male (often adult) who does a certain job",
+          "world_new": [
+            "male",
+            "certain",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cowboy",
+              "world_new": [
+                "cowboy"
+              ]
+            },
+            {
+              "ex_of_definition": "a paperboy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Neighbouring villages would typically share a common grazing area to prevent stock rustlers from attacking boys caring for livestock far from the settlements.",
+    "The boy wants so much to believe them, to know that it's true.",
+    "Disruptive boys with stable and unstable high fighting behavior patterns during junior elementary school.",
+    "A working boy was elevated to heroic status.",
+    "Caretakers seeking help for boys with disruptive and delinquent behavior.",
+    "A variety of studies using court records, arrests, and self-report measures indicates that juvenile crime is increasing proportionately for both boys and girls.",
+    "For example, a boy who does not graduate from high school has limited employment and further education options.",
+    "A 22-month-old boy was referred for corrective cardiac surgery."
+  ],
+  "list_see_also": [
+    "boyhood",
+    "boy band",
+    "boyfriend"
+  ],
+  "list_browse": [
+    "boxing",
+    "Boxing day",
+    "boxing glove",
+    "boxing match",
+    "boy",
+    "boy band",
+    "boycott",
+    "boyfriend",
+    "boyhood"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056415_51aa03a5bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056415_8986049395_o.png",
+      "id_image": "boy_421598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434913_42416101ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434913_4d74369770_o.png",
+      "id_image": "boy_421600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674649_c377aa0d3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674649_7b2c79c5f4_o.png",
+      "id_image": "boy_435043"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "cigarette",
+  "phat_am": "siɡəˈret",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điếu thuốc lá",
+          "definition": "a tube of finely cut tobacco rolled in thin paper",
+          "world_new": [
+            "tube",
+            "finely",
+            "cut",
+            "tobacco",
+            "thin",
+            "paper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lit a cigarette."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Assessing the relationship between maternal cigarette smoking during pregnancy and age at first police contact.",
+    "It is interesting that activities concerning cigarette smoking and traffic injuries generally do not fall under ministries of health.",
+    "These sessions included questions about family demographics, parental mental disorder, and parental use of substances including cigarettes, alcohol, and illicit drugs.",
+    "More rarely, dried leaves and twigs have been boiled for drinking or rolled into cigarettes and smoked.",
+    "Finally, and most obviously, alcohol and cigarette consumption are very strong predictors of longevity.",
+    "Although this campaign leaves preferences unchanged, it affects choices via differences in information and leads to a consumption of 5-15 cigarettes per day.",
+    "Like the personal behaviors noted above, from alcoholism to cigarette smoking, obesity had become socially sinful - a condition that has largely persisted ever since.",
+    "Such profiling was undertaken to identify and categorize the psychological needs of the target market as part of the process of managing consumption of cigarettes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cicada",
+    "CID",
+    "cider",
+    "cigar",
+    "cigarette",
+    "cilantro",
+    "cilium",
+    "cinch",
+    "cinder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662149_e1a7332e4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662149_10bd4b6860_o.png",
+      "id_image": "cigarette_595766"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043755_ab85f65c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043755_e438eb6252_o.png",
+      "id_image": "cigarette_804662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350877_87e7edbde7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350877_c8f436acb0_o.png",
+      "id_image": "cigarette_850213"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "architect",
+  "phat_am": "ˈaːkitekt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiến trúc sư",
+          "definition": "a person who designs buildings etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a landscape architect.",
+              "world_new": [
+                "landscape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Remarkably not one of the architects we interviewed seemed to operate any regular evaluation of the success of a project after completion.",
+    "Too often the history of each district is presented as a series of lists: of buildings, of clients, of projects, of architects.",
+    "Many of the architects we interviewed claimed to have a substantial amount of 'repeat business'.",
+    "The de-skilling of the architect's role is not new.",
+    "In par ticular, agent-based simulations are proving useful for architects and town planners wishing to analyze their designs.",
+    "The designers were given a program brief of an architect's office space design and asked to focus on four different concerns in conceptual, schematic design.",
+    "The panels of regular review sessions comprise a mix of discipline groups, including architects, planners, councillors, landscape designers and community representatives.",
+    "Both these traditions are still rich sources for contemporary architects."
+  ],
+  "list_see_also": [
+    "architecture",
+    "architectural"
+  ],
+  "list_browse": [
+    "archery",
+    "archetypal",
+    "archetype",
+    "archipelago",
+    "architect",
+    "architectural",
+    "architecture",
+    "archive",
+    "archivist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421933_8b3b9a2b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421933_d0096e607d_o.png",
+      "id_image": "architect_1189931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421898_e36ec75543_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421898_94b8be508f_o.png",
+      "id_image": "architect_1189932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306701_2c82156eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306701_c5d5fd9e4b_o.png",
+      "id_image": "architect_2644536"
+    }
+  ]
+}

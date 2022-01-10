@@ -1,0 +1,129 @@
+{
+  "english": "cell",
+  "phat_am": "sel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xà lim",
+          "definition": "a small room (especially in a prison or monastery)",
+          "world_new": [
+            "small",
+            "room",
+            "prison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a prison cell.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tế bào",
+          "definition": "a very small piece of the substance of which all living things are made; the smallest unit of living matter",
+          "world_new": [
+            "small",
+            "piece",
+            "substance",
+            "living",
+            "unit",
+            "living",
+            "matter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The human body is made up of cells.",
+              "world_new": [
+                "human",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "pin",
+          "definition": "(the part containing the electrodes in) an electrical battery",
+          "world_new": [
+            "part",
+            "electrical",
+            "battery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric cell.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗ tổ ong",
+          "definition": "one of many small compartments making up a structure",
+          "world_new": [
+            "small",
+            "structure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the cells of a honeycomb.",
+              "world_new": [
+                "honeycomb"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the host immune response seems to be induced for clearance of the parasite-infected cells.",
+    "Note that these cells of level one are what we called parallelepipeds (of dimension one).",
+    "As is the case in most animal cells, the 6-phosphofructokinase reaction appears to be the rate-limiting step in glycolysis of the filarial worm.",
+    "Only a few of the 48 h schistosomula with adherent cells showed signs of tegumental damage.",
+    "One volume of packed cells was used to adsorb 9 volumes of serum.",
+    "We could demonstrate the expression of integrin alpha5 beta1 on both microglia and glioma cells using flow cytometry.",
+    "Imaging cells and extracellular matrix in vivo by using secondharmonic generation and two-photon excited fluorescence.",
+    "The formation of flame cells and the terminal parts of protonephridia is not described as that will be the subject of a separate publication."
+  ],
+  "list_see_also": [
+    "cellular"
+  ],
+  "list_browse": [
+    "celery",
+    "celestial",
+    "celibacy",
+    "celibate",
+    "cell",
+    "cellar",
+    "’cellist",
+    "cello",
+    "Cellophane"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672219_b5c5a3129f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672219_1b5a4ee8fc_o.png",
+      "id_image": "cell_1474369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053975_8d45359638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053975_6c67848f39_o.png",
+      "id_image": "cell_191118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317451_725d5193cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317451_89d7fd623d_o.png",
+      "id_image": "cell_2750823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317401_1237cea0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317401_fd99bfff61_o.png",
+      "id_image": "cell_3360220"
+    }
+  ]
+}

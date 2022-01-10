@@ -1,0 +1,93 @@
+{
+  "english": "clam",
+  "phat_am": "klӕm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "(động vật) con trai",
+          "definition": "a shellfish with two shells joined together, used as food",
+          "world_new": [
+            "shellfish",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "clams served with herb butter and lemon.",
+              "world_new": [
+                "herb",
+                "butter",
+                "lemon"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "câm như hến",
+          "definition": "to suddenly stop talking or to refuse to talk",
+          "world_new": [
+            "suddenly",
+            "stop",
+            "refuse",
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He clammed up when the police asked who had helped him to steal the car.",
+              "world_new": [
+                "police",
+                "steal",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Dealing with the military authorities as we know them, we know they consider that their claim is the first and only clam.",
+    "Apart from an increase in the population of anadontid clams, enhanced immune responses in the fish also reflect much improvement in water quality.",
+    "Pennsylvanian insect biostratigraphy is comparatively new and is being developed in conjunction with that of other non-marine animals, notably conchostracans (clam shrimps).",
+    "In animal systems, studies on the activation of sea urchin and clam eggs have also found changes in enzyme activity and location.",
+    "Let them now be a \"cooked clam\" for a change and say something that will be to the delight and taste of us all!",
+    "This activity is banned in almost all of the immense lagoon because clams have been contaminated by local industrial plants.",
+    "Can he confirm that the cages in which the clams are held will prevent the larvae escaping?",
+    "Experimental fisheries are promoted and extended to cephalopods and clams."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "claim",
+    "claimant",
+    "clairvoyance",
+    "clairvoyant",
+    "clam",
+    "clamber",
+    "clammy",
+    "clamorous",
+    "clamour"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349727_1d47c568dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349727_2b492a0a47_o.png",
+      "id_image": "clam_2269038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420578_11ecabcf12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420578_f236189d2a_o.png",
+      "id_image": "clam_2599662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042515_19a94d9a93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042515_e0ed111ef2_o.png",
+      "id_image": "clam_468349"
+    }
+  ]
+}

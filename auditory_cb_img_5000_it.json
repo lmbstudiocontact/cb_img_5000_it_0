@@ -1,0 +1,60 @@
+{
+  "english": "auditory",
+  "phat_am": "(British) ˈoːditəri, ˈoːditri; (American) ˈoːdiˌtoːriː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc thính giác",
+          "definition": "relating to hearing",
+          "world_new": [
+            "hearing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the auditory nerve.",
+              "world_new": [
+                "nerve"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For the purposes of this article, this task is referred to as an accent auditory lexical decision task.",
+    "Information comes into the hippocampal system from the cerebral cortex, including the visual, auditory, sensory cortices and the motor cortex.",
+    "In this experiment, there are two ongoing subtasks: a visual-rhyme task and an auditory-digit task.",
+    "If auditory temporal resolution is poor, then breakdown in ability to detect glide direction should occur at a relatively long stimulus duration.",
+    "In choosing to compare the contributions of verbal and nonverbal sources of information to emotion recognition, we have not clearly separated visual from auditory.",
+    "In this way, the exterior world of music and the internal processes of listening echo through life the replaying of an original auditory bliss.",
+    "Sonification uses the auditory icon as a sort of container in which information of an extramusical kind is enclosed.",
+    "Auditory distractors differed in their amount of form overlap with the visual targets."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "audit",
+    "audition",
+    "auditor",
+    "auditorium",
+    "auditory",
+    "Aug",
+    "augment",
+    "augmentation",
+    "augur"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326691_322811a325_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326691_e5733658ec_o.png",
+      "id_image": "auditory_4785808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371372_be909126fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371372_1a1054d6b6_o.png",
+      "id_image": "auditory_4789372"
+    }
+  ]
+}

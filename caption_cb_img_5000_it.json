@@ -1,0 +1,67 @@
+{
+  "english": "caption",
+  "phat_am": "ˈkӕpʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phụ đề",
+          "definition": "a title or short note written on or beneath an illustration, cartoon, cinema or TV film etc",
+          "world_new": [
+            "title",
+            "short",
+            "note",
+            "illustration",
+            "cartoon",
+            "cinema",
+            "TV",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a witty caption.",
+              "world_new": [
+                "witty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The nine plates (all but one same size) have informative captions.",
+    "In this atlas, however, the captions for each map are very detailed, and a long narrative text describes the events and circumstances hat led to the compilation of the maps.",
+    "There is a slight disappointment in that the illustrations might have been more clearly correlated to the text - perhaps the use of captions, rather than simple credits, would have sufficed.",
+    "Figure 1 shows an example of a typical almanac composed of five pictures with hieroglyphic captions above them.",
+    "The simple matching produces a list of candidate captions, which are put through phrase matching.",
+    "The book is excellently illustrated ; but to make room for captions the pages have wastefully wide outer margins.",
+    "All but one of the ten judiciously chosen illustrations are thoughtfully captioned to make the image speak to the discussion around it.",
+    "However, there is no other sedimentological guide that combines such high-quality photos with such informative captions and text."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "capstan",
+    "capsule",
+    "captain",
+    "captaincy",
+    "caption",
+    "captivate",
+    "captive",
+    "captivity",
+    "captor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682739_dbd60b4385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682739_2dc1c26369_o.png",
+      "id_image": "caption_5853758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442613_08b3a3d899_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442613_b42406211f_o.png",
+      "id_image": "caption_6433494"
+    }
+  ]
+}

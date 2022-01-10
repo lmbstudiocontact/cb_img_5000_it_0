@@ -1,0 +1,71 @@
+{
+  "english": "amplifier",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ khuyếch đại",
+          "definition": "(also amp) a piece of equipment for increasing the strength or power-level of electric currents especially so as to increase loudness",
+          "world_new": [
+            "piece",
+            "equipment",
+            "strength",
+            "electric",
+            "increase",
+            "loudness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He needs a new amplifier for his stereo equipment.",
+              "world_new": [
+                "stereo",
+                "equipment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The present study was per formed in order to define the time structure of the seed pulse that will be fed into the power amplifier.",
+    "The output of this coil is amplified using a differential amplifier and a scaling amplifier.",
+    "The electrode tip was positioned next to the soma and penetration was achieved using the amplifier's buzz feature.",
+    "As a result, large apertures are required for excimer amplifiers to obtain output power high enough.",
+    "In addition, the analysis also includes intensifiers, such as universal and negative pronouns (all, nothing), amplifiers (a lot, forever), and emphatics (extreme/-ly/, total/-ly/).",
+    "The overall frequency response of hot-wire and amplifiers was flat from 20 to 20,000 c/s, provided the compensation was properly adjusted.",
+    "In the second step, six several terawatt lasers are expected to be obtained by simultaneous amplification of the six beams of the e-beam pumped amplifiers.",
+    "A sinusoidal signal from a function generator was amplified in an audio amplifier before it was fed to the speaker."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "amphibious",
+    "amphitheatre",
+    "ample",
+    "amplification",
+    "amplifier",
+    "amplify",
+    "amply",
+    "amputate",
+    "amputation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313911_d2026e8d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313911_3971f85265_o.png",
+      "id_image": "amplifier_343021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668644_13e736697f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668644_7913f17313_o.png",
+      "id_image": "amplifier_473663"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050465_395ca4ea2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050465_9af5058eaa_o.png",
+      "id_image": "amplifier_6383637"
+    }
+  ]
+}

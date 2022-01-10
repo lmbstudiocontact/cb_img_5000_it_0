@@ -1,0 +1,112 @@
+{
+  "english": "chain",
+  "phat_am": "tʃein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây xích",
+          "definition": "a series of (especially metal) links or rings passing through one another",
+          "world_new": [
+            "series",
+            "links",
+            "passing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog was fastened by a chain",
+              "world_new": [
+                "dog"
+              ]
+            },
+            {
+              "ex_of_definition": "She wore a silver chain round her neck.",
+              "world_new": [
+                "silver",
+                "neck"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuỗi",
+          "definition": "a series",
+          "world_new": [
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chain of events."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xích lại",
+          "definition": "to fasten or bind with chains",
+          "world_new": [
+            "fasten",
+            "bind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prisoner was chained to the wall.",
+              "world_new": [
+                "prisoner",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One such application area is the coordination of production and distribution in supply chains.",
+    "Generally, identifying the causes of a specific event involves creating chains of \"cause and effect\" relations.",
+    "Arguments can be chained by regarding data also as claims, for which further data can be provided.",
+    "Four of the kinematic chains have an identical topology.",
+    "One of the serious problems underlying the system was an inadequate account of semantic relatedness in its construction of lexical chains.",
+    "Obviously, unsaturated chains do not pack as well in the dry state as those of saturated lipids.",
+    "Charged side chains form electrostatic surfaces complementary to the nucleic acid.",
+    "Branch suggests that we examine resistance to change in the initial links of concurrent chains."
+  ],
+  "list_see_also": [
+    "chain gang",
+    "chain mail",
+    "chain store"
+  ],
+  "list_browse": [
+    "cf",
+    "CFC",
+    "chafe",
+    "chagrin",
+    "chain",
+    "chain gang",
+    "chain mail",
+    "chain store",
+    "chair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315756_1e87350e9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315756_fa0bf448de_o.png",
+      "id_image": "chain_1788988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359952_a8a7642e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359952_c563126448_o.png",
+      "id_image": "chain_979733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670464_c0c80f3b1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670464_e55dc7653d_o.png",
+      "id_image": "chain_979734"
+    }
+  ]
+}

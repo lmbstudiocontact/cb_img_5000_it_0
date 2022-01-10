@@ -1,0 +1,88 @@
+{
+  "english": "candidate",
+  "phat_am": "ˈkӕndidət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thí sinh",
+          "definition": "a person who enters for a competition or examination (for a job, prize etc)",
+          "world_new": [
+            "person",
+            "competition",
+            "examination",
+            "job",
+            "prize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a candidate for the job of manager",
+              "world_new": [
+                "job",
+                "manager"
+              ]
+            },
+            {
+              "ex_of_definition": "a parliamentary candidate.",
+              "world_new": [
+                "parliamentary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They responded to the uncertainty resulting from the change in the electoral system by endorsing numerous group-supported candidates and celebrities.",
+    "The test was to judge the writing abilities of the candidates, in terms of style and knowledge of the characters.",
+    "The webpages on the educational establishments provide important information for candidates who might want to apply for admission.",
+    "A pre-model is a many-valued model whose truth values are reducibility candidates, that is, sets of proof-terms.",
+    "Starting from a certain distance from the centroid, positive and negative candidates with similar scores are identified.",
+    "In this tableau, all candidates violate at least one constraint above the cut-off.",
+    "Both looked like far more promising candidates for the mayoralty.",
+    "The favorite candidates seem to be natural-kind terms and moral terms."
+  ],
+  "list_see_also": [
+    "candidacy"
+  ],
+  "list_browse": [
+    "candid",
+    "candid camera",
+    "candida",
+    "candidacy",
+    "candidate",
+    "candidly",
+    "candidness",
+    "candied",
+    "candle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040680_e307fd2380_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040680_d45464ef6c_o.png",
+      "id_image": "candidate_2808096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659154_4f04805604_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659154_e338ba6b0c_o.png",
+      "id_image": "candidate_4474097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418883_c6136ab81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418883_23d296bd6f_o.png",
+      "id_image": "candidate_5392431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303836_43422180e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303836_e56ace5fe4_o.png",
+      "id_image": "candidate_5393332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418893_12ef4d4699_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418893_b431365f92_o.png",
+      "id_image": "candidate_927293"
+    }
+  ]
+}

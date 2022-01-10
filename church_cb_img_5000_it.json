@@ -1,0 +1,76 @@
+{
+  "english": "church",
+  "phat_am": "tʃəːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thờ",
+          "definition": "a building for public Christian worship",
+          "world_new": [
+            "building",
+            "public",
+            "Christian",
+            "worship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wedding will be held at the village church.",
+              "world_new": [
+                "wedding",
+                "village"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáo hội",
+          "definition": "a group of Christians considered as a whole",
+          "world_new": [
+            "group",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Catholic Church."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "churchgoer",
+    "Church of England",
+    "churchyard"
+  ],
+  "list_browse": [
+    "chum",
+    "chunk",
+    "chunky",
+    "chunter",
+    "church",
+    "Church of England",
+    "churchgoer",
+    "churchyard",
+    "churn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307181_c544492e47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307181_d33656d4d2_o.png",
+      "id_image": "church_1339623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662469_55030b52e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662469_433133aaac_o.png",
+      "id_image": "church_257549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662439_014df7635b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662439_6f675b2ea7_o.png",
+      "id_image": "church_2776267"
+    }
+  ]
+}

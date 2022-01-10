@@ -1,0 +1,89 @@
+{
+  "english": "bonus",
+  "phat_am": "ˈbəunəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợi tức chia thêm",
+          "definition": "an addition to the sum due as interest, dividend, or wages",
+          "world_new": [
+            "addition",
+            "sum",
+            "due",
+            "interest",
+            "dividend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If we meet our productivity targets, we will get a bonus.",
+              "world_new": [
+                "meet",
+                "our",
+                "productivity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền thưởng",
+          "definition": "something unexpected or extra",
+          "world_new": [
+            "unexpected",
+            "extra"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The extra two days holiday was a real bonus.",
+              "world_new": [
+                "extra",
+                "holiday",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yes, but a reduction in the number of bonuses is unavoidable.",
+    "Such bonuses should be inversely related in amount to the man's age.",
+    "Contrastingly, bonuses are transfer payments and not resource costs, so that their payment does not subtract from national output (except for costs of administration).",
+    "The preferred role of bonuses depends very much on the stage a family planning programme has reached.",
+    "Any government that offers bonuses wishes to ensure that it is in fact obtaining the fertility reductions for which it is ostensibly paying.",
+    "In contrast, life companies have their capital as a cushion against errors, and also non-guaranteed bonuses on variable policies.",
+    "If they lose only their bonuses, they will find themselves in a substandard situation in terms of take-home pay, and back in the past.",
+    "However, according to calculations presented below, bonuses for having a vasectomy could well be many times larger than now offered by most government programmes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bonfire",
+    "bonfire night",
+    "bonnet",
+    "bonsai",
+    "bonus",
+    "bony",
+    "boo",
+    "boob",
+    "booby"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369162_36d866f765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369162_734242b4c4_o.png",
+      "id_image": "bonus_1901799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679444_975afc10f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679444_2f6fe49f60_o.png",
+      "id_image": "bonus_2620198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324226_7574575cdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324226_d47ac72c7b_o.png",
+      "id_image": "bonus_6043415"
+    }
+  ]
+}

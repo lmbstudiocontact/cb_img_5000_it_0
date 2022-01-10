@@ -1,0 +1,94 @@
+{
+  "english": "apartment",
+  "phat_am": "əˈpaːtmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "căn hộ",
+          "definition": "a set of rooms for living in, usually on one floor of a large building; flat British",
+          "world_new": [
+            "rooms",
+            "living",
+            "floor",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a luxury apartment.",
+              "world_new": [
+                "luxury"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phủ tổng thống",
+          "definition": "a set of rooms used by an important person such as a president or a member of a royal family",
+          "world_new": [
+            "rooms",
+            "important",
+            "person",
+            "president",
+            "member",
+            "royal",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Tsar’s private apartments.",
+              "world_new": [
+                "private"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The outside world is incorporated into the home, both symbolically and functionally, and from these rooms it subtly permeates the rest of the apartment.",
+    "In utterances 1 and 3, the user homes in on the kind of apartment he wants to consider (the specification phase).",
+    "Figure 12 provides us with an example of a reduced triplet that cannot be contained in an apartment.",
+    "They will not be compensated, should they be evicted from their apartment building.",
+    "At the time of the competition, 3200 units were asked for with a mix of roughly 50% apartments and 50% houses.",
+    "In the mid-1750s, beyond the royal family's lodgings there remained 226 apartments free for courtiers.",
+    "On return to the apartment, a previously undiscovered empty pill bottle was found in the bedside table drawer.",
+    "Typical apartments range in gross area from approximately 110 square metres to 220 square metres, including balconies and forecourts, and excluding common circulation spaces."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aorta",
+    "apart",
+    "apart from",
+    "apartheid",
+    "apartment",
+    "apathetic",
+    "apathetically",
+    "apathy",
+    "ape"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664749_5af8241a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664749_390dbff943_o.png",
+      "id_image": "apartment_1652741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664704_ec57d4cc8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664704_a5a3290195_o.png",
+      "id_image": "apartment_1838402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424483_a8918a1b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424483_77269d8817_o.png",
+      "id_image": "apartment_2571959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664779_12ebb03365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664779_dceefb6aa9_o.png",
+      "id_image": "apartment_509808"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "casual",
+  "phat_am": "ˈkӕʒuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hững hờ",
+          "definition": "not careful",
+          "world_new": [
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took a casual glance at the book.",
+              "world_new": [
+                "I",
+                "glance",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thường phục",
+          "definition": "informal",
+          "world_new": [
+            "informal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "casual clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình cờ",
+          "definition": "happening by chance",
+          "world_new": [
+            "happening",
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a casual remark.",
+              "world_new": [
+                "remark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thất thường",
+          "definition": "not regular or permanent",
+          "world_new": [
+            "regular",
+            "permanent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "casual labour/labor."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three-quarters of farmers relied solely on family labour for planting the trees, the rest hired some casual labour.",
+    "She successfully overcomes her fear of hurting casual acquaintances' feelings and ultimately, though tactfully, tells them the truth.",
+    "It can frequently be heard in newscasts as well as in casual conversation.",
+    "Most of the women were casual workers working, typically, with low capital investment in tools and technology.",
+    "The contrast between crown vigilance in protecting its income and its casual attitude toward complaints about dissent could not have been more marked.",
+    "The book is exhaustively researched, more than amply documented, and engagingly written for both serious research scholars and casual readers.",
+    "To the casual reader, who is unfamiliar with these tomes and who may wish to consult them, this may prove to be frustrating.",
+    "But within these limits, it also stabilised his power by restricting casual workers to his patronage."
+  ],
+  "list_see_also": [
+    "casually",
+    "casualness"
+  ],
+  "list_browse": [
+    "castor",
+    "castor oil",
+    "castrate",
+    "castration",
+    "casual",
+    "casually",
+    "casualness",
+    "casualty",
+    "casualty department"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435898_4a5c0a5977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435898_9d94a40177_o.png",
+      "id_image": "casual_1720728"
+    }
+  ]
+}

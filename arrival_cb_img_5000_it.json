@@ -1,0 +1,98 @@
+{
+  "english": "arrival",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đến",
+          "definition": "the act of arriving",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was greeted by my sister on my arrival.",
+              "world_new": [
+                "I",
+                "my",
+                "sister",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người/ vật đến",
+          "definition": "a person, thing etc that has arrived",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wish he would stop calling our baby the new arrival.",
+              "world_new": [
+                "I",
+                "wish",
+                "stop",
+                "calling",
+                "our",
+                "baby"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Distribution of number of arrivals, nights spent, average length of stay and nationality by touristic provinces, 2002.",
+    "Most arrivals came after the 1960s.",
+    "The new arrivals, knowing little about science, education or culture, look round for similarly misplaced colleagues with whom they can talk about perks and politics.",
+    "The result was that until the new summer-time came into force late arrivals were getting there half-an-hour and three-quarters of an hour after starting time.",
+    "During the past few months supplies have been below normal owing to delay in arrivals.",
+    "A second characterization is involved based on the expected number of arrivals during an interval of time.",
+    "The trouble is that the late arrivals are heavily concentrated in the commuter period.",
+    "Every effort is being and will be made to distribute these arrivals, which should go a considerable way to meeting any shortage."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arrangements",
+    "array",
+    "arrears",
+    "arrest",
+    "arrival",
+    "arrive",
+    "arrive at",
+    "arrogance",
+    "arrogant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042065_aa5fa4b124_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042065_55588a83be_o.png",
+      "id_image": "arrival_1688694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660459_accb36b443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660459_3bd01c9166_o.png",
+      "id_image": "arrival_1688699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042120_999302460e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042120_633b98411b_o.png",
+      "id_image": "arrival_314078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660599_10d46182ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660599_e176a42067_o.png",
+      "id_image": "arrival_407791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420173_b5cf4247ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420173_7790e326a9_o.png",
+      "id_image": "arrival_529929"
+    }
+  ]
+}

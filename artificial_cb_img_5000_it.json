@@ -1,0 +1,71 @@
+{
+  "english": "artificial",
+  "phat_am": "aːtiˈfiʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhân tạo",
+          "definition": "made by man; not natural; not real",
+          "world_new": [
+            "real"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "artificial flowers"
+            },
+            {
+              "ex_of_definition": "Did you look at the colour in artificial light or in daylight?",
+              "world_new": [
+                "look",
+                "colour",
+                "light",
+                "daylight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "artificiality",
+    "artificially",
+    "artificial intelligence",
+    "artificial respiration"
+  ],
+  "list_browse": [
+    "articulate",
+    "articulated",
+    "articulately",
+    "articulation",
+    "artificial",
+    "artificial intelligence",
+    "artificial respiration",
+    "artificiality",
+    "artificially"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348692_a5216fbd8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348692_1ec52d07e1_o.png",
+      "id_image": "artificial_2286168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041320_d2bf571546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041320_6bbd37f036_o.png",
+      "id_image": "artificial_2286237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419423_829410237e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419423_e6aa086cef_o.png",
+      "id_image": "artificial_2286257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304451_397e5c0412_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304451_04279fdf64_o.png",
+      "id_image": "artificial_4332419"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "belt",
+  "phat_am": "belt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây thắng lưng",
+          "definition": "a long (narrow) piece of leather, cloth etc worn round the waist",
+          "world_new": [
+            "long",
+            "piece",
+            "leather",
+            "cloth",
+            "worn",
+            "waist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a trouser belt"
+            },
+            {
+              "ex_of_definition": "He tightened his belt."
+            }
+          ]
+        },
+        {
+          "mean_english": "dây curoa",
+          "definition": "a similar object used to set wheels in motion",
+          "world_new": [
+            "similar",
+            "object",
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The belt of the vacuum cleaner needs replacing.",
+              "world_new": [
+                "vacuum",
+                "cleaner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vành đai",
+          "definition": "a zone of country etc",
+          "world_new": [
+            "zone",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the farming/industrial belt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đeo thắt lưng",
+          "definition": "to fasten with a belt",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She belted her coat securely.",
+              "world_new": [
+                "belted",
+                "coat",
+                "securely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quật bằng dây lưng",
+          "definition": "to strike (with or without a belt)",
+          "world_new": [
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He belted the ball as hard as he could.",
+              "world_new": [
+                "belted",
+                "ball"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Devices like the hopper boy, conveyors, lifts, and leather belting reappeared as parts of a more general mass production over the following century.",
+    "Thermally softened continental extensional zones (arcs and rifts) as precursors to thickened orogenic belts.",
+    "Within fluvial systems, channel belts and floodplains (sites of deposition of both clastic and phytogenic material) environments coexisted.",
+    "Varying relative sea-level mainly controlled the broad types of facies belts that developed.",
+    "The interfluve surface shows the presence of many abandoned channel belts which receive no sediment or water from any major river system.",
+    "The variation in the nature of these belts is due almost entirely to the amount of surface moisture, the greater the amount of moisture the denser the undergrowth.",
+    "As these specialised machines were normally both stationary and operated inside buildings, prime movers could supply power via shafting or belts.",
+    "Occasionally, these are of very limited extent, but sometimes stretch in narrow belts of 50-200 yards in width for several miles."
+  ],
+  "list_see_also": [
+    "belted"
+  ],
+  "list_browse": [
+    "belongings",
+    "beloved",
+    "below",
+    "below par / not up to par",
+    "belt",
+    "belted",
+    "bemused",
+    "bench",
+    "bend"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045015_c1c09469db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045015_eb892352fe_o.png",
+      "id_image": "belt_2584792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308056_f8e4077e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308056_2746de778e_o.png",
+      "id_image": "belt_4656972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308021_c141f7dc92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308021_21c29feece_o.png",
+      "id_image": "belt_4658009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308006_39a60517ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308006_90d041b1fc_o.png",
+      "id_image": "belt_5234300"
+    }
+  ]
+}

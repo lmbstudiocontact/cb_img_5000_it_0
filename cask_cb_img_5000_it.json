@@ -1,0 +1,61 @@
+{
+  "english": "cask",
+  "phat_am": "kaːsk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thùng tono",
+          "definition": "a barrel for holding liquids, usually wine",
+          "world_new": [
+            "barrel",
+            "wine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "three casks of sherry.",
+              "world_new": [
+                "sherry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In line 35 it refers to the need for wooden casks.",
+    "It seems strange that, if one conveys liquid in tanks, one gets the grant but if it is in casks one does not.",
+    "There it is: a series of digits that clearly identify the brand, the bottling line, the distillery and the cask.",
+    "These casks are similar to those in which wine has been shipped from other sources of supply during war-time.",
+    "Its fragrance, when the cask is pierced, overpowers the assembly.",
+    "Whisky can be left in a bottle or a cask and there can be no increase in the alcoholic content.",
+    "The wine of politics has matured in the cask, and sometimes has fermented.",
+    "The company has been informed that it is not possible to introduce a special exemption in favour of these casks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cashew",
+    "cashier",
+    "cashmere",
+    "casino",
+    "cask",
+    "casket",
+    "cassava",
+    "casserole",
+    "cassette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058525_caf32fa971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058525_1db79c228a_o.png",
+      "id_image": "cask_993148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436898_4d4648673c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436898_5b555106ba_o.png",
+      "id_image": "cask_993149"
+    }
+  ]
+}

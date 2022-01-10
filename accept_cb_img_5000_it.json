@@ -1,0 +1,168 @@
+{
+  "english": "accept",
+  "phat_am": "əkˈsept",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chấp nhận",
+          "definition": "to take (something offered)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She graciously accepted the gift.",
+              "world_new": [
+                "graciously",
+                "accepted",
+                "gift"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thừa nhận",
+          "definition": "to believe in, agree to or acknowledge",
+          "world_new": [
+            "believe",
+            "agree",
+            "acknowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We accept your account of what happened",
+              "world_new": [
+                "your",
+                "account"
+              ]
+            },
+            {
+              "ex_of_definition": "Their proposal was accepted",
+              "world_new": [
+                "proposal",
+                "accepted"
+              ]
+            },
+            {
+              "ex_of_definition": "He accepted responsibility for the accident.",
+              "world_new": [
+                "accepted",
+                "responsibility",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chấp thuận",
+          "definition": "to allow someone to join an organization, attend a university course etc",
+          "world_new": [
+            "allow",
+            "join",
+            "organization",
+            "attend",
+            "university",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She got accepted to her top-choice college.",
+              "world_new": [
+                "accepted",
+                "college"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận",
+          "definition": "to make someone new feel welcome and part of a group",
+          "world_new": [
+            "feel",
+            "welcome",
+            "part",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "New residents are accepted gladly into the community.",
+              "world_new": [
+                "accepted",
+                "gladly",
+                "community"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chấp nhận",
+          "definition": "to allow customers to pay for goods or services in a particular way",
+          "world_new": [
+            "allow",
+            "pay",
+            "goods",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you accept credit cards?",
+              "world_new": [
+                "credit",
+                "cards"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, none of these theories is universally accepted.",
+    "The results were remarkable; the patients performed relatively well on most conditions, detecting and rejecting implausibility and accepting plausible sentences.",
+    "He focused on anthropology to the exclusion of modern politics and accepted too readily the scholarship of apologists for empire.",
+    "The majority (n=90, 89.1 %) felt accepted by most people, 8 (7.9 %) by some, 3 (3 %) by no one.",
+    "Commissioning a villa involves all parties in interpreting a tradition and in rejecting and accepting those characteristics that still make sense today.",
+    "She had accepted changes in her role that made her more dependent on her family.",
+    "Improvement was instigated by the landlord and accepted by a variety of groups within the rural population.",
+    "Women have also had more difficulty than men in being accepted into another prestigious domain, the literary canon."
+  ],
+  "list_see_also": [
+    "acceptability",
+    "acceptable",
+    "acceptably",
+    "acceptance",
+    "accepted"
+  ],
+  "list_browse": [
+    "acceleration",
+    "accelerator",
+    "accent",
+    "accentuate",
+    "accept",
+    "acceptability",
+    "acceptable",
+    "acceptably",
+    "acceptance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063140_73c033c2be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063140_631549753f_o.png",
+      "id_image": "acceptance_708618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063020_0f62147bee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063020_c7af0d56b5_o.png",
+      "id_image": "accepted_1484643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326196_29f20c3bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326196_b3c3ca09b7_o.png",
+      "id_image": "accepted_2222833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370917_8cd167d3f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370917_912a83a147_o.png",
+      "id_image": "accepted_6182807"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "bourbon",
+  "phat_am": "ˈbəːbən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu whisky ngô",
+          "definition": "a type of whisky made in the US from corn/maize, malt, and rye",
+          "world_new": [
+            "type",
+            "whisky",
+            "malt",
+            "rye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of bourbon.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một ly whisky ngô",
+          "definition": "a glass of this type of whisky.",
+          "world_new": [
+            "glass",
+            "type",
+            "whisky"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The resolution calls for consumers who enjoy bourbon to do so responsibly and in moderation.",
+    "The filling can also be similar to a truffle or a cherry cordial, with bourbon added.",
+    "The first is aged for ten years (in charred new oak barrels, as with all bourbons), and bottled at 90-proof.",
+    "The brand is sold as a straight bourbon.",
+    "It is triple distilled using a combination of grains and aged in bourbon barrels.",
+    "This last enterprise led to his subsequent dubious reputation as the inventor of bourbon whiskey.",
+    "The whisky will primarily age in bourbon casks, though sherry casks will also be employed.",
+    "Burning bourbon spilled from the warehouse and set a nearby creek on fire."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "boundary",
+    "boundless",
+    "bounty",
+    "bouquet",
+    "bourbon",
+    "bourgeois",
+    "bourgeoisie",
+    "bout",
+    "boutique"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057340_0daec43e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057340_2530d65a67_o.png",
+      "id_image": "bourbon_3361132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320566_5aa87e1176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320566_c9458ddde1_o.png",
+      "id_image": "bourbon_3884778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435708_1c22f11721_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435708_c2553cb0df_o.png",
+      "id_image": "bourbon_4829249"
+    }
+  ]
+}

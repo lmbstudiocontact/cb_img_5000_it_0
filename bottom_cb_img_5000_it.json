@@ -1,0 +1,77 @@
+{
+  "english": "bottom",
+  "phat_am": "ˈbotəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đáy",
+          "definition": "the lowest part of anything",
+          "world_new": [
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the bottom of the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mông đít",
+          "definition": "the part of the body on which a person sits",
+          "world_new": [
+            "part",
+            "body",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave the child a smack on the bottom.",
+              "world_new": [
+                "child",
+                "smack"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bottomless",
+    "be at the bottom of",
+    "get to the bottom of"
+  ],
+  "list_browse": [
+    "bottle",
+    "bottle bank",
+    "bottle up",
+    "bottleneck",
+    "bottom",
+    "bottomless",
+    "bougainvillaea",
+    "bough",
+    "boulder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057805_899f6e5826_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057805_9e7665e71f_o.png",
+      "id_image": "bottom_2329812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057775_6e607f9519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057775_9c8bc0f026_o.png",
+      "id_image": "bottom_3602893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436288_d83d4a196a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436288_a9eb003ddb_o.png",
+      "id_image": "bottom_979792"
+    }
+  ]
+}

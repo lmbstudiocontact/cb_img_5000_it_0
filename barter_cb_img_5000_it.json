@@ -1,0 +1,73 @@
+{
+  "english": "barter",
+  "phat_am": "ˈbaːtə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổi hàng lấy hàng",
+          "definition": "to trade by giving (one thing) in exchange (for another)",
+          "world_new": [
+            "trade",
+            "exchange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bandits used to barter gold for guns.",
+              "world_new": [
+                "gold"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trao đổi hàng lấy hàng",
+          "definition": "goods used in bartering",
+          "world_new": [
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some tribes used seashells as barter."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Writing thus becomes a kind of good work that, through a barter system, produces good trade which indirectly facilitates the writer's craft.",
+    "No business man has any incentive to produce; the workman has nothing to go for and, therefore, he barters and goes out foraging in the countryside.",
+    "The pernicious doctrine grows up that land is a thing that can be bartered as a chattel, instead of it belonging to the community as a whole.",
+    "Tracts are often shuffled through swaps, barters and exchange, or purchase.",
+    "Most of what was consumed on these farms was homemade or bartered for.",
+    "At the same time, exchange relationships permitted each group to complement its diet, through the barter of meat and milk for millet and sorghum.",
+    "If trade frictions are moderate, bills circulate as a general medium of exchange, and the level of specialization is higher relative to barter.",
+    "We have neither sold nor bartered these possessions: we gave them away."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barricade",
+    "barrier",
+    "barrister",
+    "barrow",
+    "barter",
+    "basalt",
+    "base",
+    "baseball",
+    "baseless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358837_02fac02305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358837_cb7f7c7ed5_o.png",
+      "id_image": "barter_4313138"
+    }
+  ]
+}

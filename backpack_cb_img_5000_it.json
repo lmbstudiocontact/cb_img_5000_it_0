@@ -1,0 +1,59 @@
+{
+  "english": "backpack",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "balô",
+          "definition": "a bag that walkers, people who go on trips, or students carry on their backs; rucksack",
+          "world_new": [
+            "bag",
+            "people",
+            "carry",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tent fits comfortably inside a backpack.",
+              "world_new": [
+                "tent",
+                "comfortably"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "backgammon",
+    "background",
+    "backhand",
+    "backlog",
+    "backpack",
+    "backpacker",
+    "backpacking: go backpacking",
+    "backside",
+    "backslash"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058900_7941f1dfb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058900_4a300b8e56_o.png",
+      "id_image": "backpack_290325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058865_031c14efb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058865_db2ed2be3f_o.png",
+      "id_image": "backpack_495980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366992_1b0ce34ce9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366992_c3755055c8_o.png",
+      "id_image": "backpack_701857"
+    }
+  ]
+}

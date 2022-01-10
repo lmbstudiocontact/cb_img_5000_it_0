@@ -1,0 +1,147 @@
+{
+  "english": "centre",
+  "phat_am": "ˈsentə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trung tâm",
+          "definition": "the middle point, or middle of anything; the point or area farthest from the edge",
+          "world_new": [
+            "middle",
+            "point",
+            "middle",
+            "point",
+            "area",
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the centre/center of a circle",
+              "world_new": [
+                "circle"
+              ]
+            },
+            {
+              "ex_of_definition": "the city centre/center.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung tâm",
+          "definition": "a place having, or designed for, a particular activity, interest etc",
+          "world_new": [
+            "place",
+            "particular",
+            "activity",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a centre/center of industry",
+              "world_new": [
+                "industry"
+              ]
+            },
+            {
+              "ex_of_definition": "a shopping centre/center",
+              "world_new": [
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "a sports centre/center.",
+              "world_new": [
+                "sports"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm mấu chốt",
+          "definition": "the main point (of interest etc)",
+          "world_new": [
+            "main",
+            "point",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frank always wants to be the centre/center of attention.",
+              "world_new": [
+                "attention"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt vào trung tâm",
+          "definition": "to place, or to be, at the centre/center",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She centred/centered the sight on the man’s chest and squeezed the trigger.",
+              "world_new": [
+                "sight",
+                "chest",
+                "trigger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập trung",
+          "definition": "(with on) to concentrate round",
+          "world_new": [
+            "concentrate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her plans always centre/center on her child.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "centrist"
+  ],
+  "list_browse": [
+    "central processing unit",
+    "centralization",
+    "centralize",
+    "centrally",
+    "centre",
+    "centrifugal",
+    "centrifuge",
+    "centripetal",
+    "centrist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431598_1af48c55e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431598_370df73f79_o.png",
+      "id_image": "centre_168654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671324_38a2610054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671324_300f8d91d9_o.png",
+      "id_image": "centre_2994355"
+    }
+  ]
+}

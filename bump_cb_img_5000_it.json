@@ -1,0 +1,127 @@
+{
+  "english": "bump",
+  "phat_am": "bamp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đụng mạnh",
+          "definition": "to knock or strike (something)",
+          "world_new": [
+            "knock",
+            "strike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bumped into me"
+            },
+            {
+              "ex_of_definition": "I bumped my head against the ceiling.",
+              "world_new": [
+                "I",
+                "my",
+                "head",
+                "ceiling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng va đập mạnh",
+          "definition": "(the sound of) a blow or knock",
+          "world_new": [
+            "sound",
+            "blow",
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We heard a loud bump.",
+              "world_new": [
+                "loud"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ sưng; phồng lên",
+          "definition": "a swelling or raised part",
+          "world_new": [
+            "swelling",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bump on the head",
+              "world_new": [
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "This road is full of bumps.",
+              "world_new": [
+                "road",
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By smoothing the road over potential bumps that might be caused by regional variation, such patterns help satisfy the communicative needs of the language's speakers.",
+    "The impossibility of human persons beginning to exist more than once yields a bump in the physicalist's road to an afterlife.",
+    "The situation in which we apply bump perturbations will often be of the following type.",
+    "Consequently, various forms of memory, sagacity, or wit were highly developed, whereas these bumps typical of vanity and passion for glory were extremely small.",
+    "A moderate pressure bump should be acceptable there to achieve a sufficient signal amplitude.",
+    "However, due to surface tension the resulting observed disturbance of the front appears as a wavepacket, formed of an indentation separating two bumps (figure 14a).",
+    "The presence of zinc in the unfolded state suppresses this local bump and the broad activation barrier becomes accessible.",
+    "This is especially impor tant for density bumps that are severely overestimated in the linear model."
+  ],
+  "list_see_also": [
+    "bumper",
+    "bumpy",
+    "bump into",
+    "bump off"
+  ],
+  "list_browse": [
+    "bulrush",
+    "bulwark",
+    "bum",
+    "bumblebee",
+    "bump",
+    "bump into",
+    "bump off",
+    "bumper",
+    "bumpkin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425978_80c083fb7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425978_0c030f5166_o.png",
+      "id_image": "bump_1655281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310971_5147478963_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310971_1e190aa1e2_o.png",
+      "id_image": "bump_2439674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355077_5853dffa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355077_1825d7bce5_o.png",
+      "id_image": "bump_3410124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666039_c42e1b5d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666039_461546f7b2_o.png",
+      "id_image": "bump_5235594"
+    }
+  ]
+}

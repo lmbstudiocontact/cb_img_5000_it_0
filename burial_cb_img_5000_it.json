@@ -1,0 +1,78 @@
+{
+  "english": "burial",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc chôn cất",
+          "definition": "(an instance of) burying (a dead body) in a grave etc",
+          "world_new": [
+            "instance",
+            "dead",
+            "grave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "my grandfather’s burial",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a burial service.",
+              "world_new": [
+                "service"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two highstatus burials were associated with the shrine room.",
+    "There are also usually burials within houses, though numbers vary considerably.",
+    "Why are the clay objects spread more widely through these rooms than the burials?",
+    "More than half of these decedents-27-are secondary interments, which means that 84% of the secondary individuals are part of multiple burials.",
+    "The four skull-only burials included only one vessel each.",
+    "Only certain architectural features and mortuary information were recorded, including several child burials discovered at the corners of the pyramid, likely representing dedicatory sacrifices.",
+    "The north chamber contained the burials of three individuals placed in a face-up extended position, with heads toward the entrance.",
+    "In the first place, the discussion of the burials floats almost completely free of any consideration of population, subsistence and exchange patterns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "burglar",
+    "burglar alarm",
+    "burglary",
+    "burgle",
+    "burial",
+    "burlap",
+    "burly",
+    "burn",
+    "burner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353537_c222e628ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353537_6b1cab8f2b_o.png",
+      "id_image": "burial_1450728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309261_6d70ae7ec3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309261_c889fb369e_o.png",
+      "id_image": "burial_2458045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424433_c52f6a6872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424433_0d02dac102_o.png",
+      "id_image": "burial_6000688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664554_d1c303d050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664554_01134f0495_o.png",
+      "id_image": "burial_6000694"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "english": "agree",
+  "phat_am": "əˈɡriː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đồng tình",
+          "definition": "(often with with) to think or say the same (as)",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I agreed with them that we should try again",
+              "world_new": [
+                "I",
+                "agreed",
+                "try"
+              ]
+            },
+            {
+              "ex_of_definition": "The newspaper report does not agree with what he told us.",
+              "world_new": [
+                "newspaper",
+                "report"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng ý",
+          "definition": "to say that one will do or allow something",
+          "world_new": [
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He agreed to go",
+              "world_new": [
+                "agreed"
+              ]
+            },
+            {
+              "ex_of_definition": "He agreed to our request.",
+              "world_new": [
+                "agreed",
+                "our",
+                "request"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "(with with) to be good for (usually one’s health)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cheese does not agree with me – it gives me indigestion.",
+              "world_new": [
+                "indigestion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoà thuận",
+          "definition": "to be happy and friendly together",
+          "world_new": [
+            "happy",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John and his wife don’t agree.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "to say the same thing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The totals in the two columns do not agree."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figures 6 and 7 show in detail the evolution of the shelf after its initial formation and the perturbation and numerical results agree almost precisely.",
+    "To protect informants and actors engaged in youth politics, they are not identified unless otherwise agreed.",
+    "Her husband remained unco-operative and it seemed unlikely that either would agree to any help, unless she did have a difficult pregnancy or labour.",
+    "The remaining parties agreed to pay their own costs.",
+    "To do otherwise is to give patients the sense that their only choice is to agree to what the physician recommends.",
+    "At a particular \"real\" moment, will doctor, nurse, patient, and family agree to what had been planned when the topic was \"theoretical\"?",
+    "Thus, the one second-order claim on which all reasonable people agree is that unreasonable comprehensive views are false.",
+    "We agree with barlow on the plausibility of rotation-tuned visual cortical neurons, which may be involved in the twisting motion experience in shepard's experiments."
+  ],
+  "list_see_also": [
+    "agreeable",
+    "agreeably",
+    "agreed",
+    "agreement"
+  ],
+  "list_browse": [
+    "agonizing",
+    "agonizingly",
+    "agony",
+    "agony aunt",
+    "agree",
+    "agreeable",
+    "agreeably",
+    "agreed",
+    "agreement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362807_bfbb666b95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362807_43ac182370_o.png",
+      "id_image": "agreement_1284687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054845_407233b5c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054845_7ce62500ef_o.png",
+      "id_image": "agreement_1566554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054825_e25052760c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054825_f9d55b3838_o.png",
+      "id_image": "agreement_1728967"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433618_564dc46045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433618_29bea3792c_o.png",
+      "id_image": "agree_1989978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054980_9a4fc89ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054980_d757c1d8b4_o.png",
+      "id_image": "agree_4150694"
+    }
+  ]
+}

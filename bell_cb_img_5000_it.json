@@ -1,0 +1,97 @@
+{
+  "english": "bell",
+  "phat_am": "bel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái chuông",
+          "definition": "a hollow object, usually of metal, which gives a ringing sound when struck by the clapper inside",
+          "world_new": [
+            "hollow",
+            "object",
+            "metal",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "church bells.",
+              "world_new": [
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuông cửa",
+          "definition": "any other mechanism for giving a ringing sound",
+          "world_new": [
+            "mechanism",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our doorbell is broken",
+              "world_new": [
+                "doorbell",
+                "broken"
+              ]
+            },
+            {
+              "ex_of_definition": "Please press the bell if you need assistance.",
+              "world_new": [
+                "press",
+                "assistance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other bells were miscast or retained the casting sprues, which may indicate local production.",
+    "Supersonic jets flying over the city make much more noise than the bells ever did, and the population has complained about it.",
+    "Participation in religious services and processions marked by bells and singing helped shape a spiritual community that was also a local one.",
+    "The bells are placed to one side of this alleyway above the sacristy, so one is summoned by their music directly to the point of entry.",
+    "Out of the gentle chaos of human voices, brass bells and tin jingles, the evening's first drum slowly emerges, growing from soft, distant footsteps into an urgent, steady heartbeat.",
+    "Many of the bells contained clappers, suggesting that they were being made as functional bells, not simply tinklers.",
+    "Do they ring any linguistic bells for readers in other parts of the world?",
+    "They can only knock and ring bells to coax her out to perform for her eager public."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "believe",
+    "believe in",
+    "believer",
+    "belittle",
+    "bell",
+    "bellicose",
+    "belligerence",
+    "belligerent",
+    "belligerently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352502_830737ae78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352502_20c352df03_o.png",
+      "id_image": "bell_178199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352442_48cd54e7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352442_6e9b76de14_o.png",
+      "id_image": "bell_225732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423493_f8a409077d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423493_c447a2b160_o.png",
+      "id_image": "bell_570739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045195_8d05c709ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045195_126800a68d_o.png",
+      "id_image": "bell_615725"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "blacklist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh sách đen",
+          "definition": "a list of people etc who are out of favour/favor",
+          "world_new": [
+            "list",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Countries that failed to cooperate were placed on a blacklist",
+              "world_new": [
+                "cooperate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi vào sổ đen",
+          "definition": "to put (a person etc) on such a list",
+          "world_new": [
+            "person",
+            "list"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actor was blacklisted because of his political beliefs.",
+              "world_new": [
+                "actor",
+                "political"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If blacklists deny employment, the so-called right to belong to a union is a sham.",
+    "Similarly, they never admit that men who complain about lapses in the safety regime are victimised and blacklisted.",
+    "The threat of being blacklisted will be a powerful and wholly legitimate inducement to borrowers to meet their obligations.",
+    "As currently worded, the clause provides powers for the introduction of regulations to prohibit the compilation and use of blacklists.",
+    "I speak from personal experience, as coming from a family that was blacklisted for six months at a time.",
+    "Blacklisted in the sense that nobody will employ them.",
+    "From then on, their decoration and repair applications were blacklisted.",
+    "They can be blacklisted on the basis of false information."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blackbody",
+    "blackcurrant",
+    "blacken",
+    "blackhead",
+    "blacklist",
+    "blackmail",
+    "blackmailer",
+    "blackness",
+    "blackout"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347182_6e4abafdc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347182_fc8d2a8978_o.png",
+      "id_image": "blacklist_2631511"
+    }
+  ]
+}

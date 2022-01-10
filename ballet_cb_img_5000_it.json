@@ -1,0 +1,97 @@
+{
+  "english": "ballet",
+  "phat_am": "ˈbӕlei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kịch balê",
+          "definition": "a theatrical performance of dancing with set steps and mime, often telling a story",
+          "world_new": [
+            "theatrical",
+            "performance",
+            "dancing",
+            "steps",
+            "mime",
+            "telling",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Swan Lake is my favourite/favorite ballet.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "múa ba lê",
+          "definition": "the art of dancing in this way",
+          "world_new": [
+            "art",
+            "dancing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is taking lessons in ballet"
+            },
+            {
+              "ex_of_definition": "(also adjective) a ballet class.",
+              "world_new": [
+                "class"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, some critics looked upon ballet-pantomime characters' silence with great displeasure, and actually suggested that they speak up.",
+    "What accounts for the disparity in tone between opera and ballet?",
+    "In addition, the story-within-a-story device featured within the plots of many comic and grand operas is common in ballet-pantomimes.",
+    "The photograph depicts the middle of the ballet, when the slowly drifting ensemble patterns have begun to disintegrate, buffeted by seabed currents.",
+    "Those in charge of the chorus and the corps de ballet wrote memos, on stationery with the same letterhead, about misbehaviour in the ranks.",
+    "Between these two bookends, the music for the ballet remains peculiarly vacant.",
+    "Before, you could learn the actor's craft exactly as a ballet dancer did - that is, automatically, by repeating certain patterns or clichés.",
+    "Even though the libretto indicates each divertissement for the ballet, the dancers, here representing priests and demons, certainly also participated in the instrumental airs."
+  ],
+  "list_see_also": [
+    "ballet dancer"
+  ],
+  "list_browse": [
+    "ball bearings",
+    "ballad",
+    "ballcock",
+    "ballerina",
+    "ballet",
+    "ballet dancer",
+    "ballistic missile",
+    "balloon",
+    "ballot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362732_381dfda62a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362732_e04b3d9d3e_o.png",
+      "id_image": "ballet_1082635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362692_cce23dbc52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362692_088526a728_o.png",
+      "id_image": "ballet_2410344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318121_84c54c3fd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318121_68a7e8d3f4_o.png",
+      "id_image": "ballet_2410365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362627_6d0dabafaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362627_064e567164_o.png",
+      "id_image": "ballet_5774989"
+    }
+  ]
+}

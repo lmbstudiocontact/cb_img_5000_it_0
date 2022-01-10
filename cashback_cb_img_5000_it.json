@@ -1,0 +1,97 @@
+{
+  "english": "cashback",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền rút từ thẻ ghi nợ",
+          "definition": "cash which you can get from a shop when you pay for something with a debit card. The shop will give you the money which will be taken from your bank account",
+          "world_new": [
+            "cash",
+            "shop",
+            "pay",
+            "debit",
+            "card",
+            "shop",
+            "money",
+            "your",
+            "bank",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I got £30 cashback from the supermarket.",
+              "world_new": [
+                "I",
+                "supermarket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoản chiết khấu",
+          "definition": "an amount of money that is returned to someone if they buy something, especially if they accept certain conditions",
+          "world_new": [
+            "amount",
+            "money",
+            "buy",
+            "especially",
+            "accept",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re offering £50 cashback on various tablet computers.",
+              "world_new": [
+                "offering",
+                "various",
+                "tablet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Cashback is limited to 200 euros per day.",
+    "The retailer pays the cashback from the commission it receives from the network for referring a new customer.",
+    "The combination of these two factors means that the retailer can save money by offering the cashback service.",
+    "Cashback deals paid over time allow the retailer to provide an incentive on condition that the consumer sticks to the terms of the contract, thereby securing the retailers' commission.",
+    "Many cashback offers are based on a retailers' efforts to meet network targets, which will result in a bonus payment from the network alongside the usual commission.",
+    "The cashback website receives a commission from the retailer that, after the purchase is confirmed, is shared with the customer who made the purchase.",
+    "The toolbar is also designed to notify the user if the merchant they are visiting offers cashback rewards, and also highlight merchants that offer cashback in search engine result pages.",
+    "In the programs it provides, income from retail firms is passed to their employees in the form of discounts, rebates and cashback on other companies' products and services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cash in on",
+    "cash machine",
+    "cash register",
+    "cash-and-carry",
+    "cashback",
+    "cashew",
+    "cashier",
+    "cashmere",
+    "casino"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437413_515bbbf9c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437413_38de34068b_o.png",
+      "id_image": "cashback_2450288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322111_2fa4c94733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322111_1fae60e9ae_o.png",
+      "id_image": "cashback_4539982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437303_0fd5036a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437303_e63f91e6a5_o.png",
+      "id_image": "cashback_4689528"
+    }
+  ]
+}

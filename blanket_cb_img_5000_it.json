@@ -1,0 +1,123 @@
+{
+  "english": "blanket",
+  "phat_am": "ˈblӕŋkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái chăn",
+          "definition": "a warm covering made of wool etc",
+          "world_new": [
+            "warm",
+            "covering",
+            "wool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I put an extra blanket on the bed.",
+              "world_new": [
+                "I",
+                "extra",
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp phủ",
+          "definition": "something which covers like a blanket",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A blanket of mist covered the mountain.",
+              "world_new": [
+                "mist",
+                "mountain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bao trùm",
+          "definition": "covering all of a group of things",
+          "world_new": [
+            "covering",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A blanket instruction was issued to all employees.",
+              "world_new": [
+                "instruction"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che phủ",
+          "definition": "to cover, as if with a blanket",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hills were blanketed in mist.",
+              "world_new": [
+                "mist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The carcass was then turned over and a similar blubber blanket peeled from the back.",
+    "In cold weather, rabbits were warmed using blankets and hot-water bottles, to encourage blood circulation through the ear.",
+    "The anesthetized cat was put in a stereotaxic frame, and a heating blanket placed underneath to prevent hypothermia.",
+    "They were not interpreted as a blanket prohibition on the display of feelings.",
+    "The attempt by popular music academics to give intellectual legitimation to their subject has had a tendency to drift into blanket moral legitimation.",
+    "We have seen that even acts such as protest speeches and public rallies prompt blanket rejection by a sizeable percentage of respondents.",
+    "Some kinds of order may even warrant blanket rejection - for example, the order imposed by an imperial hegemon.",
+    "In the former case, it can be questioned whether such \"blanket consent\" for unspecified research satisfies the requirements of informed consent."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blandness",
+    "blank",
+    "blank cartridge",
+    "blank cheque",
+    "blanket",
+    "blankly",
+    "blankness",
+    "blare",
+    "blasphemous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658054_d8397cf9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658054_7a904ab2bf_o.png",
+      "id_image": "blanket_1337883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417813_5522781024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417813_44f5f74d6e_o.png",
+      "id_image": "blanket_1348285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039395_b7fde1ee10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039395_8e01a57c52_o.png",
+      "id_image": "blanket_5059805"
+    }
+  ]
+}

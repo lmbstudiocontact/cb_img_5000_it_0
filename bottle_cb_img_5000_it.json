@@ -1,0 +1,79 @@
+{
+  "english": "bottle",
+  "phat_am": "ˈbotl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chai lọ",
+          "definition": "a hollow narrow-necked container for holding liquids etc",
+          "world_new": [
+            "hollow",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lemonade bottle",
+              "world_new": [
+                "lemonade"
+              ]
+            },
+            {
+              "ex_of_definition": "a bottle of ginger beer.",
+              "world_new": [
+                "ginger",
+                "beer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng chai",
+          "definition": "to put into bottles",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wine is bottled and stored.",
+              "world_new": [
+                "wine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bottle bank",
+    "bottleneck",
+    "bottle up"
+  ],
+  "list_browse": [
+    "botany",
+    "both",
+    "bother",
+    "bothersome",
+    "bottle",
+    "bottle bank",
+    "bottle up",
+    "bottleneck",
+    "bottom"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436533_df4eb093a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436533_dcfa5a6933_o.png",
+      "id_image": "bottle_169821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366137_c39f503ebc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366137_6bcf5882ac_o.png",
+      "id_image": "bottle_272752"
+    }
+  ]
+}

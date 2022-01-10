@@ -1,0 +1,60 @@
+{
+  "english": "biodiversity",
+  "phat_am": "(British) ˌbaioudaiˈvəːsiti, (American) ˌbaioudiˈvəːrsitiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đa dạng",
+          "definition": "the variety of different kinds of animals and plants found in a particular region",
+          "world_new": [
+            "variety",
+            "found",
+            "particular",
+            "region"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the negative effects of GM crops on biodiversity.",
+              "world_new": [
+                "negative",
+                "effects",
+                "GM"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As tropical deforestation continues, young secondary forests assume increasing importance as a reservoir of biodiversity.",
+    "This is because protected areas are managed for biodiversity conservation, and often do not sell timber.",
+    "Unlike some other books about biodiversity, it is unlikely that this will become a key text for those at the forefront of conservation action.",
+    "The public-good effect of the stock (as biodiversity or existence value), adding to the social welfare, is not part of the objective of the manager.",
+    "This book is a comprehensive compilation of many ongoing studies of biodiversity (particularly of plant species) in forests.",
+    "The prices of the goods do not reflect the full costs of production, which include such things as soil erosion and biodiversity loss.",
+    "There are no funds specifically earmarked for the biodiversity protection.",
+    "This may also help to promote conservation of biodiversity in compromising situations, especially when establishing large-scale plantations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biochemical",
+    "biochemist",
+    "biochemistry",
+    "biodegradable",
+    "biodiversity",
+    "biofuel",
+    "biographer",
+    "biographical",
+    "biography"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659949_2dd43d3b19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659949_04551a9ddd_o.png",
+      "id_image": "biodiversity_4195215"
+    }
+  ]
+}

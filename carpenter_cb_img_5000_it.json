@@ -1,0 +1,73 @@
+{
+  "english": "carpenter",
+  "phat_am": "ˈkaːpəntə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ mộc",
+          "definition": "a craftsman in wood",
+          "world_new": [
+            "craftsman",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a self-employed carpenter.",
+              "world_new": [
+                "self-employed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some of them may have worked on the castles as masons or carpenters.",
+    "The hearer knows what airplanes are, what carpenter's tools are, and what planar surfaces are.",
+    "And with good reason, for those carpenters had been in constant conflict with employers for more than two years.",
+    "This means that the carpenter started working when the foundations had already been completed more than a month earlier.",
+    "Continuities also exist at the level of individual trades, as carpenters, masons, shoemakers and drapers' assistants were prominent in both periods.",
+    "At a more prosaic level, what were the instructions to carpenters to achieve the superb timber detail?",
+    "However, a reference in a carpenter's bill, discussed below, leads us to think that there were other, more substantial dressing rooms.",
+    "Various possibilities were explored, but it soon became apparent that the most promising involved working with local blacksmiths and carpenters to produce tools."
+  ],
+  "list_see_also": [
+    "carpentry"
+  ],
+  "list_browse": [
+    "carousel",
+    "carp",
+    "carpal",
+    "carpel",
+    "carpenter",
+    "carpentry",
+    "carpet",
+    "carpetbagger",
+    "carpus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369372_d20b82eef0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369372_b8a8af0d12_o.png",
+      "id_image": "carpenter_2365091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369412_990d4889ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369412_56bdb76080_o.png",
+      "id_image": "carpenter_307963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369327_d350bb10d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369327_5d97672291_o.png",
+      "id_image": "carpenter_4310707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061325_1e389c9f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061325_97f2228381_o.png",
+      "id_image": "carpenter_6036744"
+    }
+  ]
+}

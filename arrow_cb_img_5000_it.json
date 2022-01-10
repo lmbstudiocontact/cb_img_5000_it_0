@@ -1,0 +1,65 @@
+{
+  "english": "arrow",
+  "phat_am": "ˈӕrəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũi tên",
+          "definition": "a thin, straight stick with a point, which is fired from a bow.",
+          "world_new": [
+            "thin",
+            "straight",
+            "stick",
+            "point",
+            "bow"
+          ]
+        },
+        {
+          "mean_english": "vật hình mũi tên",
+          "definition": "a sign shaped like an arrow eg to show which way to go",
+          "world_new": [
+            "sign",
+            "shaped"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t get lost – just follow the arrows.",
+              "world_new": [
+                "lost",
+                "follow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "arrowhead"
+  ],
+  "list_browse": [
+    "arrive at",
+    "arrogance",
+    "arrogant",
+    "arrogantly",
+    "arrow",
+    "arrowhead",
+    "arsenal",
+    "arsenic",
+    "arson"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349052_f67c181cdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349052_17899dab3a_o.png",
+      "id_image": "arrow_218386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660274_3b851b82c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660274_b824806e47_o.png",
+      "id_image": "arrow_2396676"
+    }
+  ]
+}

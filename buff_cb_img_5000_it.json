@@ -1,0 +1,85 @@
+{
+  "english": "buff",
+  "phat_am": "baf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu nâu sẫm",
+          "definition": "a dull yellow colour/color",
+          "world_new": [
+            "dull",
+            "yellow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The windowframes were painted in buff."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có màu nâu sẫm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a buff envelope.",
+              "world_new": [
+                "envelope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is playing blind man's buff with the national finances and ducks and drakes with the industries to continue a tax of this sort.",
+    "Colour of parasitised examples black, with pale margin; non-parasitised examples pale ochreous buff.",
+    "We have nuclear submarines attacking nuclear submarines—blind man's buff.",
+    "It is easy for opera specialists or even buffs, then or now, to dismiss this claim.",
+    "Considerable attention has been paid to the development and applications of industrial robots in shoe manufacturing for tasks such as the buffing task of shoes.",
+    "This unit comprises sandy dolomitic marble that weathers a buff to brown colour and yields an orange soil.",
+    "There will be a blind man's buff in the prospectus.",
+    "I am grateful for the chance to contribute to this annual get-together of social security buffs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "buddy",
+    "budge",
+    "budgerigar",
+    "budget",
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet",
+    "bug"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357067_34e4ab1f86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357067_a0fe77cc4c_o.png",
+      "id_image": "buff_1620447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313101_e8b75a1910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313101_d767a7df3a_o.png",
+      "id_image": "buff_1622497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313066_8fb35f3930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313066_5411886cee_o.png",
+      "id_image": "buff_2463444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667844_28bf8f55c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667844_26ae9ea296_o.png",
+      "id_image": "buff_2790394"
+    }
+  ]
+}

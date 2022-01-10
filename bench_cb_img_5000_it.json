@@ -1,0 +1,91 @@
+{
+  "english": "bench",
+  "phat_am": "bentʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế dài",
+          "definition": "a long (usually wooden) seat",
+          "world_new": [
+            "long",
+            "seat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a park bench.",
+              "world_new": [
+                "park"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bàn thợ mộc",
+          "definition": "a work-table for a carpenter etc",
+          "world_new": [
+            "carpenter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tools were spread all over the workbench.",
+              "world_new": [
+                "spread"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, the doors are wider and the benches are larger than found in elite residences.",
+    "If that is not understood on the benches opposite, then nothing in the way of busi- ness can be understood on those benches at all.",
+    "The middle section of the laboratory contains benches, a sink, and an emergency shower, and is used for activities relating to sampling.",
+    "Pots were placed on laboratory benches in 40% full sun and received 10 min of fine-spray mist watering three times each day.",
+    "Nevertheless, it takes all sorts to make a party and, after all, we are all sorts on these benches.",
+    "She could not be left on the back benches.",
+    "Presumably people sat on armless benches and could be squeezed together if a great many turned out on a particular night.",
+    "Bearing that in mind, we shall be sitting on those benches for a short time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "below par / not up to par",
+    "belt",
+    "belted",
+    "bemused",
+    "bench",
+    "bend",
+    "bend over backwards",
+    "beneath",
+    "benediction"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307916_0ba71d541a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307916_7b809ed2a4_o.png",
+      "id_image": "bench_1278111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307901_2cd5cef366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307901_7025430344_o.png",
+      "id_image": "bench_1311992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044935_6524dcf48a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044935_608ee27d3c_o.png",
+      "id_image": "bench_224549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663129_d52f063eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663129_1308f4db7c_o.png",
+      "id_image": "bench_2259521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307836_3208ca7b87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307836_1f2a3d431b_o.png",
+      "id_image": "bench_2278379"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "biotechnology",
+  "phat_am": "ˌbaioutekˈnolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công nghệ sinh học",
+          "definition": "the use of living organisms such as bacteria and cells for industrial or scientific purposes such as making drugs, recycling waste, and genetic engineering",
+          "world_new": [
+            "living",
+            "bacteria",
+            "industrial",
+            "scientific",
+            "recycling",
+            "waste",
+            "genetic",
+            "engineering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the use of biotechnology in agriculture.",
+              "world_new": [
+                "agriculture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such inconsistencies should have been edited out, and comparisons/contrasts in crop breeding strategies, biotechnologies, histories, uses and gene resources edited in.",
+    "Choices made in the context of this regulatory uncertainty loom large as an important juncture in the subsequent evolution of biotechnology policy.",
+    "On the whole, diagnosis and prophylaxis that are biotechnology based are preferred over nonbiotechnology-based due to their higher beneficence index.",
+    "This book is a valuable addition, compiling the latest literature on traditional plant breeding, modern biotechnology and crop management of chickpeas.",
+    "Should ethical issues in biotechnology research be decided by physicianscientists or by lawyers?",
+    "Although agricultural biotechnology lent itself to product distinctions, this was less the case in medical applications outside of drugs.",
+    "The emergence of biotechnology may lead to new supply chains in other types of agricultural production24.",
+    "It is not, of course, the case that the scientific \"facts\" about biotechnology are free of their own stories."
+  ],
+  "list_see_also": [
+    "biotechnological"
+  ],
+  "list_browse": [
+    "biopic",
+    "biopsy",
+    "biosphere",
+    "biotechnological",
+    "biotechnology",
+    "biotic",
+    "biped",
+    "birch",
+    "bird"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040845_efecf0ef36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040845_48d649a1b3_o.png",
+      "id_image": "biotechnology_2316943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659279_948575cbd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659279_097a5ed38a_o.png",
+      "id_image": "biotechnology_2428751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348172_44edefb852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348172_2d60b6e72b_o.png",
+      "id_image": "biotechnology_4072607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418968_66e8686667_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418968_26545ff957_o.png",
+      "id_image": "biotechnology_4496201"
+    }
+  ]
+}

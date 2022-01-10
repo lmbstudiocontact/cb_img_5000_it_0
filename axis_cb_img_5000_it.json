@@ -1,0 +1,88 @@
+{
+  "english": "axis",
+  "phat_am": "ˈӕksis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trục",
+          "definition": "the real or imaginary line on which a thing turns (as the axis of the earth, from North Pole to South Pole, around which the earth turns)",
+          "world_new": [
+            "real",
+            "imaginary",
+            "line",
+            "earth",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The globe rotates on its axis.",
+              "world_new": [
+                "globe",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trục đồ thị",
+          "definition": "a fixed line used as a reference, as in a graph",
+          "world_new": [
+            "fixed",
+            "line",
+            "reference",
+            "graph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plotted the temperatures on the horizontal axis.",
+              "world_new": [
+                "horizontal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Integral to the pricing mechanism behind residential property was an east-west axis not re-ected in the distribution of businesses.",
+    "Figure 5 depicts the maximum wave amplitude around the coast of an elliptical island whose major axis is twice the minor axis.",
+    "Solubility of axis cell walls differed from solubility of cotyledon cell walls.",
+    "The pinch stagnates on the axis of the primary hohlraum.",
+    "The atrioventricular conduction axis is marked by the broken line.",
+    "It seems reasonable to suggest that gender was not the most important dimension or axis for internal differentiation of identity or function.",
+    "The third monitor measured the vertical axis and was placed on the sacrum.",
+    "As already noted, the preceeding analysis assumes that there are precisely two singularities of 0 nearest the real axis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "awning",
+    "awry",
+    "axe",
+    "axiom",
+    "axis",
+    "axle",
+    "aye",
+    "B",
+    "B and B"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060195_d38e977c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060195_c4b9bcf0e7_o.png",
+      "id_image": "axis_1606455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368332_e50c94740e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368332_3780bd3550_o.png",
+      "id_image": "axis_191104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060135_b25562c8cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060135_d52e2d57b8_o.png",
+      "id_image": "axis_3330661"
+    }
+  ]
+}

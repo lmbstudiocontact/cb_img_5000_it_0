@@ -1,0 +1,106 @@
+{
+  "english": "circular",
+  "phat_am": "ˈsəːkjulə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có hình tròn",
+          "definition": "having the form of a circle",
+          "world_new": [
+            "form",
+            "circle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a circular piece of paper.",
+              "world_new": [
+                "piece",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng quanh",
+          "definition": "leading back to the point from which it started",
+          "world_new": [
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a circular road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thông tri",
+          "definition": "a notice etc, especially advertising something, sent to a number of persons",
+          "world_new": [
+            "notice",
+            "advertising",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We often get circulars advertising holidays.",
+              "world_new": [
+                "advertising"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Informal circulars of this kind are settled departmentally and do not require individual approval by myself.",
+    "They have issued a number of circulars on the subject.",
+    "Since then, the following seven circulars related to reorganisation of local government have been issued.",
+    "To emphasise this, circulars will in future state that they may be freely reproduced by all those to whom they are addressed.",
+    "Circulars, statutory orders and regulations which concern the curriculum responsibilities of head teachers and school governing bodies are sent direct to all schools.",
+    "There are all kinds of conditions of acceptance and conditions under which these circulars will be delivered.",
+    "I expect to issue new circulars on land for housing and industrial development shortly.",
+    "We have issued no separate circulars on after-school facilities."
+  ],
+  "list_see_also": [
+    "circularity"
+  ],
+  "list_browse": [
+    "circle",
+    "circuit",
+    "circuit training",
+    "circuitous",
+    "circular",
+    "circularity",
+    "circulate",
+    "circulation",
+    "circulatory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350507_30583451fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350507_57562c9fbc_o.png",
+      "id_image": "circular_2442310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350472_64680601da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350472_9fa9938906_o.png",
+      "id_image": "circular_3815512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421483_c9054fa57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421483_931e52e825_o.png",
+      "id_image": "circular_6203356"
+    }
+  ]
+}

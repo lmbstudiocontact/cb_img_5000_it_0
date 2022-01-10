@@ -1,0 +1,104 @@
+{
+  "english": "clog",
+  "phat_am": "kloɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiếc guốc",
+          "definition": "a shoe made entirely of wood",
+          "world_new": [
+            "shoe",
+            "entirely",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dutch clogs."
+            }
+          ]
+        },
+        {
+          "mean_english": "guốc",
+          "definition": "a shoe with a wooden sole",
+          "world_new": [
+            "shoe",
+            "wooden",
+            "sole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was wearing a pair of clogs.",
+              "world_new": [
+                "wearing",
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bị bít kín",
+          "definition": "to make or become blocked",
+          "world_new": [
+            "become",
+            "blocked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The drain is clogged (up) with hair.",
+              "world_new": [
+                "drain",
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are constantly dropping dead material which clogs the garage gutter, blows around the paths close to the house back door, clogs drains.",
+    "The screening plant was clogging materially, and it was impossible to get a sufficient volume of water throughout the plant.",
+    "The roads got clogged up and were gradually improved.",
+    "The state of the flora is deplorable in that trees hang over the canal and it is clogged up with weeds.",
+    "Many of our cities are clogged up with traffic, particularly at certain times of day.",
+    "When temperatures were raised, there would be a strong incentive for that, and the process would get clogged up.",
+    "An unnecessary provision not only clogs up the statute book but is liable to give rise to undesirable arguments, sometimes very far-fetched.",
+    "I can remember being hungry as a child and no shoes on my feet (clogs) and patched clothes to wear."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clock up",
+    "clockwise",
+    "clockwork",
+    "clod",
+    "clog",
+    "clogging",
+    "cloister",
+    "clone",
+    "cloning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375232_e60a997502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375232_d73a184307_o.png",
+      "id_image": "clog_5799269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330466_19abc18a99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330466_14c19f5b56_o.png",
+      "id_image": "clog_5955987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375282_b455ee265c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375282_7fda943425_o.png",
+      "id_image": "clog_805277"
+    }
+  ]
+}

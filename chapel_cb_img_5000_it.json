@@ -1,0 +1,78 @@
+{
+  "english": "chapel",
+  "phat_am": "ˈtʃӕpəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngôi nhà thờ nhỏ",
+          "definition": "a place of Christian worship eg attached to an institution",
+          "world_new": [
+            "place",
+            "Christian",
+            "worship",
+            "attached",
+            "institution"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a college chapel.",
+              "world_new": [
+                "college"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà nguyện",
+          "definition": "a part of a larger church, with its own altar",
+          "world_new": [
+            "part",
+            "church",
+            "its",
+            "altar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a side chapel within the church.",
+              "world_new": [
+                "side",
+                "church"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I know that exemptions are often a great inconvenience to fathers of chapels, shop stewards and branch secretaries and that they can cause enormous disturbance.",
+    "All had healthy memberships and many of them already had chapels.",
+    "Upon their death they were buried in tertiary habits in chapels reserved for their lineage in the town's foremost churches, and requiem masses were sung for them in all churches.",
+    "I underline the point that we do not want an excessive number of churches and chapels to be made redundant.",
+    "Others discuss the construction of the eastern nave chapels without mentioning the nearby nave arcades, which must not be assumed contemporaneous with the chapels.",
+    "The churches and dissenting chapels tolled their bells the whole night.",
+    "First, these buildings are not included as churches or chapels in religious and geographical sources.",
+    "1904-1905 533 while many who experienced great release and joy in the revival remained loyal to organised religion, the chapels soon reverted to their well-worn formalism."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chaos",
+    "chaotic",
+    "chaotically",
+    "chap",
+    "chapel",
+    "chaperone",
+    "chaplain",
+    "chapped",
+    "chapter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050625_54426626a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050625_ccfa20bdb6_o.png",
+      "id_image": "chapel_6000724"
+    }
+  ]
+}

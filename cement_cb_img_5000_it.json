@@ -1,0 +1,137 @@
+{
+  "english": "cement",
+  "phat_am": "səˈment",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xi măng",
+          "definition": "a mixture of clay and lime (usually with sand and water added) used for sticking things (eg bricks) together in building and to make concrete for making very hard surfaces",
+          "world_new": [
+            "mixture",
+            "clay",
+            "lime",
+            "sand",
+            "water",
+            "building",
+            "concrete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bag of cement.",
+              "world_new": [
+                "bag"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chất gắn như xi măng",
+          "definition": "any of several types of glue",
+          "world_new": [
+            "glue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tube of plastic cement.",
+              "world_new": [
+                "tube",
+                "plastic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bột hàn răng",
+          "definition": "a substance used to fill cavities in teeth",
+          "world_new": [
+            "substance",
+            "fill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the crown is lost, apply dental cement to the tooth to protect it.",
+              "world_new": [
+                "crown",
+                "lost",
+                "apply",
+                "dental",
+                "tooth",
+                "protect"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trát xi măng",
+          "definition": "to join firmly with cement",
+          "world_new": [
+            "join",
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stone blocks were cemented together with mortar.",
+              "world_new": [
+                "stone",
+                "mortar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such anomalously low values can be attributed to overprinting by isotopically light cements precipitated during diagenesis of the organic-rich intervals.",
+    "Medium-grained sandstones (protoquartzite) contain quite well-rounded quartz grains, quartzite lithoclasts, muscovite, plagioclase (rare) and bioclasts, especially echinoderm plates, cemented by calcite spar.",
+    "In addition to grains of different composition, sandstones also contain mineral cements and grain coatings.",
+    "Religion is still defined as ' any pursuit which dominates the life of many men and cements them together in common dedication to an aim' (159).",
+    "Displays of carnalismo cemented the relations between men at the time of the movement, culturally organizing gender in such a way as to facilitate women's exclusion.",
+    "The present day petrography of this formation shows a medium-grained and well-sorted quartzite with syntaxial quartz cements and virtually zero porosity.",
+    "Fiscal reform was a critical component of this, as it contributed both to redressing distortionary state interventions and to cementing fragile macroeconomic stabilisation plans.",
+    "The hot-wire element was soft-soldered on the tips of two heat-treated sewing needles which were, in turn, cemented in grooves on the detachable probe head."
+  ],
+  "list_see_also": [
+    "cement mixer"
+  ],
+  "list_browse": [
+    "cellulite",
+    "cellulose",
+    "Celsius",
+    "Celtic",
+    "cement",
+    "cement mixer",
+    "cemetery",
+    "cenotaph",
+    "censor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361402_712484e1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361402_e251377cf5_o.png",
+      "id_image": "cement_1207145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053485_71f29c2d32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053485_80c33aa37d_o.png",
+      "id_image": "cement_2276254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671739_50c1bd6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671739_db78953810_o.png",
+      "id_image": "cement_4370431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317041_14c16b87d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317041_200c21ec9d_o.png",
+      "id_image": "cement_4646801"
+    }
+  ]
+}

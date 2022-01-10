@@ -1,0 +1,96 @@
+{
+  "english": "appearance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình thức",
+          "definition": "what can be seen (of a person, thing etc)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "From his appearance, he seemed very wealthy.",
+              "world_new": [
+                "wealthy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xuất hiện",
+          "definition": "the act of coming into view or coming into a place",
+          "world_new": [
+            "act",
+            "view",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thieves ran off at the sudden appearance of two policemen.",
+              "world_new": [
+                "sudden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xuất hiện trước công chúng",
+          "definition": "the act of coming before or presenting oneself/itself before the public or a judge etc",
+          "world_new": [
+            "act",
+            "public",
+            "judge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This will be his first appearance on the stage as a professional actor.",
+              "world_new": [
+                "stage",
+                "professional",
+                "actor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And third, the woman looks either dead or made of plastic which problematises her otherwise conventionally attractive appearance.",
+    "Preferences centred on academic support, search engines and personal interest sites; with a plus for wealth of functions/content, ease of use and appearance.",
+    "This strongly suggests that the cause of the instability must be sought in the low-capillary-number regime, which is consistent with its delayed appearance.",
+    "Those charged only with spectral appearance were not called to trial because they bore no corollary charge of non-spectral acts of witchcraft or confession.",
+    "The appearance of spontaneous errors depends on noise, but also on the relative confusability of the targets.",
+    "Personal appearance is the first area that must be mastered in order to establish the new hierarchy elevating work over sloth.",
+    "Trophic diversity is assessed by assigning taxa to trophic habits, thereby revealing the appearance of new components of ecosystem structure over time.",
+    "In these specimens, the thin stripes also displayed a more dotted appearance in the peripheral field representation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apparition",
+    "appeal",
+    "appealing",
+    "appear",
+    "appearance",
+    "appease",
+    "appeasement",
+    "append",
+    "appendage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308896_8c3e12c07a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308896_f91faec9ee_o.png",
+      "id_image": "appearance_5772782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424083_6b61e09846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424083_bd5b2b0352_o.png",
+      "id_image": "appearance_5906121"
+    }
+  ]
+}

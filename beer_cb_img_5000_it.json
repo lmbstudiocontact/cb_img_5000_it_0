@@ -1,0 +1,72 @@
+{
+  "english": "beer",
+  "phat_am": "biə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu bia",
+          "definition": "a type of alcoholic drink made from malted barley flavoured/flavored with hops",
+          "world_new": [
+            "type",
+            "alcoholic",
+            "drink",
+            "barley"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a barrel/bottle/glass of beer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Workers drank before, during, and after work, fueling their long hours and grueling labor with beer.",
+    "Quantities of bread and beer, the basic food items, were given as wages to the workers.",
+    "Now the beer corporations were mobilising bands on behalf of their own version of the national project.",
+    "The exact number is difficult to enumerate, as the official census figures tend to exclude informal beer houses and shops.",
+    "In the face of such limited employment opportunities, many washed laundry and sold beer from their homes.",
+    "At the other extreme were those who wanted the sale of beer to continue.",
+    "This income would be added to profits from sorghum beer sales in municipal beerhalls.",
+    "Nevertheless, it wasn't until nearly a decade later that the rate at which beer licenses were issued began to decrease significantly."
+  ],
+  "list_see_also": [
+    "small beer"
+  ],
+  "list_browse": [
+    "beefy",
+    "beehive",
+    "beep",
+    "beeper",
+    "beer",
+    "beeswax",
+    "beet",
+    "beetle",
+    "beetroot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664744_c3ef590f36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664744_7704c898f6_o.png",
+      "id_image": "beer_129114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046300_0f8a1034b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046300_0b60b9b06b_o.png",
+      "id_image": "beer_166899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309316_2abb6438f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309316_9e080b3959_o.png",
+      "id_image": "beer_590753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424448_26998cc7bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424448_45980d773a_o.png",
+      "id_image": "beer_705061"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "add",
+  "phat_am": "ӕd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thêm vào",
+          "definition": "(often with to) to put (one thing) to or with (another)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He added some water to his whisky.",
+              "world_new": [
+                "added",
+                "water",
+                "whisky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cộng",
+          "definition": "(often with to, together, up) mathematics to find the total of (various numbers)",
+          "world_new": [
+            "find",
+            "total"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Add these figures together"
+            },
+            {
+              "ex_of_definition": "Add 124 to 356"
+            },
+            {
+              "ex_of_definition": "He added up the figures.",
+              "world_new": [
+                "added"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bổ sung",
+          "definition": "to say something extra",
+          "world_new": [
+            "extra"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He admitted that he had made a mistake, and added that he was sorry.",
+              "world_new": [
+                "mistake",
+                "added",
+                "sorry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tăng thêm",
+          "definition": "(with to) to increase",
+          "world_new": [
+            "increase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His illness had added to their difficulties.",
+              "world_new": [
+                "illness",
+                "added",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This would mean acknowledging the things we don't know and systematising them in the sense of seeing how they relate, what they add up to.",
+    "The remaining fourteen boys were added in order to have fuller representation of malnutrition over the entire first 2 years of life.",
+    "We may add that this is also true for grey surfaces.",
+    "To this new model we then add the membership numbers in two ways.",
+    "Our own compendium takes these into account, adding several revisions and new identifications.",
+    "Small lanes were gradually added to demarcate different sections and also to connect them as an organic whole.",
+    "A purely imaginary constant could be added on the right here, but it can be assumed to vanish.",
+    "Besides the standard section, in every wave some questions are added to poll the opinions surrounding hot topics."
+  ],
+  "list_see_also": [
+    "added",
+    "addition",
+    "additional",
+    "additive",
+    "add on",
+    "add up",
+    "add insult to injury",
+    "not add up"
+  ],
+  "list_browse": [
+    "adaptability",
+    "adaptable",
+    "adaptation",
+    "adaptor",
+    "add",
+    "add insult to injury",
+    "add on",
+    "add up",
+    "added"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321571_5ec5a2b7d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321571_87e05989fc_o.png",
+      "id_image": "add_1149576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676639_57df67d801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676639_6f761321f7_o.png",
+      "id_image": "add_3160910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676599_bc913c6777_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676599_2f60b58c8c_o.png",
+      "id_image": "add_3342619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436673_d673bbe8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436673_5f966dec6d_o.png",
+      "id_image": "add_4221898"
+    }
+  ]
+}

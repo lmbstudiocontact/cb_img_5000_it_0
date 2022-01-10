@@ -1,0 +1,72 @@
+{
+  "english": "anatomy",
+  "phat_am": "əˈnӕtəmi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoa giải phẫu",
+          "definition": "the science of the structure of the (usually human) body, especially the study of the body by cutting up dead animal and human bodies",
+          "world_new": [
+            "science",
+            "structure",
+            "body",
+            "study",
+            "body",
+            "cutting",
+            "dead",
+            "animal",
+            "human"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is studying anatomy at university.",
+              "world_new": [
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Evaluation of the anatomy of congenitally malformed aortic valves by orifice-view aortography.",
+    "Secondly, the polygonal mesh-based phantom has considerable flexibility in adjusting and fine-tuning its geometry, allowing the simulation of very complex anatomies.",
+    "The repeated listening to the sound and the effort to determine its characteristics bring about a clearer aural awareness of the anatomy of different sounds.",
+    "The key issue for the present argument is that this was a time of evolutionary change in anatomy, as well as technology and cognition.",
+    "Thermoplastic cradles must tie up to patient bony pelvis anatomy, yet lateral tattoos are tied in with alignment marks drawn on the cradles.",
+    "His main research interests include sleep, the anatomy and physiology of the brainstem, and subcortical systems controlling the theta rhythm of the hippocampus.",
+    "Their additional highlight was the knowledge of body anatomy that questioned the earlier comportment-driven idea of well-being.",
+    "There is potential to use this for other sites where bony anatomy is easily identifiable."
+  ],
+  "list_see_also": [
+    "anatomical",
+    "anatomically",
+    "anatomist"
+  ],
+  "list_browse": [
+    "anathema",
+    "anatomical",
+    "anatomically",
+    "anatomist",
+    "anatomy",
+    "ancestor",
+    "ancestral",
+    "ancestry",
+    "anchor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313276_bc7f8c38ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313276_301a9da186_o.png",
+      "id_image": "anatomy_4071969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668034_91b9b08489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668034_87f5c1a48f_o.png",
+      "id_image": "anatomy_4832030"
+    }
+  ]
+}

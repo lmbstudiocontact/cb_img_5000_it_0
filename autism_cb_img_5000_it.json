@@ -1,0 +1,67 @@
+{
+  "english": "autism",
+  "phat_am": "ˈoːtizəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh tự kỷ",
+          "definition": "a mental condition which makes it difficult to communicate or form relationships with other people",
+          "world_new": [
+            "mental",
+            "condition",
+            "difficult",
+            "communicate",
+            "form",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was diagnosed with severe autism.",
+              "world_new": [
+                "severe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "autistic"
+  ],
+  "list_browse": [
+    "authority",
+    "authorization",
+    "authorize",
+    "authorship",
+    "autism",
+    "autistic",
+    "auto",
+    "autobiographical",
+    "autobiography"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325991_4f1bdbf671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325991_c5a5c0c0a7_o.png",
+      "id_image": "autism_1753139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062765_51845f0a50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062765_019a80d907_o.png",
+      "id_image": "autism_2395072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681034_3321a3ffaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681034_7202e6916c_o.png",
+      "id_image": "autism_4243433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440843_b33a3f8bcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440843_979f9bd684_o.png",
+      "id_image": "autism_4243468"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "canteen",
+  "phat_am": "kӕnˈtiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "căng-tin",
+          "definition": "a place where meals are sold in a factory, barracks etc",
+          "world_new": [
+            "place",
+            "factory",
+            "barracks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We usually eat in the staff canteen.",
+              "world_new": [
+                "eat",
+                "staff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hộp đựng dao dĩa",
+          "definition": "a case for, or of, cutlery",
+          "world_new": [
+            "case",
+            "cutlery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a canteen of silver cutlery.",
+              "world_new": [
+                "silver",
+                "cutlery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bi đông",
+          "definition": "a small container used by soldiers for holding water",
+          "world_new": [
+            "small",
+            "container",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He refilled his canteen from the tap/faucet."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The announcement that more food will be available for canteens will in itself assist in bringing more canteens into being.",
+    "I am told that 10,000 million meals are now served in canteens, hotels and restaurants each year.",
+    "Every effort is being made to expedite the establishment of colliery canteens where the miners desire them.",
+    "I have received no complaints that the allocation of meat to school canteens and school-feeding centres is inadequate.",
+    "I have made some investigations among miners, women and shipyard workers who are employed in areas where there are no canteens.",
+    "Furthermore, there are 100,000 small factories which have no canteens.",
+    "Where canteens are provided, it is fair to expect that they should be used.",
+    "In addition to the usual rations, food is provided in works' canteens to meet the special needs of heavy workers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "canonize",
+    "canopy",
+    "cant",
+    "cantankerous",
+    "canteen",
+    "canter",
+    "canvas",
+    "canvass",
+    "canvasser"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684849_98c83010e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684849_549a6e5c43_o.png",
+      "id_image": "canteen_1280467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066695_05c99cd96a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066695_973f7eeaed_o.png",
+      "id_image": "canteen_333589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374597_a8583cbc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374597_08c270ea9a_o.png",
+      "id_image": "canteen_434514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066585_4a00284f70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066585_bbf133cf4f_o.png",
+      "id_image": "canteen_4728676"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "bakery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hiệu bánh mì",
+          "definition": "a place where baking is done and / or where bread, cakes etc are sold",
+          "world_new": [
+            "place",
+            "baking",
+            "bread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought some cakes at the bakery.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This lack of solidarity owed much to the very structure of bakery work.",
+    "If this is correct, firewood use migrates from households to tortilla bakeries.",
+    "People were stealing bread from those who went to the bakery.",
+    "With the rumor, creditors immediately surrounded the bakery trying to collect their debts.",
+    "It is likely that one or more food workers at the bakery contaminated the wedding cakes through direct and indirect contact.",
+    "A subset of bakery employees, including all 17 bakery employees who handle food, were asked to submit a specimen for norovirus testing.",
+    "At another level, the dispute revolved around which strategy was best to confront the bakery owners.",
+    "One or two shops were usually found in the market of a quarter with other essential victualling houses such as groceries and bakeries."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bake",
+    "baked",
+    "baked beans",
+    "baker",
+    "bakery",
+    "baking",
+    "baking powder",
+    "balance",
+    "balance of payments"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434443_abfa924b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434443_05023eac68_o.png",
+      "id_image": "bakery_2575858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674159_cb31c02943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674159_34c5e880bd_o.png",
+      "id_image": "bakery_4127477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055915_4ab0f22c1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055915_1a5a4c38f8_o.png",
+      "id_image": "bakery_452699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674134_25c747a8ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674134_579defd243_o.png",
+      "id_image": "bakery_4577552"
+    }
+  ]
+}

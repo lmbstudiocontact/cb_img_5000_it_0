@@ -1,0 +1,94 @@
+{
+  "english": "atmosphere",
+  "phat_am": "ˈӕtməsfiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp khí quyển",
+          "definition": "the air surrounding the earth",
+          "world_new": [
+            "air",
+            "surrounding",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The atmosphere above the city is heavily polluted.",
+              "world_new": [
+                "city",
+                "heavily",
+                "polluted"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không khí",
+          "definition": "any surrounding feeling",
+          "world_new": [
+            "surrounding",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a friendly atmosphere in the village.",
+              "world_new": [
+                "friendly",
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Multiple inflations were usually carried out with the balloons inflated to between three and nine atmospheres for five to 30 seconds.",
+    "Germination was strongly reduced in atmospheres containing less than 5% oxygen.",
+    "The radiation-plasma coupling is also important in space and astrophysical scenarios, such as in solar and stellar atmospheres, as well as in pulsar interiors (neutron stars) and in magnetospheres.",
+    "As well as allowing detection of the planets themselves, the spectra obtained can reasonably be expected to contain lines corresponding to the constituents of the atmospheres.",
+    "Transport of ionizing radiation in terrestrial-like exoplanet atmospheres.",
+    "The formation of nitriles in hydrocarbon-rich atmospheres of planets and their satellites : laboratory investigations by the crossed molecular beam technique.",
+    "Finally, the fifth example of 'cosmic convergence ' is provided by the convergent origin of hydrospheres and atmospheres.",
+    "Inflating the balloon to 3-5 atmospheres released the stent."
+  ],
+  "list_see_also": [
+    "atmospheric",
+    "atmospheric pressure"
+  ],
+  "list_browse": [
+    "athletic",
+    "athletics",
+    "atlas",
+    "ATM",
+    "atmosphere",
+    "atmospheric",
+    "atmospheric pressure",
+    "atom",
+    "atom bomb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655354_a2fec70144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655354_bb1bd459e1_o.png",
+      "id_image": "atmosphere_3075011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655339_481f9c8c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655339_9911b7caef_o.png",
+      "id_image": "atmosphere_4364030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036825_0d8e88a9f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036825_92152e132a_o.png",
+      "id_image": "atmosphere_5207610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036775_aa82183205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036775_c8191f8aae_o.png",
+      "id_image": "atmosphere_5570607"
+    }
+  ]
+}

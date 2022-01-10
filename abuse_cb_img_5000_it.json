@@ -1,0 +1,153 @@
+{
+  "english": "abuse",
+  "phat_am": "əˈbjuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lạm dụng",
+          "definition": "to treat someone in a cruel or violent way",
+          "world_new": [
+            "treat",
+            "cruel",
+            "violent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was accused of sexually abusing young boys.",
+              "world_new": [
+                "sexually",
+                "young"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạm dụng",
+          "definition": "to use wrongly, usually with harmful results",
+          "world_new": [
+            "wrongly",
+            "harmful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She abused her position by stealing public money.",
+              "world_new": [
+                "position",
+                "public",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sỉ nhục",
+          "definition": "to insult or speak roughly to",
+          "world_new": [
+            "insult",
+            "speak",
+            "roughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She abused the servants."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự sỉ vả",
+          "definition": "insulting language",
+          "world_new": [
+            "insulting",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shouted abuse at her."
+            }
+          ]
+        },
+        {
+          "mean_english": "lạm dụng",
+          "definition": "cruel or violent treatment of someone",
+          "world_new": [
+            "cruel",
+            "violent",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She filed a case of physical abuse against her husband",
+              "world_new": [
+                "case",
+                "physical",
+                "husband"
+              ]
+            },
+            {
+              "ex_of_definition": "child abuse",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "sexual abuse.",
+              "world_new": [
+                "sexual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lạm dụng",
+          "definition": "the wrong use of something",
+          "world_new": [
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This machine has been subjected to a lot of abuse.",
+              "world_new": [
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "abusive",
+    "abusively",
+    "abusiveness"
+  ],
+  "list_browse": [
+    "absurdly",
+    "abundance",
+    "abundant",
+    "abundantly",
+    "abuse",
+    "abusive",
+    "abusively",
+    "abusiveness",
+    "abysmal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063760_fd77966076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063760_ae830f22e1_o.png",
+      "id_image": "abuse_6305778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681889_bfca2d851f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681889_eccde08401_o.png",
+      "id_image": "abuse_6305790"
+    }
+  ]
+}

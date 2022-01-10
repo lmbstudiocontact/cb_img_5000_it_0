@@ -1,0 +1,131 @@
+{
+  "english": "alert",
+  "phat_am": "əˈləːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "minh mẫn",
+          "definition": "quick-thinking",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s eighty years old, but still very alert.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh giác",
+          "definition": "(with to) watchful and aware",
+          "world_new": [
+            "watchful",
+            "aware"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must be alert to danger.",
+              "world_new": [
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự báo động",
+          "definition": "a signal to be ready for action",
+          "world_new": [
+            "signal",
+            "ready",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The captain gave the alert.",
+              "world_new": [
+                "captain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảnh báo",
+          "definition": "to make (someone) alert; to warn",
+          "world_new": [
+            "warn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sound of gunfire alerted us to the danger.",
+              "world_new": [
+                "sound",
+                "gunfire",
+                "danger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Operation of the orienting and alerting systems was also examined within the current dataset.",
+    "In any case, the profoundly different characters of these two areas alerts us to the importance of the local communities in which migrants settle.",
+    "A significant mismatch between the sensory inflow and the model the brain constructs, leads to an alerting response in the animal and a potential pre-programmed change in behaviour.",
+    "An additional 21 new participants were recruited to the study in 1991 by alerting area clinics that participants were being sought for the study.",
+    "To the extent that a strict budget process contributes to alerting the public to imbalances, whatever their origin may be, the effect is of course salutary.",
+    "Also, there are other \"specially relevant\" landmarks: those alerting to the presence of stairs or lifts, since they indicate the ways of moving to another floor of the building.",
+    "Thus, it constantly alerted the government to the need of keeping a tight rein on criminal and subversive elements.",
+    "Nonsignificant correlations were obtained between the alerting and orienting scores r .02, p .75!, alerting and conflict scores r .02, p .65!, and orienting and conflict scores r .04, p .49!."
+  ],
+  "list_see_also": [
+    "alertly",
+    "alertness",
+    "on the alert"
+  ],
+  "list_browse": [
+    "alcoholic",
+    "alcoholism",
+    "alcove",
+    "ale",
+    "alert",
+    "alertly",
+    "alertness",
+    "algae",
+    "algebra"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671509_4ca878fa22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671509_ee408734ac_o.png",
+      "id_image": "alert_1112521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361072_693d23ca5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361072_58b3d61ae5_o.png",
+      "id_image": "alert_1564310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671459_f0ab9065aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671459_1fc1d31608_o.png",
+      "id_image": "alert_1603195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053195_e2ca09052d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053195_05dc27dac2_o.png",
+      "id_image": "alert_2080911"
+    }
+  ]
+}

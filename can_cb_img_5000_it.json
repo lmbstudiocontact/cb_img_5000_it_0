@@ -1,0 +1,164 @@
+{
+  "english": "can",
+  "phat_am": "kӕn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khả năng",
+          "definition": "to be able to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can do it if you try hard.",
+              "world_new": [
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ khả năng",
+          "definition": "to know how to",
+          "world_new": [
+            "know"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you drive a car?",
+              "world_new": [
+                "drive",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ sự cho phép",
+          "definition": "(usually may) to have permission to",
+          "world_new": [
+            "permission"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can go on the trip if you behave yourself.",
+              "world_new": [
+                "trip",
+                "behave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng trong câu hỏi ám chỉ sự ngạc nhiên",
+          "definition": "used in questions to indicate surprise, disbelief etc",
+          "world_new": [
+            "indicate",
+            "surprise",
+            "disbelief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What can he be doing all this time?",
+              "world_new": [
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái hộp",
+          "definition": "a metal container for liquids and many types of food",
+          "world_new": [
+            "metal",
+            "container",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil can",
+              "world_new": [
+                "oil"
+              ]
+            },
+            {
+              "ex_of_definition": "a tin can",
+              "world_new": [
+                "tin"
+              ]
+            },
+            {
+              "ex_of_definition": "six cans of beer.",
+              "world_new": [
+                "beer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng hộp",
+          "definition": "to put (especially food) into cans, usually to preserve it",
+          "world_new": [
+            "preserve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a factory for canning tomatoes.",
+              "world_new": [
+                "factory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "canned",
+    "cannery",
+    "can opener"
+  ],
+  "list_browse": [
+    "camphor",
+    "camping",
+    "campsite",
+    "campus",
+    "can",
+    "can opener",
+    "can-can",
+    "canal",
+    "canary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376107_124873dbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376107_867cd86da6_o.png",
+      "id_image": "can_1676649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446338_917f9be12a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446338_dfd220218c_o.png",
+      "id_image": "can_1676653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376012_51f40f91f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376012_396e606708_o.png",
+      "id_image": "can_1676657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375977_6697c6e328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375977_ce99a00666_o.png",
+      "id_image": "can_3005162"
+    }
+  ]
+}

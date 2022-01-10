@@ -1,0 +1,74 @@
+{
+  "english": "armour",
+  "phat_am": "ˈaːmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo giáp",
+          "definition": "formerly, a metal suit worn by knights etc as a protection while fighting",
+          "world_new": [
+            "formerly",
+            "metal",
+            "suit",
+            "worn",
+            "protection",
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a suit of armour.",
+              "world_new": [
+                "suit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe bọc thép",
+          "definition": "a metal covering to protect ships, tanks etc against damage from weapons.",
+          "world_new": [
+            "metal",
+            "covering",
+            "protect",
+            "damage"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "armoured",
+    "armoury",
+    "army"
+  ],
+  "list_browse": [
+    "armchair",
+    "armed",
+    "armful",
+    "armistice",
+    "armour",
+    "armoured",
+    "armoury",
+    "armpit",
+    "arms"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420723_366ba03de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420723_0d26fa6c77_o.png",
+      "id_image": "armour_1172869 - Copy"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349837_93f523503c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349837_34a20356b8_o.png",
+      "id_image": "armour_1280474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305671_c5e8281d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305671_8be1e17f5b_o.png",
+      "id_image": "armour_942416"
+    }
+  ]
+}

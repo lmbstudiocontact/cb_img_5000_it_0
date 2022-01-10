@@ -1,0 +1,75 @@
+{
+  "english": "adapt",
+  "phat_am": "əˈdӕpt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sửa lại cho hợp",
+          "definition": "to change or alter (so as to fit a different situation etc)",
+          "world_new": [
+            "change",
+            "alter",
+            "fit",
+            "situation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She always adapted easily to new circumstances",
+              "world_new": [
+                "easily"
+              ]
+            },
+            {
+              "ex_of_definition": "He has adapted the play for television.",
+              "world_new": [
+                "play",
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, as no universal elution protocol exists, it may be adapted depending on the biofilm composition and structure.",
+    "The activities were adapted to the group's level, with more support provided in weaker groups.",
+    "However, by no means does this rule out the need for theory qua theory, particularly when it is adapted from quite different and diverse disciplines.",
+    "However, for the sake of completeness, we include here a proof adapted to our context.",
+    "The left ventricle, perhaps best adapted to pump against a systemic afterload, is faced with the much lower hydraulic impedance of the pulmonary vascular bed.",
+    "The method is therefore well adapted for use as a basis for a spatial reasoning formalism.",
+    "Finally, radio was not adapted to transmission in public places.",
+    "Talk of recovery or doing better can understandably be perceived as mockery or ridicule by an elder who has not adapted to this new state."
+  ],
+  "list_see_also": [
+    "adaptation",
+    "adaptable",
+    "adaptability",
+    "adaptor"
+  ],
+  "list_browse": [
+    "adage",
+    "Adam",
+    "adamant",
+    "adamantly",
+    "adapt",
+    "adaptability",
+    "adaptable",
+    "adaptation",
+    "adaptor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321751_a8a64aa01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321751_3cac4448c1_o.png",
+      "id_image": "adaptable_4953836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321801_6878ee6de8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321801_f0ee7c8b36_o.png",
+      "id_image": "adapt_6159870"
+    }
+  ]
+}

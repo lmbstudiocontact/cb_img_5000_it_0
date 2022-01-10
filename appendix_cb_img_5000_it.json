@@ -1,0 +1,67 @@
+{
+  "english": "appendix",
+  "phat_am": "əˈpendiks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phụ lục",
+          "definition": "(plural sometimes appendices-siːz) a section, usually containing extra information, added at the end of a book, document etc",
+          "world_new": [
+            "section",
+            "extra",
+            "information",
+            "added",
+            "book",
+            "document"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A full list of sources can be found in the appendix.",
+              "world_new": [
+                "full",
+                "list",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ruột thừa",
+          "definition": "a narrow tube leading from the large intestine",
+          "world_new": [
+            "narrow",
+            "tube",
+            "large",
+            "intestine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s had her appendix removed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "appease",
+    "appeasement",
+    "append",
+    "appendage",
+    "appendix",
+    "appetite",
+    "appetizer",
+    "appetizing",
+    "applaud"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664154_08ee6c7764_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664154_9b63c0ea64_o.png",
+      "id_image": "appendix_3411317"
+    }
+  ]
+}

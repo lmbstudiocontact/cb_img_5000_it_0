@@ -1,0 +1,65 @@
+{
+  "english": "aware",
+  "phat_am": "əˈweə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhận thức",
+          "definition": "knowing; informed; conscious (of)",
+          "world_new": [
+            "conscious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is he aware of the problem?",
+              "world_new": [
+                "problem"
+              ]
+            },
+            {
+              "ex_of_definition": "Are they aware that I’m coming?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Those responsible for the staging were fully aware of how the stage could be used to underline the dramatic values of the work.",
+    "We become more aware of authorial expertise on a variety of subjects rather than a deeply observed or dramatically cogent scene.",
+    "At the same time, people were well aware that a number of social, economic and political issues relevant for themselves needed to find collective solutions.",
+    "Additionally, peacefully aware patients had the highest overall quality of death as reported by their caretakers in a postmortem evaluation.",
+    "We are aware that any attempt at defining a concept potentially closes off other possibilities and therefore dialogue.",
+    "These included difficulty in obtaining prescription pads, lack of electronic prescribing, pharmacists not being aware of supplementary prescribing, and the restrictions on antibiotic prescribing.",
+    "There are certain differences between the two stages that we are fully aware of.",
+    "I am not aware of any shared history or even if the artists are aware of each other's work."
+  ],
+  "list_see_also": [
+    "awareness"
+  ],
+  "list_browse": [
+    "awake",
+    "awaken",
+    "awakening",
+    "award",
+    "aware",
+    "awareness",
+    "awash",
+    "away",
+    "awe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438833_a39362cfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438833_086ed173be_o.png",
+      "id_image": "aware_4785761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060590_e356381a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060590_ac3e7b2a97_o.png",
+      "id_image": "aware_4799080"
+    }
+  ]
+}

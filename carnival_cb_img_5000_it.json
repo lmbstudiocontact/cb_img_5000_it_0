@@ -1,0 +1,69 @@
+{
+  "english": "carnival",
+  "phat_am": "ˈkaːnivəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngày hội",
+          "definition": "a public entertainment, often involving processions of people in fancy dress etc",
+          "world_new": [
+            "public",
+            "entertainment",
+            "people",
+            "fancy",
+            "dress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a winter carnival.",
+              "world_new": [
+                "winter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The musicians' use of dynamics underlines the marchers' reflexive awareness of performance, the carnival's undermining of the distinction between outsider and participant.",
+    "As in earlier, non-dramatic performances like carnival or festive ritual, the audience came to the theatre expecting a dialogic relationship with the stage performers.",
+    "The challenge of carnival was controlled by the temporal limits that were placed on it.",
+    "We must remember, however, that carnival was a time of legitimate illegitimacy.",
+    "The user is treated to the carnival tents and exhibitions, each more grotesque and absurd than the last.",
+    "As it would appear, nothing is better suited to prevent a revolutionary upheaval than the licensed revolt enacted in carnival.",
+    "Footlights would destroy a carnival as the absence of footlights would destroy a performance.",
+    "Welcome to the carnival of forgetting where no one need fear losing face because we're all wilfully lost and faceless anyway."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "caries",
+    "carjacking",
+    "carnage",
+    "carnation",
+    "carnival",
+    "carnivore",
+    "carnivorous",
+    "carol",
+    "carousal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369742_ecc6378c73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369742_aeba71fde4_o.png",
+      "id_image": "carnival_4090075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061775_c44d66b6c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061775_b6760142bd_o.png",
+      "id_image": "carnival_4515095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369667_552db8c735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369667_ed6d62bf2c_o.png",
+      "id_image": "carnival_5238344"
+    }
+  ]
+}

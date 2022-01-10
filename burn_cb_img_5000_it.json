@@ -1,0 +1,158 @@
+{
+  "english": "burn",
+  "phat_am": "bəːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đốt cháy",
+          "definition": "to destroy, damage or injure by fire, heat, acid etc",
+          "world_new": [
+            "destroy",
+            "damage",
+            "injure",
+            "fire",
+            "heat",
+            "acid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The factory was burnt to the ground",
+              "world_new": [
+                "factory",
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "I accidentally burnt the dinner.",
+              "world_new": [
+                "I",
+                "accidentally",
+                "dinner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cháy",
+          "definition": "to use as fuel",
+          "world_new": [
+            "fuel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The engine burns air and fuel to create mechanical power.",
+              "world_new": [
+                "engine",
+                "air",
+                "fuel",
+                "create",
+                "mechanical",
+                "power"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm thủng",
+          "definition": "to make (a hole etc) by fire, heat, acid etc",
+          "world_new": [
+            "hole",
+            "fire",
+            "heat",
+            "acid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The acid burned a hole in my lab coat.",
+              "world_new": [
+                "acid",
+                "hole",
+                "my",
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt lửa",
+          "definition": "to catch fire",
+          "world_new": [
+            "catch",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Paper burns easily.",
+              "world_new": [
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết cháy; vết bỏng",
+          "definition": "an injury or mark caused by fire etc",
+          "world_new": [
+            "injury",
+            "mark",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His burns will take a long time to heal",
+              "world_new": [
+                "long",
+                "time",
+                "heal"
+              ]
+            },
+            {
+              "ex_of_definition": "a burn in the carpet.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "burner"
+  ],
+  "list_browse": [
+    "burgle",
+    "burial",
+    "burlap",
+    "burly",
+    "burn",
+    "burner",
+    "burnish",
+    "burp",
+    "burrow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664489_f343b65713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664489_98fc31187a_o.png",
+      "id_image": "burn_1599790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353352_8752346027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353352_af94c9434d_o.png",
+      "id_image": "burn_5601132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424378_39a05d7fc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424378_3d867c5001_o.png",
+      "id_image": "burn_648459"
+    }
+  ]
+}

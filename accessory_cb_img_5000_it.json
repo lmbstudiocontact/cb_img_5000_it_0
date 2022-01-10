@@ -1,0 +1,83 @@
+{
+  "english": "accessory",
+  "phat_am": "əkˈsesəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ phụ tùng",
+          "definition": "something additional (eg a handbag, scarf, shoes etc to the main part of a woman’s clothing, or a radio, seat-covers etc to a car)",
+          "world_new": [
+            "additional",
+            "handbag",
+            "scarf",
+            "main",
+            "part",
+            "clothing",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore matching accessories.",
+              "world_new": [
+                "matching"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ đồng loã",
+          "definition": "a person who helps somebody, especially a criminal",
+          "world_new": [
+            "person",
+            "criminal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was charged with being an accessory to murder.",
+              "world_new": [
+                "charged",
+                "murder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "access code",
+    "accessibility",
+    "accessible",
+    "accession",
+    "accessory",
+    "accident",
+    "accidental",
+    "accidentally",
+    "acclaim"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680859_74081c7b12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680859_a0982a1c49_o.png",
+      "id_image": "accessory_1753253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440818_059b004b1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440818_4515d4f0b3_o.png",
+      "id_image": "accessory_252065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680924_eb0fa08c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680924_81c7267396_o.png",
+      "id_image": "accessory_344051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440698_379c816e0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440698_c0560949c8_o.png",
+      "id_image": "accessory_5220024"
+    }
+  ]
+}

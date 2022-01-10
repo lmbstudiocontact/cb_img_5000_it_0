@@ -1,0 +1,89 @@
+{
+  "english": "album",
+  "phat_am": "ˈӕlbəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "an-bum",
+          "definition": "a book with blank pages for holding photographs, stamps etc",
+          "world_new": [
+            "book",
+            "blank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a photograph album.",
+              "world_new": [
+                "photograph"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đĩa nhạc",
+          "definition": "a collection of recorded music on a record or CD",
+          "world_new": [
+            "collection",
+            "music",
+            "record",
+            "CD"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I haven’t got the group’s latest album.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From the several commemorative photo albums of the city published in the 1880s, street lights appear to have been installed on many streets some time before they were paved.",
+    "We thus now turn to look more directly at emergent forms of consumption, principally as embodied in a number of extremely popular compilation albums of current hits.",
+    "About thirty per cent of the albums were recorded in the 1970s, twenty per cent in the 1990s.",
+    "Additionally, it is important to note a high state of stability in the canon: thirteen albums are among the top twenty both in columns two and three.",
+    "Few albums can have come with such an extensive framing.",
+    "The albums can also be seen as documents that reflected as well as permitted increased control.",
+    "If a visual representation of sameness and belonging encouraged identification with characters and with singers, it also presumably encouraged the acquisition of sheet music, albums and tickets.",
+    "We mused upon the possibility that the photographs could be pasted into albums and that police officers could while away long winter nights turning the pages and admiring these mugshots."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "albatross",
+    "albedo",
+    "albeit",
+    "albino",
+    "album",
+    "albumen",
+    "alchemist",
+    "alchemy",
+    "alcohol"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671944_3e3c589df1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671944_ecfc9063ea_o.png",
+      "id_image": "album_2005010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671899_06683f174e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671899_7daa2c7d00_o.png",
+      "id_image": "album_2005052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361472_be10f0621a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361472_4f4f5a4af2_o.png",
+      "id_image": "album_2880528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432348_971245f24e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432348_dd35ffb7a0_o.png",
+      "id_image": "album_898853"
+    }
+  ]
+}

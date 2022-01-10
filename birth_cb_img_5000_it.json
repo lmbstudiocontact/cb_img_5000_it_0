@@ -1,0 +1,95 @@
+{
+  "english": "birth",
+  "phat_am": "bəːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ra đời",
+          "definition": "(an) act of coming into the world, being born",
+          "world_new": [
+            "act",
+            "world"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the birth of her son",
+              "world_new": [
+                "son"
+              ]
+            },
+            {
+              "ex_of_definition": "Harry has been deaf since birth.",
+              "world_new": [
+                "deaf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xuất hiện",
+          "definition": "the beginning",
+          "world_new": [
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the birth of civilization.",
+              "world_new": [
+                "civilization"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of course, the reaction in birth rates was delayed, but it is occurring.",
+    "Proportion of births in each village, for each religious group, given in parentheses.",
+    "If the answer was no, the age of the last live birth (surviving child) was determined.",
+    "The covariates include the control variables mentioned above (parity, season, education, and religion) plus the length of the previous birth interval.",
+    "The final personal characteristic we examine is country of birth, which has not been as extensively studied in the literature as the other personal characteristics.",
+    "The average susceptibility of hosts at birth in our model remains approximately constant with time.",
+    "One thousand and thirty-five patients (22 %) reported that they were pregnant or had recently given birth.",
+    "Rare observations of important events such as birth, predation, innovation, and teaching can be vitally important in directing research toward potentially important areas."
+  ],
+  "list_see_also": [
+    "birth certificate",
+    "birth control",
+    "birthday",
+    "birthmark",
+    "birthplace",
+    "birthrate",
+    "give birth (to)"
+  ],
+  "list_browse": [
+    "birch",
+    "bird",
+    "bird’s-eye view",
+    "biro",
+    "birth",
+    "birth certificate",
+    "birth control",
+    "birthday",
+    "birthmark"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303656_0d1bcaeda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303656_d67a52766a_o.png",
+      "id_image": "birth_3636235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418653_489be490af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418653_4bb8027a0c_o.png",
+      "id_image": "birth_5260242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347867_576f84b29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347867_ac87a89e23_o.png",
+      "id_image": "birth_859947"
+    }
+  ]
+}

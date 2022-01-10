@@ -1,0 +1,82 @@
+{
+  "english": "alone",
+  "phat_am": "əˈləun",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một mình",
+          "definition": "with no-one else; by oneself",
+          "world_new": [
+            "no-one"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lived alone"
+            },
+            {
+              "ex_of_definition": "She is alone in believing that he is innocent.",
+              "world_new": [
+                "innocent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ riêng",
+          "definition": "only",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He alone can remember.",
+              "world_new": [
+                "remember"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Too often the client in a psychiatric hospital is left to die or grieve emotionally and spiritually alone.",
+    "At the end of the first training session, 64.23% of the errors were associated with misidentifying tone alone for all subjects.",
+    "Until we have this, we cannot claim that the substrate alone provides a syntactic model for this variable.",
+    "The net effect is an improvement over dynamic lexicalization alone, which we believe to be significant.",
+    "Four of the participants lived alone and three did not have easy access to a car.",
+    "Overall, the net effect at the household level (let alone the aggregate economy) is left indeterminate.",
+    "In this paper, we have shown that the phonological phrasing of a sentence is not straightforwardly predictable from the syntactic structure alone.",
+    "Following this second set of tellings, interviewers left me alone with the interviewee."
+  ],
+  "list_see_also": [
+    "all alone"
+  ],
+  "list_browse": [
+    "almond",
+    "almost",
+    "alms",
+    "aloft",
+    "alone",
+    "along",
+    "alongside",
+    "aloof",
+    "aloofness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670339_73e5db677d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670339_a8cf681995_o.png",
+      "id_image": "alone_3590361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670314_4c786941b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670314_664aeb56e0_o.png",
+      "id_image": "alone_5773070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430483_ecb9580040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430483_297d890752_o.png",
+      "id_image": "alone_6134538"
+    }
+  ]
+}

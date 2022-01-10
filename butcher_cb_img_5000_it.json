@@ -1,0 +1,102 @@
+{
+  "english": "butcher",
+  "phat_am": "ˈbutʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hàng thịt",
+          "definition": "a person whose business is to kill cattle etc for food and/or sell their flesh",
+          "world_new": [
+            "person",
+            "business",
+            "kill",
+            "cattle",
+            "food",
+            "sell",
+            "their",
+            "flesh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Halal butcher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giết mổ",
+          "definition": "to kill animals for food and prepare them as meat",
+          "world_new": [
+            "kill",
+            "food",
+            "prepare",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The butcher is available to butcher the carcass to the customer’s exact requirements.",
+              "world_new": [
+                "available",
+                "carcass",
+                "exact"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tàn sát",
+          "definition": "to kill cruelly",
+          "world_new": [
+            "kill",
+            "cruelly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the prisoners were butchered by the dictator’s guards."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bust",
+    "bustle",
+    "busy",
+    "but",
+    "butcher",
+    "butler",
+    "butt",
+    "butt in",
+    "butter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045030_1babeccf01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045030_acc4010f96_o.png",
+      "id_image": "butcher_2278620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663339_92a104ca87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663339_6f52dd08d7_o.png",
+      "id_image": "butcher_4736311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663314_9a3ff6df1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663314_a84751f9eb_o.png",
+      "id_image": "butcher_6036743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663289_91e4485818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663289_c66c5388c8_o.png",
+      "id_image": "butcher_6417467"
+    }
+  ]
+}

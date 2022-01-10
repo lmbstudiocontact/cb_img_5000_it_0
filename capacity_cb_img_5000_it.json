@@ -1,0 +1,93 @@
+{
+  "english": "capacity",
+  "phat_am": "kəˈpӕsəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sức chứa",
+          "definition": "ability to hold, contain etc",
+          "world_new": [
+            "ability",
+            "hold",
+            "contain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This tank has a capacity of 300 gallons.",
+              "world_new": [
+                "tank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng",
+          "definition": "ability",
+          "world_new": [
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Colin possesses a remarkable capacity for remembering facts.",
+              "world_new": [
+                "remarkable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vai trò",
+          "definition": "position",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has to make many key decisions in her capacity as leader.",
+              "world_new": [
+                "key",
+                "leader"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Equality of capacities influences whether individuals are successful in converting their resources into effective discussion.",
+    "First, one could see a patternless crazy quilt of the capacities sprinkled across species.",
+    "In a liberal society this is to undermine capacities that make its liberties admirable.",
+    "Such transactions are based on a specific fit between capacities of the person and the more or less demanding characteristics of the environment.",
+    "Emotional attunement and reasoning are required for meeting and fostering the emotional capacities required for autonomous choice.",
+    "Further, the language of local institutional development uses notions like animation, motivation, or catalysts which convey the idea of retrieval of latent community capacities.",
+    "The resulting temperature is a function of the masses and heat capacities of the components of the system.",
+    "In fact, the coordination of various actors' capacities is interrelated often with the nature of their interconnection."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "capability",
+    "capable",
+    "capably",
+    "capacious",
+    "capacity",
+    "cape",
+    "caper",
+    "capillary",
+    "capital"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444128_44061154aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444128_c8f626d071_o.png",
+      "id_image": "capacity_4524887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684139_3e69a2ccbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684139_235e12f0bc_o.png",
+      "id_image": "capacity_5692252"
+    }
+  ]
+}

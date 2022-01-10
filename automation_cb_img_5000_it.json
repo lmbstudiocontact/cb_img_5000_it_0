@@ -1,0 +1,71 @@
+{
+  "english": "automation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tự động hoá",
+          "definition": "(in factories etc) the use of machines, especially to work other machines",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Automation has resulted in people losing their jobs.",
+              "world_new": [
+                "people",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One is based predominantly on user interaction, while the other is automation oriented.",
+    "At the current stage our approach is certainly not amenable to automation.",
+    "However, automation will not be feasible to the same extent when evaluating more complex systems such as grammar checkers.",
+    "In particular, those involved in research and development will see the newly implemented systems as of special relevance to automation.",
+    "Our goal is to develop a generally applicable feedback method that is better suited for the flexible automation of microassembly processes.",
+    "Serious automation means that a system should make the core contribution to its overall task, or exhibit core competence in it.",
+    "Introduction and software agents supporting decision-making and maintenance is the main challenge for research and applications of a cost effective automation.",
+    "Because the grammar rules encapsulate the feasible additions that can be made, the automation is based simply on choosing a series of applicable rules."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "autograph",
+    "automated",
+    "automatic",
+    "automatically",
+    "automation",
+    "automaton",
+    "automobile",
+    "automotive",
+    "autonomous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440118_81ec8b3f12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440118_c4abb52a04_o.png",
+      "id_image": "automation_1163384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325086_2cef6eff9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325086_8c49b8fd80_o.png",
+      "id_image": "automation_1909808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369907_37e5355ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369907_278901d392_o.png",
+      "id_image": "automation_2143459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324991_7c47bdcc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324991_90abeb60e3_o.png",
+      "id_image": "automation_2825945"
+    }
+  ]
+}

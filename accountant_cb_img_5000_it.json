@@ -1,0 +1,67 @@
+{
+  "english": "accountant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhân viên kế toán",
+          "definition": "a keeper or inspector of (financial) accounts",
+          "world_new": [
+            "keeper",
+            "inspector"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He employs an accountant to deal with his tax affairs.",
+              "world_new": [
+                "deal",
+                "tax"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was accountant to the overseers and highway surveyors, and clerk to the local friendly society.",
+    "This is also true for independent experts recruited among lawyers, accountants and academics.",
+    "Many people therefore have a social schema for accountant that includes links to personality traits or to groupmembership categories such as gender and class.",
+    "Like solicitors, accountants had their own strong traditions, in particular those of in-house training.",
+    "Nevertheless, the mundane record of how local government was financed has attracted few students, until accountants ventured to fill the gap.",
+    "Bureaucrats and accountants were to control theatres and require the art to ape industry and commerce.",
+    "In contrast, the social epistemologist sides with the \"reflexivists\" in science studies, that science accountants must situate themselves in the accounts they give.",
+    "Consequently, the role of social accountant is detached from that of political agent."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "account for",
+    "accountability",
+    "accountable",
+    "accountancy",
+    "accountant",
+    "accredited",
+    "accumulate",
+    "accumulation",
+    "accumulator"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680049_beb9b63717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680049_9049d46776_o.png",
+      "id_image": "accountant_1728904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369677_d7f8fb0704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369677_f817fc5d94_o.png",
+      "id_image": "accountant_1751677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369607_7f6a4cb873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369607_f16dcc044f_o.png",
+      "id_image": "accountant_2644533"
+    }
+  ]
+}

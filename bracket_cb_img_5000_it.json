@@ -1,0 +1,114 @@
+{
+  "english": "bracket",
+  "phat_am": "ˈbrӕkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu ngoặc đơn",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "round/square brackets."
+            }
+          ]
+        },
+        {
+          "mean_english": "giá đỡ",
+          "definition": "a support for a shelf etc",
+          "world_new": [
+            "support",
+            "shelf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shelf fell down because the brackets were not strong enough.",
+              "world_new": [
+                "shelf",
+                "fell",
+                "strong"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt trong dấu ngoặc",
+          "definition": "to enclose (words etc) by brackets.",
+          "world_new": [
+            "enclose"
+          ]
+        },
+        {
+          "mean_english": "xếp loại",
+          "definition": "(sometimes with together) to group together (similar or equal people or things)",
+          "world_new": [
+            "group",
+            "equal",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This kind of financing is often bracketed together with higher interest rates.",
+              "world_new": [
+                "kind",
+                "interest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We associate a weight to channels with finite sorts, namely the maximum number of nested brackets in the sort.",
+    "Many gerontologists, however, would be shocked to find themselves bracketed with feminists, and this is why conceptual frameworks are important.",
+    "The numbers in brackets represent the raw data expressed as a fraction, from which the percentages are calculated.",
+    "A location placed in brackets indicates the residence of a civilian during the war differed from the place of the interview. 19.",
+    "The numbers in parentheses indicate how many times each of the verbs occurred in an individual ®le; the child's meaning is indicated in square brackets.",
+    "Brackets and non-empty equation sets do not occur in user source-language programs, and brackets could be erased in a production implementation.",
+    "Until 1999, the allowances were inversely related to income, with four rates of benefit corresponding to an equal number of income brackets.",
+    "The '#' in (5) means that the information between the square brackets is denied, while the '!' denotes the corrected information."
+  ],
+  "list_see_also": [
+    "bracket fungus"
+  ],
+  "list_browse": [
+    "brace",
+    "bracelet",
+    "braces",
+    "bracing",
+    "bracket",
+    "bracket fungus",
+    "brackish",
+    "brag",
+    "braid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434398_8eb48df7c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434398_9e99f48649_o.png",
+      "id_image": "bracket_1023618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363892_8f25641612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363892_03a5d1dbe8_o.png",
+      "id_image": "bracket_1678228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674074_7d5459d15d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674074_233198793e_o.png",
+      "id_image": "bracket_1678229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055895_9d0d593fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055895_d4efb9d7cf_o.png",
+      "id_image": "bracket_605614"
+    }
+  ]
+}

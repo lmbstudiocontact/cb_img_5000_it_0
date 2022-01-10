@@ -1,0 +1,129 @@
+{
+  "english": "broken",
+  "phat_am": "ˈbrəukən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bị vỡ",
+          "definition": "see break",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a broken window",
+              "world_new": [
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "My watch is broken.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứt quãng",
+          "definition": "interrupted",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "broken sleep.",
+              "world_new": [
+                "sleep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấp nhô",
+          "definition": "uneven",
+          "world_new": [
+            "uneven"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "broken ground.",
+              "world_new": [
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không lưu loát",
+          "definition": "(of language) not fluent",
+          "world_new": [
+            "fluent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He speaks broken English.",
+              "world_new": [
+                "English"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị đổ vỡ",
+          "definition": "ruined",
+          "world_new": [
+            "ruined"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children come from a broken home (= their parents are no longer living together).",
+              "world_new": [
+                "home",
+                "their",
+                "living"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "broken-hearted"
+  ],
+  "list_browse": [
+    "broccoli",
+    "brochure",
+    "broil",
+    "broke",
+    "broken",
+    "broken-hearted",
+    "broker",
+    "brolly",
+    "bronchial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430033_c5a36663de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430033_d6a68fc17f_o.png",
+      "id_image": "broken_1656426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315101_1f3518590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315101_35f0a371ba_o.png",
+      "id_image": "broken_1719145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429973_a92aaa9e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429973_d7dfc0ce2e_o.png",
+      "id_image": "broken_4772164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051565_a4d5a559ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051565_a6252eeaff_o.png",
+      "id_image": "broken_6267452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051695_9c247e3e93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051695_e212fa224f_o.png",
+      "id_image": "broken_977873"
+    }
+  ]
+}

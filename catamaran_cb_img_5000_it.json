@@ -1,0 +1,67 @@
+{
+  "english": "catamaran",
+  "phat_am": "kӕtəməˈrӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuyền đôi",
+          "definition": "a sailing boat with two parallel hulls",
+          "world_new": [
+            "sailing",
+            "boat",
+            "parallel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a racing catamaran.",
+              "world_new": [
+                "racing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The catamaran was also used to transport humanitarian aid, and relocate displaced persons.",
+    "No qualifications are required for port staff engaged in the operation of catamarans.",
+    "I would mention that the double-hulled catamaran, apart from being fast, is a very useful boat for beginners because of its stability.",
+    "These 3-hulled sailing craft offer excellent stability and speed compared to mono hull or catamaran sailboats.",
+    "Sailing craft range from sailboards, off-the-beach catamarans and dinghies to larger motor and sail yachts.",
+    "The pontoons are catamarans with rectangular shaped twin flat-bottomed hulls.",
+    "Thirteen years ago, a colleague of mine had the idea of building a catamaran for people in wheelchairs.",
+    "Conventional monohulls are used, but the largest crane vessels are often catamaran or semi-submersible types as they have increased stability."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cataclysmic",
+    "catalogue",
+    "catalyst",
+    "catalytic",
+    "catamaran",
+    "catapult",
+    "cataract",
+    "catarrh",
+    "catastrophe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365117_2def8b671b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365117_9978185107_o.png",
+      "id_image": "catamaran_1403929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056905_7397709ce2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056905_a59044a58c_o.png",
+      "id_image": "catamaran_3117935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435408_29149b5489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435408_89da0e50db_o.png",
+      "id_image": "catamaran_450909"
+    }
+  ]
+}

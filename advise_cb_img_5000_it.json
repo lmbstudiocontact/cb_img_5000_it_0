@@ -1,0 +1,76 @@
+{
+  "english": "advise",
+  "phat_am": "ədˈvaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khuyên",
+          "definition": "to give advice to; to recommend",
+          "world_new": [
+            "advice",
+            "recommend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My lawyer advised me not to speak to any journalists.",
+              "world_new": [
+                "lawyer",
+                "speak"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo cho biết",
+          "definition": "(with of) to inform",
+          "world_new": [
+            "inform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This letter is to advise you of our interest in your proposal.",
+              "world_new": [
+                "letter",
+                "our",
+                "interest",
+                "your",
+                "proposal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once again, historians are well advised to follow their basic precepts concerning evidence, asking themselves who has produced a particular document and why.",
+    "However, if the physician considered that the method of choice was not suited to a woman, she was advised to accept an alternative contraceptive.",
+    "The chaplain's role is not about advising, intervening, or even offering insight.",
+    "In the past, parents in a bilingual setting have often been advised to use a one person-one language input condition.",
+    "Institutions planning a program of ambulatory breast cancer surgery would be well advised to review the strategies recommended in this article.",
+    "In order to preserve blinding, participants were repeatedly advised not to discuss specific treatment services with blinded follow-up interviewers.",
+    "Participants were advised to study each pair and to rate it for semantic similarity or dissimilarity using one of the 5-point rating formats.",
+    "Who could bar from full legal status the men she advises?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "advertising",
+    "advice",
+    "advisability",
+    "advisable",
+    "advise",
+    "adviser",
+    "advisory",
+    "advocate",
+    "aerial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056010_91e881fe8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056010_ace45ea708_o.png",
+      "id_image": "advise_1732734"
+    }
+  ]
+}

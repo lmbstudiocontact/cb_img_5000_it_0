@@ -1,0 +1,158 @@
+{
+  "english": "blind",
+  "phat_am": "blaind",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mù",
+          "definition": "not able to see",
+          "world_new": [
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blind man."
+            }
+          ]
+        },
+        {
+          "mean_english": "không nhìn thấy",
+          "definition": "(with to) unable to notice",
+          "world_new": [
+            "unable",
+            "notice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is blind to his faults."
+            }
+          ]
+        },
+        {
+          "mean_english": "không rõ ràng",
+          "definition": "hiding what is beyond",
+          "world_new": [
+            "hiding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blind corner.",
+              "world_new": [
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiếm thị",
+          "definition": "of or for blind people",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blind school.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rèm",
+          "definition": "a screen to prevent light coming through a window etc",
+          "world_new": [
+            "screen",
+            "prevent",
+            "light",
+            "window"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sunlight is too bright – pull down the blinds!",
+              "world_new": [
+                "sunlight",
+                "bright",
+                "pull"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái cớ",
+          "definition": "something intended to mislead or deceive",
+          "world_new": [
+            "mislead",
+            "deceive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did that as a blind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm mù",
+          "definition": "to make blind",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was blinded in the war.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "blinding",
+    "blindly",
+    "blindness",
+    "blind alley",
+    "blindfold",
+    "blind spot",
+    "the blind leading the blind"
+  ],
+  "list_browse": [
+    "blessedness",
+    "blessing",
+    "blight",
+    "blimey",
+    "blind",
+    "blind alley",
+    "blind spot",
+    "blindfold",
+    "blinding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330321_8c06af8d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330321_0ef832006f_o.png",
+      "id_image": "blind_1075050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330286_587a0b26c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330286_4782770519_o.png",
+      "id_image": "blind_1467292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330251_51e7d47500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330251_a32362314d_o.png",
+      "id_image": "blind_2395075"
+    }
+  ]
+}

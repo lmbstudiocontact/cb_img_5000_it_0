@@ -1,0 +1,290 @@
+{
+  "english": "catch",
+  "phat_am": "kӕtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt lấy",
+          "definition": "to stop and hold (something which is moving); to capture",
+          "world_new": [
+            "stop",
+            "hold",
+            "capture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He caught the cricket ball",
+              "world_new": [
+                "cricket",
+                "ball"
+              ]
+            },
+            {
+              "ex_of_definition": "The cat caught a mouse",
+              "world_new": [
+                "cat",
+                "mouse"
+              ]
+            },
+            {
+              "ex_of_definition": "Did you catch any fish?",
+              "world_new": [
+                "fish"
+              ]
+            },
+            {
+              "ex_of_definition": "I tried to catch his attention.",
+              "world_new": [
+                "I",
+                "attention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên tàu, xe",
+          "definition": "to be in time for, or get on (a train, bus etc)",
+          "world_new": [
+            "time",
+            "train",
+            "bus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have to catch the 9.45 (train) to London."
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt gặp",
+          "definition": "to surprise (someone) in the act of",
+          "world_new": [
+            "surprise",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I caught him stealing (my vegetables).",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mắc bệnh",
+          "definition": "to become infected with (a disease or illness)",
+          "world_new": [
+            "become",
+            "infected",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He caught flu.",
+              "world_new": [
+                "flu"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vướng vào",
+          "definition": "to (cause to) become accidentally attached or held",
+          "world_new": [
+            "become",
+            "accidentally",
+            "attached"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child caught her fingers in the car door.",
+              "world_new": [
+                "child",
+                "car",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giáng vào",
+          "definition": "to hit",
+          "world_new": [
+            "hit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The punch caught him on the chin.",
+              "world_new": [
+                "punch",
+                "chin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cố gắng nghe",
+          "definition": "to manage to hear",
+          "world_new": [
+            "manage",
+            "hear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you catch what she said?"
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt lửa",
+          "definition": "to start burning",
+          "world_new": [
+            "start"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I dropped a match on the pile of wood and it caught (fire) immediately.",
+              "world_new": [
+                "I",
+                "match",
+                "pile",
+                "wood",
+                "immediately"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú bắt",
+          "definition": "an act of catching",
+          "world_new": [
+            "act",
+            "catching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took a fine catch behind the wicket.",
+              "world_new": [
+                "fine",
+                "wicket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái gài",
+          "definition": "a small device for holding (a door etc) in place",
+          "world_new": [
+            "small",
+            "device",
+            "door",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The catch on my suitcase is broken.",
+              "world_new": [
+                "my",
+                "suitcase",
+                "broken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh bắt cá",
+          "definition": "the total amount (of eg fish) caught",
+          "world_new": [
+            "total",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the largest catch of mackerel this year.",
+              "world_new": [
+                "mackerel",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái bẫy",
+          "definition": "a trick or problem",
+          "world_new": [
+            "trick",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a catch in this question.",
+              "world_new": [
+                "question"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fishing vessels came alongside and sold their catch.",
+    "An ideology was needed to explain why it was that some people were not caught up in the neutralist struggle to avoid civil war altogether.",
+    "This paper extends these models by considering a fishery crime that generates a flow of returns until the offender is caught and then punished.",
+    "In fact, many women's texts are caught between contradictory definitions of femininity seeking to either synthesize or transcend them.",
+    "For this rabbit strategy let hits denote a random variable counting how often the hunter catches the rabbit.",
+    "Coverage and vaccine efficacy influences the number of cases at equilibrium whereas catch-up programmes do not.",
+    "In contrast, few dioecious fig pollinators were caught and the turnover of species between years was substantial.",
+    "Disciplinary measures were used including fines for pupils caught speaking the dialect on school campus."
+  ],
+  "list_see_also": [
+    "catching",
+    "catchy",
+    "catchphrase",
+    "catch someone’s eye",
+    "catch on",
+    "catch out",
+    "catch up"
+  ],
+  "list_browse": [
+    "catastrophe",
+    "catastrophic",
+    "catastrophically",
+    "catcall",
+    "catch",
+    "catch (someone) napping",
+    "catch (someone) on the hop",
+    "catch fire",
+    "catch on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364837_ec5a7f723c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364837_9e0ed904d2_o.png",
+      "id_image": "catch_1529260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320041_9614cb7a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320041_4bdb436737_o.png",
+      "id_image": "catch_3075325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320026_32dae382bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320026_9461880a00_o.png",
+      "id_image": "catch_4610960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364727_569894c9c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364727_51a067abd1_o.png",
+      "id_image": "catch_4615462"
+    }
+  ]
+}

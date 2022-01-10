@@ -1,0 +1,77 @@
+{
+  "english": "businessman",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà doanh nghiệp; thương gia",
+          "definition": "a person who makes a living from some form of trade or commerce, not from one of the professions",
+          "world_new": [
+            "person",
+            "living",
+            "form",
+            "trade",
+            "commerce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a management training school for local businessmen.",
+              "world_new": [
+                "management",
+                "training",
+                "school",
+                "local"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For a businessman looking for well-known singers to make records, opera singers were an obvious choice.",
+    "He is a self-employed businessman and serving on the team took time away from his business.",
+    "The businessman is only the go-between, not the investor.",
+    "Gray had been replaced not by another figure from the political or ideological world but by a businessman.",
+    "Business consensus was most remarkable given the typical businessman's attitude which is self-regarding, short-term and competitive vis-a-vis other businessmen.",
+    "It brings the perspectives of the academic historian subsequently turned businessman to the study of a group often ignored by some historians.",
+    "At that point her material circumstances improved considerably (her new husband was a wealthy businessman) and they lived in owner-occupied houses or expensively rented flats.",
+    "The successful businessman was both an idol and an ideal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bushy",
+    "busily",
+    "business",
+    "businesslike",
+    "businessman",
+    "bust",
+    "bustle",
+    "busy",
+    "but"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663734_73f6f789bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663734_edc4716935_o.png",
+      "id_image": "businessman_1441957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308491_7aa663fb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308491_77952c5e5f_o.png",
+      "id_image": "businessman_5345569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352702_d80da6f9bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352702_c33e5a8b9e_o.png",
+      "id_image": "businessman_548518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308541_73f6f789bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308541_e009712172_o.png",
+      "id_image": "businessman_773374"
+    }
+  ]
+}

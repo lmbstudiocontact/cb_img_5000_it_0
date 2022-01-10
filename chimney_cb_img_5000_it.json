@@ -1,0 +1,74 @@
+{
+  "english": "chimney",
+  "phat_am": "ˈtʃimni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống khói",
+          "definition": "a passage for the escape of smoke etc from a fireplace or furnace",
+          "world_new": [
+            "passage",
+            "escape",
+            "smoke",
+            "fireplace",
+            "furnace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a factory chimney.",
+              "world_new": [
+                "factory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In fact, we must get more smoke going up chimneys even when it is clean.",
+    "If so, when can we expect to see little boys going up chimneys again?",
+    "The main requirements are likely to be an increase in the height of chimneys, improved combustion and monitoring and sampling of emissions.",
+    "In the industrialized areas the atmosphere is polluted by smoke from domestic and factory chimneys and gaseous effluent from a wide variety of factories, motor vehicles and diesel locomotives.",
+    "They have not renovated the roofs or the chimneys.",
+    "Their sums are connected with the price of soot and the price of sweeping chimneys.",
+    "There is also a deep understanding of the value of continually reminding coal consumers of the dangers from unswept chimneys, blocked flues and poor ventilation.",
+    "I refer in particular to the great waste of energy from ordinary domestic chimneys."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chilli",
+    "chilliness",
+    "chilly",
+    "chime",
+    "chimney",
+    "chimpanzee",
+    "chin",
+    "china",
+    "chink"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664359_66c6a87a39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664359_fb68688e77_o.png",
+      "id_image": "chimney_257530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046040_e5849624d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046040_7023989785_o.png",
+      "id_image": "chimney_288564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309021_5430cb1080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309021_eef282ec78_o.png",
+      "id_image": "chimney_6248285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664259_c81bf6d3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664259_f2ea136a83_o.png",
+      "id_image": "chimney_6249580"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "cage",
+  "phat_am": "keidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuồng",
+          "definition": "a box of wood, wire etc for holding birds or animals",
+          "world_new": [
+            "box",
+            "wood",
+            "wire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lion has escaped from its cage",
+              "world_new": [
+                "lion",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "a birdcage."
+            }
+          ]
+        },
+        {
+          "mean_english": "thang máy trong mỏ",
+          "definition": "a lift in a mine",
+          "world_new": [
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The miners enter a steel cage which descends down the mineshaft.",
+              "world_new": [
+                "enter",
+                "steel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhốt vào chuồng",
+          "definition": "to put in a cage",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some people think that it is cruel to cage wild animals.",
+              "world_new": [
+                "people",
+                "think",
+                "cruel",
+                "wild"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Traps were installed overnight and captured specimens were kept in cages in humid and cold conditions.",
+    "The flies were five days old and had been starved for 24 h before the gels were introduced in to the cages.",
+    "Collections from trap cages were at 30 min intervals.",
+    "Furthermore, during the experimental period there were no significant differences in infection rates between the cages.",
+    "To determine the actual fertility, for several seasons newly moulted males and females were kept until their death in outside wire cages.",
+    "No difference in larval survival was detected for caged larvae between habitats (table 1).",
+    "At the end of the experiment, the plants and the internal surface of the cages were inspected to record nymphs.",
+    "Correspondingly, sample fish were maintained in cages, artificially fed and treated with therapeutic products when necessary."
+  ],
+  "list_see_also": [
+    "cagebird"
+  ],
+  "list_browse": [
+    "café",
+    "cafeteria",
+    "caffeine",
+    "caftan",
+    "cage",
+    "cagebird",
+    "cagey",
+    "caginess",
+    "cagoule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043550_f829a4d3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043550_6966dccef2_o.png",
+      "id_image": "cage_257510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421653_db600c1a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421653_675eddb31f_o.png",
+      "id_image": "cage_3841056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421633_698142bfc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421633_6d1a219093_o.png",
+      "id_image": "cage_5291964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661844_2f897a74c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661844_26ce6bcfea_o.png",
+      "id_image": "cage_877127"
+    }
+  ]
+}

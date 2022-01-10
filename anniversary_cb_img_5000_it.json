@@ -1,0 +1,69 @@
+{
+  "english": "anniversary",
+  "phat_am": "ӕnəˈvəːsəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lễ kỷ niệm",
+          "definition": "the day of the year on which something once happened and is remembered",
+          "world_new": [
+            "day",
+            "year",
+            "once"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We celebrated our fifth wedding anniversary.",
+              "world_new": [
+                "celebrated",
+                "our",
+                "wedding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accordingly, it is worth reevaluating this classic on the fortieth anniversary of its first publication.",
+    "A similar assessment was conducted at the time of the recipient's third anniversary of their transplant.",
+    "As a related special event, the 20th anniversary of two-level morphology was celebrated.",
+    "The true anniversary system was intact, but the count of the anniversaries was not.",
+    "That is, was the 1558 \"anniversary\" date - at 140 rather than 400 days after the 1557 anniversary-used as the base for future anniversaries?",
+    "The anniversary statements indicate the day on which the 400day year ended.",
+    "It was the tenth anniversary of his first major hit, a track often cited as the single inspiration for the global techno scene.",
+    "Libations, funeral anniversaries, pictures, tombs, houses and inscriptions on the wall : all contribute to the remembrance and help to maintain the concept of ancestor."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "annex",
+    "annexation",
+    "annihilate",
+    "annihilation",
+    "anniversary",
+    "announce",
+    "announcement",
+    "announcer",
+    "annoy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666769_45ed934d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666769_b21490de5a_o.png",
+      "id_image": "anniversary_3316672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355897_8e2634589d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355897_5fa08176d7_o.png",
+      "id_image": "anniversary_4199010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048480_1432398e46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048480_4a503d241d_o.png",
+      "id_image": "anniversary_769676"
+    }
+  ]
+}

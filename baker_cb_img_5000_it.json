@@ -1,0 +1,89 @@
+{
+  "english": "baker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người làm bánh mì",
+          "definition": "a person who bakes",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a qualified baker",
+              "world_new": [
+                "qualified"
+              ]
+            },
+            {
+              "ex_of_definition": "She is a good baker."
+            }
+          ]
+        },
+        {
+          "mean_english": "người bán bánh mì",
+          "definition": "a baker’s shop",
+          "world_new": [
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need to go to the baker to get some bread.",
+              "world_new": [
+                "I",
+                "bread"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A great many of them were of trifling importance, such as bakers, barbers, etc.",
+    "They would pay it out of the bakers' pockets and the pockets of the consuming public.",
+    "The information available to me does not confirm the suggestion that bakers have stored on their own premises four months' supply of flour.",
+    "Their bellies grumbling, the village mounts a collective effort to return the baker's wife to her conjugal duty.",
+    "Other sources name bakers and piebakers, boatmen and shipmen.",
+    "We informed bakers immediately when the decision to end the bread subsidy was taken.",
+    "I have a word to say to the bakers and the traders who are concerned.",
+    "The subsidy is based on the return which bakers would have had if the price increases had gone ahead."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "baize",
+    "bake",
+    "baked",
+    "baked beans",
+    "baker",
+    "bakery",
+    "baking",
+    "baking powder",
+    "balance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364122_6ef32e5386_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364122_fcfb5beda0_o.png",
+      "id_image": "baker_2278601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319396_655d8e5fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319396_f1f84a373d_o.png",
+      "id_image": "baker_3449406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364067_8d848dff32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364067_0593b07fef_o.png",
+      "id_image": "baker_4633076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434583_a519947b76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434583_59b489f27c_o.png",
+      "id_image": "baker_817282"
+    }
+  ]
+}

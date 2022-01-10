@@ -1,0 +1,179 @@
+{
+  "english": "class",
+  "phat_am": "klaːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạng",
+          "definition": "a group of people or things that are alike in some way",
+          "world_new": [
+            "group",
+            "people",
+            "alike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their Labrador won first prize in its class in the dog show.",
+              "world_new": [
+                "Labrador",
+                "prize",
+                "its",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giai cấp",
+          "definition": "(the system according to which people belong to) one of a number of economic/social groups",
+          "world_new": [
+            "system",
+            "people",
+            "belong",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the upper class",
+              "world_new": [
+                "upper"
+              ]
+            },
+            {
+              "ex_of_definition": "the middle class",
+              "world_new": [
+                "middle"
+              ]
+            },
+            {
+              "ex_of_definition": "the working class"
+            },
+            {
+              "ex_of_definition": "(also adjective) the class system.",
+              "world_new": [
+                "system"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng lớp",
+          "definition": "a grade or rank (of merit)",
+          "world_new": [
+            "grade",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "musicians of a high class."
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp",
+          "definition": "a number of students or scholars taught together",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John and I are in the same class.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài học",
+          "definition": "a school lesson or college lecture etc",
+          "world_new": [
+            "school",
+            "lesson",
+            "college",
+            "lecture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a French class.",
+              "world_new": [
+                "French"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoá học",
+          "definition": "a course or series of lectures, often leading to an examination.",
+          "world_new": [
+            "course",
+            "series",
+            "examination"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xếp hạng",
+          "definition": "to regard as being of a certain type",
+          "world_new": [
+            "regard",
+            "certain",
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He classes all politicians as dishonest.",
+              "world_new": [
+                "dishonest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "classy",
+    "classmate",
+    "classroom"
+  ],
+  "list_browse": [
+    "clarinettist",
+    "clarity",
+    "clash",
+    "clasp",
+    "class",
+    "classic",
+    "classical",
+    "classification",
+    "classified"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349397_e5a9fe7dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349397_c7ac585002_o.png",
+      "id_image": "class_1058534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660594_f987a27659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660594_451107c706_o.png",
+      "id_image": "class_1058537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660554_810220c7e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660554_dd4669ab7e_o.png",
+      "id_image": "class_4861747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305181_1d83a85e3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305181_9911f535ea_o.png",
+      "id_image": "class_508064"
+    }
+  ]
+}

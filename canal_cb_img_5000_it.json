@@ -1,0 +1,88 @@
+{
+  "english": "canal",
+  "phat_am": "kəˈnӕl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kênh đào",
+          "definition": "a (usually narrow) man-made waterway",
+          "world_new": [
+            "man-made",
+            "waterway"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "barges on the canal"
+            },
+            {
+              "ex_of_definition": "the Panama Canal."
+            }
+          ]
+        },
+        {
+          "mean_english": "ống",
+          "definition": "a passage in the body carrying fluids, food etc",
+          "world_new": [
+            "passage",
+            "body",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the alimentary canal.",
+              "world_new": [
+                "alimentary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the questionnaire, we had a section that collected information on the time spent on collective and supervisory activities in managing canals.",
+    "It is unknown whether these features represent ancient causeways or canals or are due to recent landscape modification.",
+    "In this specimen, the caecal union occurs posterior to the internal seminal vesicle and immediately prior to the gynecophoric canal.",
+    "He concluded that infection might result from the insects regurgitating the contents of their alimentary canal into the wound in the act of feeding.",
+    "Irrigation with canal water resulted in a 115 % increase in forage yield compared with the saline drainage water.",
+    "The excretory system, including two anterior and two posterior lateral canals, is visible.",
+    "Anteriorly, the granules are much more numerous, almost filling the cytoplasm, surrounding small blind-ending canals.",
+    "The major limiting factor is the drainage conditions for upland crops, the area near the canal being the most suitable for these crops."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "campus",
+    "can",
+    "can opener",
+    "can-can",
+    "canal",
+    "canary",
+    "cancel",
+    "cancel out",
+    "cancellation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041125_47d2f85a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041125_86e580df28_o.png",
+      "id_image": "canal_1076293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041105_f12098bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041105_76f067d49a_o.png",
+      "id_image": "canal_1485722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041080_a2b395f6fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041080_5f89cf20fc_o.png",
+      "id_image": "canal_3152759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348387_215f044800_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348387_360b3d8838_o.png",
+      "id_image": "canal_3701310"
+    }
+  ]
+}

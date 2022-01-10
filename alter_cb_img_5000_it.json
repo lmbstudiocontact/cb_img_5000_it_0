@@ -1,0 +1,70 @@
+{
+  "english": "alter",
+  "phat_am": "ˈoːltə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thay đổi",
+          "definition": "to make or become different; to change",
+          "world_new": [
+            "become",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you alter this dress (to fit me)?",
+              "world_new": [
+                "dress",
+                "fit"
+              ]
+            },
+            {
+              "ex_of_definition": "The town has altered a lot in the last two years.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A more extensive investigation would have widened the scope, but is unlikely to have altered the results in any significant way.",
+    "These observations suggest that identifying the risk and protective factors that may alter individual trajectories is of significance.",
+    "The optical properties of the device can be altered by applying a field whose distorting influence on the liquid crystal opposes that of the surfaces.",
+    "These findings highlight that conditions of seed storage can alter seed dormancy, and hence, influence their response to stimulants such as smoke water.",
+    "Alternative specifications, such as including exploration costs into our model or different assumptions about future world oil prices, could alter our results.",
+    "It is possible that such differences could alter the risk of death predicted by our model.",
+    "However, if certain extreme scenarios are considered, interpretation of the results may not be significantly altered.",
+    "However, the lyrics were reputedly altered a great deal when the band performed the song at a private party or in someone's house."
+  ],
+  "list_see_also": [
+    "alteration"
+  ],
+  "list_browse": [
+    "already",
+    "alright",
+    "also",
+    "altar",
+    "alter",
+    "alteration",
+    "altercation",
+    "alternate",
+    "alternately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670014_d9f00f8fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670014_2250f37389_o.png",
+      "id_image": "alter_5360632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051855_28b7665ecc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051855_7c5d20aa93_o.png",
+      "id_image": "alter_5398307"
+    }
+  ]
+}

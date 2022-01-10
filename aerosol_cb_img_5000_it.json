@@ -1,0 +1,78 @@
+{
+  "english": "aerosol",
+  "phat_am": "ˈeərəsol",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình phun",
+          "definition": "a mixture of liquid or solid particles and gas under pressure which is released from a container in the form of a mist",
+          "world_new": [
+            "mixture",
+            "liquid",
+            "solid",
+            "gas",
+            "pressure",
+            "container",
+            "form",
+            "mist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many deodorants come in the form of aerosols",
+              "world_new": [
+                "form"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an aerosol spray.",
+              "world_new": [
+                "spray"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They can be sniffed directly from a can, tin or bottle, or aerosols can be sprayed directly into the mouth or nose.",
+    "The use of aerosols has become a distressingly frequent practice that can cause death very quickly — it takes seconds rather than minutes.",
+    "The main emphasis is on the type of optional regulation to which the proposal on aerosols belongs.",
+    "We have no immediate plans to extend this monitoring to acid aerosols.",
+    "They would, however, be obliged to allow the import of aerosols which did comply with the regulations.",
+    "I am aware of the rapid increase in the manufacture of aerosols in this country.",
+    "The advisory group has published reports on ozone and on sulphur dioxide, acid aerosols and particulates.",
+    "We have been talking about aerosols, and essences which have an almost medieval air about them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aerodynamics",
+    "aeronautical",
+    "aeronautics",
+    "aeroplane",
+    "aerosol",
+    "aerospace",
+    "aesthetic",
+    "aesthetically",
+    "aesthetics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434368_6bfa162cdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434368_d793bee52f_o.png",
+      "id_image": "aerosol_3071476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363847_e88d87e36b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363847_5dc110095b_o.png",
+      "id_image": "aerosol_4097661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434313_fbf6270784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434313_aee89a4535_o.png",
+      "id_image": "aerosol_5220033"
+    }
+  ]
+}

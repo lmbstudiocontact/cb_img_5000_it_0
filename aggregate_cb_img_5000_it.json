@@ -1,0 +1,72 @@
+{
+  "english": "aggregate",
+  "phat_am": "ˈӕɡriɡət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tổng số",
+          "definition": "a total",
+          "world_new": [
+            "total"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the aggregate of goals from the two football matches?",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tổng số",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an aggregate total of $5,500.",
+              "world_new": [
+                "total"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now with multiple objectives to management, foresters have to deal with aggregating disparate social preferences into a common plan.",
+    "Protofibrils, pores, fibrils, and neurodegeneration: separating the responsible protein aggregates from the innocent bystanders.",
+    "Political institutions and procedures provide means by which various kinds of information can be aggregated, thus forming vital channels of communication.",
+    "To do so history still needs to find ways of aggregating, not just particularizing, its subjects.",
+    "In the liver, only single macrophages were dispersed in the hepatic parenchyma, where they never aggregated and never contained melanin.",
+    "The overall magnitude of visual input enhancement was addressed by calculating and aggregating effect size d values.",
+    "The microenvironment created by nonblocking embryos in aggregates may rescue blocking embryos via cell-embryo adherent contacts.",
+    "The ultimate effects of initial cost internalization on economic aggregates would have to be modelled according to prevailing price elasticities and technological (production) structures."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "agent",
+    "aggravate",
+    "aggravating",
+    "aggravation",
+    "aggregate",
+    "aggression",
+    "aggressive",
+    "aggressively",
+    "aggressiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363172_1b92539b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363172_49c18b0efa_o.png",
+      "id_image": "aggregate_2519351"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "buttonhole",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuyết áo",
+          "definition": "the hole or slit into which a button is put.",
+          "world_new": [
+            "hole",
+            "slit",
+            "button"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "níu ai lại",
+          "definition": "to catch someone’s attention and hold him in conversation",
+          "world_new": [
+            "catch",
+            "attention",
+            "hold",
+            "conversation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He buttonholed me and began telling me the story of his life.",
+              "world_new": [
+                "telling",
+                "story",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The zona orbicularis acts like a buttonhole on the femoral head and assists in maintaining the contact in the joint.",
+    "He was exquisitely dressed with an orchid in his buttonhole, gold-topped cane and gloves.",
+    "Occasionally bars of buttonhole stitches are worked over fabric and net before both are cut away.",
+    "She has had a loss in her family lately, which perhaps accounts for the lack of triviality your lordship complains of in the buttonhole.",
+    "Lapels also have a buttonhole, intended to hold a boutonnire, a decorative flower.",
+    "Every day he arrived with a fresh red rose in his buttonhole.",
+    "Linen embroidered with silk and metallic thread, in a mix of counted and free-stitched stitches, including buttonhole, chain, double running, overcast, plaited braid, and square open work stitches.",
+    "The fabric is simply folded over and the buttonhole stitching secures the two layers (or three layers if there is an interlining)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "butterscotch",
+    "buttery",
+    "buttock",
+    "button",
+    "buttonhole",
+    "buttress",
+    "buxom",
+    "buy",
+    "buzz"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422828_44df8b05e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422828_d8ed7a0981_o.png",
+      "id_image": "buttonhole_1718242"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "adventure",
+  "phat_am": "ədˈventʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến phiêu lưu",
+          "definition": "a bold or exciting undertaking or experience",
+          "world_new": [
+            "bold",
+            "exciting",
+            "undertaking",
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrote a book about his adventures in the Antarctic.",
+              "world_new": [
+                "book",
+                "Antarctic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His remark about women being ' greedy for experiment' suggests disapproval of women's supposedly increased appetite for adventure in both the bedroom and the workplace.",
+    "The journals are full of adventure and document the highs and lows that he encountered while doing anthropological fieldwork.",
+    "He loved adventure and to test his powers; he had great self-confidence.",
+    "Reading the narrative allows the reader to enter a world of adventure that contrasts highly with the cruel world of war.",
+    "Objections to boundary crossing occur when notions of purity, cultural significance and context-specificity clash with innovation, exploration and adventure.",
+    "An exciting adventure story and very well told, all this takes up about two-fifths of the text.",
+    "Explorers were much read and talked about and their adventures were re-enacted in lecture halls, theatres, and in all manner of visual entertainments.",
+    "They had love, they had passion, they had heroism, they had adventure, they had shared adventure, they had sons."
+  ],
+  "list_see_also": [
+    "adventurer",
+    "adventurous",
+    "adventurously"
+  ],
+  "list_browse": [
+    "advantage",
+    "advantageous",
+    "advantageously",
+    "advent",
+    "adventure",
+    "adventurer",
+    "adventurous",
+    "adventurously",
+    "adverb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056620_a5e31584b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056620_569894c9c7_o.png",
+      "id_image": "adventure_2267658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674944_f0716e3698_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674944_8c65d3a6e0_o.png",
+      "id_image": "adventure_2533743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435038_e37aa22f76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435038_8d7e11f07f_o.png",
+      "id_image": "adventure_5998537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674839_e7c0581f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674839_ee7e3f3076_o.png",
+      "id_image": "adventure_6192827"
+    }
+  ]
+}

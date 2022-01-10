@@ -1,0 +1,147 @@
+{
+  "english": "calm",
+  "phat_am": "kaːm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "êm đềm",
+          "definition": "still or quiet",
+          "world_new": [
+            "quiet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a calm sea",
+              "world_new": [
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "The weather was calm.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình tĩnh",
+          "definition": "not anxious or excited",
+          "world_new": [
+            "anxious",
+            "excited"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a calm person/expression"
+            },
+            {
+              "ex_of_definition": "Please keep calm!",
+              "world_new": [
+                "keep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự êm ả",
+          "definition": "(a period of) absence of wind and large waves",
+          "world_new": [
+            "period",
+            "absence",
+            "wind",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the calm before a storm.",
+              "world_new": [
+                "storm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự yên tĩnh",
+          "definition": "peace and quiet",
+          "world_new": [
+            "peace",
+            "quiet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He enjoyed the calm of the library.",
+              "world_new": [
+                "library"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bình tĩnh",
+          "definition": "to make calm",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Calm yourself!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There can be long calms and deep peace.",
+    "I hope this message will be distributed when we get calmed down.",
+    "To some extent, though not entirely, that calms my disquiet.",
+    "Each day more information becomes available about this particular case, and the public is in no way calmed about it.",
+    "The calming 2 is a calming 2 - you don't need to make much movement - and the agitated 4 is of course agitated because of the doubling of the movement.",
+    "He now seems to have calmed down somewhat.",
+    "Whilst the hostility towards the commission soon dissipated in the calmer cultural climate of the 1850s, the excitement that had attended its activities during the 1840s was replaced by indifference.",
+    "Your spirit and soul are calmed; it really is a paradise."
+  ],
+  "list_see_also": [
+    "calmly",
+    "calmness",
+    "calm down"
+  ],
+  "list_browse": [
+    "calling",
+    "callous",
+    "callously",
+    "callousness",
+    "calm",
+    "calm down",
+    "calmly",
+    "calmness",
+    "calorie"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305251_4ab8bf0df7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305251_999e65e8de_o.png",
+      "id_image": "calm_2598831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420343_6c92d92c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420343_1f74af1442_o.png",
+      "id_image": "calm_552417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349437_2b5bec8f3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349437_1f46b022bb_o.png",
+      "id_image": "calm_6000760"
+    }
+  ]
+}

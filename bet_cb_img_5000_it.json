@@ -1,0 +1,100 @@
+{
+  "english": "bet",
+  "phat_am": "bet",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh cuộc",
+          "definition": "(often with on) to gamble (usually with money) eg on a racehorse",
+          "world_new": [
+            "gamble",
+            "racehorse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes betting on the horses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đánh cược",
+          "definition": "an act of betting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I won my bet with Mike.",
+              "world_new": [
+                "I",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền cá độ",
+          "definition": "a sum of money betted",
+          "world_new": [
+            "sum",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Place your bets.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She was a mild-mannered person, but when she wanted something, you bet your life she got it, both with her parents and with me.",
+    "Since the present participles form the most common cases, forgetting, letting, shutting, and betting might also be expected to exhibit t-to-r.",
+    "On this account, subjects look at the worst possible outcome for each bet, and choose between bets accordingly.",
+    "Clearly here an axiom of interpretation is being invoked, rather than a bet about the states of mind of the population.",
+    "But we bet you believe in a larger body of knowledge than really is necessary.",
+    "The materials do not hedge their bets and never patronise pupils.",
+    "His chapter on gambling is the best (practically the only) modern account and includes a convincing reconstruction of how to bet on the chariot races.",
+    "In manic patients, the ' conservative ' tendency to bet less than controls on favourable outcomes appears superficially at odds with their poor quality or ' risky ' decisions."
+  ],
+  "list_see_also": [
+    "betting shop",
+    "an even bet",
+    "take a bet",
+    "you bet"
+  ],
+  "list_browse": [
+    "best man",
+    "bestow",
+    "bestowal",
+    "bestseller",
+    "bet",
+    "betray",
+    "betrayal",
+    "betrayer",
+    "betroth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662374_77a80b6f1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662374_4e534bf0a3_o.png",
+      "id_image": "bet_1901792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662339_1ed8586db1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662339_441a40af92_o.png",
+      "id_image": "bet_3824067"
+    }
+  ]
+}

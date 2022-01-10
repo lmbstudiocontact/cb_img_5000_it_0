@@ -1,0 +1,78 @@
+{
+  "english": "archaeology",
+  "phat_am": "aːkiˈolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khảo cổ học",
+          "definition": "the study of objects belonging to ancient times (eg buildings, tools etc found in the earth)",
+          "world_new": [
+            "study",
+            "ancient",
+            "times",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the university’s Department of Archaeology."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The result is a very static, either/or type of archaeology.",
+    "Does that mean that it is completely separated from archaeology?",
+    "Current socio-political problems and a certain pressure for justification of its existence demand archaeology to contribute to present public debates.",
+    "A brief survey of continental traditions in archaeology convincingly demonstrates the constantly varying approach to international debate and shows the different aspects emphasized.",
+    "But archaeology should be engaged in examining exactly how subjects were constituted in the past in relation to specific sociopolitical apparatuses.",
+    "Not surprisingly, archaeology was soon drawn into this debate.",
+    "These points are critical for the study of prehistoric archaeology.",
+    "So time is not just the subject matter of archaeology: archaeology itself belongs to history, and culture is not just the opposite of nature."
+  ],
+  "list_see_also": [
+    "archaeological",
+    "archaeologist"
+  ],
+  "list_browse": [
+    "arch",
+    "arch-enemy",
+    "archaeological",
+    "archaeologist",
+    "archaeology",
+    "archaic",
+    "archangel",
+    "archbishop",
+    "arched"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662284_c58c25c844_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662284_c29c67ca53_o.png",
+      "id_image": "archaeology_2201533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662244_810f894bef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662244_c67b9aaedd_o.png",
+      "id_image": "archaeology_4125941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422023_d3d973aa75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422023_da6066f928_o.png",
+      "id_image": "archaeology_4125968"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421993_263fd12400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421993_6c2ec158f2_o.png",
+      "id_image": "archaeology_4125989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350992_43dac261a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350992_7c2846ba13_o.png",
+      "id_image": "archaeology_4127068"
+    }
+  ]
+}

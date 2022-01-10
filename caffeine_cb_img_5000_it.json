@@ -1,0 +1,68 @@
+{
+  "english": "caffeine",
+  "phat_am": "ˈkӕfiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "caphêin",
+          "definition": "a drug found in coffee and tea",
+          "world_new": [
+            "drug",
+            "found",
+            "coffee",
+            "tea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many over-the-counter medications contain caffeine.",
+              "world_new": [
+                "contain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Participants were permitted to use their typical amounts of tobacco and caffeine in order to avoid confounds associated with nicotine or caffeine withdrawal.",
+    "The initial fertility consultation: recommendations concerning cigarette smoking, body mass index, and alcohol and caffeine consumption.",
+    "These results clearly indicate that caffeine treatment during prolonged maturation culture decreases the frequency of development to the blastocyst stage but not embryo quality.",
+    "The authors found that doses of caffeine higher than 450 g/ml in the culture medium inhibited oocyte maturation.",
+    "However, slightly increased penetration activity was shown also in spermatozoa incubated with heparin and caffeine (42.3% and 37.3%, respectively).",
+    "They provided the institutional framework for a flourishing culture of caffeine.",
+    "The majority of caffeine-treated oocytes had a germinal vesicle with a nucleolus surrounded by ring- or horseshoe-shaped chromatin.",
+    "However, no study of the effect of caffeine on the meiotic process of porcine oocytes has been performed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cadet",
+    "Caesarean",
+    "café",
+    "cafeteria",
+    "caffeine",
+    "caftan",
+    "cage",
+    "cagebird",
+    "cagey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661929_3b01473f10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661929_992952b331_o.png",
+      "id_image": "caffeine_329797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350707_8848e258b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350707_06071d0749_o.png",
+      "id_image": "caffeine_3475350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350682_07e923537c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350682_29b8a0ae1b_o.png",
+      "id_image": "caffeine_6316184"
+    }
+  ]
+}

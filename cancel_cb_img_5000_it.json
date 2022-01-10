@@ -1,0 +1,106 @@
+{
+  "english": "cancel",
+  "phat_am": "ˈkӕnsəl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hủy bỏ",
+          "definition": "to decide or announce that (something already arranged etc) will not be done etc",
+          "world_new": [
+            "decide",
+            "announce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cancelled his appointment.",
+              "world_new": [
+                "appointment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng dấu",
+          "definition": "to mark (stamps) with a postmark",
+          "world_new": [
+            "mark",
+            "postmark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used an electric stamp cancelling machine to cancel the mail.",
+              "world_new": [
+                "electric",
+                "stamp",
+                "machine",
+                "mail"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh toán",
+          "definition": "to stop payment of (a cheque/check, subscription etc)",
+          "world_new": [
+            "stop",
+            "payment",
+            "subscription"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Banks usually charge for cancelling a cheque.",
+              "world_new": [
+                "charge",
+                "cheque"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As a result the ceremonies were cancelled and political rule was suspended.",
+    "An agreement is cancelled if the customer gives the seller notice of cancellation within the time this section allows.",
+    "If features are not checked, the derivation crashes; if they mismatch, the derivation is canceled (that is, a different convergent derivation may not be constructed).",
+    "More interestingly, we provide arguments for the view that refixations do not result from saccadic error but are preplanned and sometimes canceled.",
+    "Thus, the effect of the gauge scalar was cancelled.",
+    "Unlike most implicatures, metaphoric meanings aren't easily cancelled.",
+    "After cleaning the data for erroneous entries, cancelled calls, hoax calls, etc, 2781 non-urgent emergency calls with a total of 4310 vehicle journeys were analysed.",
+    "He refused to be silenced any longer, and considered his debt to the emperor to be cancelled."
+  ],
+  "list_see_also": [
+    "cancellation",
+    "cancel out"
+  ],
+  "list_browse": [
+    "can opener",
+    "can-can",
+    "canal",
+    "canary",
+    "cancel",
+    "cancel out",
+    "cancellation",
+    "Cancer",
+    "cancerous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659349_70114e57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659349_52d89be846_o.png",
+      "id_image": "cancel_2456076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040885_6249a88831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040885_0c40f1ee65_o.png",
+      "id_image": "cancel_2597932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659304_289db5b36e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659304_4813eee3a2_o.png",
+      "id_image": "cancel_3037086"
+    }
+  ]
+}

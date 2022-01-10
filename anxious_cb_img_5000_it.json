@@ -1,0 +1,98 @@
+{
+  "english": "anxious",
+  "phat_am": "ˈӕŋkʃəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lo lắng",
+          "definition": "worried about what may happen or have happened",
+          "world_new": [
+            "worried",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is anxious about her father’s health.",
+              "world_new": [
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra nỗi lo âu",
+          "definition": "causing worry, fear or uncertainty",
+          "world_new": [
+            "worry",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were a few anxious moments, but the plane landed safely.",
+              "world_new": [
+                "plane",
+                "safely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rất mong muốn cái gì",
+          "definition": "wanting very much (to do etc something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very anxious to please.",
+              "world_new": [
+                "please"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These findings suggest that there is little evidence that distress-prone infants become anxious-resistant babies.",
+    "This integration allows us to note that the two primary types of insecure attachment, avoidant and anxious-preoccupied, can occur at several developmental levels.",
+    "This in turn will make the patients feel less anxious, less depressed and reduce the common feelings of helplessness that often accompanies cancer patients.",
+    "In their disturbing psychological complexities, glazed over but never concealed by rich aesthetic surfaces, they are anxious portraits of the tormented and divided modern subject.",
+    "Local authority contracts officers and purchasers, anxious not to (be seen to) waste money, therefore generally disliked such contracts.",
+    "Our study found that anxious depression had distinct clinical correlates after adjustment for severity of depression.",
+    "Feeling angry, anxious, frustrated, guilty and uncomfortable when language brokering was associated with more problematic family relations.",
+    "His father, anxious to see his son properly married, seconded the offer."
+  ],
+  "list_see_also": [
+    "anxiously",
+    "anxiety"
+  ],
+  "list_browse": [
+    "antonym",
+    "anus",
+    "anvil",
+    "anxiety",
+    "anxious",
+    "anxiously",
+    "any",
+    "any more",
+    "anybody"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424598_37e988fbb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424598_1bd573449c_o.png",
+      "id_image": "anxious_1612478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046410_56544ded87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046410_0c75ef70e4_o.png",
+      "id_image": "anxious_2307645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046485_1d13065087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046485_0832378fd1_o.png",
+      "id_image": "anxious_708698"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "burglar",
+  "phat_am": "ˈbəːɡlə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ trộm",
+          "definition": "a person who enters a house etc illegally to steal",
+          "world_new": [
+            "person",
+            "house",
+            "illegally",
+            "steal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The burglar stole her jewellery/jewelry."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "burglar alarm",
+    "burglary",
+    "burgle"
+  ],
+  "list_browse": [
+    "bureaucracy",
+    "bureaucrat",
+    "bureaucratic",
+    "burger",
+    "burglar",
+    "burglar alarm",
+    "burglary",
+    "burgle",
+    "burial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664719_173c4229d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664719_a5093b2640_o.png",
+      "id_image": "burglar_1253811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309386_e21a7fb75e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309386_61b4ce748b_o.png",
+      "id_image": "burglar_771313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309376_7ab7987ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309376_c03dd3a3b4_o.png",
+      "id_image": "burglar_773395"
+    }
+  ]
+}

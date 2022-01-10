@@ -1,0 +1,81 @@
+{
+  "english": "auto",
+  "phat_am": "ˈoːtəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe ô tô",
+          "definition": "short for automobile.",
+          "world_new": [
+            "short"
+          ]
+        },
+        {
+          "mean_english": "tự động",
+          "definition": "short for automatic.",
+          "world_new": [
+            "short"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về chính mình",
+          "definition": "for or by oneself or itself",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an autobiography.",
+              "world_new": [
+                "autobiography"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cross section of the auto-ionization is evaluated using detailed balance principle from the electron capture cross section.",
+    "Populists called for free textbooks, a less expensive auto license fee, and pensions for state employees.",
+    "The state assisted under-developed and underqualified auto-parts businesses through market reservations.",
+    "The auto-correlation of a symmetrical pulse is a similar, only slightly wider pulse, showing no negative correlations.",
+    "The average number of stolen autos for every year since then has been 672.",
+    "We have already mentioned that the auto- and cross-correlation function of inflation with other domestic macrovariables is unstable over the sample.",
+    "Autos, taxis and seven seaters all provide a means of transport to different parts of the city.",
+    "Unmetered autos ply across the city charging flat rates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "authorize",
+    "authorship",
+    "autism",
+    "autistic",
+    "auto",
+    "autobiographical",
+    "autobiography",
+    "autocracy",
+    "autocrat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062615_dafa1043b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062615_d4f0f82e22_o.png",
+      "id_image": "auto_1273300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370567_a9a8b3fe18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370567_85c2ecc6f5_o.png",
+      "id_image": "auto_1870845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440758_9031d76ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440758_7867a6b212_o.png",
+      "id_image": "auto_5982567"
+    }
+  ]
+}

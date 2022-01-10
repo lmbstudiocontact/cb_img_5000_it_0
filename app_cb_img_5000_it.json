@@ -1,0 +1,56 @@
+{
+  "english": "app",
+  "phat_am": "æp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ứng dụng",
+          "definition": "a software program designed to do a particular job, especially one that can be downloaded to a mobile device",
+          "world_new": [
+            "software",
+            "program",
+            "particular",
+            "job",
+            "especially",
+            "mobile",
+            "device"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This new app aims to teach children about animals.",
+              "world_new": [
+                "teach"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apology",
+    "apostle",
+    "apostolic",
+    "apostrophe",
+    "app",
+    "appal",
+    "appalling",
+    "appallingly",
+    "apparatus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664379_47b6ea0227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664379_6c913f8d65_o.png",
+      "id_image": "app_2073042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424273_15e86445de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424273_b3f2c93655_o.png",
+      "id_image": "app_287476"
+    }
+  ]
+}

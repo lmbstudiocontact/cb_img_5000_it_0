@@ -1,0 +1,111 @@
+{
+  "english": "afraid",
+  "phat_am": "əˈfreid",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sợ hãi",
+          "definition": "feeling fear or being frightened (of a person, thing etc)",
+          "world_new": [
+            "feeling",
+            "fear",
+            "frightened",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child is not afraid of the dark",
+              "world_new": [
+                "child",
+                "dark"
+              ]
+            },
+            {
+              "ex_of_definition": "She was afraid to go to the dentist.",
+              "world_new": [
+                "dentist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy làm tiếc",
+          "definition": "sorry (to have to say that)",
+          "world_new": [
+            "sorry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m afraid I don’t agree with you.",
+              "world_new": [
+                "I",
+                "agree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lo lắng",
+          "definition": "worried about something",
+          "world_new": [
+            "worried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was afraid of disappointing her.",
+              "world_new": [
+                "disappointing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although this idea touches on an interesting consideration, we are afraid that the notion of \"meaning\" is itself too imprecise to be really helpful.",
+    "They are not afraid to risk ridicule in the pursuit of true representation.",
+    "Perhaps no one is afraid of the working class because we no longer have a clear sense of who actually belongs to the working class.",
+    "Thus, men repress their own feelings, devalue femininity because of its emotional side, are afraid of women and disappointing in their relationships with them.",
+    "I think he was afraid what he might pass on to you.",
+    "Apart from physical dangers (falls, scalds, and so on), being ' at home ' may mean being lonely, isolated and afraid.",
+    "Both were afraid not only of alienating allies, but also of vagrancy and chaos within their domains.",
+    "We are afraid that we have no new insight to add to the centuries of philosophical debates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "afield",
+    "afloat",
+    "afoot",
+    "aforesaid",
+    "afraid",
+    "afresh",
+    "African American",
+    "Afro-",
+    "after"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055600_d8f0679ea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055600_41021303aa_o.png",
+      "id_image": "afraid_214225"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055570_c932330db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055570_dde81207ea_o.png",
+      "id_image": "afraid_3874537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434178_0d9cd1c6e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434178_5d394757e2_o.png",
+      "id_image": "afraid_6000681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055495_e01bd35671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055495_1c825f5035_o.png",
+      "id_image": "afraid_6002295"
+    }
+  ]
+}

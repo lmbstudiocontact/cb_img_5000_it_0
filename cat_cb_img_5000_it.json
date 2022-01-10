@@ -1,0 +1,84 @@
+{
+  "english": "cat",
+  "phat_am": "kӕt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con mèo",
+          "definition": "a small, four-legged, fur-covered animal often kept as a pet",
+          "world_new": [
+            "small",
+            "animal",
+            "pet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Persian/Siamese cat."
+            }
+          ]
+        },
+        {
+          "mean_english": "thú họ mèo",
+          "definition": "a large wild animal of the same family (eg tiger, lion etc)",
+          "world_new": [
+            "large",
+            "wild",
+            "animal",
+            "family",
+            "tiger",
+            "lion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the big cats.",
+              "world_new": [
+                "big"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Transmission at the retino-geniculate synapse in cats is influenced by the structure of pre- and postsynaptic spike trains.",
+    "For example, calling a pillow cat suggests that the child has recognized a similarity between the pillow's triangular corners and a cat's ears.",
+    "Selective depletion of beta cells affects the development of alpha cells in cat retina.",
+    "However, cats never hesitated to approach the fixation target when the peripheral target was in the affected region of the hemifield.",
+    "Two inward currents and the transformation of low frequency oscillations of rat and cat thalamocortical cells.",
+    "In our analysis, the monthly counts of raccoons testing positive were associated with the risk of a cat testing positive.",
+    "A cat walks by and wakes up the tiger.",
+    "As mentioned earlier, the role of dogs and cats in exposure of humans in regions of sylvatic transmission is not completely understood."
+  ],
+  "list_see_also": [
+    "catty",
+    "catcall",
+    "catfish",
+    "catgut",
+    "Catseye",
+    "catsuit",
+    "cattail",
+    "catwalk",
+    "let the cat out of the bag"
+  ],
+  "list_browse": [
+    "casualness",
+    "casualty",
+    "casualty department",
+    "casuarina",
+    "cat",
+    "cataclysm",
+    "cataclysmic",
+    "catalogue",
+    "catalyst"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435868_0c87400b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435868_8606bae0bb_o.png",
+      "id_image": "cat_194953"
+    }
+  ]
+}

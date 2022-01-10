@@ -1,0 +1,75 @@
+{
+  "english": "boutique",
+  "phat_am": "buːˈtiːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiệm bán quần áo",
+          "definition": "a fashionable, usually small shop, especially one selling clothes",
+          "world_new": [
+            "fashionable",
+            "small",
+            "shop",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a fashion boutique",
+              "world_new": [
+                "fashion"
+              ]
+            },
+            {
+              "ex_of_definition": "She prefers small boutiques to large stores.",
+              "world_new": [
+                "small",
+                "large"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is home to four major department stores, over 175 specialty shops and boutiques, and a food court.",
+    "Women may have been more likely to complete the surveys because the incentive for survey completion consisted of a gift certificate to a boutique.",
+    "If that happens, it will have a considerable effect on the operational efficiency of financial institutions, particularly small boutique institutions serving private clients as investors.",
+    "It is an affluent neighbourhood populated mostly by young professionals and contains numerous chic restaurants, hotels, boutique shops and loft apartments.",
+    "These names are similar to those of fashion boutiques as they appear to be efforts in creative, artistic imagery, tending toward the abstract.",
+    "With its unique boutique shops and restaurants, it has had an esoteric chic that maintains its trendy appeal.",
+    "It is home to hundreds of restaurants, nightclubs, sporting facilities, boutiques, hotels, attractions, and live theatre.",
+    "Advertising revenue came from the hippie boutiques, head shops, concert venues, and music stores that catered to the counter-cultural youth of the day."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bourbon",
+    "bourgeois",
+    "bourgeoisie",
+    "bout",
+    "boutique",
+    "bow",
+    "bow tie",
+    "bowed",
+    "bowel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435678_9516c40021_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435678_6587cd4b65_o.png",
+      "id_image": "boutique_1719637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435638_9462278a95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435638_6a2f196aba_o.png",
+      "id_image": "boutique_3361318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435568_13ae878240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435568_9ec3fbd20a_o.png",
+      "id_image": "boutique_6306777"
+    }
+  ]
+}

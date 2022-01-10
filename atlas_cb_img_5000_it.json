@@ -1,0 +1,65 @@
+{
+  "english": "atlas",
+  "phat_am": "ˈӕtləs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách bản đồ",
+          "definition": "a book of maps",
+          "world_new": [
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a world atlas.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I did go fetch my atlas, but 10 or 20 extra pages in each volume would have made this unnecessary.",
+    "If somehow, difficult to believe, this magic has passed you by, then this magnificent atlas is the perfect remedy.",
+    "They were part of a larger atlas of the ancient and modern world.",
+    "By the beginning of the nineteenth century maps and atlases were regularly associating territory with the ownership of discrete and delimited lands.",
+    "Figure 10 shows the atlases for the global force conditioning index.",
+    "The atlas is not merely a treasure of geographical information but also a banquet for the eyes.",
+    "Like atlas, some of these were originally built for processing speech corpora and have been extended for handling text.",
+    "The detailed descriptions and illustrations provide an anatomical atlas that will be of great help to those working on tetrapod evolution and interrelationships."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "atheistic",
+    "athlete",
+    "athletic",
+    "athletics",
+    "atlas",
+    "ATM",
+    "atmosphere",
+    "atmospheric",
+    "atmospheric pressure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809415238_9c3924babd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809415238_a61484b36e_o.png",
+      "id_image": "atlas_1245391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809300351_cc0b3f5e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809300351_204b617dd4_o.png",
+      "id_image": "atlas_6169817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809301796_30d085366b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809301796_72c8b8a130_o.png",
+      "id_image": "atlas_992255"
+    }
+  ]
+}

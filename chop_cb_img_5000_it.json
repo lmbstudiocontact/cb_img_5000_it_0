@@ -1,0 +1,117 @@
+{
+  "english": "chop",
+  "phat_am": "tʃop",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chặt nhỏ",
+          "definition": "(sometimes with up) to cut (into small pieces)",
+          "world_new": [
+            "cut",
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He chopped up the vegetables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng thịt sườn",
+          "definition": "a slice of mutton, pork etc containing a rib",
+          "world_new": [
+            "slice",
+            "mutton",
+            "pork",
+            "rib"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lamb/pork chop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàm động vật",
+          "definition": "the jaws or mouth, especially of an animal",
+          "world_new": [
+            "mouth",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tiger was licking its chops.",
+              "world_new": [
+                "tiger",
+                "licking",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As he rightly says, such a drink includes the entire fruit, pips and everything, all chopped up in a mechanical process.",
+    "Bus services have been chopped while fares have been increased in proportions previously unknown.",
+    "The hay was chopped and placed in troughs made out ofmetal drums.",
+    "The fact that space is not composed of points entails that space does not come already ' chopped up ' into sub-regions.",
+    "If ever he were to live in a totalitarian society, he would be the first to have his head chopped off.",
+    "After harvesting the grain, the crop residues from each plot were chopped into 40 + 60 mm pieces and divided according to treatments.",
+    "Fish were transferred gently to large covered glass aquaria provided with a continuous flow of fresh seawater and fed fresh chopped fish every 2 days.",
+    "Over the years our investment programme has been bedevilled by the fact that we keep chopping and changing."
+  ],
+  "list_see_also": [
+    "chopper",
+    "choppy",
+    "choppiness",
+    "chop and change",
+    "chop down"
+  ],
+  "list_browse": [
+    "choke",
+    "cholera",
+    "cholesterol",
+    "choose",
+    "chop",
+    "chop and change",
+    "chop down",
+    "chopper",
+    "choppiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307861_d5f0e1f988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307861_3b4c2b4ed0_o.png",
+      "id_image": "chop_1740505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663109_8cb73ca52d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663109_ae72216224_o.png",
+      "id_image": "chop_3690254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044885_bdefeb3b39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044885_575a143656_o.png",
+      "id_image": "chop_413213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663159_33b910f4de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663159_846ffb43fd_o.png",
+      "id_image": "chop_815966"
+    }
+  ]
+}

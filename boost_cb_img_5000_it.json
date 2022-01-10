@@ -1,0 +1,95 @@
+{
+  "english": "boost",
+  "phat_am": "buːst",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tăng",
+          "definition": "to expand; to make greater; to improve",
+          "world_new": [
+            "improve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve succeeding in boosting the sales figures"
+            },
+            {
+              "ex_of_definition": "Winning the game helped to boost his confidence.",
+              "world_new": [
+                "game",
+                "confidence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng lên",
+          "definition": "a piece of help, encouragement etc",
+          "world_new": [
+            "piece",
+            "help",
+            "encouragement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This publicity will give our sales a real boost.",
+              "world_new": [
+                "publicity",
+                "our",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A pension fund can have many, and often competing, objectives such as maximizing return, minimizing risk, boosting the asset-liability ratio, minimizing contributions, and others.",
+    "The suggestion, then, is that the greater visibility of cash plan products promoted by provident and commercial insurers may now be boosting scheme membership too.",
+    "The regression finds that cabruca depresses prices by 22 per cent, while other cacao boosts prices by about the same factor.",
+    "The economy recovered and grew rapidly, boosted by railroad construction that boomed in the 1880s.",
+    "The prospects for consociationalism could also be expected to be boosted by the lack of other, more attractive, options.",
+    "Then in the 2000 election, the party boosted its strength by 41.65%.",
+    "Increasing the match rate also boosts participation, but it appears to have the opposite effect on the average contributions of middle-aged workers.",
+    "Thus, democracy indirectly boosts economic growth by inhibiting regime interruption."
+  ],
+  "list_see_also": [
+    "booster"
+  ],
+  "list_browse": [
+    "boomerang",
+    "boon",
+    "boor",
+    "boorish",
+    "boost",
+    "booster",
+    "boot",
+    "boot up",
+    "bootee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368007_b2ea4868d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368007_4b22fb4dca_o.png",
+      "id_image": "boost_2124566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059800_35dd422fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059800_1587935abe_o.png",
+      "id_image": "boost_2654545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367942_eafc8d2bc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367942_ac455271cd_o.png",
+      "id_image": "boost_4674816"
+    }
+  ]
+}

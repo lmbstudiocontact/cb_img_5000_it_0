@@ -1,0 +1,104 @@
+{
+  "english": "cheer",
+  "phat_am": "tʃiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng reo mừng",
+          "definition": "a shout of approval, encouragement or welcome",
+          "world_new": [
+            "shout",
+            "approval",
+            "encouragement",
+            "welcome"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Three cheers for the Queen!"
+            }
+          ]
+        },
+        {
+          "mean_english": "hạnh phúc",
+          "definition": "mood",
+          "world_new": [
+            "mood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be of good cheer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếng reo mừng",
+          "definition": "to give a shout of approval etc (to)",
+          "world_new": [
+            "shout",
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crowd cheered the new champion.",
+              "world_new": [
+                "crowd",
+                "champion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Anything which appeared to be revolutionary and different would have his cheers.",
+    "Perhaps we would see street parties and people waving and cheering up and down the country.",
+    "However, no one should be cheering about the prospect of achieving objective 1 funding because one does not get it for nothing.",
+    "The candidates were enthusiastically applauded and greeted with cheers.",
+    "The cheering and the noise of the machines is a positive disturbance to the area.",
+    "There are some very cheering indications, so far as this country is concerned.",
+    "We have certain very cheering aspects of our economy as well as certain depressing ones.",
+    "If it was right and worthy of their cheers then, it is right that we should consider that matter fairly now."
+  ],
+  "list_see_also": [
+    "cheerful",
+    "cheerfully",
+    "cheerfulness",
+    "cheerless",
+    "cheers!",
+    "cheery",
+    "cheerily",
+    "cheeriness",
+    "cheer up"
+  ],
+  "list_browse": [
+    "cheekbone",
+    "cheekiness",
+    "cheeky",
+    "cheep",
+    "cheer",
+    "cheer up",
+    "cheerful",
+    "cheerfully",
+    "cheerfulness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426773_d9ef166a17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426773_5275bc2325_o.png",
+      "id_image": "cheer_1623196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355992_6f464414cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355992_eea497da22_o.png",
+      "id_image": "cheer_3776028"
+    }
+  ]
+}

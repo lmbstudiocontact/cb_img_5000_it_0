@@ -1,0 +1,100 @@
+{
+  "english": "chisel",
+  "phat_am": "ˈtʃizl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đục",
+          "definition": "a tool with a cutting edge at the end",
+          "world_new": [
+            "tool",
+            "cutting",
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was using a chisel to carve the stone.",
+              "world_new": [
+                "carve",
+                "stone"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đục; chạm trổ",
+          "definition": "to cut or carve (wood etc) with a chisel",
+          "world_new": [
+            "cut",
+            "carve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sculptor was chiselling the features on a statue.",
+              "world_new": [
+                "sculptor",
+                "statue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They left information about themselves chiseled into and painted on rocky overhangs and secreted caves throughout the local mountains.",
+    "The technique uses simple hand instruments (such as chisels and excavators) to break through the enamel and remove as much caries as possible.",
+    "He—or his father —in most cases came to the land as a pioneer, chiselling out the farm or the enterprise, and almost certainly built the house in which he lives.",
+    "All the work was carried out with hammers and chisels.",
+    "Nothing was stolen from the house, but a panel on the back door had been chiseled away.",
+    "The barn and the orchard house have similar dates chiseled over the entrances, indicating substantial reconstruction by the family.",
+    "Most t moko applied today is done using a tattoo machine, but there has also been a revival of the use of uhi (chisels).",
+    "We then chiselled out of it and did not give the aid."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chiropodist",
+    "chiropody",
+    "chirp",
+    "chirpy",
+    "chisel",
+    "chit",
+    "chit-chat",
+    "chivalrous",
+    "chivalry"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664059_7cf461060c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664059_bfe56269e4_o.png",
+      "id_image": "chisel_1422221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308776_cfca109d5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308776_78b0e01a1a_o.png",
+      "id_image": "chisel_2270908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045750_77f9caa36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045750_348c9ac710_o.png",
+      "id_image": "chisel_2270912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423958_ac929f632f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423958_c60af0e230_o.png",
+      "id_image": "chisel_5848281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664099_857265cf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664099_f46a802541_o.png",
+      "id_image": "chisel_664125"
+    }
+  ]
+}

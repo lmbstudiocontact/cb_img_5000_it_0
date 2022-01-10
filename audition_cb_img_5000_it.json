@@ -1,0 +1,86 @@
+{
+  "english": "audition",
+  "phat_am": "oːˈdiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thử giọng",
+          "definition": "a trial performance for an actor, singer, musician etc",
+          "world_new": [
+            "trial",
+            "performance",
+            "actor",
+            "singer",
+            "musician"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had an audition for a part in the television play.",
+              "world_new": [
+                "part",
+                "television",
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tổ chức thử giọng/ phân vai",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We auditioned dozens of young actors before we found the right person for the role.",
+              "world_new": [
+                "young",
+                "found",
+                "right",
+                "person"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Again, modules can be connected together on a workspace, the sound compiled and auditioned.",
+    "Talents are selected in blind auditions, where the coaches can not see, but only hear the auditioning contestant.",
+    "They auditioned during the development of her first album in 2003.",
+    "She committed to acting at the age of 16, but initially found it difficult to pass auditions, often being told that she was too dark.",
+    "Our idea consists in making these auditions more systematic.",
+    "Furthermore, her music is also not generically stereotyped in the manner of the auditions.",
+    "Selection also exists within the system, with interviews, auditions and testing for music, dance, sport, science and technology, and for special needs children.",
+    "She was so shy that she auditioned with the lights turned off."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "audio-",
+    "audio-typist",
+    "audio-visual",
+    "audit",
+    "audition",
+    "auditor",
+    "auditorium",
+    "auditory",
+    "Aug"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441943_3d8b55d76d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441943_dec40fdbe3_o.png",
+      "id_image": "audition_4514875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441888_6ec388a010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441888_b6e4c3ba4a_o.png",
+      "id_image": "audition_4514876"
+    }
+  ]
+}

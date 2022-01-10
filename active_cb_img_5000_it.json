@@ -1,0 +1,159 @@
+{
+  "english": "active",
+  "phat_am": "ˈӕktiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhanh nhẹn",
+          "definition": "energetic or lively; able to work etc",
+          "world_new": [
+            "energetic",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At seventy, he’s no longer very active."
+            }
+          ]
+        },
+        {
+          "mean_english": "tích cực",
+          "definition": "(busily) involved",
+          "world_new": [
+            "involved"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is an active supporter of women’s rights.",
+              "world_new": [
+                "supporter",
+                "rights"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công hiệu",
+          "definition": "causing an effect or effects",
+          "world_new": [
+            "effect",
+            "effects"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Yeast is an active ingredient in bread-making.",
+              "world_new": [
+                "ingredient"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiệu lực",
+          "definition": "in force",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rule is still active.",
+              "world_new": [
+                "rule"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang hoạt động",
+          "definition": "(of volcanoes) still likely to erupt.",
+          "world_new": [
+            "likely",
+            "erupt"
+          ]
+        },
+        {
+          "mean_english": "thể chủ động",
+          "definition": "of the form of a verb in which the subject performs the action",
+          "world_new": [
+            "form",
+            "verb",
+            "subject",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The verb ‘kicked’ is active in the sentence ‘The boy kicked the ball’.",
+              "world_new": [
+                "verb",
+                "sentence",
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ động",
+          "definition": "the form of a verb whose subject is the person or thing that performs the action",
+          "world_new": [
+            "form",
+            "verb",
+            "subject",
+            "person",
+            "action"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike moderators (which, by definition, are baseline measures), mediators occur after random assignment, exerting their effects during the period of active intervention.",
+    "This led to active lobbying for patient choice of these hospitals.",
+    "Such elections require not only the active participation of political parties to ensure competition and form a government, but also to legitimise the government.",
+    "Such sentences with an active sentence construction but a reversal of thematic roles were absent from the data.",
+    "Responses determined to be scorable were utterances that had sufficient structure to be deemed full or partial passive sentences or full or partial active sentences.",
+    "In the patient groups receiving active drug therapy (velnacrine maleate), an improvement was observed in their cognitive functioning relative to the placebo group.",
+    "We have much less information about whether the patients in the trials also had evidence of active psychotic phenomena in addition to any depressive symptoms.",
+    "Where there is a neurological cause of dizziness the goal is also, as in multisensory dizziness, a non-sedated, physically active patient."
+  ],
+  "list_see_also": [
+    "actively",
+    "activist",
+    "activeness",
+    "activity"
+  ],
+  "list_browse": [
+    "acting",
+    "action",
+    "action replay",
+    "activate",
+    "active",
+    "actively",
+    "activeness",
+    "activist",
+    "activity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437913_5700559733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437913_a7216ac457_o.png",
+      "id_image": "active_1827264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367622_52ef0b4e32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367622_534645d83e_o.png",
+      "id_image": "active_2201859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322616_95cf8c63cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322616_1cca3f219d_o.png",
+      "id_image": "active_3590640"
+    }
+  ]
+}

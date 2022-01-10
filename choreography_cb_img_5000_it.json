@@ -1,0 +1,78 @@
+{
+  "english": "choreography",
+  "phat_am": "(British) ˌkoriˈoɡrəfi; (American) ˌkoːriːˈoɡrəfiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vũ đạo",
+          "definition": "the art of arranging the steps and movements of dancers during a performance, such as for a ballet or stage show",
+          "world_new": [
+            "art",
+            "steps",
+            "performance",
+            "ballet",
+            "stage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She studied choreography at the Beijing Dance Academy."
+            }
+          ]
+        },
+        {
+          "mean_english": "việc biên đạo múa",
+          "definition": "the steps and movements of a ballet or other dance performance",
+          "world_new": [
+            "steps",
+            "ballet",
+            "dance",
+            "performance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He directed the choreography of the show."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This special kind of choreography is ultimately traceable to the origin of the city that is often considered sacred.",
+    "The video wasn't a large part of the choreography because it was behind me in rehearsals and performance.",
+    "Indeed, the dancing figures could have been added to the engravings' complex stage sets and highly decorated backdrops even before the choreographies were set.",
+    "These special solutions have become known as choreographies.",
+    "The performance of the piece requires a computer operator, who changes the settings of the program for each section of the choreography.",
+    "The instruments and voices alternate in concertato style, and the choreography may have also reflected this alternation.",
+    "The stage choreography first resulted from practical solution seeking since the performers require additional space when whirling the tubes after performing with the cellophane.",
+    "The dancer holds the staff and performs a 'mask video choreography', moving the camera and mask to change the image."
+  ],
+  "list_see_also": [
+    "choreographer"
+  ],
+  "list_browse": [
+    "choral",
+    "chord",
+    "chore",
+    "choreographer",
+    "choreography",
+    "chorister",
+    "chorus",
+    "Christ",
+    "christen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662839_070337a4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662839_bc2a24a41b_o.png",
+      "id_image": "choreography_5775019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351682_3c9aa9f657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351682_bbdf6ea716_o.png",
+      "id_image": "choreography_5775140"
+    }
+  ]
+}

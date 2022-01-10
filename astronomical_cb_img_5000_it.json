@@ -1,0 +1,73 @@
+{
+  "english": "astronomical",
+  "phat_am": "ӕstrəˈnomikl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rất lớn",
+          "definition": "(of numbers or amounts) very large",
+          "world_new": [
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cost of the new building was astronomical.",
+              "world_new": [
+                "cost",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc về môn vũ trụ học",
+          "definition": "of astronomy",
+          "world_new": [
+            "astronomy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "astronomical observations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many factors are certainly responsible for this astronomical imbalance.",
+    "They engage in what one might call astronomical pilpul (rabbinic analysis).",
+    "In the old astronomical discourse knowledge also acquired authority according to the degree of logical certainty assigned to inferences from observations to first principles.",
+    "A relevant question for astrobiology is: how did all this apparatus evolve and did astronomical effects play a role?",
+    "We are developing a sequence of inquiry-based lesson plans that address astronomical phenomena people can readily see in the sky.",
+    "From which classes of compounds and how might they form in astronomical environments ?",
+    "Most astronomical experts at that time admitted that some of the imported mathematical tools - such as trigonometry, logarithms, and astronomical tables - were useful.",
+    "The resident archbishop had founded an astronomical observatory there as early as 1692, and the local seminary helped to distribute books among the peasantry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "astrological",
+    "astrology",
+    "astronaut",
+    "astronomer",
+    "astronomical",
+    "astronomically",
+    "astronomy",
+    "astute",
+    "astuteness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809657584_6cb0b54a76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809657584_0cd661348c_o.png",
+      "id_image": "astronaut_6195676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346567_277747ec31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346567_8b1602c7c2_o.png",
+      "id_image": "astronaut_6195707"
+    }
+  ]
+}

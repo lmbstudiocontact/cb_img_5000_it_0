@@ -1,0 +1,127 @@
+{
+  "english": "bag",
+  "phat_am": "bӕɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "túi",
+          "definition": "a container made of soft material (eg cloth, animal skin, plastic etc)",
+          "world_new": [
+            "container",
+            "soft",
+            "material",
+            "cloth",
+            "animal",
+            "skin",
+            "plastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was carrying a small bag",
+              "world_new": [
+                "small"
+              ]
+            },
+            {
+              "ex_of_definition": "a paper/plastic bag"
+            },
+            {
+              "ex_of_definition": "a shopping bag.",
+              "world_new": [
+                "shopping"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mẻ săn",
+          "definition": "a quantity of fish or game caught",
+          "world_new": [
+            "quantity",
+            "fish",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you get a good bag today?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bỏ vào túi",
+          "definition": "to put into a bag",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some supermarkets will bag your groceries for you.",
+              "world_new": [
+                "your",
+                "groceries"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "săn được",
+          "definition": "to kill (game)",
+          "world_new": [
+            "kill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They bagged several pheasants that afternoon.",
+              "world_new": [
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "baggy",
+    "bags of",
+    "in the bag",
+    "bag lady"
+  ],
+  "list_browse": [
+    "badminton",
+    "badness",
+    "baffle",
+    "baffling",
+    "bag",
+    "bag lady",
+    "bagel",
+    "baggage",
+    "baggage cart"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675534_f60543a7b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675534_158ed8c508_o.png",
+      "id_image": "bag_1088128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365562_29d7324ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365562_6ae3382f86_o.png",
+      "id_image": "bag_649218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320581_a43e6a61e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320581_a2ecdf5389_o.png",
+      "id_image": "bag_673889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675574_c2ab9d577b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675574_2244e12b74_o.png",
+      "id_image": "bag_868188"
+    }
+  ]
+}

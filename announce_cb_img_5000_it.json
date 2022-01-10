@@ -1,0 +1,80 @@
+{
+  "english": "announce",
+  "phat_am": "əˈnauns",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "công bố",
+          "definition": "to make known publicly",
+          "world_new": [
+            "publicly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Martha and John have announced their engagement.",
+              "world_new": [
+                "their",
+                "engagement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới thiệu",
+          "definition": "to make known the arrival or entrance of",
+          "world_new": [
+            "arrival",
+            "entrance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He announced the next singer.",
+              "world_new": [
+                "singer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1994 the government announced a program to provide temporary aid to small enterprises in order to improve the growth potential of those enterprises.",
+    "By monumentalising the past through the dead, the authority and status of particular elites are announced, confirmed or even contested.",
+    "In 1999 the government announced a further extension of the childcare guarantee to be introduced in 2002.",
+    "They were not immediately announcing their unequivocal loyalty ; they were negotiating, and the king accepted this reality.",
+    "Any sign announcing the actualization of an event needs to be perceptually or conceptually accessible, according to this definition, within the confines of the ground.",
+    "No action on any other recommendations was ever announced.",
+    "Shortly after taking power, the government announced new legislation to ban tobacco advertising and sponsorship.",
+    "In the distance a muffled noise announces the approach of the hurricane - the sea waves begin to break lightly."
+  ],
+  "list_see_also": [
+    "announcement",
+    "announcer"
+  ],
+  "list_browse": [
+    "annexation",
+    "annihilate",
+    "annihilation",
+    "anniversary",
+    "announce",
+    "announcement",
+    "announcer",
+    "annoy",
+    "annoyance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666724_bc2795db4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666724_eee9935703_o.png",
+      "id_image": "announce_1477637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426568_fbc76f9588_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426568_e26bd143f1_o.png",
+      "id_image": "announce_1622675"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "english": "bounce",
+  "phat_am": "bauns",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nảy lên",
+          "definition": "to (cause to) spring or jump back from a solid surface",
+          "world_new": [
+            "spring",
+            "jump",
+            "solid",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was bouncing a ball against the wall",
+              "world_new": [
+                "bouncing",
+                "ball",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "The children were bouncing up and down on a trampoline.",
+              "world_new": [
+                "bouncing",
+                "trampoline"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bị trả về cho người ký vì không có tài khoản",
+          "definition": "(of a cheque/check) to be sent back unpaid, because of lack of money in a bank account",
+          "world_new": [
+            "lack",
+            "money",
+            "bank",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I tried to pay his cheque/check into my bank account, but it bounced.",
+              "world_new": [
+                "I",
+                "pay",
+                "my",
+                "bank",
+                "account"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nảy lên",
+          "definition": "(of a ball etc) an act of springing back",
+          "world_new": [
+            "ball",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "With one bounce, the ball went over the wall.",
+              "world_new": [
+                "ball",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghị lực",
+          "definition": "energy",
+          "world_new": [
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a new bounce in his step.",
+              "world_new": [
+                "step"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If he is wearing a safety helmet, he might not be bounced over the side.",
+    "She is certainly larger than life, and bounces around the stage.",
+    "Ambient illumination models the reflection of ambient light, which arrives at the object after being bounced in multiple reflections from the objects of the scene.",
+    "A wave-like pattern then becomes established downwind of the mountain range, with the air ' bouncing ' between the surface and the stable layer above.",
+    "Bouncing legislation through without due consideration is not the best way to form it.",
+    "The dispute bounces around various institutions, with no definitive resolution.",
+    "The toy object bounced each time the puppet moved the spoon, and only when the puppet moved the spoon.",
+    "Echo might be single or multiple, depending on how many times the sound bounces."
+  ],
+  "list_see_also": [
+    "bouncer",
+    "bouncing"
+  ],
+  "list_browse": [
+    "bottomless",
+    "bougainvillaea",
+    "bough",
+    "boulder",
+    "bounce",
+    "bouncer",
+    "bouncing",
+    "-bound",
+    "bound for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365757_af68df52e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365757_b803f2c366_o.png",
+      "id_image": "bounce_4542614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365797_47f4879259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365797_9c4ae2bfb0_o.png",
+      "id_image": "bounce_496568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365727_f4c0e00069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365727_eba9e3d7a0_o.png",
+      "id_image": "bounce_5060127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365712_0e944da77d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365712_0c105337cd_o.png",
+      "id_image": "bounce_5284182"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "camel",
+  "phat_am": "ˈkӕməl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lạc đà",
+          "definition": "a desert animal with one (dromedaryˈdromədəri) or two (bactrian (camel)ˈbӕktriən) humps on its back, used for carrying goods and/or people",
+          "world_new": [
+            "desert",
+            "animal",
+            "its",
+            "goods",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you ever had a ride on a camel?",
+              "world_new": [
+                "ever",
+                "ride"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He said that we were like camels and have a grievance, and that when we saw an oasis we made for it.",
+    "I then thought he was referring to camels!",
+    "The extra blow to manufacturing this year has been the straw that broke the camel's back.",
+    "To add to these problems is, to my mind, the straw which breaks the camel's back.",
+    "Breaking the camel's back : proline-induced turns in a model transmembrane helix.",
+    "With no camels ready for service, the company was forced into immediate liquidation.",
+    "The camels fulfil a variety of functions including transport and social security.",
+    "They had tried to be like camels, but failed miserably and one has to deal carefully but strictly when they are like this."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "calve",
+    "calypso",
+    "calyx",
+    "camcorder",
+    "camel",
+    "camellia",
+    "cameo",
+    "camera",
+    "camomile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660289_7b995c4b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660289_6db10ac2d3_o.png",
+      "id_image": "camel_2188055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419973_22fed065f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419973_45309eccc5_o.png",
+      "id_image": "camel_292641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419918_50816b8c7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419918_f47deff954_o.png",
+      "id_image": "camel_3798645"
+    }
+  ]
+}

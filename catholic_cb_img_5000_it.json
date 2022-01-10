@@ -1,0 +1,99 @@
+{
+  "english": "catholic",
+  "phat_am": "ˈkӕθəlik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phổ biến",
+          "definition": "wide-ranging in one’s taste etc",
+          "world_new": [
+            "wide-ranging",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a catholic taste in books.",
+              "world_new": [
+                "taste"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc đạo Thiên Chúa",
+          "definition": "Roman Catholic",
+          "world_new": [
+            "Roman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Catholic priest.",
+              "world_new": [
+                "priest"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người theo đạo Thiên Chúa",
+          "definition": "a Roman Catholic",
+          "world_new": [
+            "Roman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a devout Catholic.",
+              "world_new": [
+                "devout"
+              ]
+            },
+            {
+              "ex_of_definition": "the beliefs of Catholicism.",
+              "world_new": [
+                "Catholicism"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Neither catholics nor atheists were worthy of toleration.",
+    "In 1919, agitation over the eight-hour day and textile strikes had seen separate action by socialists and catholics.",
+    "Any rural alliances had to overcome not only the historical ' subjective ' political differences between socialists and catholics.",
+    "Contradictions such as these led to a situation of catholics on the barricades whilst the socialists continued to work.",
+    "As we will see, for many opponents of legal charity, particularly social catholics, this was the case, especially later in the century.",
+    "For catholics, it rejected the need for sacramental grace.",
+    "Of course, catholics and protestants disagreed about the authority that the supremacy sought to confer on the king.",
+    "In other areas of religious warfare the war is clearly between protestants and catholics, and this lends unity to the protestant side."
+  ],
+  "list_see_also": [
+    "Catholicism"
+  ],
+  "list_browse": [
+    "catgut",
+    "cathedral",
+    "catheter",
+    "cathode",
+    "catholic",
+    "Catholicism",
+    "cation",
+    "Catseye",
+    "catsuit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674049_ac956b16c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674049_33d8589df5_o.png",
+      "id_image": "catholic_4319911"
+    }
+  ]
+}

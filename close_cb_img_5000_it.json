@@ -1,0 +1,321 @@
+{
+  "english": "close",
+  "phat_am": "kləus",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "gần",
+          "definition": "near in time, place etc",
+          "world_new": [
+            "time",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood close to his mother",
+              "world_new": [
+                "mother"
+              ]
+            },
+            {
+              "ex_of_definition": "Follow close behind."
+            }
+          ]
+        },
+        {
+          "mean_english": "vừa vặn",
+          "definition": "tightly; neatly",
+          "world_new": [
+            "neatly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close-fitting dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gần trong quan hệ",
+          "definition": "near in relationship",
+          "world_new": [
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close friend.",
+              "world_new": [
+                "friend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sát nhau",
+          "definition": "having a narrow difference between winner and loser",
+          "world_new": [
+            "narrow",
+            "difference",
+            "winner",
+            "loser"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close contest",
+              "world_new": [
+                "contest"
+              ]
+            },
+            {
+              "ex_of_definition": "The result was close.",
+              "world_new": [
+                "result"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cẩn thận",
+          "definition": "thorough",
+          "world_new": [
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close examination of the facts",
+              "world_new": [
+                "examination"
+              ]
+            },
+            {
+              "ex_of_definition": "Keep a close watch on him.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bó sát",
+          "definition": "tight",
+          "world_new": [
+            "tight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close fit.",
+              "world_new": [
+                "fit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngột ngạt",
+          "definition": "without fresh air",
+          "world_new": [
+            "fresh",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close atmosphere",
+              "world_new": [
+                "atmosphere"
+              ]
+            },
+            {
+              "ex_of_definition": "The weather was close and thundery.",
+              "world_new": [
+                "weather",
+                "thundery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "keo kiệt",
+          "definition": "mean",
+          "world_new": [
+            "mean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very close (with his money)."
+            }
+          ]
+        },
+        {
+          "mean_english": "thích giữ bí mật",
+          "definition": "secretive",
+          "world_new": [
+            "secretive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re keeping very close about the business.",
+              "world_new": [
+                "keeping",
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng",
+          "definition": "to make or become shut, often by bringing together two parts so as to cover an opening",
+          "world_new": [
+            "become",
+            "shut",
+            "cover",
+            "opening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby closed his eyes",
+              "world_new": [
+                "baby"
+              ]
+            },
+            {
+              "ex_of_definition": "Close the door",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "The shops close on Sundays."
+            }
+          ]
+        },
+        {
+          "mean_english": "kết thúc",
+          "definition": "to finish; to come or bring to an end",
+          "world_new": [
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meeting closed with everyone in agreement.",
+              "world_new": [
+                "meeting",
+                "agreement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn tất",
+          "definition": "to complete or settle (a business deal)",
+          "world_new": [
+            "complete",
+            "settle",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re hoping to close the deal later today.",
+              "world_new": [
+                "deal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần kết thúc",
+          "definition": "a stop, end or finish",
+          "world_new": [
+            "stop",
+            "finish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the close of day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "towards the close of the nineteenth century.",
+              "world_new": [
+                "century"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, to have an authority figure require that a patient justify his or her plans comes perilously close to coercion.",
+    "However, their closest collaborators remained and have acted as surrogate aristocrats.",
+    "The proposed solution is to maintain the robot's position inside, but close, to the boundary of the target's field of view.",
+    "On closer viewing, the individual boards and the grain of the timber are revealed as traces of construction.",
+    "Thus, there is need to have a close working relationship with them.",
+    "However, close monitoring and a quick response seem to be the key factors in achieving success.",
+    "However, it seems intuitively plausible to suggest that our ex hypothesi deterministic universe is not close to any of these.",
+    "This is probably an artefact caused by the relative scarcity of saplings and a few larger saplings found close to adult trees."
+  ],
+  "list_see_also": [
+    "closely",
+    "closeness",
+    "close call/shave",
+    "close-set",
+    "close-up",
+    "close at hand",
+    "close on",
+    "close to"
+  ],
+  "list_browse": [
+    "clogging",
+    "cloister",
+    "clone",
+    "cloning",
+    "close",
+    "close at hand",
+    "close call/shave",
+    "close down",
+    "close on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374882_85a62c83d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374882_eb09daee45_o.png",
+      "id_image": "closed_2036918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330151_4183edf709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330151_dcd5bd5123_o.png",
+      "id_image": "closed_2112464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685164_9d53a09fbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685164_8bf54698fe_o.png",
+      "id_image": "closed_4383543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067105_c58e0d280c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067105_868c122d35_o.png",
+      "id_image": "close_1588896"
+    }
+  ]
+}

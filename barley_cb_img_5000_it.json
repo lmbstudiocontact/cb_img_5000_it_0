@@ -1,0 +1,66 @@
+{
+  "english": "barley",
+  "phat_am": "ˈbaːli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lúa mạch",
+          "definition": "a type of grain used for food and for making beer and whisky",
+          "world_new": [
+            "type",
+            "grain",
+            "food",
+            "beer",
+            "whisky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The barley is harvested in July.",
+              "world_new": [
+                "July"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The coefficients of the dummy variables (excluding wheat), therefore, compare the production frontier of barley, other cereals, pulses, and other crops to that of wheat.",
+    "If the crop is feed barley, for example, quality considerations will be minimal in comparison to the requirements of bread wheat destined for export.",
+    "The principal crops grown are teff, sorghum, barley, wheat, and lentils.",
+    "At the grain-forming, post-grain-forming and maturity stages, the fraction of above-ground biomass representing grain yield (rice grain with husk, and barley seed) was separately estimated.",
+    "In this case, relative returns to some of the structural measures also improve even when barley is grown in both sites.",
+    "Effects of post-anthesis water stress on the yield and grain protein concentration of barley grown at two levels of nitrogen.",
+    "Influence of variety, row type and time of sowing on the morphology, chemical composition and in vitro digestibility of barley straw.",
+    "Susceptibilities of barley varieties to lodging using two different arbitrary thresholds for significant lodging."
+  ],
+  "list_see_also": [
+    "barley sugar"
+  ],
+  "list_browse": [
+    "bargain for",
+    "barge",
+    "baritone",
+    "bark",
+    "barley",
+    "barley sugar",
+    "barmaid",
+    "barn",
+    "barnacle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359467_ab5f6ac705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359467_ea60521e36_o.png",
+      "id_image": "barley_1772228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359452_f34746c882_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359452_ed786e9498_o.png",
+      "id_image": "barley_2316448"
+    }
+  ]
+}

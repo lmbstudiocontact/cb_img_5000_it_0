@@ -1,0 +1,90 @@
+{
+  "english": "badminton",
+  "phat_am": "ˈbӕdmintən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cầu lông",
+          "definition": "a game played on a court with a shuttlecock and rackets",
+          "world_new": [
+            "game",
+            "court",
+            "shuttlecock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you ever played badminton?",
+              "world_new": [
+                "ever"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc cầu lông",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a badminton match",
+              "world_new": [
+                "match"
+              ]
+            },
+            {
+              "ex_of_definition": "a badminton court.",
+              "world_new": [
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If there were no soccer, it is possible that the hooliganism would spread to badminton and ping pong.",
+    "The local church was teeming with different organisations - concert party, badminton club, ramblers, social club, drama group, and there were lots of other young people to meet.",
+    "In 1950, there were only six classes involved in coaching in badminton and by 1967 there were 609, a dramatic increase.",
+    "This certainly would help to reduce rents for other organisations, many of them voluntary, amateur sports clubs, badminton clubs, and so on.",
+    "Some 8 million people play badminton on a casual basis—a terrific number—and 2 million play regularly.",
+    "It holds adult education classes, bird shows, amateur dramatics and badminton, and people go there to dance and to watch television.",
+    "The same applies equally to the lack of facilities for such sports as basketball and badminton.",
+    "In support, there are sporting clubs, including badminton, karate and swimming."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "badge",
+    "badger",
+    "badly",
+    "badly off",
+    "badminton",
+    "badness",
+    "baffle",
+    "baffling",
+    "bag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435893_95b0e0d161_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435893_c7009aabd6_o.png",
+      "id_image": "badminton_2072571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675689_bc13e23430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675689_befe24782c_o.png",
+      "id_image": "badminton_2247909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057500_73143d1885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057500_811af863ce_o.png",
+      "id_image": "badminton_404656"
+    }
+  ]
+}

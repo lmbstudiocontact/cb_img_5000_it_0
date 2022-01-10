@@ -1,0 +1,70 @@
+{
+  "english": "apology",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời xin lỗi",
+          "definition": "something that you say or write in order to show that you are sorry for doing something wrong",
+          "world_new": [
+            "order",
+            "sorry",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please accept my apology for not arriving on time",
+              "world_new": [
+                "accept",
+                "my",
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "He made his apologies for not attending the meeting.",
+              "world_new": [
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this regard, it is noteworthy that most direct elicitations of children's apologies occurred only after the second birthday.",
+    "In essence, they take advantage of situations that might otherwise be less deserving of apologies to offer up models that their children can then emulate.",
+    "First, in making apologies to young children, parents and other adults may be modelling what they believe to be an important pragmatic skill.",
+    "The results of a principal component analysis indicate that contextinternal parameters for apologies and requests show a one component solution, reflecting previous findings.",
+    "Our sincere apologies go to many contributors whose relevant publications are not cited.",
+    "Sampling and analysis details are omitted in this note; apologies to the cited authors for any errors.",
+    "Thereafter, several developmental trends were noted including a decrease with age in directly elicited apologies and an increase in indirectly elicited apologies.",
+    "Thus, in the context of these recordings, children heard very few apologies directed to others."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apolitical",
+    "apologetic",
+    "apologetically",
+    "apologize",
+    "apology",
+    "apostle",
+    "apostolic",
+    "apostrophe",
+    "app"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664464_7772f46a43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664464_d24d4be798_o.png",
+      "id_image": "apology_3079134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353317_984ca35a94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353317_211434356e_o.png",
+      "id_image": "apology_5201437"
+    }
+  ]
+}

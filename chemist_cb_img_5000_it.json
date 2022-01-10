@@ -1,0 +1,88 @@
+{
+  "english": "chemist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà hóa học",
+          "definition": "a scientist who studies or works in chemistry",
+          "world_new": [
+            "scientist",
+            "works",
+            "chemistry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an industrial chemist.",
+              "world_new": [
+                "industrial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người bán dược phẩm",
+          "definition": "a person who makes up and sells medicines and usually also soap, make-up etc; druggist American",
+          "world_new": [
+            "person",
+            "soap",
+            "make-up"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chemist can sell certain medicines by prescription only.",
+              "world_new": [
+                "sell",
+                "certain",
+                "prescription"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cửa hàng dược phẩm",
+          "definition": "a chemist’s shop",
+          "world_new": [
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where is the nearest chemist?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The chemists' case therefore awaited some account of the shortfall of the neutron emissions that would appear in harmony with established physical theory.",
+    "In this endeavor, he found it necessary to reform chemists' discourse of principles and elements.",
+    "Dissimilarities show up recognizably in the characteristic ways that physicists and chemists have played their own scientific games.",
+    "To these chemists, this marked the turn from art to science.",
+    "Here there seems to be a role for surface chemists - those who study the interactions of particle surfaces with dissolved substances through several phases.",
+    "Therefore, this technique may also be useful to chemists who wish to study the geometry of the molecular structure.",
+    "The chemists attempted, as a matter of social arrangements, to bring the topic of nuclear fusion into their own domain of operation, but failed.",
+    "Sales by chemists were much more important and doctors were equally important."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chemical bond",
+    "chemical change",
+    "chemical formula",
+    "chemical symbol",
+    "chemist",
+    "chemistry",
+    "chemotherapy",
+    "cheque",
+    "chequebook"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047845_39f898b42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047845_5ef7ef9b9f_o.png",
+      "id_image": "chemist_307968"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "bird",
+  "phat_am": "bəːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con chim",
+          "definition": "a two-legged feathered creature, with a beak and two wings, with which most can fly",
+          "world_new": [
+            "feathered",
+            "creature",
+            "beak",
+            "wings",
+            "fly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bird’s nest",
+              "world_new": [
+                "nest"
+              ]
+            },
+            {
+              "ex_of_definition": "Kiwis and ostriches are birds which cannot fly.",
+              "world_new": [
+                "fly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "bird’s-eye view"
+  ],
+  "list_browse": [
+    "biotechnology",
+    "biotic",
+    "biped",
+    "birch",
+    "bird",
+    "bird’s-eye view",
+    "biro",
+    "birth",
+    "birth certificate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040550_4b69bfdccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040550_1333c6a1ae_o.png",
+      "id_image": "bird_1591704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418798_dcb8fc11f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418798_a8225f6342_o.png",
+      "id_image": "bird_183959"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418768_f313db20e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418768_f00096d4a0_o.png",
+      "id_image": "bird_2291206"
+    }
+  ]
+}

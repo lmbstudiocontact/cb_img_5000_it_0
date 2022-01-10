@@ -1,0 +1,73 @@
+{
+  "english": "agenda",
+  "phat_am": "əˈdʒendə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chương trình hội nghị",
+          "definition": "a list of things to be done, especially at a meeting",
+          "world_new": [
+            "list",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s on the agenda this morning?",
+              "world_new": [
+                "morning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As the moment at which the two characters and their opposing agendas first come into contact (and conflict), the piece repays detailed examination.",
+    "Many of the papers in this volume have opened up new questions and new agendas.",
+    "The commentaries in newspapers were more about candidates than about political agendas.",
+    "If and when they became preachers or ulama, they used the minbar (pulpit) to pursue political agendas.",
+    "Who informs who, and what happens when specific archaeologists get adopted by groups with particular agendas, like goddess groups.",
+    "The term ' journalist ' means practised by journalists, and embodying a way of looking at the world which often characterizes media agendas on science and policy.",
+    "Other responses were shaped by specific nationalist and unionist agendas.",
+    "Metagovernance is also political, because, as we have seen, it involves identifying key stakeholders, setting agendas and structuring outcomes."
+  ],
+  "list_see_also": [
+    "hidden agenda"
+  ],
+  "list_browse": [
+    "aged",
+    "ageist",
+    "ageless",
+    "agency",
+    "agenda",
+    "agent",
+    "aggravate",
+    "aggravating",
+    "aggravation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434073_33e6e96be8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434073_799974b772_o.png",
+      "id_image": "agenda_392776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318821_fc9b010dbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318821_8179af058a_o.png",
+      "id_image": "agenda_419277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363357_4bfe1a9240_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363357_90884f3170_o.png",
+      "id_image": "agenda_494719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318751_5b66407500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318751_b99484794f_o.png",
+      "id_image": "agenda_735185"
+    }
+  ]
+}

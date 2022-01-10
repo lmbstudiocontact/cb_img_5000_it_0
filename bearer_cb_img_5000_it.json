@@ -1,0 +1,65 @@
+{
+  "english": "bearer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đem thư hoặc thông báo tới",
+          "definition": "a person or thing that bears",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hate to be the bearer of bad news, but we failed to win the contract.",
+              "world_new": [
+                "I",
+                "hate",
+                "bad",
+                "news",
+                "win",
+                "contract"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their role as bearers and rearers of children supplied men with additional labour, bohali (bridewealth) and male heirs.",
+    "According to more traditional views, dignity is an extraordinary quality that gives its bearers rank and importance over others.",
+    "Their theoretical point of departure is a reservoir of experiences which contains ordinal principles enabling the bearers of a culture to respond to new opportunities and situations.",
+    "The reason is that there could be important reasons to introduce traits without much consideration of their direct effects on their bearers.",
+    "By virtue of being bearers of reason and responsibility, a dignity is conferred upon humans on account of their status as unique persons.",
+    "How are they to make these lists in the case of coupons to bearers?",
+    "Thus, for example, if the direct reference view of names is correct, ordinary names should be assigned their bearers as their contents.",
+    "However, the real bearers of fundamental research and important innovation are mainly graduates of engineering, master's and doctoral studies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bear witness",
+    "bearable",
+    "beard",
+    "bearded",
+    "bearer",
+    "bearing",
+    "bearings",
+    "bearskin",
+    "beast"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048030_c093d52e3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048030_8a9c3f967a_o.png",
+      "id_image": "bearer_1347435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355447_d123b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355447_dd1ba7558a_o.png",
+      "id_image": "bearer_6413521"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "bunker",
+  "phat_am": "ˈbaŋkə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hố cát (chơi gôn)",
+          "definition": "a hollow containing sand on a golf course; sand trap American",
+          "world_new": [
+            "hollow",
+            "sand",
+            "golf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sliced his shot into the bunker.",
+              "world_new": [
+                "sliced",
+                "shot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "boongke",
+          "definition": "an underground shelter against bombs etc",
+          "world_new": [
+            "underground",
+            "shelter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nuclear bunker.",
+              "world_new": [
+                "nuclear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are crews which have not been paid or there are not insufficient bunkers on board.",
+    "In 1941, the sculptures were taken down and stored in a bank vault, later in a bunker.",
+    "If we ignore even bunkers and so on, the net imports from abroad are only about one-tenth of total consumption.",
+    "The stokehold and bunkers were about 85 deg.",
+    "She also had some 1,600 tonnes of heavy fuel bunkers.",
+    "The returns for 1929 show an estimate of 256,000,000, out of which we exported 60,000,000 excluding bunkers, but at a very small profit.",
+    "The problem now is to ensure that the owners of ships whose bunkers cause damage are able to pay.",
+    "During the weekend there was some escape of diesel oil from her bunkers and of crude oil from a damaged cargo tank."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bungee jumper",
+    "bungee jumping",
+    "bungle",
+    "bunk",
+    "bunker",
+    "bunny",
+    "Bunsen burner",
+    "bunting",
+    "buoy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665504_5b6c7571aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665504_91c0ea7ed7_o.png",
+      "id_image": "bunker_1999854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425308_13f193a00a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425308_5178350514_o.png",
+      "id_image": "bunker_2737698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665464_f057be5512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665464_e4da787ecc_o.png",
+      "id_image": "bunker_2737932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047030_06f8c2bfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047030_4fa2c69c3f_o.png",
+      "id_image": "bunker_3856844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354467_dfa5cecca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354467_88f6ebf267_o.png",
+      "id_image": "bunker_942437"
+    }
+  ]
+}

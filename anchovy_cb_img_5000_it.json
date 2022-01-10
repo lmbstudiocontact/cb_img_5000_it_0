@@ -1,0 +1,69 @@
+{
+  "english": "anchovy",
+  "phat_am": "(British) ˈæntʃəvi, ænˈtʃouvi; (American)ˈæntʃouviː, ænˈtʃouviː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá trống",
+          "definition": "a small fish with a salty taste",
+          "world_new": [
+            "small",
+            "fish",
+            "salty",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "anchovies in olive oil.",
+              "world_new": [
+                "olive",
+                "oil"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Observers have been on vessels engaged in the anchovy, bass, herring, mackerel, pilchard, smelt and sprat fisheries.",
+    "Second, the sector remained extremely vulnerable to fluctuations in anchovy stocks.",
+    "Some of them are species in which our industry has no particular interest—anchovies, for example.",
+    "Anchovy fishing remained closely regulated, however.",
+    "This scheme, however, cannot be used in the case of anchovy cones due their lack of symmetry, and thus, we do not have an accurate account of cell thickness.",
+    "Most fishes must be fed with other fish meat such as prawns, mussels, anchovy and sprats.",
+    "The latter problem was compounded by the intermittent prohibition of anchovy and pilchard fishing between early-1986 and late1988, this re-ignited tensions between the private and public sectors.",
+    "Yet it is, because those anchovy shoals are one of the main sources of the world's fishmeal protein supply."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ancestral",
+    "ancestry",
+    "anchor",
+    "anchorage",
+    "anchovy",
+    "ancient",
+    "and",
+    "and so on/forth",
+    "(and) to spare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357037_34720b7137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357037_705480b3e6_o.png",
+      "id_image": "anchovy_3791431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313071_4d19c31073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313071_68af5d8fb9_o.png",
+      "id_image": "anchovy_3930531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356987_f6eaa7e893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356987_9d8bf371eb_o.png",
+      "id_image": "anchovy_4465513"
+    }
+  ]
+}

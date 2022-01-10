@@ -1,0 +1,79 @@
+{
+  "english": "author",
+  "phat_am": "ˈoːθə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác giả",
+          "definition": "the writer of a book, article, play etc",
+          "world_new": [
+            "writer",
+            "book",
+            "article",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used to be a well-known author but his books are out of print now",
+              "world_new": [
+                "well-known",
+                "print"
+              ]
+            },
+            {
+              "ex_of_definition": "a best-selling author."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To address these problems, some of the authors proposed an axiomatic strategy.",
+    "However, to the author's knowledge the hybrid approach described here is new to this field.",
+    "The authors carefully motivate what they are attempting to accomplish in every section.",
+    "In [48], the authors treat the regulation problem for a one-link robot.",
+    "In the book's final section, the authors offer policy implications.",
+    "In addition, the authors acknowledge a number of issues in relation to the internal validity of the study.",
+    "The authors propose new ways to study and understand social and labour history.",
+    "The authors employ a deductive model in order to explain how and why religious phenomena occur."
+  ],
+  "list_see_also": [
+    "authorship"
+  ],
+  "list_browse": [
+    "austerity",
+    "authentic",
+    "authentically",
+    "authenticity",
+    "author",
+    "authoritarian",
+    "authoritative",
+    "authoritatively",
+    "authority"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063200_ec67816170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063200_2e602c657f_o.png",
+      "id_image": "author_1753416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681339_2219e4ed1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681339_dc95e14015_o.png",
+      "id_image": "author_2301789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063090_f3efbbd97e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063090_927bb8fa90_o.png",
+      "id_image": "author_4410343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326231_5c11b644c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326231_16c4cb96e2_o.png",
+      "id_image": "author_4736290"
+    }
+  ]
+}

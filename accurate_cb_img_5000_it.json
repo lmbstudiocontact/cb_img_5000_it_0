@@ -1,0 +1,73 @@
+{
+  "english": "accurate",
+  "phat_am": "ӕˈkjurət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đúng đắn",
+          "definition": "exactly right",
+          "world_new": [
+            "exactly",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a technically accurate drawing of the building.",
+              "world_new": [
+                "technically",
+                "drawing",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "making no mistakes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an accurate memory.",
+              "world_new": [
+                "memory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The approach towards accurate functionals has instead been to study model systems for which very accurate functionals can be derived.",
+    "With these precise data, the evaluation will be very accurate.",
+    "In contrast, when comparing the maps for topic 5 it seems that the minutes give an accurate account of the discussions that took place.",
+    "Sensitivity and flexibility are needed for engaging with individual families, but accurate measurement is needed for systems control.",
+    "For example, a no boundary extension rule would result in more accurate representations but in less predictive coverage.",
+    "One or more of the religions may, in fact, offer descriptions of that order that are substantially more accurate than the others.",
+    "No single theory is able to provide an accurate theoretical estimate of the thermodynamic properties of matter in the entire phase plane.",
+    "This model of the physical problem appears to be reasonable for y1/y2 > 3 and becomes more accurate as y1/y2increases."
+  ],
+  "list_see_also": [
+    "accurately",
+    "accuracy"
+  ],
+  "list_browse": [
+    "accumulate",
+    "accumulation",
+    "accumulator",
+    "accuracy",
+    "accurate",
+    "accurately",
+    "accursed",
+    "accusation",
+    "accuse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439253_2c7f7cd024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439253_cb97a7477a_o.png",
+      "id_image": "accurate_4413658"
+    }
+  ]
+}

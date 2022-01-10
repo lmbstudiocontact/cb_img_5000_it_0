@@ -1,0 +1,69 @@
+{
+  "english": "cigar",
+  "phat_am": "siˈɡaː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điếu xì gà",
+          "definition": "a roll of tobacco leaves for smoking",
+          "world_new": [
+            "roll",
+            "tobacco",
+            "smoking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Edgar was puffing away on a fat cigar.",
+              "world_new": [
+                "fat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From around 1850 onwards, the number of factories increased, with chemical, textile and cigar-making industries predominating.",
+    "I cannot tolerate the image of a woman with a cigar in her mouth, wearing men's trousers just like the gangster women on the street.",
+    "There are ostinati that hang in the air, insubstantial as cigar-smoke; figures that scurry out of earshot like mice.",
+    "This figure appears to be smoking a cigar that he holds in his mouth with his right hand.",
+    "At the same time, industrial machinery was displacing many skilled workers and artisans, cigar rollers and tinsmiths, for example.",
+    "One is to keep the analysis as simple as possible to explain the cigar-like shape of the vortices found in the three-dimensional computations.",
+    "They smoke cigars that are almost wholly inodorous, but they notice as explicitly rank the cigars of half-pay soldiers and betting men.",
+    "Another occupant of the compartment takes out a cigar, lights it up, and begins to smoke."
+  ],
+  "list_see_also": [
+    "cigarette"
+  ],
+  "list_browse": [
+    "CIA",
+    "cicada",
+    "CID",
+    "cider",
+    "cigar",
+    "cigarette",
+    "cilantro",
+    "cilium",
+    "cinch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662199_6a3514362c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662199_bab5c16e86_o.png",
+      "id_image": "cigar_3184185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421963_399c212931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421963_1c3e010b4c_o.png",
+      "id_image": "cigar_3207499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306756_593da1e634_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306756_321b5d3d40_o.png",
+      "id_image": "cigar_4612461"
+    }
+  ]
+}

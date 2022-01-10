@@ -1,0 +1,71 @@
+{
+  "english": "baseball",
+  "phat_am": "ˈbeisboːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng chày",
+          "definition": "an American game played with bat and ball",
+          "world_new": [
+            "American",
+            "game",
+            "bat",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a game of baseball",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a baseball bat/game/player."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In baseball, the contributions of individuals can overwhelm the concept of team.",
+    "Baseball terms that have extended beyond the sport are also noted.",
+    "If the baseball as a whole is also a causal agent, we have too many causal agents.",
+    "Here are words peculiar to baseball, as well as ordinary words (spitter, receiver, farmhand) the special definitions of which won't be found in most dictionaries.",
+    "For example, when asked for an apple, children picked a banana as often as they picked a baseball.",
+    "I honestly don't remember much of what was said until we stumbled on a shared love of baseball.",
+    "There is an allotted number of innings, a life span if you will, but the duration of a baseball game is not fixed.",
+    "Although some teams and leagues were integrated, baseball was never as democratic and meritocratic as its promoters claimed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barrow",
+    "barter",
+    "basalt",
+    "base",
+    "baseball",
+    "baseless",
+    "basely",
+    "basement",
+    "baseness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051170_86c3dd5219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051170_bd17377a49_o.png",
+      "id_image": "baseball_1099804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429468_04e3ac9645_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429468_8009eb69f4_o.png",
+      "id_image": "baseball_4545133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429428_f544b3c8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429428_99ea0407c9_o.png",
+      "id_image": "baseball_4545154"
+    }
+  ]
+}

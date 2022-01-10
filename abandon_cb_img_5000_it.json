@@ -1,0 +1,102 @@
+{
+  "english": "abandon",
+  "phat_am": "əˈbӕndən",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "từ bỏ",
+          "definition": "to leave, not intending to return to",
+          "world_new": [
+            "leave",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bank robbers abandoned the stolen car.",
+              "world_new": [
+                "bank",
+                "abandoned",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hủy",
+          "definition": "to stop doing something because of a problem",
+          "world_new": [
+            "stop",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The match had to be abandoned because of the bad weather.",
+              "world_new": [
+                "match",
+                "abandoned",
+                "bad",
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buông thả",
+          "definition": "to give (oneself) completely to something",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After his wife’s death, he abandoned himself to despair.",
+              "world_new": [
+                "death",
+                "abandoned",
+                "despair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But as soon as costs and benefits are assigned to separate persons, maximisation should be abandoned.",
+    "However, they soon were forced to abandon these plans after running into a powerful barrage of criticism.",
+    "The last explosion fires, very far away, have abandoned their long reverberations and are exhausted as they trail away.",
+    "However, this does not warrant totally abandoning the notion of separate senses, particularly in light of evidence of limits in cross-modal representations.",
+    "Projects begun in southern universities on revolutionary republicanism in the 1960s and 1970s were, in some instances, delayed for decades or abandoned altogether.",
+    "This project engaged some attention, but it was soon felt to be impracticable, and the thought was consequently abandoned.",
+    "Relating transformation to abandonment is somewhat more difficult, but in a sense the village, already partially abandoned, was transformed into ruins.",
+    "They lost virtually all their cattle and were left with the choice of abandoning the lobola system or finding a new lobola currency."
+  ],
+  "list_see_also": [
+    "abandoned",
+    "abandonment"
+  ],
+  "list_browse": [
+    "A-road",
+    "a.k.a.",
+    "aback",
+    "abacus",
+    "abandon",
+    "abandoned",
+    "abandonment",
+    "abashed",
+    "abate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683029_a28cdb9afb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683029_ebef66f43a_o.png",
+      "id_image": "abandon_5772645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064595_868922b01e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064595_3eb3d25bdd_o.png",
+      "id_image": "abandon_5906072"
+    }
+  ]
+}

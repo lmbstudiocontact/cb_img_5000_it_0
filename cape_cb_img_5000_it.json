@@ -1,0 +1,103 @@
+{
+  "english": "cape",
+  "phat_am": "keip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo choàng không tay",
+          "definition": "a long, loose, sleeveless outer garment hanging from the shoulders and fastening at the neck",
+          "world_new": [
+            "long",
+            "loose",
+            "sleeveless",
+            "outer",
+            "garment",
+            "hanging",
+            "fastening",
+            "neck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a waterproof cycling cape.",
+              "world_new": [
+                "waterproof"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũi đất",
+          "definition": "a headland sticking out into the sea",
+          "world_new": [
+            "headland",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fishing boat rounded the cape",
+              "world_new": [
+                "fishing",
+                "boat",
+                "rounded"
+              ]
+            },
+            {
+              "ex_of_definition": "Cape Breton."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The island has a complex coastline, with many bays, deep inlets and capes.",
+    "Bays, protruding capes and impressive sandstone rock formations contribute to the islands scenic panorama.",
+    "During the cold weather they would wear animal skin capes.",
+    "Warm clothing, mackintosh capes, etc.",
+    "They can also use cloaks or capes from the stocks of the hospital authorities.",
+    "In 1852, the canezou appeared to take the place of dainty lace and embroidered capes.",
+    "They are recognized for the white and green short half capes that they wear on the backs of their jackets.",
+    "His fashion sense was unique, and he usually wore expensive suits, flowing neckties, and capes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "capable",
+    "capably",
+    "capacious",
+    "capacity",
+    "cape",
+    "caper",
+    "capillary",
+    "capital",
+    "capitalism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373797_978ea23595_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373797_0e562e1d2a_o.png",
+      "id_image": "cape_1053042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065855_2078476896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065855_220d939fdc_o.png",
+      "id_image": "cape_1352482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443913_b0b8005ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443913_82153e4b41_o.png",
+      "id_image": "cape_1403046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328936_fbd0317aac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328936_9ee9c1b424_o.png",
+      "id_image": "cape_3460387"
+    }
+  ]
+}

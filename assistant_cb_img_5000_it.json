@@ -1,0 +1,93 @@
+{
+  "english": "assistant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trợ lý",
+          "definition": "a person who assists; a helper",
+          "world_new": [
+            "person",
+            "helper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a laboratory assistant",
+              "world_new": [
+                "laboratory"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an assistant headmaster.",
+              "world_new": [
+                "headmaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người bán hàng",
+          "definition": "a person who serves in a shop",
+          "world_new": [
+            "person",
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shop assistant.",
+              "world_new": [
+                "shop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Research assistants later rated videotapes of the interactions.",
+    "The young unmarried women did not move out of their sibling's household to become, for instance, shop assistants or domestic servants.",
+    "Instruments were generally administered in the waiting room by research assistants prior to consultation.",
+    "The research assistants also maintain contact with subjects who move away from the clinic.",
+    "On the assumption of four weavers (one master-weaver assisted by three assistants) per loom, the number of weavers ought to have been 12,892.",
+    "In fact, one commentator stated that originally guidelines were intended to inform junior doctors and physician assistants of \"the right thing to do\" (15).",
+    "The conversion from oral to printed presentation has been successfully carried out by the editor and his assistants.",
+    "Also, will the experience of personal assistants working 'powerlessly', on relatively low pay and often in isolation, be detrimental to the welfare of their employers?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assimilate",
+    "assimilation",
+    "assist",
+    "assistance",
+    "assistant",
+    "associate",
+    "association",
+    "assorted",
+    "assortment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417978_0800372709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417978_e6379f32ab_o.png",
+      "id_image": "assistant_257518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039610_dca0baa59e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039610_0fdb2917bd_o.png",
+      "id_image": "assistant_405312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302901_e89099361b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302901_85fc722b15_o.png",
+      "id_image": "assistant_6036722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347162_fbe1550485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347162_0ba54fa799_o.png",
+      "id_image": "assistant_6273491"
+    }
+  ]
+}

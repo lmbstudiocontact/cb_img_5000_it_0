@@ -1,0 +1,59 @@
+{
+  "english": "Buddhism",
+  "phat_am": "ˈbudizəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Đạo Phật",
+          "definition": "the religion founded by Gautama or Buddha",
+          "world_new": [
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Zen Buddhism."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "Buddhist"
+  ],
+  "list_browse": [
+    "bucket",
+    "buckle",
+    "buckskin",
+    "bud",
+    "Buddhism",
+    "Buddhist",
+    "budding",
+    "buddy",
+    "budge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313391_691352a987_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313391_8cb4ba590c_o.png",
+      "id_image": "buddhism_1507035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357377_2ebb46445a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357377_966b66d7e5_o.png",
+      "id_image": "buddhism_3498314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668144_b57e32ee31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668144_bcd4302a80_o.png",
+      "id_image": "buddhism_4601109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428138_842fa66aa6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428138_8e7e06204c_o.png",
+      "id_image": "buddhism_5864776"
+    }
+  ]
+}

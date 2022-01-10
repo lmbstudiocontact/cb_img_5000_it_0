@@ -1,0 +1,84 @@
+{
+  "english": "behaviour",
+  "phat_am": "biˈheivjə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cách cư xử",
+          "definition": "way of behaving",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teachers were pleased with the behaviour/behavior of the students.",
+              "world_new": [
+                "pleased"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách hành động hoặc hoạt động",
+          "definition": "actions or reactions",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the behaviour/behavior of rats"
+            },
+            {
+              "ex_of_definition": "She’s studying the behaviour/behavior of metals in acids."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During training the synaptic weights are evaluated and after training, the network should be able to reproduce the learned behaviour.",
+    "The fact that we can dream up a use for the associated behaviour is not sufficient to put a hypothesis on the table of science.",
+    "Although no formal study of parasitoid behaviour was made, the search pattern of the parasitoids in this experiment appeared to be random.",
+    "Distinguishing between these two alternative hypotheses has important implications for the behaviour of political parties.",
+    "We attempted to classify the trajectories of individual parents' change in communication over time categorically to assess how the group trends related to individuals' behaviours.",
+    "Parents' own health risk behaviours were correlated with those reported for their children.",
+    "What makes students tick: working memory and look-up behaviour.",
+    "The surprising behaviour of the surfaces of constant total pressure occurs entirely in the boundary layer."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "beguiling",
+    "beguilingly",
+    "behalf",
+    "behave",
+    "behaviour",
+    "behind",
+    "behind someone’s back",
+    "behind the scenes",
+    "behold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352697_99cd560bcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352697_a590b3da34_o.png",
+      "id_image": "behaviour_3930532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308536_7d2ddaca85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308536_0dcc6c42eb_o.png",
+      "id_image": "behaviour_5308028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308506_6da64d49e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308506_8251de3079_o.png",
+      "id_image": "behaviour_5778282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663694_d71123f9f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663694_5bf3eae389_o.png",
+      "id_image": "behaviour_5998589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663659_bc7bd82778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663659_85882ea737_o.png",
+      "id_image": "behaviour_6002351"
+    }
+  ]
+}

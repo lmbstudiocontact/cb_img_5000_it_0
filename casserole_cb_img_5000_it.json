@@ -1,0 +1,77 @@
+{
+  "english": "casserole",
+  "phat_am": "ˈkӕsərəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nồi đất",
+          "definition": "a covered dish in which food is both cooked and served",
+          "world_new": [
+            "dish",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an earthenware casserole.",
+              "world_new": [
+                "earthenware"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "món thịt hầm",
+          "definition": "the food cooked in a casserole",
+          "world_new": [
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve made a lamb casserole for dinner.",
+              "world_new": [
+                "lamb",
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The rabbit is cooked in a casserole with oil, vinegar, onions and garlic.",
+    "The oysters are baked in the shell or can be made in a small casserole dish or au gratin dish.",
+    "In the kitchen there was a small casserole where there were the same white beans.",
+    "The cake can be served either still warm directly from the casserole or left to cool to room temperature.",
+    "This same firm had tens of thousands of tins of cooked casserole stew.",
+    "It can also be used to cook kugels, casseroles, pasta dishes, meat, and chicken.",
+    "There is nothing wrong with a good stew or casserole but the ingredients in terms of cost and control are so mixed that we have a genuine problem.",
+    "The casserole is made of rice, ground liver, butter or margarine, syrup, eggs, onion, and raisins."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "casino",
+    "cask",
+    "casket",
+    "cassava",
+    "casserole",
+    "cassette",
+    "cassette player",
+    "cassia",
+    "cassock"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058265_ba96a56eff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058265_461e02ed5a_o.png",
+      "id_image": "casserole_2457408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321521_f953b2ee1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321521_0863f22c7f_o.png",
+      "id_image": "casserole_5707035"
+    }
+  ]
+}

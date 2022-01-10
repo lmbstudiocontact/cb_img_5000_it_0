@@ -1,0 +1,52 @@
+{
+  "english": "bellows",
+  "phat_am": "ˈbeləuz",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "ống bễ",
+          "definition": "an instrument for making a current of air",
+          "world_new": [
+            "instrument",
+            "current",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of bellows.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "belligerence",
+    "belligerent",
+    "belligerently",
+    "bellow",
+    "bellows",
+    "belly",
+    "belly button",
+    "belly dance",
+    "belly laugh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045160_23f515f551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045160_82151640ea_o.png",
+      "id_image": "bellows_1504092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308176_f4e2e8a480_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308176_0dd2c34ee1_o.png",
+      "id_image": "bellows_2670362"
+    }
+  ]
+}

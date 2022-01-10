@@ -1,0 +1,66 @@
+{
+  "english": "cafeteria",
+  "phat_am": "kӕfəˈtiəriə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quán ăn tự phục vụ",
+          "definition": "a self-service restaurant",
+          "world_new": [
+            "self-service",
+            "restaurant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some department stores have a cafeteria.",
+              "world_new": [
+                "department"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The index case was the cook employed in the hospital cafeteria.",
+    "Alcoholic hand rub was made available in common toilets, treatment rooms and at the cafeteria.",
+    "In addition, there was a toilet for the food handlers next to the cafeteria kitchen which did not have a separate washbasin.",
+    "Of the 40 cases, three were food handlers working in the cafeteria, 34 were hospital staff (of whom 50 % were medical staff) and three were relatives.",
+    "Following this, a constant level of cafeteria noise was digitally mixed with the stimuli.",
+    "Moving objects are easily programmed - we have doors that open on proximity, functional elevators, drinks machines in the cafeteria and the odd computer.",
+    "These measures included a requirement that employers provide housing, cafeterias, shops, and nurseries for the use of their workers.",
+    "All the subjects affected had consumed some foodstuffs in the hospital cafeteria."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "caddy",
+    "cadet",
+    "Caesarean",
+    "café",
+    "cafeteria",
+    "caffeine",
+    "caftan",
+    "cage",
+    "cagebird"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043700_2ac6756517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043700_33fe0ac257_o.png",
+      "id_image": "cafeteria_2734039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350762_0ed3946112_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350762_d2f42da026_o.png",
+      "id_image": "cafeteria_4330777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661964_5a21072e7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661964_a008a56a38_o.png",
+      "id_image": "cafeteria_4650602"
+    }
+  ]
+}

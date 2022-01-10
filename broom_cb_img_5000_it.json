@@ -1,0 +1,78 @@
+{
+  "english": "broom",
+  "phat_am": "bruːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái chổi",
+          "definition": "a long-handled sweeping brush.",
+          "world_new": [
+            "sweeping",
+            "brush"
+          ]
+        },
+        {
+          "mean_english": "cây đậu chổi",
+          "definition": "a wild shrub of the pea family with (usually yellow) flowers",
+          "world_new": [
+            "wild",
+            "shrub",
+            "pea",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hillside was covered in broom.",
+              "world_new": [
+                "hillside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Are clothes to be excluded, and household requisites like crockery, pots and pans, dusters, brooms, brushes, and so on?",
+    "People stepped off aeroplanes wearing coats and carrying buckets and brooms and changed places with others.",
+    "Brooms come in a different class from brushes.",
+    "However, high planting density also favoured witches' broom incidence.",
+    "Apart from the street scavenging brooms, all brushes more than 12¼ inches wide were to be sold to housewives free of tax.",
+    "Why is it necessary to import brooms and brushes if our home industry is capable of supplying our own needs and more?",
+    "Is the balance of payments running riot simply because the housewives have been buying too many brushes, too many brooms, too many cups and saucers?",
+    "We have had exceptions made on brushes and brooms, on shopping baskets and shopping bags for particular reasons."
+  ],
+  "list_see_also": [
+    "broomstick"
+  ],
+  "list_browse": [
+    "bronzed",
+    "brooch",
+    "brood",
+    "brook",
+    "broom",
+    "broomstick",
+    "brothel",
+    "brother",
+    "brother-in-law"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358807_cdf7da4d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358807_5a6e62bc1c_o.png",
+      "id_image": "broom_1158960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429558_86fa269e5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429558_a81f27aece_o.png",
+      "id_image": "broom_2457467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358832_cb1d0f6e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358832_7c28a9345f_o.png",
+      "id_image": "broom_577973"
+    }
+  ]
+}

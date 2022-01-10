@@ -1,0 +1,77 @@
+{
+  "english": "basket",
+  "phat_am": "ˈbaːskit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái rổ",
+          "definition": "a container made of strips of wood, rushes etc woven together",
+          "world_new": [
+            "container",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was carrying a large basket",
+              "world_new": [
+                "large"
+              ]
+            },
+            {
+              "ex_of_definition": "The basket was filled with groceries.",
+              "world_new": [
+                "filled",
+                "groceries"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Suppose it is known that in a basket there are only apples (a), only bananas (b) or only pears (c).",
+    "A bamboo-like reed which grows in tall separate stalks and which is used for thatching roofs and making baskets.",
+    "More generally, different individuals have different consumption baskets.",
+    "Four-yearold children tend to pass the test (correctly predicting she will look for her marble in her basket).",
+    "He then ' ' seize[d] ' ' her basket and ' ' tosse[d] it [away], ' ' ' ' grabbing ' ' her arm and ' ' pulling her to him.",
+    "Another potential difficulty is negative real yields for certain inflation baskets.",
+    "The original vacuum device consisted of a bicycletype hand-pump and a glass flask with pressure gauge in a carrying basket.",
+    "In this sense, all decisions adopted by individuals show their preference for one basket over any other basket available."
+  ],
+  "list_see_also": [
+    "basketball",
+    "basketry",
+    "basketwork"
+  ],
+  "list_browse": [
+    "basil",
+    "basin",
+    "basis",
+    "bask",
+    "basket",
+    "basketball",
+    "basketry",
+    "basketwork",
+    "bass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429103_8db07d7cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429103_ee115a21e9_o.png",
+      "id_image": "basket_207748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429053_82d641aaa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429053_e096e7865d_o.png",
+      "id_image": "basket_471446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429018_e7df12417a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429018_cf1ae89538_o.png",
+      "id_image": "basket_869006"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "cliff",
+  "phat_am": "klif",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vách đá",
+          "definition": "a high steep rock, especially one facing the sea",
+          "world_new": [
+            "steep",
+            "rock",
+            "facing",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the white cliffs of Dover.",
+              "world_new": [
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The performance took place along a cliff top which dropped to a lagoon protected from the ocean by a thick sand dune.",
+    "The deer runs towards a cliff, stops, tips his head and the boy falls into a pond.",
+    "Significantly some of these dates are from cliff sections exposed in relatively higher areas, which now appear to be potentially erosional areas.",
+    "A fitness cliff model could potentially explain the core dilemma of psychiatric genetics.",
+    "The ice cliff itself nowhere showed any stepped formation.",
+    "His wife brought his body halfway up a cliff.",
+    "Distinct layers of firn were observed to the south, where the ice cap ends in a small cliff of 19 m in height.",
+    "The lithostratigraphy of the cores has been precisely correlated with the nearby cliff section, which has also been examined and re-described."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cliché",
+    "click",
+    "client",
+    "clientele",
+    "cliff",
+    "climate",
+    "climate change",
+    "climatic",
+    "climax"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659394_8379364419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659394_26ce7d08cb_o.png",
+      "id_image": "cliff_172779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377192_06e28b044e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377192_6031a912e2_o.png",
+      "id_image": "cliff_2169283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687384_3c764cfec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687384_24d94e3b19_o.png",
+      "id_image": "cliff_3722682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069115_dea573fc58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069115_8da89f3157_o.png",
+      "id_image": "cliff_3722802"
+    }
+  ]
+}

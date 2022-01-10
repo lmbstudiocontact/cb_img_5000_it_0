@@ -1,0 +1,61 @@
+{
+  "english": "banjo",
+  "phat_am": "ˈbӕndʒou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn banjô",
+          "definition": "a stringed musical instrument similar to the guitar",
+          "world_new": [
+            "musical",
+            "instrument",
+            "similar",
+            "guitar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays the banjo"
+            },
+            {
+              "ex_of_definition": "Play me a tune on the banjo.",
+              "world_new": [
+                "tune"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These techniques are both idiomatic to the banjo in all styles, and their sound is characteristic of bluegrass.",
+    "Grean is also a talented multi-instrumentalist; he plays guitar, bass, lap steel, banjo, and keyboards on the album.",
+    "Inspired by the bluegrass music his father listened to, he soon learned to play banjo as well.",
+    "He is a player of the harmonica, concertina, banjo and jaw harp.",
+    "It consisted of piano, violin, drums and two banjos!",
+    "Lucassen plays a wide variety of instruments: his main instruments are guitar and keyboards, however he also plays bass, banjo and many others.",
+    "The instrumentation usually consisted of cornet, trombone, clarinet, guitar or banjo, piano, tuba or double bass, and drums.",
+    "Dancing to banjo music had been an important element of the nineteenth century minstrel show, particularly in the circular form of the 'walk-around' finales."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bangle",
+    "banish",
+    "banishment",
+    "banister",
+    "banjo",
+    "bank",
+    "bank account",
+    "bank book",
+    "bank holiday"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053395_9eba9d2340_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053395_8bab165f43_o.png",
+      "id_image": "banjo_1399644"
+    }
+  ]
+}

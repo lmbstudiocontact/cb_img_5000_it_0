@@ -1,0 +1,68 @@
+{
+  "english": "camcorder",
+  "phat_am": "ˈkamkoːdə(r)",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy quay video",
+          "definition": "a video camera",
+          "world_new": [
+            "video",
+            "camera"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She used a camcorder to record her daughter’s birthday party.",
+              "world_new": [
+                "record",
+                "birthday",
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The camcorder was mounted on a tripod unobtrusively in the corner of the room and had an unobstructed view of the experimental situation.",
+    "A camcorder with a time-stamped video image was used for recording infants' behaviour during the experimental session.",
+    "As a 16th birthday gift, his grandmother gives him a digital camcorder, and he begins immediately to record the people and events around him.",
+    "Beyond the lamps, lights and tools, it may stock camcorders and built-in ovens.",
+    "He commended the film's ambiance of panic, assisted by the relative intimacy of a handheld camcorder as the principal instrument of filming.",
+    "The home television recording market, as well as the camcorder market, has transitioned to digital video based recording.",
+    "The order of conditions was randomized within and between each visit and all segments were videotaped with a portable camcorder.",
+    "It also features him, on a farm, filming a woman with a camcorder."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "calorific",
+    "calve",
+    "calypso",
+    "calyx",
+    "camcorder",
+    "camel",
+    "camellia",
+    "cameo",
+    "camera"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660374_faf617df63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660374_f246133e02_o.png",
+      "id_image": "camcorder_169425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041930_6c5bb831a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041930_a9d8548d3a_o.png",
+      "id_image": "camcorder_4052566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041905_93137129cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041905_bbec6d098d_o.png",
+      "id_image": "camcorder_4853058"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "english": "charge",
+  "phat_am": "tʃaːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra giá",
+          "definition": "to ask as the price (for something)",
+          "world_new": [
+            "ask",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They charge 50 cents for a pint of milk, but they don’t charge for delivery.",
+              "world_new": [
+                "pint",
+                "milk",
+                "delivery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi sổ nợ",
+          "definition": "to make a note of (a sum of money) as being owed",
+          "world_new": [
+            "note",
+            "sum"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Charge the bill to my account.",
+              "world_new": [
+                "bill",
+                "my",
+                "account"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc tội",
+          "definition": "(with with) to accuse (of something illegal)",
+          "world_new": [
+            "accuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was charged with theft.",
+              "world_new": [
+                "charged",
+                "theft"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đột kích",
+          "definition": "to attack by moving quickly (towards)",
+          "world_new": [
+            "attack",
+            "moving",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We charged (towards) the enemy on horseback.",
+              "world_new": [
+                "charged",
+                "enemy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "leo",
+          "definition": "to rush",
+          "world_new": [
+            "rush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children charged down the hill.",
+              "world_new": [
+                "charged",
+                "hill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nạp điện",
+          "definition": "to make or become filled with electricity",
+          "world_new": [
+            "become",
+            "filled",
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please charge my car battery.",
+              "world_new": [
+                "my",
+                "car",
+                "battery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giao nhiệm vụ",
+          "definition": "to make (a person) responsible for (a task etc)",
+          "world_new": [
+            "responsible",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was charged with seeing that everything went well.",
+              "world_new": [
+                "charged"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá chi phí",
+          "definition": "a price or fee",
+          "world_new": [
+            "price",
+            "fee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the charge for a telephone call?",
+              "world_new": [
+                "telephone",
+                "call"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời buộc tội",
+          "definition": "something with which a person is accused",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He faces three charges of murder.",
+              "world_new": [
+                "murder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc đột kích",
+          "definition": "an attack made by moving quickly",
+          "world_new": [
+            "attack",
+            "moving",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the charge of the Light Brigade."
+            }
+          ]
+        },
+        {
+          "mean_english": "điện tích",
+          "definition": "the electricity in something",
+          "world_new": [
+            "electricity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a positive or negative charge.",
+              "world_new": [
+                "positive",
+                "negative"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đảm trách",
+          "definition": "someone one takes care of",
+          "world_new": [
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These children are my charges.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số đạn nạp",
+          "definition": "a quantity of gunpowder",
+          "world_new": [
+            "quantity",
+            "gunpowder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put the charge in place and light the fuse.",
+              "world_new": [
+                "place",
+                "light",
+                "fuse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, providing water access to a household raises its water consumption tremendously, regardless of prices charged for water before or after the access change.",
+    "Intuitively, with the pollution charge set too high, good 2 is protected less than good, 3 initially.",
+    "They took charge of day-to-day administration and defence planning.",
+    "Accounts of taking charge and assertions of robust identities tended to dominate the early interviews.",
+    "A force that exists only between charged molecules (ions) or surfaces.",
+    "This shows that willingness to do everything possible to help the embryo survive is not sufficient to exculpate the agents from the charge of instrumentalization.",
+    "He was probably also in charge of the production of performing parts for these operas.",
+    "This charge is usually raised when minority or immigrant children are taught in a language other than their own."
+  ],
+  "list_see_also": [
+    "charged",
+    "charger",
+    "charge card",
+    "in charge of",
+    "in someone’s charge",
+    "take charge"
+  ],
+  "list_browse": [
+    "charade",
+    "charades",
+    "charcoal",
+    "chard",
+    "charge",
+    "charge card",
+    "charged",
+    "charger",
+    "chariot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428458_a227d8269c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428458_6516d10bf0_o.png",
+      "id_image": "charge_1674050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050155_b1f7b72a4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050155_e14855dfd5_o.png",
+      "id_image": "charge_1972949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357637_59c366457c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357637_fe6c582dfb_o.png",
+      "id_image": "charge_5457829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428348_a791998c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428348_0132a84d08_o.png",
+      "id_image": "charge_5982305"
+    }
+  ]
+}

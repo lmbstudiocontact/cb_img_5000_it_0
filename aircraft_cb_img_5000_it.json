@@ -1,0 +1,63 @@
+{
+  "english": "aircraft",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy bay",
+          "definition": "any of several types of machine for flying in the air",
+          "world_new": [
+            "machine",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Enemy aircraft have been sighted."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ground-truthing and field checks were made by resurveying selected villages using a light aircraft and a jeep.",
+    "For example, in the scenario concerning aircraft crashes, names of artifacts, some proper nouns, organization names and some locations were not found.",
+    "Aircraft may be unable to land or take-off for several days or occasionally weeks.",
+    "This permits the determination of the allowable fuel for the aircraft, which ultimately yields the range capability.",
+    "The initial aim was to develop real-time aids to help military aircraft pilots make decisions using incomplete and confusing data from many sources.",
+    "High noise school children heard significantly more aircraft noise than low noise school children.",
+    "Previous field studies have indicated that children's cognitive performance is impaired by chronic aircraft noise exposure.",
+    "In the second trial, small aircraft were used for distribution of praziquantel baits (20/km2) according to the protocol of concurrent rabies immunization campaigns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "air-conditioner",
+    "air-conditioning",
+    "airbag",
+    "airborne",
+    "aircraft",
+    "aircraft carrier",
+    "airfare",
+    "airfield",
+    "airgun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317591_ebef2c6cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317591_ef72c8d2f7_o.png",
+      "id_image": "aircraft_1737756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361892_291d45c702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361892_c9011fbc39_o.png",
+      "id_image": "aircraft_2039220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432633_b9e9c58790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432633_22ee8c872e_o.png",
+      "id_image": "aircraft_2809627"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "english": "classic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hạng nhất",
+          "definition": "standard or best",
+          "world_new": [
+            "standard",
+            "best"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cathedral is a classic example of Gothic architecture.",
+              "world_new": [
+                "cathedral",
+                "example",
+                "architecture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kinh điển",
+          "definition": "(of literature, art etc) of the highest quality",
+          "world_new": [
+            "literature",
+            "art",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "F. Scott Fitzgerald’s classic novel “The Great Gatsby”.",
+              "world_new": [
+                "F",
+                "novel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ điển",
+          "definition": "(of dress etc) simple, elegant and traditional",
+          "world_new": [
+            "dress",
+            "simple",
+            "elegant",
+            "traditional"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went for the classic look with her hair in a pleat.",
+              "world_new": [
+                "look",
+                "hair",
+                "pleat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tác phẩm kinh điển",
+          "definition": "an established work of literature of high quality",
+          "world_new": [
+            "established",
+            "work",
+            "literature",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have read all the classics.",
+              "world_new": [
+                "I",
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "văn học cổ Hy lạp",
+          "definition": "the language and literature of Greece and Rome",
+          "world_new": [
+            "language",
+            "literature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying classics."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not believe that, because people live in inner cities, they should not learn, say, the classics.",
+    "Your subscription series would be mostly comedies with a few classics, musicals, dramas, and other types of plays.",
+    "I went to an old-fashioned grammar school and was given the blunt choice of languages, science or classics.",
+    "A century later, however, classics had been ' dethroned ' in the curricula, giving way to a plethora of modern studies.",
+    "The development of electrical recording, which improved its sonic range, plus the cessation of recording abridged versions of the classics, helped their cause.",
+    "One was an emeritus professor of classics.",
+    "The emperor has clearly decreed that provincial and metropolitan examinations should pay more attention to the classics and policy questions, but there is little response from below.",
+    "She too was determined to read classics, of all subjects."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clarity",
+    "clash",
+    "clasp",
+    "class",
+    "classic",
+    "classical",
+    "classification",
+    "classified",
+    "classified ad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349272_4b285d628b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349272_ff74a1c246_o.png",
+      "id_image": "classic_1312859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349247_73e948185a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349247_3c26b8194e_o.png",
+      "id_image": "classic_5318799"
+    }
+  ]
+}

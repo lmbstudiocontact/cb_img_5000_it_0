@@ -1,0 +1,74 @@
+{
+  "english": "attribute",
+  "phat_am": "əˈtribjut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gán cho là",
+          "definition": "to think of as being written, made etc by",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The play is attributed to Shakespeare.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "qui cho là",
+          "definition": "to think of as being caused by",
+          "world_new": [
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He attributed his illness to the cold weather.",
+              "world_new": [
+                "illness",
+                "cold",
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Spatialisation models should take into account a couple of important physical attributes of a sounding object, namely its size and its radiation properties.",
+    "He attributed the very modest results to the wide range of subjects taught and the near-total lack of encouragement to potential students (local authority employees).",
+    "This is more about whose history is being constructed and told, and how causation is attributed.",
+    "Indeed, people's social and psychological attributes shape their behaviour but, in many ways, behaviour is only partially predictable.",
+    "These concepts and psychological attributes can be identified and evaluated by educators in a process that could include student self-evaluation and validation.",
+    "They attribute this result to certain reforms of the party's nominating process.",
+    "What this protective attribute is relates to the second question, that of what mechanisms underlie the protective effect.",
+    "In other words, in refusing to attribute any role to crime, these studies are forced into the same zero-sum framework they attempt to challenge."
+  ],
+  "list_see_also": [
+    "attributive"
+  ],
+  "list_browse": [
+    "attraction",
+    "attractive",
+    "attractively",
+    "attractiveness",
+    "attribute",
+    "attributive",
+    "au pair",
+    "aubergine",
+    "auburn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442858_67eab16ab3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442858_6cd1a2017f_o.png",
+      "id_image": "attribute_1441343"
+    }
+  ]
+}

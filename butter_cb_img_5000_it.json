@@ -1,0 +1,89 @@
+{
+  "english": "butter",
+  "phat_am": "ˈbatə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bơ",
+          "definition": "a fatty substance made from cream by churning",
+          "world_new": [
+            "fatty",
+            "substance",
+            "cream"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slice of bread and butter.",
+              "world_new": [
+                "slice",
+                "bread"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phết bơ",
+          "definition": "to spread with butter",
+          "world_new": [
+            "spread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She buttered the bread.",
+              "world_new": [
+                "bread"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He hopes that his butter and honeycups will prove a big success in the next few years.",
+    "Worldly people speak soft words like butter and those who have not wisdom to discern what they are after are deceived and fall.",
+    "Let us not walk straight into another lot of litigation with the courts being accused of being silly and lawyers of buttering their bread.",
+    "Patients were able to match a given sequence of photographs with the correct label such as: the process of making coffee, buttering bread, or preparing tea.",
+    "I congratulate the private sector upon knowing on which side its bread is buttered.",
+    "They are negotiating for new contracts with new companies; they do not know where their bread will be buttered in two years, or one year, or, sometimes, one month.",
+    "We have buttered each other up over the years on many an occasion.",
+    "The masses of all packs of butter may be assumed to have a normal distribution with mean grams and standard deviation 2.7 grams."
+  ],
+  "list_see_also": [
+    "buttery",
+    "buttercup",
+    "butterfingers",
+    "butterscotch",
+    "butter up"
+  ],
+  "list_browse": [
+    "butcher",
+    "butler",
+    "butt",
+    "butt in",
+    "butter",
+    "butter up",
+    "buttercup",
+    "butterfingers",
+    "butterfly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352032_4acb409537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352032_d2bb5277d4_o.png",
+      "id_image": "butter_4391885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422988_1f5a4e1224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422988_efeccbe73f_o.png",
+      "id_image": "butter_5816145"
+    }
+  ]
+}

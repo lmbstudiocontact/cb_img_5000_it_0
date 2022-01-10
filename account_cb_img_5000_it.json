@@ -1,0 +1,167 @@
+{
+  "english": "account",
+  "phat_am": "əˈkaunt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài khoản",
+          "definition": "an arrangement by which a person keeps his or her money in a bank",
+          "world_new": [
+            "arrangement",
+            "person",
+            "money",
+            "bank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have (opened) an account with the local bank.",
+              "world_new": [
+                "I",
+                "local",
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản kê khai",
+          "definition": "a statement of money owing",
+          "world_new": [
+            "statement",
+            "money",
+            "owing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Send me an account of the money which I owe.",
+              "world_new": [
+                "money",
+                "I",
+                "owe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự miêu tả",
+          "definition": "a description or explanation (of something that has happened)",
+          "world_new": [
+            "description",
+            "explanation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave us a full account of his visit to Vienna.",
+              "world_new": [
+                "full",
+                "visit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trả góp",
+          "definition": "an arrangement by which a person makes a regular (eg monthly) payment instead of paying at the time of buying",
+          "world_new": [
+            "arrangement",
+            "person",
+            "regular",
+            "payment",
+            "instead",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have an account at Smiths.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo cáo thu chi",
+          "definition": "a record of money received and spent",
+          "world_new": [
+            "record",
+            "money",
+            "spent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must keep your accounts in order",
+              "world_new": [
+                "keep",
+                "your",
+                "order"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) an account book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead, the person seeking self-insight must employ a priori causal theories to account for his or her own psychological operations.",
+    "His contribution contains the most detailed phonetic analysis, taking into account not only prosodic features but segmental characteristics as well.",
+    "The author is quick to point out, however, that the models reviewed do not account for all error data.",
+    "Yet the attempt to account for the value of happiness in purely hedonic terms seems to miss something.",
+    "Our own compendium takes these into account, adding several revisions and new identifications.",
+    "The intercept was assumed to be random in order to take within-subject correlations of the dependent variables into account for statistical inference.",
+    "For convenience of description, the right ventricle will be accounted for in terms of its three regions.",
+    "Such accounts can to varying degrees exhibit self-justification or self-blame, as well as a tendency to order random events."
+  ],
+  "list_see_also": [
+    "accountable",
+    "accountability",
+    "accountancy",
+    "accountant",
+    "account for",
+    "by all accounts",
+    "on account of",
+    "on my/his (etc) account",
+    "on no account",
+    "take (something) into account"
+  ],
+  "list_browse": [
+    "according to",
+    "accordingly",
+    "accordion",
+    "accost",
+    "account",
+    "account for",
+    "accountability",
+    "accountable",
+    "accountancy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369987_8cd4d93208_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369987_6a26a75f25_o.png",
+      "id_image": "account_1285719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061895_f48714c271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061895_d42c0761f6_o.png",
+      "id_image": "account_1728902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325016_17d1b50554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325016_b2f798246b_o.png",
+      "id_image": "account_1892579"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369877_cb3b876be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369877_ff4d59a084_o.png",
+      "id_image": "account_2867567"
+    }
+  ]
+}

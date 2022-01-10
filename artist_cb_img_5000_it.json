@@ -1,0 +1,83 @@
+{
+  "english": "artist",
+  "phat_am": "ˈaːtist",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoạ sĩ",
+          "definition": "a person who paints pictures or is a sculptor or is skilled at one of the other arts",
+          "world_new": [
+            "person",
+            "sculptor",
+            "skilled",
+            "arts"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a landscape/portrait artist."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ sĩ",
+          "definition": "a singer, dancer, actor etc; an artiste",
+          "world_new": [
+            "singer",
+            "dancer",
+            "actor",
+            "artiste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He announced the names of the artists who were taking part in the show.",
+              "world_new": [
+                "part"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In recent years, artists and composers have been increasingly drawn to historical archive material.",
+    "Information on artists and materials is given sporadically.",
+    "Écriture refers to the recurring consistencies and developments in an artist's succession of works.",
+    "Despite movements of popular artists, capital and technologies across national boundaries, nation-states still constitute the nexus of global-local exchange.",
+    "The inevitable rise of democracy no doubt would manifest itself in the work of contemporary artists.",
+    "How might we adapt this work to offer it to artists in other genres?",
+    "However, the use of the term in this context appears to have been casual since artists were never an official estate.",
+    "Both grandfathers were scientists - in addition to being artists and fishers of men."
+  ],
+  "list_see_also": [
+    "artistic",
+    "artistically",
+    "artistry",
+    "artistic licence"
+  ],
+  "list_browse": [
+    "artificiality",
+    "artificially",
+    "artillery",
+    "artisan",
+    "artist",
+    "artiste",
+    "artistic",
+    "artistic licence",
+    "artistically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041200_4c70236441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041200_292bc4b119_o.png",
+      "id_image": "artist_1749947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041180_2598cb19b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041180_466e8a8f5a_o.png",
+      "id_image": "artist_1911209"
+    }
+  ]
+}

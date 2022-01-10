@@ -1,0 +1,124 @@
+{
+  "english": "champion",
+  "phat_am": "ˈtʃӕmpiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà vô địch",
+          "definition": "in games, competitions etc, a competitor who has defeated all others",
+          "world_new": [
+            "games",
+            "competitor",
+            "defeated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "this year’s golf champion",
+              "world_new": [
+                "golf"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a champion boxer.",
+              "world_new": [
+                "boxer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiến sỹ",
+          "definition": "a person who defends a cause",
+          "world_new": [
+            "person",
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a champion of women’s rights.",
+              "world_new": [
+                "rights"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấu tranh cho",
+          "definition": "to defend or support",
+          "world_new": [
+            "defend",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He championed the cause of human rights for many years.",
+              "world_new": [
+                "cause",
+                "human",
+                "rights"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His book presents a detailed account of the bewildering history of competing doctrines championed by venerable ecclesiastical authorities concerning the permissible degrees of relationship within which marriages were valid.",
+    "The regression results show a very clear picture: people with stronger postmodern values are much more likely to be champions of democracy.",
+    "Even workfare initiatives were primarily championed by policy advocates and experts.",
+    "He advocated their use in terms similar to those used by current champions of qualitative research.",
+    "Although championing the values of working-class solidarity, self-improvement through travel, and international understanding, socialist tourism also promised comfortable accommodations and solicitude to individual desires.",
+    "They saw themselves as champions of a more democratic society and public sphere, attracting the masses to democracy - much in the way their predecessors did.",
+    "The modern context offers possibilities of communication that are infinitely greater than those that were open to the champions of universal languages in the past.",
+    "The operators and their champions in the legal profession did everything possible to deny responsibility for the wave of deaths and injuries in their collieries."
+  ],
+  "list_see_also": [
+    "championship"
+  ],
+  "list_browse": [
+    "chamomile",
+    "champ",
+    "champ at the bit",
+    "champagne",
+    "champion",
+    "championship",
+    "chance",
+    "chance on/upon",
+    "chancellor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429578_da614326d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429578_230863e0b3_o.png",
+      "id_image": "champions_5520819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358887_caf777d4ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358887_013dde522e_o.png",
+      "id_image": "champion_1620515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358852_5c7a91c339_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358852_a7735e1395_o.png",
+      "id_image": "champion_3295148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051285_5c3098cb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051285_060e33e3da_o.png",
+      "id_image": "champion_4157942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669354_18ea2eca51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669354_13221d7c46_o.png",
+      "id_image": "champion_5784087"
+    }
+  ]
+}

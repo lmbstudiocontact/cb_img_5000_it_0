@@ -1,0 +1,57 @@
+{
+  "english": "authorship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tư cách một tác giả",
+          "definition": "the state or fact of being an author",
+          "world_new": [
+            "state",
+            "fact",
+            "author"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The authorship of the play is disputed.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These are all normative positions often backed by normative considerations about meaning, authorship, responsibility, utility, and so on.",
+    "But we can also move away from an approach to female authorship that privileges difference as located in the work.",
+    "Despite a century of research, statistical and computational methods for authorship attribution are neither reliable, well-regarded, widely used nor well-understood.",
+    "In authorship identification, it is assumed that both the target text and the attested corpus are reasonably large.",
+    "In some cases, however, authorship is clear from evidence in diaries, letters, or annotations made on the newspaper.",
+    "In developing this argument, the author leaves many questions unanswered about the notion of authorship in architecture, and the nature and meaning of the immaterial.",
+    "The authorship is impressive, including as it does a number of international leaders in their respective areas of interest.",
+    "Yet he argues that adopting such a view fails to capture the significance of authorship."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "authoritatively",
+    "authority",
+    "authorization",
+    "authorize",
+    "authorship",
+    "autism",
+    "autistic",
+    "auto",
+    "autobiographical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440983_4c8fcdf5e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440983_399b908d7b_o.png",
+      "id_image": "authorship_4391575"
+    }
+  ]
+}

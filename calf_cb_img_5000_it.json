@@ -1,0 +1,109 @@
+{
+  "english": "calf",
+  "phat_am": "kaːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con bê",
+          "definition": "the young of a cow, elephant, whale etc",
+          "world_new": [
+            "young",
+            "cow",
+            "elephant",
+            "whale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "seal calves.",
+              "world_new": [
+                "seal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "da bê thuộc",
+          "definition": "(also calfskin) leather made from the skin of the young of a cow",
+          "world_new": [
+            "leather",
+            "skin",
+            "young",
+            "cow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bag made of calf.",
+              "world_new": [
+                "bag"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bắp chân",
+          "definition": "the thick fleshy back part of the leg below the knee",
+          "world_new": [
+            "thick",
+            "fleshy",
+            "part",
+            "leg",
+            "knee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has slim ankles, but fat calves",
+              "world_new": [
+                "slim",
+                "fat"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a calf muscle.",
+              "world_new": [
+                "muscle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1996, 67 calves and in 1997, 85 calves were tested 1 week pre- and 2 weeks postweaning.",
+    "In most reports, it is suggested that the mitochondria in nuclear transfer calves are not derived from donor cells, but rather from the recipient oocytes.",
+    "Weaned beef and dairy calves have been reported to have a higher prevalence of infection than unweaned calves [22, 25, 44].",
+    "In contrast, herbage larval contamination on both pastures grazed by fungal treated calves remained low throughout the grazing season.",
+    "However, the necessity of immunoglobulin protection also depends on the pathogen challenge to which calves are exposed.",
+    "Perhaps a more persistent problem over the long term was the loss of livestock, particularly calves, lambs and goat kids, to forest predators.",
+    "Individual calves, or calves belonging to different groups, were placed in separate enclosures to avoid physical contact and possible cross contamination with the synthetic pyrethroids.",
+    "The effect on adult fly size decreased when larvae were exposed to dung collected at longer times after treatment of the calves."
+  ],
+  "list_see_also": [
+    "calve"
+  ],
+  "list_browse": [
+    "calculate",
+    "calculation",
+    "calculator",
+    "calendar",
+    "calf",
+    "calibrate",
+    "calibre",
+    "caliph",
+    "caliphate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420868_c12e1874b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420868_e419c0a575_o.png",
+      "id_image": "calf_5726967"
+    }
+  ]
+}

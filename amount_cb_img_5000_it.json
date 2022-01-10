@@ -1,0 +1,93 @@
+{
+  "english": "amount",
+  "phat_am": "əˈmaunt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lên tới",
+          "definition": "to add up to",
+          "world_new": [
+            "add"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bill amounted to $15.",
+              "world_new": [
+                "bill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có nghĩa là",
+          "definition": "to be equal to",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Borrowing money and not returning it amounts to stealing.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng",
+          "definition": "a quantity, especially of money",
+          "world_new": [
+            "quantity",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps a large amount of money in the bank.",
+              "world_new": [
+                "large",
+                "money",
+                "bank"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The above remarks, amounting to no more than a sketch, do scant justice to the many works that have suggested new fields of contemporary historywriting.",
+    "One older person said there was a real need for help with such tasks, and also with small amounts of help before a crisis occurred.",
+    "Such a disparity practically amounts to subsidizing some crops or taxing others and distorts the input-output decisions of farmers.",
+    "The measures are dichotomised in the analysis to make them more similar, which might hide detailed differences in the amounts of help provided.",
+    "The two groups began their programs with comparable scores and received near identical amounts of instructional time during the first two years of study.",
+    "Recent data showed that cystic fibrosis airway mucus is anaerobic and contains low amounts of nitrate, which allows anaerobic energy generation via denitrification.",
+    "However, this inference amounts to nothing more than the initial postulate, namely the existence of a continuum.",
+    "There was no toxicity demonstrated to canola seed meal in amounts up to 2000 mg in the 100 ml flask."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "among",
+    "amoral",
+    "amorous",
+    "amorphous",
+    "amount",
+    "amp",
+    "ampere",
+    "amphetamine",
+    "amphibian"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428898_e025d58373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428898_3f4b0414ea_o.png",
+      "id_image": "amount_169525"
+    }
+  ]
+}

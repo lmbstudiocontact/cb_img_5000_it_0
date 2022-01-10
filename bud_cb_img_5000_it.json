@@ -1,0 +1,79 @@
+{
+  "english": "bud",
+  "phat_am": "bad",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nụ; chồi",
+          "definition": "a shoot of a tree or plant, containing undeveloped leaves or flower(s) or both",
+          "world_new": [
+            "shoot",
+            "tree",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are there buds on the trees yet?",
+              "world_new": [
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "a rosebud."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nảy chồi; ra nụ",
+          "definition": "to begin to grow",
+          "world_new": [
+            "begin",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trees are budding.",
+              "world_new": [
+                "budding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "budding",
+    "in bud"
+  ],
+  "list_browse": [
+    "buck up",
+    "bucket",
+    "buckle",
+    "buckskin",
+    "bud",
+    "Buddhism",
+    "Buddhist",
+    "budding",
+    "buddy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357472_7b6a85446a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357472_3b1f5fc534_o.png",
+      "id_image": "bud_3442558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313416_5243dd3b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313416_013dee8f2a_o.png",
+      "id_image": "bud_3486590"
+    }
+  ]
+}

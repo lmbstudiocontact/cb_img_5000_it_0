@@ -1,0 +1,57 @@
+{
+  "english": "anthem",
+  "phat_am": "ˈӕnθəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quốc ca",
+          "definition": "a song of praise",
+          "world_new": [
+            "song",
+            "praise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a national anthem.",
+              "world_new": [
+                "national"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài thánh ca",
+          "definition": "a piece of music for a church choir usually with words from the Bible.",
+          "world_new": [
+            "piece",
+            "music",
+            "church",
+            "choir",
+            "Bible"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anteater",
+    "antelope",
+    "antenatal",
+    "antenna",
+    "anthem",
+    "anther",
+    "anthill",
+    "anthology",
+    "anthracite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425473_fe2953dc96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425473_314c4f4360_o.png",
+      "id_image": "anthem_3967494"
+    }
+  ]
+}

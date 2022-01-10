@@ -1,0 +1,134 @@
+{
+  "english": "bath",
+  "phat_am": "baːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bồn tắm",
+          "definition": "a large container for holding water in which to wash the whole body",
+          "world_new": [
+            "large",
+            "container",
+            "water",
+            "wash",
+            "whole",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll fill the bath with water for you.",
+              "world_new": [
+                "fill",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tắm rửa",
+          "definition": "an act of washing in a bath",
+          "world_new": [
+            "act",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a bath last night.",
+              "world_new": [
+                "I",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình chứa dung dịch hóa chất",
+          "definition": "a container of liquid etc in which something is immersed",
+          "world_new": [
+            "container",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bird bath.",
+              "world_new": [
+                "bird"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tắm",
+          "definition": "to wash in a bath",
+          "world_new": [
+            "wash"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll bath the baby.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The top and bottom surfaces were maintained at constant temperatures by circulating baths.",
+    "The baths, because of the programme, really forces the distinction between one's formal understanding of the building through drawings, say, and one's experience of it.",
+    "Virtually complete bath changes could be achieved in a few minutes while holding bath temperature constant.",
+    "The people most affected were those who bathed along the shore (74n6 %).",
+    "Natural bathing waters have been recognized as sources of infections, especially enteric infections [22-27].",
+    "The sweat bath, the angled wall, and the rear piers were removed or buried.",
+    "Further, the baths on the deck were partially frozen by the cold, so some guano remained compressed in the tread.",
+    "This ultrasonic treatment is an invasive technique because surface samples have to be cut out from the plant and studied in bath sonicators."
+  ],
+  "list_see_also": [
+    "bathchair",
+    "bathrobe",
+    "bathroom",
+    "bathtub"
+  ],
+  "list_browse": [
+    "bastion",
+    "bat",
+    "batch",
+    "bated",
+    "bath",
+    "bath salts",
+    "bathchair",
+    "bathe",
+    "bather"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050275_5b6cc9e1c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050275_01efe69cbc_o.png",
+      "id_image": "bath_326302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357812_5a15c14bbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357812_799a005380_o.png",
+      "id_image": "bath_417449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357767_5788a9871a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357767_4d5e7b7ed0_o.png",
+      "id_image": "bath_645038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050215_5c62aa475f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050215_be0b5ab3d0_o.png",
+      "id_image": "bath_769640"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "amphibian",
+  "phat_am": "ӕmˈfibiən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động vật lưỡng cư",
+          "definition": "a creature that spends part of its life on land and part in water",
+          "world_new": [
+            "creature",
+            "part",
+            "its",
+            "life",
+            "land",
+            "part",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frogs are amphibians."
+            }
+          ]
+        },
+        {
+          "mean_english": "xe tăng lội nước",
+          "definition": "a vehicle designed to move on land or in the water.",
+          "world_new": [
+            "vehicle",
+            "move",
+            "land",
+            "water"
+          ]
+        },
+        {
+          "mean_english": "thuỷ phi cơ",
+          "definition": "an aircraft designed to fly from land or water.",
+          "world_new": [
+            "aircraft",
+            "fly",
+            "land",
+            "water"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Additional evidence for this pattern comes from a study on patterns of nestedness and species associations in pond-dwelling amphibians.",
+    "How many times has terrestrial breeding evolved in anuran amphibians?",
+    "Thus, it is generally believed that the retina, as in other amphibians, is primarily organized for achromatic vision and movement detection.",
+    "Interestingly, opposite results on litter decomposition may occur if amphibians exert greater influence on predatory invertebrates than on microbivores, thereby releasing the microbivores from predation pressure.",
+    "Invertebrates, plants, micromammals, fish and even amphibians are briefly discussed.",
+    "The stumbling block came in identifying where a homologue of the medial pronucleus derivatives, including the olfactory-recipient mediodorsal nucleus, was located in amphibians.",
+    "The duration of developmental arrest is remarkable for amphibians and provides a flexible response in an unpredictable environment.",
+    "In the following section, we will describe first the brain centers that do provide the catecholaminergic input to the tectum of anuran and urodele amphibians."
+  ],
+  "list_see_also": [
+    "amphibious"
+  ],
+  "list_browse": [
+    "amount",
+    "amp",
+    "ampere",
+    "amphetamine",
+    "amphibian",
+    "amphibious",
+    "amphitheatre",
+    "ample",
+    "amplification"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313966_d9eaaef027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313966_d58693df07_o.png",
+      "id_image": "amphibian_3075188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313986_cfb701da9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313986_d1334ee6e8_o.png",
+      "id_image": "amphibian_474156"
+    }
+  ]
+}

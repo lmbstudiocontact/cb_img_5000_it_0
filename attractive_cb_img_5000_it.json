@@ -1,0 +1,73 @@
+{
+  "english": "attractive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hấp dẫn",
+          "definition": "pleasant and good- looking",
+          "world_new": [
+            "pleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an attractive girl",
+              "world_new": [
+                "girl"
+              ]
+            },
+            {
+              "ex_of_definition": "She was young and attractive.",
+              "world_new": [
+                "young"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyến rũ",
+          "definition": "likeable; tempting",
+          "world_new": [
+            "tempting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has an attractive personality",
+              "world_new": [
+                "personality"
+              ]
+            },
+            {
+              "ex_of_definition": "He found the proposition attractive.",
+              "world_new": [
+                "found",
+                "proposition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "attitude",
+    "attorney",
+    "attract",
+    "attraction",
+    "attractive",
+    "attractively",
+    "attractiveness",
+    "attribute",
+    "attributive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327871_c6bcdd74c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327871_4afabcd227_o.png",
+      "id_image": "attractive_272473"
+    }
+  ]
+}

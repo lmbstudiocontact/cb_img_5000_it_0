@@ -1,0 +1,83 @@
+{
+  "english": "allowance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoản tiền trợ cấp",
+          "definition": "a fixed sum or quantity given regularly",
+          "world_new": [
+            "fixed",
+            "sum",
+            "quantity",
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His father gives him an allowance of $200 a month.",
+              "world_new": [
+                "father",
+                "month"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạn định cho phép",
+          "definition": "something (usually a quantity) allowed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baggage allowance is 20 kilos per passenger.",
+              "world_new": [
+                "baggage",
+                "per",
+                "passenger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More disturbingly still, these structural obstacles were compounded by an initial delay in the release of government loans and allowances.",
+    "The method of creating each individual feature is decided based on that feature's tolerance allowances and the production quantities of the component.",
+    "Recent reforms to maternity allowances have equally credited in low earners (albeit with different rules).",
+    "This enables allowances to be made for different factors affecting output, such as failures in power or water supply by public utilities.",
+    "Until 1999, the allowances were inversely related to income, with four rates of benefit corresponding to an equal number of income brackets.",
+    "Utilities that 'overcomply' by reducing their emissions more than required may sell their excess allowances.",
+    "But allowance has to be made for a certain amount of settling old scores.",
+    "In 1945, the federal government was empowered to regulate maternity insurance as well as family allowances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "allot",
+    "allotment",
+    "allow",
+    "allowable",
+    "allowance",
+    "alloy",
+    "allude",
+    "allure",
+    "alluring"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052435_a6bc88c904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052435_14f74ccfe4_o.png",
+      "id_image": "allowance_1753169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315951_a5fa6e2818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315951_8a8764cc8f_o.png",
+      "id_image": "allowance_2472603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430783_c182d71d53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430783_ce8ef39081_o.png",
+      "id_image": "allowance_5255883"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "alcohol",
+  "phat_am": "ˈӕlkəhol",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu cồn",
+          "definition": "liquid made by the fermentation or distillation of sugar, present in intoxicating drinks, used also as a fuel, and in thermometers",
+          "world_new": [
+            "liquid",
+            "fermentation",
+            "distillation",
+            "sugar",
+            "present",
+            "intoxicating",
+            "fuel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some people do not drink alcohol for religious reasons.",
+              "world_new": [
+                "people",
+                "drink",
+                "religious"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The endoscopes may then be dried by either purging with dry air or flushing with 70% alcohol.",
+    "As a result, they were most receptive to trade concerns and offered most opportunities to alcohol producers.",
+    "The combination of the structure of the pledge period (described below) and alcohol can easily lead to unsafe behavior.",
+    "Do school-based social skills training programs prevent alcohol use among young people?",
+    "All patients believed alcohol consumption to have both positive and negative consequences.",
+    "Finally, several variants of path analysis have been used to examine the course of pathological alcohol involvement over time.",
+    "Those who referred to the limitations that come with age, said that they might well use alcohol but for these restrictions.",
+    "The interrelationship between power and consumption of alcohol, while fascinating, is not convincingly demonstrated in this study."
+  ],
+  "list_see_also": [
+    "alcoholic",
+    "alcoholism"
+  ],
+  "list_browse": [
+    "album",
+    "albumen",
+    "alchemist",
+    "alchemy",
+    "alcohol",
+    "alcoholic",
+    "alcoholism",
+    "alcove",
+    "ale"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671809_84548d5c1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671809_b15e7b5349_o.png",
+      "id_image": "alcohol_1691804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432173_a70bb439bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432173_bb17c5e2d0_o.png",
+      "id_image": "alcohol_1742056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671844_db211c6414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671844_1c06cd7f2a_o.png",
+      "id_image": "alcohol_197886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317091_86c030f0bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317091_a4bbcdc990_o.png",
+      "id_image": "alcohol_3165225"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "bishop",
+  "phat_am": "ˈbiʃəp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giám mục",
+          "definition": "a Christian clergyman in charge of a group of churches, usually in a large city or area",
+          "world_new": [
+            "Christian",
+            "clergyman",
+            "charge",
+            "group",
+            "large",
+            "city",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Bishop of Lincoln"
+            },
+            {
+              "ex_of_definition": "He was made a bishop two years ago."
+            }
+          ]
+        },
+        {
+          "mean_english": "con Hậu (cờ)",
+          "definition": "one of the pieces in chess",
+          "world_new": [
+            "chess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bishop moves diagonally across the board.",
+              "world_new": [
+                "diagonally",
+                "across",
+                "board"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Separate chapters describe the bishops, the collegiate clergy, the parish priests, the monks and the nuns, and their slowly changing social roles.",
+    "However, it must surely now look like a bill which the bishops wanted and for which they mobilized council support.",
+    "All possible eventualities, including the bishop's absence from the country and a lack of suitable candidates from within the priory, were accounted for.",
+    "The bishops were divided on how to handle the crisis.",
+    "Unsurprisingly the angry monks retaliated, barring entry to the chapter to the bishop's clerks.",
+    "Most of the earliest bishops' wives were uncommemorated after death.",
+    "Secondly, and most unusually for a bishop's register of this date, there is very little routine business in this volume.",
+    "By 1640, the bishops held only 40 places on county commissions - half the number of 1590 and 1608."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biscuit",
+    "bisect",
+    "bisexual",
+    "bisexuality",
+    "bishop",
+    "bison",
+    "bit",
+    "bit by bit",
+    "bitch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658594_0590d38490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658594_b57e3d35ac_o.png",
+      "id_image": "bishop_2858873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303316_965f93dda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303316_1e966c8421_o.png",
+      "id_image": "bishop_3915637"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418303_f24369348a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418303_ec5868b16e_o.png",
+      "id_image": "bishop_4246423"
+    }
+  ]
+}

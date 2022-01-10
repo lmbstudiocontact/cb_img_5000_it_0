@@ -1,0 +1,102 @@
+{
+  "english": "batter",
+  "phat_am": "ˈbatə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đập liên hồi",
+          "definition": "to beat with blow after blow",
+          "world_new": [
+            "beat",
+            "blow",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was battered to death with an iron bar.",
+              "world_new": [
+                "battered",
+                "death",
+                "iron",
+                "bar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bột nhão làm bánh",
+          "definition": "a mixture of flour, eggs and milk or water used in cooking",
+          "world_new": [
+            "mixture",
+            "flour",
+            "milk",
+            "water",
+            "cooking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fry the fish in batter",
+              "world_new": [
+                "fish"
+              ]
+            },
+            {
+              "ex_of_definition": "pancake batter.",
+              "world_new": [
+                "pancake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In order to examine how the initiatives against domestic violence were received by their intended beneficiaries, battered women, we have to look at how programmes actually worked.",
+    "We must not forget that they have taken a substantial battering during the past two years.",
+    "Let us assume that a police officer is called because an inspection authority officer is battering the door down.",
+    "All these are so often the characteristics of children who in the end get battered or otherwise maltreated.",
+    "There is a very noticeable difference between a really fresh egg and one which has been battered about.",
+    "Immigrants should not be used as battering rams, but as people with the same rights alongside local workers.",
+    "In both, participants have fans and cheerleaders, learn and practice complex material, and often emerge from their contests battered and bruised.",
+    "The steel industry is taking a tremendous battering at present."
+  ],
+  "list_see_also": [
+    "battered"
+  ],
+  "list_browse": [
+    "baton",
+    "batsman",
+    "battalion",
+    "batten",
+    "batter",
+    "battered",
+    "battery",
+    "battle",
+    "battleaxe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049500_0c66327b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049500_9a23528ac5_o.png",
+      "id_image": "batter_1867111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049565_5267ba013e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049565_c44d3af02d_o.png",
+      "id_image": "batter_209561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667874_8e22812463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667874_9961e6bf5f_o.png",
+      "id_image": "batter_221847"
+    }
+  ]
+}

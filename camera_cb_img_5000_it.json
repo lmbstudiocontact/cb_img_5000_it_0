@@ -1,0 +1,81 @@
+{
+  "english": "camera",
+  "phat_am": "ˈkӕmərə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy chụp ảnh, quay phim",
+          "definition": "an apparatus for taking still or (movie-camera) moving photographs",
+          "world_new": [
+            "apparatus",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a digital camera.",
+              "world_new": [
+                "digital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quay phim",
+          "definition": "in television, an apparatus which receives a picture and turns it into electrical impulses for transmitting",
+          "world_new": [
+            "television",
+            "apparatus",
+            "picture",
+            "electrical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a natural in front of the studio cameras.",
+              "world_new": [
+                "natural",
+                "front",
+                "studio"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "camcorder",
+    "camel",
+    "camellia",
+    "cameo",
+    "camera",
+    "camomile",
+    "camouflage",
+    "camp",
+    "camp bed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419868_e89737da68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419868_f3424dde26_o.png",
+      "id_image": "camera_168670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660229_6668a75d48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660229_c944254a22_o.png",
+      "id_image": "camera_393672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660219_56a38cdf53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660219_6ca81987bb_o.png",
+      "id_image": "camera_420299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304781_be60d3aa43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304781_980bab0c62_o.png",
+      "id_image": "camera_502310"
+    }
+  ]
+}

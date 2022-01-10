@@ -1,0 +1,117 @@
+{
+  "english": "claw",
+  "phat_am": "kloː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "móng",
+          "definition": "one of the hooked nails of an animal or bird",
+          "world_new": [
+            "hooked",
+            "animal",
+            "bird"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat sharpened its claws on the tree trunk.",
+              "world_new": [
+                "cat",
+                "its",
+                "tree",
+                "trunk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vuốt",
+          "definition": "the foot of an animal or bird with hooked nails",
+          "world_new": [
+            "foot",
+            "animal",
+            "bird",
+            "hooked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The owl held the mouse in its claw.",
+              "world_new": [
+                "owl",
+                "mouse",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "càng",
+          "definition": "(the pointed end of) the leg of a crab etc.",
+          "world_new": [
+            "pointed",
+            "leg",
+            "crab"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quắp; cào",
+          "definition": "to scratch or tear (at something) with claws or nails",
+          "world_new": [
+            "scratch",
+            "tear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two cats clawed at each other."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Previously, if stocks ran too low, there was the danger of tax being clawed back.",
+    "The clawing back of £1,000 million from taxpayers is bound to increase unemployment substantially.",
+    "The new face offered every prospect of clawing back earlier losses.",
+    "Pads almost as long as claws.",
+    "They were scratching on the wire until they had pulled their claws out of their front paws trying to escape.",
+    "Measurement of the thickness of the corium and subcutaneous tissue of the hind claws of dairy cattle by ultrasound.",
+    "He hopes that by the time he is ready to demonstrate it to the military the lobster will have two claws which it can use as bump sensors.",
+    "At the same time housing benefit has been clawed back substantially."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clatter",
+    "clause",
+    "claustrophobia",
+    "claustrophobic",
+    "claw",
+    "clay",
+    "clean",
+    "clean out",
+    "clean up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348847_506e5628cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348847_52da632686_o.png",
+      "id_image": "claw_1408443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660079_df253776d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660079_6477ca5638_o.png",
+      "id_image": "claw_464491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304691_136817ee14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304691_609a317102_o.png",
+      "id_image": "claw_815954"
+    }
+  ]
+}

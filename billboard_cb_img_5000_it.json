@@ -1,0 +1,79 @@
+{
+  "english": "billboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảng quảng cáo",
+          "definition": "a large board on which advertising posters are displayed",
+          "world_new": [
+            "large",
+            "board",
+            "advertising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a billboard advertising a rock concert.",
+              "world_new": [
+                "advertising",
+                "rock",
+                "concert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Objective information should also not be supplied in the manner depicted on the billboard.",
+    "Apart from self-regulation, there is virtually no control over marketing in magazines, at the cinema and on billboard advertisements.",
+    "Some of that meaning comes through public art - murals on buildings, for example, or billboards.",
+    "In effect, the national centre of ecclesiastical authority and prestige had been reduced to a billboard for a secular celebration.",
+    "A total of 54% and 84% reported seeing a family planning message on a billboard and poster respectively.",
+    "Each sponsor was given billboard space, options for merchandising and programme advertising at the shows.",
+    "It will prevent the sponsoring of sporting events by cigarette companies and prohibit cigarette advertising on billboards.",
+    "It screams out to them from billboards across the country."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bilious",
+    "biliousness",
+    "bill",
+    "bill of rights",
+    "billboard",
+    "billet",
+    "billfold",
+    "billiards",
+    "billion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305466_db5b933818_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305466_f7ac71ae00_o.png",
+      "id_image": "billboard_1312300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042390_37f734cd83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042390_db8cdd15e1_o.png",
+      "id_image": "billboard_1879754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042520_70c3a366b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042520_cdaab4b973_o.png",
+      "id_image": "billboard_741881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420618_b329ee115b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420618_ab5cbb57fb_o.png",
+      "id_image": "billboard_858285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420573_30ce1bb403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420573_8d0f648d8c_o.png",
+      "id_image": "billboard_860487"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "biodegradable",
+  "phat_am": "baiədiˈɡreidəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể bị vi khuẩn làm cho thối rữa",
+          "definition": "able to be separated into individual parts by bacteria",
+          "world_new": [
+            "individual",
+            "bacteria"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All vegetable matter is biodegradable.",
+              "world_new": [
+                "vegetable",
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, if disposed of in landfill rather than, for example, being composted, biodegradable waste breaks down to release greenhouse gases.",
+    "This explanation is supported by observations made in biodegradable vascular grafts.",
+    "My group favours a gradual move towards incineration, particularly of waste which is not biodegradable.",
+    "Other aspects such as the removal of biodegradable organic carbon to produce biostable drinking water have to be considered.",
+    "Hydraulic mulch slurry, derived mainly from wood byproducts, is sprayed onto the soil surface as a biodegradable ground cover to prevent erosion and establish vegetation.",
+    "These changes were directly related to food or farming and did not appear to spill over into other areas of consumption such as driving habits or use of biodegradable soaps.",
+    "These discussions include reference to biodegradable chewing gum as well as practical measures to promote responsible behaviour by users.",
+    "On the other hand, readily biodegradable hydrocarbons can increase population densities by providing carbon and energy for growth to microorganisms otherwise in oligotrophic environments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "binoculars",
+    "biochemical",
+    "biochemist",
+    "biochemistry",
+    "biodegradable",
+    "biodiversity",
+    "biofuel",
+    "biographer",
+    "biographical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348822_d3dcf40770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348822_196b3ccc9f_o.png",
+      "id_image": "biodegradable_2644245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348807_e9d66f95b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348807_5b0cdc8f4f_o.png",
+      "id_image": "biodegradable_2666756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304631_cc8df5416f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304631_56a56fbcb3_o.png",
+      "id_image": "biodegradable_6080875"
+    }
+  ]
+}

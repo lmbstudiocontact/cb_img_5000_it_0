@@ -1,0 +1,91 @@
+{
+  "english": "birch",
+  "phat_am": "bəːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây bulô",
+          "definition": "(also birch tree) a kind of small tree with pointed leaves valued for its wood",
+          "world_new": [
+            "kind",
+            "small",
+            "tree",
+            "pointed",
+            "valued",
+            "its",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That tree is a birch",
+              "world_new": [
+                "tree"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) birch leaves."
+            }
+          ]
+        },
+        {
+          "mean_english": "gỗ bulô",
+          "definition": "its wood",
+          "world_new": [
+            "its",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a desk made of birch",
+              "world_new": [
+                "desk"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a birch desk.",
+              "world_new": [
+                "desk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biotechnological",
+    "biotechnology",
+    "biotic",
+    "biped",
+    "birch",
+    "bird",
+    "bird’s-eye view",
+    "biro",
+    "birth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418888_81908dc7bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418888_1768d8b2a6_o.png",
+      "id_image": "birch_4292792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418878_cf55ede19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418878_8147828bae_o.png",
+      "id_image": "birch_4507446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418858_f8af7b7b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418858_699bbbcd04_o.png",
+      "id_image": "birch_4986382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303821_e7bedc690f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303821_78e218de5a_o.png",
+      "id_image": "birch_5023614"
+    }
+  ]
+}

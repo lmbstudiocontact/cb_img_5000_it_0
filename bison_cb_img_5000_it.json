@@ -1,0 +1,81 @@
+{
+  "english": "bison",
+  "phat_am": "ˈbaisn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trâu Châu Mỹ",
+          "definition": "the American buffalo",
+          "world_new": [
+            "American",
+            "buffalo"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a herd of bison.",
+              "world_new": [
+                "herd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bò rừng bizon",
+          "definition": "the large European wild ox.",
+          "world_new": [
+            "large",
+            "European",
+            "wild",
+            "ox"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It aims to restore bison, prairie dogs, and ferrets in the area.",
+    "A cave painting tells us, surely, far more than the simple appearance of a bison or deer.",
+    "She recognised only the bison and the gorilla.",
+    "The herd of bison increased quickly in numbers and by the early 20th century, several hundred of them were present on the island.",
+    "The only remaining species of wild horse is a part of the prairie ecosystem and grazes alongside bison.",
+    "The bison were theorized to have run in a north-south direction with the hunters upwind of the southerly wind.",
+    "Some of the more visible animals include elk (also called \"wapiti\"), bison, black-footed ferrets, pronghorn and prairie dogs.",
+    "However, there has never been a documented case of brucellosis being transmitted to cattle from wild bison."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bisect",
+    "bisexual",
+    "bisexuality",
+    "bishop",
+    "bison",
+    "bit",
+    "bit by bit",
+    "bitch",
+    "bitchy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039975_ab91dc586c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039975_322cb4541e_o.png",
+      "id_image": "bison_371881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303256_6e23ef9c06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303256_991a26f2dd_o.png",
+      "id_image": "bison_412789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658494_fea5543a57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658494_966ff8619e_o.png",
+      "id_image": "bison_4193293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418208_f156abb43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418208_7672701628_o.png",
+      "id_image": "bison_5939132"
+    }
+  ]
+}

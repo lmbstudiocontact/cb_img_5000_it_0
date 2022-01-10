@@ -1,0 +1,68 @@
+{
+  "english": "biosphere",
+  "phat_am": "(British) ˈbaiəˌsfiə; (American) ˈbaiəˌsfiər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh quyển",
+          "definition": "the part of the Earth’s surface and atmosphere where animals and plants can live",
+          "world_new": [
+            "part",
+            "surface",
+            "atmosphere",
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Global warming threatens the whole biosphere of the Earth.",
+              "world_new": [
+                "whole"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Even with these challenges there are countless viruses that thrive in the biosphere.",
+    "Just as global-scale changes in oxygen were critical for the early biosphere, so too were global processes involving nitrogen.",
+    "Biological mediation in ocean crust alteration: how deep is the deep biosphere?",
+    "We do not include them in our estimate of the hazard to biospheres.",
+    "214 for all intents and purposes nothing happened to the biosphere.",
+    "The members investigate subjects such as the deep biosphere, extremophiles, prebiotic chemistry and origins of life, planet and star formation in connection with astrochemistry.",
+    "This give rise to a locus of hydrothermal synthesis of organic compounds and metastable redox gradients that supply energy for a dark-powered deep biosphere.",
+    "In the densely populated (and highly interdependent) information landscape of the biosphere, viruses and other informational parasites are inevitable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bionic",
+    "bionics",
+    "biopic",
+    "biopsy",
+    "biosphere",
+    "biotechnological",
+    "biotechnology",
+    "biotic",
+    "biped"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810040910_30e6b7aa92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810040910_ec150e4870_o.png",
+      "id_image": "biosphere_1668361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419083_b85cd3cf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419083_ba3017a622_o.png",
+      "id_image": "biosphere_3075072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419058_3065d56e72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419058_91946a9990_o.png",
+      "id_image": "biosphere_4426780"
+    }
+  ]
+}

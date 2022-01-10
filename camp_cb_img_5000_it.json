@@ -1,0 +1,139 @@
+{
+  "english": "camp",
+  "phat_am": "kӕmp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ cắm trại",
+          "definition": "a piece of ground with tents pitched on it",
+          "world_new": [
+            "piece",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Scout camp."
+            }
+          ]
+        },
+        {
+          "mean_english": "trại",
+          "definition": "a collection of buildings, huts or tents in which people stay temporarily for a certain purpose",
+          "world_new": [
+            "collection",
+            "people",
+            "stay",
+            "temporarily",
+            "certain",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a holiday/vacation camp."
+            }
+          ]
+        },
+        {
+          "mean_english": "doanh trại",
+          "definition": "a military station, barracks etc",
+          "world_new": [
+            "military",
+            "station",
+            "barracks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Romans set up a military camp called Vindobona.",
+              "world_new": [
+                "military"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phe phái",
+          "definition": "a party or side",
+          "world_new": [
+            "party",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two men belong to completely different political camps.",
+              "world_new": [
+                "belong",
+                "completely",
+                "political"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi cắm trại",
+          "definition": "(also go camping) to set up, and live in, a tent / tents",
+          "world_new": [
+            "live",
+            "tent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We camped on the beach",
+              "world_new": [
+                "beach"
+              ]
+            },
+            {
+              "ex_of_definition": "We go camping every year.",
+              "world_new": [
+                "camping",
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "camper",
+    "camping",
+    "camp bed",
+    "camp fire",
+    "campsite"
+  ],
+  "list_browse": [
+    "cameo",
+    "camera",
+    "camomile",
+    "camouflage",
+    "camp",
+    "camp bed",
+    "camp fire",
+    "campaign",
+    "campaigner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041615_59defa4e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041615_3fe2c0b142_o.png",
+      "id_image": "camp_1719887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304711_9461656783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304711_8abca38aa8_o.png",
+      "id_image": "camp_1879696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041550_c938319394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041550_1202ae810d_o.png",
+      "id_image": "camp_2688330"
+    }
+  ]
+}

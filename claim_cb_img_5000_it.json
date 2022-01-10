@@ -1,0 +1,153 @@
+{
+  "english": "claim",
+  "phat_am": "kleim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quả quyết",
+          "definition": "to say that something is a fact",
+          "world_new": [
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He claims to be the fastest runner in the class.",
+              "world_new": [
+                "runner",
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đòi",
+          "definition": "to demand as a right",
+          "world_new": [
+            "demand",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can claim your money back if the goods are damaged.",
+              "world_new": [
+                "your",
+                "money",
+                "goods",
+                "damaged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khẳng định",
+          "definition": "to state that one is the owner of",
+          "world_new": [
+            "state",
+            "owner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did anyone claim the umbrella which was left behind?",
+              "world_new": [
+                "umbrella",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khẳng định",
+          "definition": "a statement (that something is a fact)",
+          "world_new": [
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her claim that she was the millionaire’s daughter was disproved.",
+              "world_new": [
+                "daughter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đòi hỏi một số tiền bồi thường",
+          "definition": "(a demand for) a payment of compensation etc",
+          "world_new": [
+            "demand",
+            "payment",
+            "compensation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made a claim for damages against her employer.",
+              "world_new": [
+                "employer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đòi hỏi",
+          "definition": "a demand for something which (one says) one owns or has a right to",
+          "world_new": [
+            "demand",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a rightful claim to the money.",
+              "world_new": [
+                "rightful",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The findings of the present 5-year longitudinal study are consistent with this theoretical claim.",
+    "There is no theoretical reason for claiming that representations and computation need to be conscious.",
+    "Many students in my class were inspired by these readings to carry on further investigations, finding more data and phonetic support for the phonological claims.",
+    "Here we discuss a number of problematic theoretical and empirical issues related to his claims.",
+    "The claim may be true without the people's good judgment surfacing in their actual choices.",
+    "The central claim of this paper is that decision-making cannot be understood purely at the group level.",
+    "The authors claim to be modeling semantic representations in the domain of living things.",
+    "Their claim that higher levels of unemployment help extreme right parties is valid given their model."
+  ],
+  "list_see_also": [
+    "claimant"
+  ],
+  "list_browse": [
+    "civilly",
+    "CJD",
+    "cl",
+    "clad",
+    "claim",
+    "claimant",
+    "clairvoyance",
+    "clairvoyant",
+    "clam"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042600_e33128736c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042600_ff50f00322_o.png",
+      "id_image": "claim_2419571"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420758_c3842ce082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420758_5c4d15e954_o.png",
+      "id_image": "claim_670845"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "ancient",
+  "phat_am": "ˈeinʃənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cổ đại",
+          "definition": "relating to times long ago, especially before the collapse of Rome",
+          "world_new": [
+            "times",
+            "long",
+            "collapse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ancient history.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ",
+          "definition": "very old",
+          "world_new": [
+            "old"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Why are you wearing that ancient sweater? It’s full of holes.",
+              "world_new": [
+                "wearing",
+                "sweater",
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What are the misrecognitions that haunt a project where ancient music and its study are assimilated to 'world music'?",
+    "Is the whole thing now a piece of ancient history?",
+    "No looking back to the ancients for authority and reassurance here.",
+    "Imitating the ancients, after all, could be a risky proposition.",
+    "As a few far-sighted analysts saw as early as 1946, the rules of the ancient game of war were changing.",
+    "The editors set the linking of modern processes with ancient examples as their goal, and this they have achieved.",
+    "The number \"seven\" among the ancients was considered a magic number.",
+    "The book is timely because, although taro cultivation is ancient, production is becoming intensive and market requirements more demanding."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ancestry",
+    "anchor",
+    "anchorage",
+    "anchovy",
+    "ancient",
+    "and",
+    "and so on/forth",
+    "(and) to spare",
+    "android"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312921_285c562e67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312921_ce2d5fe23e_o.png",
+      "id_image": "ancient_2446833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312996_dcf07ab7c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312996_343b1b6eb4_o.png",
+      "id_image": "ancient_306829"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049395_fd5d669ea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049395_b3d2b0b0a0_o.png",
+      "id_image": "ancient_3883031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312956_1b6433d69a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312956_6244b3be2d_o.png",
+      "id_image": "ancient_499250"
+    }
+  ]
+}

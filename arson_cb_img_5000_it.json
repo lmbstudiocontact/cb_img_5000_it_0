@@ -1,0 +1,50 @@
+{
+  "english": "arson",
+  "phat_am": "ˈaːsn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cố ý gây hoả hoạn",
+          "definition": "the crime of setting fire to (a building etc) on purpose",
+          "world_new": [
+            "crime",
+            "fire",
+            "building",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was convicted of arson."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arrow",
+    "arrowhead",
+    "arsenal",
+    "arsenic",
+    "arson",
+    "art",
+    "art gallery",
+    "artefact",
+    "arterial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349002_50f61b97a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349002_b8b86d0bde_o.png",
+      "id_image": "arson_4321654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041775_c5e91ce981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041775_99b6f5f0cb_o.png",
+      "id_image": "arson_5411130"
+    }
+  ]
+}

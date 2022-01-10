@@ -1,0 +1,92 @@
+{
+  "english": "acquisition",
+  "phat_am": "ӕkwiˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giành được",
+          "definition": "the act of acquiring",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The public support the acquisition of more land to protect wildlife.",
+              "world_new": [
+                "public",
+                "support",
+                "land",
+                "protect",
+                "wildlife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái giành được",
+          "definition": "something acquired",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her recent acquisitions included a piano.",
+              "world_new": [
+                "recent",
+                "piano"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The existence of discrete levels of critical water potential is suggestive of specific stresses that cells must accommodate during the acquisition of desiccation tolerance.",
+    "The long-term solution to the acquisition of adequate scientific manpower is training in the countries concerned.",
+    "Attempts to alter practice have generally focused on the acquisition of knowledge and skills, and although important, these are not sufficient.",
+    "Could it account for language acquisition and the ability to talk about things that are far removed in time and space?",
+    "Despite the fundamental role phonetic representations play in language acquisition, there has been very little research on their development in a bilingual context.",
+    "At the same time, urban life-styles and the acquisition of new rights and opportunities radically changed women's expectations and collective self-image.",
+    "Just as important as the need for a sufficient income was the acquisition of the skills required to run a household.",
+    "One of the theoretical limitations of existing second-language acquisition theories is the dependence upon the notion of integrativeness to explain success in second-language acquisition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "acquiesce",
+    "acquiescence",
+    "acquiescent",
+    "acquire",
+    "acquisition",
+    "acquisitive",
+    "acquisitiveness",
+    "acquit",
+    "acquittal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323336_1813646de0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323336_624f0b28f8_o.png",
+      "id_image": "acquire_1622673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060045_1448224027_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060045_20733fc5c8_o.png",
+      "id_image": "acquire_5155895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678469_a1e6f654b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678469_c5b4d51136_o.png",
+      "id_image": "acquisition_3335554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323196_72b7a91def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323196_60bb590556_o.png",
+      "id_image": "acquisition_4597437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059950_70b0bceb07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059950_c4984db56b_o.png",
+      "id_image": "acquisition_5024694"
+    }
+  ]
+}

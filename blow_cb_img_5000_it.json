@@ -1,0 +1,168 @@
+{
+  "english": "blow",
+  "phat_am": "bləu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đánh",
+          "definition": "a stroke or knock",
+          "world_new": [
+            "stroke",
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffered a blow to the head.",
+              "world_new": [
+                "head"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tai hoạ",
+          "definition": "a sudden misfortune",
+          "world_new": [
+            "sudden",
+            "misfortune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her husband’s death was a real blow.",
+              "world_new": [
+                "death",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thổi",
+          "definition": "(of a current of air) to be moving",
+          "world_new": [
+            "current",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wind blew more strongly.",
+              "world_new": [
+                "wind",
+                "strongly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi",
+          "definition": "(of eg wind) to cause (something) to move in a given way",
+          "world_new": [
+            "cause",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The explosion blew off the roof of the house.",
+              "world_new": [
+                "explosion",
+                "roof",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuốn đi",
+          "definition": "to be moved by the wind etc",
+          "world_new": [
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door must have blown shut.",
+              "world_new": [
+                "door",
+                "shut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hà hơi vào",
+          "definition": "to drive air (upon or into)",
+          "world_new": [
+            "drive",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please blow into this tube!",
+              "world_new": [
+                "tube"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thổi (kèn…)",
+          "definition": "to make a sound by means of (a musical instrument etc)",
+          "world_new": [
+            "sound",
+            "means",
+            "musical",
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He blew the horn loudly.",
+              "world_new": [
+                "horn",
+                "loudly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "blowhole",
+    "blowtorch",
+    "blowout",
+    "blowpipe",
+    "blow one’s top",
+    "blow out",
+    "blow over",
+    "blow up"
+  ],
+  "list_browse": [
+    "blotch",
+    "blotter",
+    "blotting paper",
+    "blouse",
+    "blow",
+    "blow one’s own trumpet",
+    "blow one’s top",
+    "blow out",
+    "blow over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683639_95b7bfce24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683639_e093aef47b_o.png",
+      "id_image": "blow_1040516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683619_269736533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683619_460d757891_o.png",
+      "id_image": "blow_4845861"
+    }
+  ]
+}

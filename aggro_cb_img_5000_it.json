@@ -1,0 +1,63 @@
+{
+  "english": "aggro",
+  "phat_am": "ˈaɡrou",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hung hăng",
+          "definition": "angry or violent behaviour/behavior",
+          "world_new": [
+            "angry",
+            "violent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a bit of aggro between the fans at the end of the match.",
+              "world_new": [
+                "bit",
+                "match"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây hấn",
+          "definition": "annoying problems",
+          "world_new": [
+            "annoying"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a load of aggro at customs.",
+              "world_new": [
+                "load",
+                "customs"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "aggressively",
+    "aggressiveness",
+    "aggressor",
+    "aggrieved",
+    "aggro",
+    "aghast",
+    "agile",
+    "agility",
+    "aging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673359_2afb0f4e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673359_ebcd7c0830_o.png",
+      "id_image": "aggro_1620441"
+    }
+  ]
+}

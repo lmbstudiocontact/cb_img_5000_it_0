@@ -1,0 +1,138 @@
+{
+  "english": "appreciation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cảm kích",
+          "definition": "gratefulness",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wish to show my appreciation for everything which you have done.",
+              "world_new": [
+                "I",
+                "wish",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh giá cao",
+          "definition": "the state of valuing or understanding something",
+          "world_new": [
+            "state",
+            "understanding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has gained a deep appreciation of poetry.",
+              "world_new": [
+                "deep",
+                "poetry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hiểu biết",
+          "definition": "the state of being aware of something",
+          "world_new": [
+            "state",
+            "aware"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has no appreciation of our difficulties.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tăng giá",
+          "definition": "an increase in value",
+          "world_new": [
+            "increase",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the appreciation in house prices.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự phê phán",
+          "definition": "a written article etc which describes the qualities of something",
+          "world_new": [
+            "article"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sheila is writing an appreciation of the new book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Appreciations of this kind are confidential.",
+    "They develop an appreciation for the beauty and elegance of the body.",
+    "Future progress depended crucially on a proper appreciation of the past.",
+    "The more staff officers we have, the more appreciations and minutes are written, the more confusing it then is when one have to make a decision about what to do.",
+    "To do this, consider an alternative which involves the most enjoyable form of appreciation one can think of for some finite duration of time.",
+    "We also increased our appreciation of the current state of theory development.",
+    "They are views genuinely held having regard to people's individual appreciations of these very difficult problems.",
+    "In the event of significant amounts of foreign exchange obligations being incurred and of large appreciations in the currencies, the liabilities outside the limits could become large."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "appraise",
+    "appreciable",
+    "appreciably",
+    "appreciate",
+    "appreciation",
+    "appreciative",
+    "appreciatively",
+    "apprehend",
+    "apprehension"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307801_f5c410be40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307801_ce902e4997_o.png",
+      "id_image": "appreciation_1474687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422933_6f6ecbbf54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422933_ba867e3e20_o.png",
+      "id_image": "appreciation_2390205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422918_3abf4a2efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422918_548d03411b_o.png",
+      "id_image": "appreciation_4318899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351842_afa2f66197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351842_f306f79efe_o.png",
+      "id_image": "appreciation_5635448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044785_dfb582ab1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044785_757548ecef_o.png",
+      "id_image": "appreciation_708673"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "anxiety",
+  "phat_am": "aŋˈzaiəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nỗi lo",
+          "definition": "being very worried about something",
+          "world_new": [
+            "worried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His health is a great anxiety to me",
+              "world_new": [
+                "health",
+                "great"
+              ]
+            },
+            {
+              "ex_of_definition": "She was filled with anxiety about her exams.",
+              "world_new": [
+                "filled"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They conclude that self-management strategies contribute to an increase in learners' self- and contextual knowledge which can assist in reducing anxiety.",
+    "There is considerable anxiety about education as they hold it responsible for women going astray even in the context of their own women.",
+    "The role of a doctor is to help the patient at all times and remove the anxiety surrounding the condition.",
+    "Among patients with social anxiety disorder, all correlations with measures of social anxiety were significantly stronger than correlations with measures of depression.",
+    "However, both constructs had an interesting characteristic in common: students with higher levels of anxiety tended to have low self-concepts as language learners.",
+    "Achieving remission with venlafaxine and fluoxetine in major depression : its relationship to anxiety symptoms.",
+    "Seeking refuge in the past may be understood as their means of not being overwhelmed by their anxieties.",
+    "It is unlikely that they will provoke the feelings of unsettledness and anxiety that were expressed by our participants."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "antler",
+    "antonym",
+    "anus",
+    "anvil",
+    "anxiety",
+    "anxious",
+    "anxiously",
+    "any",
+    "any more"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424738_77c0d61348_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424738_66abc9be85_o.png",
+      "id_image": "anxiety_1488096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353772_d8e8527244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353772_607e1ddc26_o.png",
+      "id_image": "anxiety_2036890"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046535_e5d622f9a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046535_3d6df3c01d_o.png",
+      "id_image": "anxiety_2689659"
+    }
+  ]
+}

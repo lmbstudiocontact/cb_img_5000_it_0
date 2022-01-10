@@ -1,0 +1,125 @@
+{
+  "english": "argue",
+  "phat_am": "ˈaːɡjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cãi nhau",
+          "definition": "(with with someone, about something) to quarrel with (a person) or discuss (something) with a person in a not very friendly way",
+          "world_new": [
+            "quarrel",
+            "discuss",
+            "person",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m not going to argue"
+            },
+            {
+              "ex_of_definition": "Will you children stop arguing with each other about whose toy that is!",
+              "world_new": [
+                "stop",
+                "toy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản đối",
+          "definition": "(with for, against) to suggest reasons for or for not doing something",
+          "world_new": [
+            "suggest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I argued for/against accepting the plan.",
+              "world_new": [
+                "I",
+                "plan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thuyết phục ai",
+          "definition": "(with into, out of) to persuade (a person) (not) to do something",
+          "world_new": [
+            "persuade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll try to argue him into going",
+              "world_new": [
+                "try"
+              ]
+            },
+            {
+              "ex_of_definition": "He argued her out of buying the dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh luận; biện luận",
+          "definition": "to discuss, giving one’s reasoning",
+          "world_new": [
+            "discuss",
+            "reasoning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She argued the point very cleverly.",
+              "world_new": [
+                "point",
+                "cleverly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Others have argued that knowledge about the model equations is already too extreme an assumption.",
+    "I have often argued that conventional office architecture has become stuck in a groove.",
+    "Thus, it can be argued that slower colour-naming times for tobacco or alcohol related words among smokers or alcoholics offers support for either model.",
+    "Just as we have argued that gossip creates liminal identities for the gossipees, it is also true for the gossipers.",
+    "The second finding is that there is an indexical or even iconic relationship (as argued here) between vernaculars and masculinity.",
+    "He argues, however, that women's relegation to the private sphere cannot be equated with powerlessness.",
+    "He further argues that the 'winners' of partial economic reform hinder completion of democratization processes, halting the process at 'partial reform equilibrium'.",
+    "On this basis it is argued that non-complex complement adverbs have to raise to an appropriate specifier."
+  ],
+  "list_see_also": [
+    "arguable",
+    "argument",
+    "argumentative"
+  ],
+  "list_browse": [
+    "area",
+    "area code",
+    "arena",
+    "arguable",
+    "argue",
+    "argument",
+    "argumentative",
+    "aria",
+    "arid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043175_a39c0de4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043175_a934a89f47_o.png",
+      "id_image": "argue_5772796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043135_ed60274c94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043135_d6f1cf1852_o.png",
+      "id_image": "argue_5906125"
+    }
+  ]
+}

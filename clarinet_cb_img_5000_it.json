@@ -1,0 +1,75 @@
+{
+  "english": "clarinet",
+  "phat_am": "klӕrəˈnet",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kèn clarinet",
+          "definition": "a type of musical wind instrument, usually made of wood, and played by means of keys and fingers covering combinations of holes",
+          "world_new": [
+            "type",
+            "musical",
+            "wind",
+            "instrument",
+            "wood",
+            "means",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sonata for Clarinet and Piano."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sonorous bass clarinet, contrabassoon and tuba introduce an important ascending figure.",
+    "It opens with a minatory statement from the brass, countered by lyrical melodies in the woodwind (especially clarinets) and strings.",
+    "The clarinet is not cast as a concerto soloist pitted against the orchestra: rather it is part of the symphonic argument, avoiding empty display.",
+    "A reed-tube instrument (clarinet-like), repitched by opening closing holes.",
+    "For the learning of wind instruments, the clarinet, oboe, bassoon, the boy to girl ratios were 6:3, 6:2 and 6:1.",
+    "The bass end of the register is notably sonorous, enhanced by the addition of a contrabass clarinet.",
+    "During the research project there were also flutes, clarinets and a violin.",
+    "The spectrum of the acoustic output from a single reed, such as that which excites the clarinet acoustically, will consist of all harmonics being present."
+  ],
+  "list_see_also": [
+    "clarinettist"
+  ],
+  "list_browse": [
+    "clank",
+    "clap",
+    "clarification",
+    "clarify",
+    "clarinet",
+    "clarinettist",
+    "clarity",
+    "clash",
+    "clasp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349462_b2131056f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349462_87160c1f05_o.png",
+      "id_image": "clarinet_1054501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420293_804e37da00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420293_51fcc1773d_o.png",
+      "id_image": "clarinet_1505374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808349512_ac139e297c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808349512_7f1fab309a_o.png",
+      "id_image": "clarinet_422498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420348_f4b2099020_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420348_63a1e871f3_o.png",
+      "id_image": "clarinet_848241"
+    }
+  ]
+}

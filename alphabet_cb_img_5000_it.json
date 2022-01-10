@@ -1,0 +1,71 @@
+{
+  "english": "alphabet",
+  "phat_am": "ˈӕlfəbit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bảng chữ cái",
+          "definition": "the letters of a written language arranged in order",
+          "world_new": [
+            "language",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have learned all the letters of the Greek alphabet.",
+              "world_new": [
+                "I",
+                "learned"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A sample of about 2% of the whole, taken from various sections of the alphabet, gives a reasonable result.",
+    "It was his first introduction to the letters of the alphabet, and he was over ten years old.",
+    "Another room would be dedicated to drawing, reading, and writing, with cards on the walls representing letters of the alphabet, and a blackboard.",
+    "Either six or seven letters of the alphabet are assigned to each button.",
+    "We start relating strings and nets by looking at sets of places as alphabets and at families as strings on such alphabets.",
+    "Each row in the matrix corresponds to a position in the pattern, while each column corresponds to one character in the underlying alphabet.",
+    "To achieve a meaningful analysis, it was necessary that relevant data be available for most of the letters of the alphabet for each child.",
+    "In this training session, we employed the first three letters of the alphabet, considered most familiar."
+  ],
+  "list_see_also": [
+    "alphabetical",
+    "alphabetically",
+    "alphabetical order"
+  ],
+  "list_browse": [
+    "aloof",
+    "aloofness",
+    "aloud",
+    "alpha male",
+    "alphabet",
+    "alphabetical",
+    "alphabetical order",
+    "alphabetically",
+    "alpine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670269_54a333061a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670269_2d6e6ef701_o.png",
+      "id_image": "alphabet_1238782 - Copy"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670219_5439f31876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670219_e20b073348_o.png",
+      "id_image": "alphabet_2123705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315601_e5a9859694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315601_52d3ec2039_o.png",
+      "id_image": "alphabet_3050052"
+    }
+  ]
+}

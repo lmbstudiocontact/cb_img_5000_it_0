@@ -1,0 +1,92 @@
+{
+  "english": "agile",
+  "phat_am": "ˈӕdʒail",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhanh nhẹn",
+          "definition": "able to move quickly and easily",
+          "world_new": [
+            "move",
+            "quickly",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The antelope is a very agile animal.",
+              "world_new": [
+                "antelope",
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh nhạy",
+          "definition": "able to think quickly and intelligently",
+          "world_new": [
+            "think",
+            "quickly",
+            "intelligently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has an agile mind.",
+              "world_new": [
+                "mind"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Brute strength and stamina were catered for, as well as the agile mind.",
+    "Other more agile pedestrians have to jump out of the way.",
+    "A terrier is a dog which can worry something; it is agile and it is strong.",
+    "I shall be delighted to give way to a person with an agile mind.",
+    "Clearly the tightrope of balancing such conflicting interests and norms can demand agile solutions.",
+    "They were very husky men, agile acrobats, and their acrobatics were quite entertaining.",
+    "In contrast, the agile combat aircraft would be ready seven to 10 years earlier, by 1989 or 1990.",
+    "His mind was as agile as anybody's here, and we are driving some people into senescence years before their time."
+  ],
+  "list_see_also": [
+    "agility"
+  ],
+  "list_browse": [
+    "aggressor",
+    "aggrieved",
+    "aggro",
+    "aghast",
+    "agile",
+    "agility",
+    "aging",
+    "agitate",
+    "agitated"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433763_2e3cf4ab3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433763_38fb4bae47_o.png",
+      "id_image": "agile_2452602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363052_cb294f9226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363052_6fcd8c2e5b_o.png",
+      "id_image": "agile_2471931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318476_1aa9eb9cc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318476_2d8e477715_o.png",
+      "id_image": "agile_4295927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433668_1180fce46e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433668_b9775875cf_o.png",
+      "id_image": "agile_4295966"
+    }
+  ]
+}

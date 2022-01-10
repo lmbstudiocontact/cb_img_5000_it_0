@@ -1,0 +1,71 @@
+{
+  "english": "barometer",
+  "phat_am": "bəˈromitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phong vũ biểu",
+          "definition": "an instrument that measures changes in the air pressure and indicates changes in the weather",
+          "world_new": [
+            "instrument",
+            "air",
+            "pressure",
+            "weather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The barometer is falling – that means that it is going to rain.",
+              "world_new": [
+                "means",
+                "rain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The banning of new barometers will not stop pollution; in fact it could become more prevalent as the general public would have nowhere to take their instruments.",
+    "How many children eat barometers?",
+    "No sector has been singled out - not thermometers, nor barometers - because there is going to be a set of actions over a number of years.",
+    "We have put in place, for example, legislation on barometers.",
+    "Abbe then invented an anemobarometer to test the effect of chimney and window drafts on barometers in enclosed spaces.",
+    "Also, as mercury barometers do not require any batteries, they have an unlimited life span.",
+    "Other forms of mercury use are far more extensive and far more problematic than those in the production of barometers.",
+    "An important element in the history of elections in this country is that by-elections are often the barometers that register public opinion, which can then influence the nature of government."
+  ],
+  "list_see_also": [
+    "barometric"
+  ],
+  "list_browse": [
+    "barley sugar",
+    "barmaid",
+    "barn",
+    "barnacle",
+    "barometer",
+    "barometric",
+    "baron",
+    "barracks",
+    "barrage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359217_dd278f18b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359217_0ef7f7f576_o.png",
+      "id_image": "barometer_1900605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359247_9b3c8aae3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359247_d95ea7c9bb_o.png",
+      "id_image": "barometer_486381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051575_44717c9405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051575_f94fa03529_o.png",
+      "id_image": "barometer_5903601"
+    }
+  ]
+}

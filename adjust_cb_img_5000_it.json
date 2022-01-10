@@ -1,0 +1,89 @@
+{
+  "english": "adjust",
+  "phat_am": "əˈdʒast",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "điều chỉnh",
+          "definition": "(often with to) to change so as to make or be better suited",
+          "world_new": [
+            "change",
+            "better",
+            "suited"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He soon adjusted to his new way of life.",
+              "world_new": [
+                "soon",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉnh",
+          "definition": "to change (the position of, setting of)",
+          "world_new": [
+            "change",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You use this knob to adjust the volume level.",
+              "world_new": [
+                "knob",
+                "volume",
+                "level"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 3 presents the pattern of capital expenditure which emerges after adjusting for the movement in prices.",
+    "Models for intervention effects adjusted for the baseline value of the dependent behavioural process variable, age, gender and medical co-morbidity.",
+    "Models were adjusted for age, household occupational class and current employment status, and gender (where appropriate).",
+    "The proportion of those who made a doctor visit for each subclass of a predictor was adjusted for the other four predictors.",
+    "On the other hand, the consumption smoothing effect of current land price sustains even with = 0 as it is adjusted through land transaction.",
+    "Comparing adjusted and unadjusted effects will inform on confounding and effect mediation.",
+    "The exploration and empirical quantification of light levels for at least three threshold conditions was performed by adjusting the perforation.",
+    "The translation of earlier research into general principles was rapidly adjusted into more particular guidelines once the show was on the air."
+  ],
+  "list_see_also": [
+    "adjustable",
+    "adjustment"
+  ],
+  "list_browse": [
+    "adjournment",
+    "adjudicate",
+    "adjudication",
+    "adjudicator",
+    "adjust",
+    "adjustable",
+    "adjustment",
+    "administer",
+    "administration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320926_0620ed4ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320926_38dab5b3f1_o.png",
+      "id_image": "adjustment_2062011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436118_c47e8d8f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436118_4c14ef8b7c_o.png",
+      "id_image": "adjustment_6301121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365947_747a4dd62c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365947_117857c844_o.png",
+      "id_image": "adjust_1522188"
+    }
+  ]
+}

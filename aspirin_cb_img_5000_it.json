@@ -1,0 +1,56 @@
+{
+  "english": "aspirin",
+  "phat_am": "ˈӕspərin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc giảm đau",
+          "definition": "a (tablet of a) kind of pain-killing drug",
+          "world_new": [
+            "kind",
+            "drug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a headache so I’m going to take an aspirin.",
+              "world_new": [
+                "headache"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "asphyxiate",
+    "asphyxiation",
+    "aspiration",
+    "aspire",
+    "aspirin",
+    "aspiring",
+    "ass",
+    "assail",
+    "assailant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303676_818f10f9fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303676_b0596ca550_o.png",
+      "id_image": "aspirin_2854981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658884_ae76a8040d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658884_7d1d83bebe_o.png",
+      "id_image": "aspirin_3654846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347822_60a25139ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347822_564f9d222d_o.png",
+      "id_image": "aspirin_5760067"
+    }
+  ]
+}

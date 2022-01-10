@@ -1,0 +1,161 @@
+{
+  "english": "action",
+  "phat_am": "ˈӕkʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động",
+          "definition": "something done",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Action, not talking, is necessary if we are to defeat the enemy",
+              "world_new": [
+                "necessary",
+                "defeat",
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ll have to take action immediately",
+              "world_new": [
+                "immediately"
+              ]
+            },
+            {
+              "ex_of_definition": "The firemen are ready to go into action.",
+              "world_new": [
+                "ready"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "động tác",
+          "definition": "movement",
+          "world_new": [
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tennis needs a good wrist action.",
+              "world_new": [
+                "wrist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vụ kiện",
+          "definition": "a legal case",
+          "world_new": [
+            "legal",
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He brought an action for divorce against his wife.",
+              "world_new": [
+                "divorce",
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kiện",
+          "definition": "the events (of a play, film etc)",
+          "world_new": [
+            "play",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The action of the play takes place on an island.",
+              "world_new": [
+                "play",
+                "place",
+                "island"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trận đánh",
+          "definition": "a battle; fighting",
+          "world_new": [
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was killed in action"
+            },
+            {
+              "ex_of_definition": "Our troops fought an action against the enemy.",
+              "world_new": [
+                "troops",
+                "enemy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ cấu",
+          "definition": "the mechanical parts of a machine or the way the parts move",
+          "world_new": [
+            "mechanical",
+            "machine",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The action of the clock needs adjusting.",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "action replay",
+    "in action",
+    "out of action"
+  ],
+  "list_browse": [
+    "act on behalf of / act for",
+    "act out",
+    "act up",
+    "acting",
+    "action",
+    "action replay",
+    "activate",
+    "active",
+    "actively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678029_6ea0415b29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678029_fe3ff0ea2f_o.png",
+      "id_image": "action_1750430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322841_58fdb536b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322841_8640623b37_o.png",
+      "id_image": "action_1787483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367837_d4802c2e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367837_0f2afe97e4_o.png",
+      "id_image": "action_188952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677934_5be5202d0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677934_e9d102833c_o.png",
+      "id_image": "action_1900154"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "arithmetic",
+  "phat_am": "əˈriθmətik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số học",
+          "definition": "the art of counting by numbers",
+          "world_new": [
+            "art"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mental arithmetic.",
+              "world_new": [
+                "mental"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Any attempt at providing watertight differentiations for pairs such as arithmetic/arithmetical or geometric/geometrical leads to no satisfactory conclusions.",
+    "Equality of terms (unification or matching) and arithmetic are also covered explicitly at this stage.",
+    "In this case the implementations of functions use interval arithmetic and approximations to transcendental functions that get more accurate as the input interval shrinks.",
+    "All known manifolds with engaging actions of higher rank lattices have an arithmetic fundamental group.",
+    "As before, b is highly oscillatory when is small, and converges weakly, as 0, to its arithmetic mean.",
+    "However, this contradicts our choice of the arithmetic progression.",
+    "The following elementary arithmetic observation will be used later.",
+    "The antecedent clause in this example is a verification condition that might be discharged by applying a rule that expresses a property of integer arithmetic."
+  ],
+  "list_see_also": [
+    "arithmetical"
+  ],
+  "list_browse": [
+    "aristocracy",
+    "aristocrat",
+    "aristocratic",
+    "aristocratically",
+    "arithmetic",
+    "arithmetical",
+    "arm",
+    "arm-in-arm",
+    "armament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661359_041d2d7fb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661359_2e47c12b8c_o.png",
+      "id_image": "arithmetic_5332541"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "annual",
+  "phat_am": "ˈӕnjuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hàng năm",
+          "definition": "happening every year",
+          "world_new": [
+            "happening",
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The summer concert is an annual event.",
+              "world_new": [
+                "summer",
+                "concert",
+                "event"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính cho cả năm",
+          "definition": "of one year",
+          "world_new": [
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is his annual salary?",
+              "world_new": [
+                "salary"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách xuất bản mỗi năm một lần",
+          "definition": "a book of which a new edition is published every year",
+          "world_new": [
+            "book",
+            "edition",
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "children’s annuals."
+            }
+          ]
+        },
+        {
+          "mean_english": "cây chỉ sống một năm",
+          "definition": "a plant that lives for only one year",
+          "world_new": [
+            "plant",
+            "year"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lettuce is a hardy annual.",
+              "world_new": [
+                "hardy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I hope that these debates on accidents in mines will not be taken as mere hardy annuals.",
+    "One might expect a succession in sporocarp production with annuals dominating first, and perennials dominating on more decayed logs, as they need more nutrients to produce a sporocarp.",
+    "Ground annuals were introduced for lands on which there was a stipulation against sub-infeudation.",
+    "Yield of oat was less in the forage rotation than the annual grain rotation.",
+    "To motivate this argument, suppose that lawmakers were to require us to contribute ten percent of our annual income to charity.",
+    "In summer annuals, for example, low winter temperatures release seed dormancy and high summer temperatures induce seed dormancy.",
+    "62 plants being considered in the one system as annuals and in the other as biennials.",
+    "Drying is presumably an environmental cue, ensuring that seeds from the upper soil layers germinate after dry summer periods, which is crucial for the timing of germination of winter annuals."
+  ],
+  "list_see_also": [
+    "annually"
+  ],
+  "list_browse": [
+    "annoyance",
+    "annoyed",
+    "annoying",
+    "annoyingly",
+    "annual",
+    "annually",
+    "annuity",
+    "annul",
+    "annulment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426228_7bca1b5863_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426228_506c10f07d_o.png",
+      "id_image": "annual_2861065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666344_e2c99b03c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666344_b95d3fe75b_o.png",
+      "id_image": "annual_381630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047930_d451ca4700_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047930_7f5717a147_o.png",
+      "id_image": "annual_3967606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426168_25f22586e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426168_6380c3eec1_o.png",
+      "id_image": "annual_5571284"
+    }
+  ]
+}

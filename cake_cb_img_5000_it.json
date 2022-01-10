@@ -1,0 +1,143 @@
+{
+  "english": "cake",
+  "phat_am": "keik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh ngọt",
+          "definition": "a food made by baking a mixture of flour, fat, eggs, sugar etc",
+          "world_new": [
+            "food",
+            "baking",
+            "mixture",
+            "flour",
+            "fat",
+            "sugar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a piece of cake",
+              "world_new": [
+                "piece"
+              ]
+            },
+            {
+              "ex_of_definition": "a plate of cream cakes",
+              "world_new": [
+                "plate",
+                "cream"
+              ]
+            },
+            {
+              "ex_of_definition": "a Christmas cake.",
+              "world_new": [
+                "Christmas"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "miếng bánh",
+          "definition": "a piece of other food pressed into shape",
+          "world_new": [
+            "piece",
+            "food",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fishcakes"
+            },
+            {
+              "ex_of_definition": "oatcakes."
+            }
+          ]
+        },
+        {
+          "mean_english": "bánh",
+          "definition": "a flattened hard mass",
+          "world_new": [
+            "mass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cake of soap.",
+              "world_new": [
+                "soap"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng bánh",
+          "definition": "to cover in the form of a dried mass",
+          "world_new": [
+            "cover",
+            "form",
+            "dried",
+            "mass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His shoes were caked with mud.",
+              "world_new": [
+                "mud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are also other export products, such as cakes and pastries, which contain milk components.",
+    "By-products such as stale bread, fancy cakes, biscuits and waffles widely vary in their nutrient composition.",
+    "He has lifted a grave threat to the trade in fish cakes and cods' heads, for which the trade will be duly grateful.",
+    "Most cakes are sold today below the maximum retail prices.",
+    "I do not think it is a fair comparison to talk about lotteries for cakes at village fetes.",
+    "He said that leasehold houses were snapped up like hot cakes.",
+    "Probably every town in the country would like extra cakes of a higher quality, of a higher sugar and fat content.",
+    "Supposing the two boys had also taken nearly all previous cakes and left the third boy nothing but a biscuit."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cagey",
+    "caginess",
+    "cagoule",
+    "cajole",
+    "cake",
+    "calamitous",
+    "calamity",
+    "calcite",
+    "calcium"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350562_293628747b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350562_fbd60f4864_o.png",
+      "id_image": "cake_170779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350547_096ddc1cf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350547_1dc6c2c446_o.png",
+      "id_image": "cake_190972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661709_1e051a00f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661709_da4e81e1bb_o.png",
+      "id_image": "cake_332977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350477_be6a0430ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350477_00d889621f_o.png",
+      "id_image": "cake_333423"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "borrow",
+  "phat_am": "ˈborəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mượn",
+          "definition": "to take (something, often money) temporarily with the intention of returning it",
+          "world_new": [
+            "temporarily",
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He borrowed a book from the library.",
+              "world_new": [
+                "book",
+                "library"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, the fact that generic models and blueprints are borrowed does not presuppose the borrowing of all resources typically associated with the model.",
+    "A combination of large nominal interest-rate hikes and high government borrowing then caused a major contraction of credit to the private sector.",
+    "All such borrowed words serve to fill the inevitable gaps in all languages.",
+    "They were borrowed with short vowels constrained by the prosodic structure and remained as such.",
+    "Generally, the models used to help interpret the archaeological data are borrowed from other societies and other times.",
+    "However, they can give us some insights into students' borrowing behaviour and, by inference, which student groups (and potential students) may be debt averse.",
+    "Even after a word has been borrowed, it is still available for codeswitching.",
+    "I have borrowed the label ' pauperization ' from this source, although the authors do not treat it as a formal approach or school of thought."
+  ],
+  "list_see_also": [
+    "borrower",
+    "borrowing"
+  ],
+  "list_browse": [
+    "borehole",
+    "borer",
+    "boring",
+    "borough",
+    "borrow",
+    "borrower",
+    "borrowing",
+    "bosom",
+    "boss"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366917_255a696ef7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366917_d1f91482b5_o.png",
+      "id_image": "borrow_2112455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321956_02294dbdba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321956_889c12be18_o.png",
+      "id_image": "borrow_2361932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321911_29388eb55a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321911_82c33f3b1d_o.png",
+      "id_image": "borrow_2417791"
+    }
+  ]
+}

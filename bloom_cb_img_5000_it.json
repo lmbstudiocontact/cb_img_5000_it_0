@@ -1,0 +1,97 @@
+{
+  "english": "bloom",
+  "phat_am": "bluːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoa",
+          "definition": "a flower",
+          "world_new": [
+            "flower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These blooms are withering now."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ra hoa",
+          "definition": "the state of flowering",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The flowers are in bloom."
+            }
+          ]
+        },
+        {
+          "mean_english": "tuổi thanh xuân",
+          "definition": "freshness",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Irene is in the bloom of youth.",
+              "world_new": [
+                "youth"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nở hoa",
+          "definition": "to flower or flourish",
+          "world_new": [
+            "flower",
+            "flourish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Daffodils bloom in the spring.",
+              "world_new": [
+                "spring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The road is rapidly disappearing down a blooming great hole, and is almost impassable.",
+    "He should not only be humble; he should be blooming well ashamed of it.",
+    "I was interested in his final remarks about welcoming the possibility of a land of a thousand blooms.",
+    "The problems of eutrophication, algal blooms, toxic waste and threatened biodiversity are growing ever greater.",
+    "The ecological impact of macroalgal blooms.",
+    "We know that under the present system blooms infected with white rust are able to enter this country.",
+    "Unfortunately, phosphate has accumulated in the sediments and, despite phosphate stripping from current sewage treatment work effluents, algal blooms continue.",
+    "I would not eat any of the blooming things."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bloodstream",
+    "bloodthirstiness",
+    "bloodthirsty",
+    "bloody",
+    "bloom",
+    "blossom",
+    "blossoming",
+    "blot",
+    "blot one’s copybook"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683909_96b9931efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683909_840094e11a_o.png",
+      "id_image": "bloom_1749794"
+    }
+  ]
+}

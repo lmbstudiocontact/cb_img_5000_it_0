@@ -1,0 +1,78 @@
+{
+  "english": "burp",
+  "phat_am": "bəː(r)p",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ợ",
+          "definition": "to belch",
+          "world_new": [
+            "belch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He finished his drink and burped loudly.",
+              "world_new": [
+                "finished",
+                "drink",
+                "loudly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng ợ",
+          "definition": "a belch",
+          "world_new": [
+            "belch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stan let out a loud burp.",
+              "world_new": [
+                "let",
+                "loud"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While livestock account for around 20% of global methane emissions, 9095% of that is released by exhaling or burping.",
+    "The pressure sensation is often relieved, or at least lessened, by burping (belching) or passing gas (flatulence).",
+    "Because the methane hydrates are unstable, save at cool temperatures and high (deep) pressures, scientists have observed smaller burps due to tectonic events.",
+    "These dolls laughed, burped, and blew bubbles when you fed them soda.",
+    "But if he prefers dinners to speeches, he should sit there with a little more patience and burp his way through a few more speeches before he tries to intervene.",
+    "In some animals, a failure to burp successfully can be fatal.",
+    "Some fish are also known to expel air from their gills; here the burp is produced by gas being expelled from the gas bladder.",
+    "In the week that followed, my dropbox was inundated with whistles, basses and burps."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "burly",
+    "burn",
+    "burner",
+    "burnish",
+    "burp",
+    "burrow",
+    "burst",
+    "burst open",
+    "bury"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308956_215a81edb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308956_7450f9d562_o.png",
+      "id_image": "burp_5238336"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "blouse",
+  "phat_am": "blauz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo cánh",
+          "definition": "a woman’s (often loose) garment for the upper half of the body",
+          "world_new": [
+            "garment",
+            "upper",
+            "half",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was wearing a skirt and blouse.",
+              "world_new": [
+                "wearing",
+                "skirt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is a somewhat fuzzy date in that photographs in 1923 show a loose standard dress of dark skirt and white blouse.",
+    "Actually, there seems to have been resistance to wearing modern blouses among women, who often wore it under compulsion.",
+    "Sometimes they are also used in puns, as with the article entitled top secret, in which blouses, t-shirts and tops in general are features.",
+    "Sweaters or blouses, dresses or dress pants, the clothing and the deportment of the performers in these studio-controlled snapshots universally attest to the respectability of the performer herself.",
+    "New clothes are bought rarely; children's clothes and women's blouses are stitched at home.",
+    "In this reckoning, one may see how wearing the blouse is thus 'sanitised'.",
+    "I wouldn't wear the blouse during day-time.",
+    "B is tempted to walk out; after all, she has plenty of other blouses."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blot out",
+    "blotch",
+    "blotter",
+    "blotting paper",
+    "blouse",
+    "blow",
+    "blow one’s own trumpet",
+    "blow one’s top",
+    "blow out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328716_56cb07f254_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328716_1b617784a5_o.png",
+      "id_image": "blouse_343353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328686_6d21467095_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328686_25384e9b7a_o.png",
+      "id_image": "blouse_606854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443633_dd21229a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443633_3f20d25f9d_o.png",
+      "id_image": "blouse_658833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065425_ff295c5b65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065425_e6229ff0d6_o.png",
+      "id_image": "blouse_658837"
+    }
+  ]
+}

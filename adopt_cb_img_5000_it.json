@@ -1,0 +1,99 @@
+{
+  "english": "adopt",
+  "phat_am": "əˈdopt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận con nuôi",
+          "definition": "to take (a child of other parents) as one’s own",
+          "world_new": [
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since they had no children of their own, they decided to adopt a little girl.",
+              "world_new": [
+                "their",
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chấp nhận",
+          "definition": "to take (something) as one’s own",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "While he was living in France, he adopted the French way of life.",
+              "world_new": [
+                "living",
+                "adopted",
+                "French",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông qua",
+          "definition": "to formally approve a suggestion",
+          "world_new": [
+            "formally",
+            "approve",
+            "suggestion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policy was adopted after a vote by the council.",
+              "world_new": [
+                "policy",
+                "adopted",
+                "vote",
+                "council"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The following strategy was adopted for multivariable analysis.",
+    "Possible solutions include adopting time-nonseparable utility functions and introducing individual investment decisions to allow the output growth to be endogenously determined.",
+    "Spiritual engagement or experiences may be a vehicle for adopting a larger perspective and for subsuming the interests of one's immediate life and concerns.",
+    "Now the user adopts the role of the public servant when typing data directly into the system of the tax authority.",
+    "Table 2 gives a little more information about the syntactic analysis adopted in the different treebank annotation schemes.",
+    "She argues that care is needed to avoid primary-age children being encouraged into adopting an adult-style learning approach, which they are too immature to handle.",
+    "Although various methods will often be adopted, there is a dearth of information about the factors which facilitate or impede recruitment to trials.",
+    "A heuristic approach to bettering this situation is adopted here."
+  ],
+  "list_see_also": [
+    "adopted",
+    "adoptive"
+  ],
+  "list_browse": [
+    "admonition",
+    "ado",
+    "adolescence",
+    "adolescent",
+    "adopt",
+    "adopted",
+    "adoptive",
+    "adorable",
+    "adorably"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675494_913a59308a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675494_ff6c12af31_o.png",
+      "id_image": "adopt_4213623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675454_9d498f4d8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675454_d5883659f5_o.png",
+      "id_image": "adopt_4966022"
+    }
+  ]
+}

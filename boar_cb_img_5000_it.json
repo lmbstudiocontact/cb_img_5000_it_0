@@ -1,0 +1,73 @@
+{
+  "english": "boar",
+  "phat_am": "boː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lợn lòi đực",
+          "definition": "a male pig (especially the wild variety)",
+          "world_new": [
+            "male",
+            "pig",
+            "wild"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wild boar roam the forest.",
+              "world_new": [
+                "roam",
+                "forest"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Young individuals were all reddish-brown coated or strayed wild boar and were assumed to be aged <12 months.",
+    "Trematodes were not recovered from any of wild boars examined.",
+    "The first involves a community-based scheme with boar rotation, while the second is a commercially run nucleus breeding scheme.",
+    "Five of 12 wild boars were not infected.",
+    "There were big populations of larger mammals such as elk, deer, bears, wolves and wild boar.",
+    "An increase in the proportion of wild boar alleles across the genome increased length versus width of femur and reduced the prevalence of osteochondrosis.",
+    "These findings indicate that freezing does not necessarily induce capacitation of boar spermatozoa.",
+    "Indeed, a high specificity (94%) has been recorded in young wild boar."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blurt",
+    "blush",
+    "blustery",
+    "boa",
+    "boar",
+    "board",
+    "board game",
+    "boarder",
+    "boarding pass"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327266_b1620431b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327266_430ceff0fe_o.png",
+      "id_image": "boar_1392790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682539_6d2645b6d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682539_b3fb52dfaa_o.png",
+      "id_image": "boar_311538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327406_211b517022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327406_71d5d619fe_o.png",
+      "id_image": "boar_616624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372012_ea9367471c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372012_f0789a3947_o.png",
+      "id_image": "boar_884091"
+    }
+  ]
+}

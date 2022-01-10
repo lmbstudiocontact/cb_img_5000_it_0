@@ -1,0 +1,79 @@
+{
+  "english": "bond",
+  "phat_am": "bond",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ràng buộc",
+          "definition": "something that unites or joins people together",
+          "world_new": [
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bond of friendship.",
+              "world_new": [
+                "friendship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giao kèo",
+          "definition": "something used for tying (especially a person)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They released the prisoner from his bonds.",
+              "world_new": [
+                "prisoner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Equities have, on average, a much higher return than short-term and long-term bonds.",
+    "The lifetimes of such bonds can also range from picoseconds to days.",
+    "The higher the premium, the lower the price they are willing to pay for the government bonds.",
+    "Beyond the nuclear family: the increasing importance of multigenerational bonds.",
+    "One of the consequences of the last replacement is that the specification now contains bonds which are incident on open edges rather than edge terminals.",
+    "The bonds of partisan solidarity and the ideal of national progress retained at least some of their original force.",
+    "Rather, the spatial and temporal patterning of loumas has served to strengthen intra-community bonds.",
+    "The solid bonded to the right of a leveller may be a bit or a tip."
+  ],
+  "list_see_also": [
+    "bonded store/warehouse"
+  ],
+  "list_browse": [
+    "bomber",
+    "bombshell",
+    "bon voyage",
+    "bonanza",
+    "bond",
+    "bondage",
+    "bonded store/warehouse",
+    "bone",
+    "bone china"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369882_f29b087f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369882_0a449710bf_o.png",
+      "id_image": "bond_2719700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325026_aa357e5577_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325026_e29a217b30_o.png",
+      "id_image": "bond_310061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324956_7b627799ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324956_44ea752aac_o.png",
+      "id_image": "bond_6159162"
+    }
+  ]
+}

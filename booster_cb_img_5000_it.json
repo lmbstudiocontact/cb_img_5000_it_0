@@ -1,0 +1,103 @@
+{
+  "english": "booster",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người/ vật nâng đỡ",
+          "definition": "a person or thing that boosts",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That was a real morale booster for me (= That made me feel more cheerful and optimistic).",
+              "world_new": [
+                "real",
+                "morale",
+                "feel",
+                "cheerful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bệ phóng",
+          "definition": "the first stage of a rocket that works by several stages.",
+          "world_new": [
+            "stage",
+            "rocket",
+            "works"
+          ]
+        },
+        {
+          "mean_english": "máy tăng thế",
+          "definition": "a device for increasing power, force etc",
+          "world_new": [
+            "device",
+            "power",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve fixed a booster on the TV aerial to improve the signal.",
+              "world_new": [
+                "fixed",
+                "TV",
+                "aerial",
+                "improve",
+                "signal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The laser consists of a four-pass cavity amplifier section followed by a double-pass booster amplifier section.",
+    "These differences were due to the fact that men receive a booster dose against tetanus toxoid on entering military service.",
+    "Complete vaccination series (including booster) was defined as primary vaccination plus one dose.",
+    "The booster dose at age 1 year also determines a slight increase in the number of secondary infections when compared to the prevaccine era (3.3 %).",
+    "But even strictly medical concerns such as route of administration, dosages, and booster administrations became subject to diverging opinions.",
+    "Long-term monitoring of women currently participating in the vaccine trials will be needed to determine whether and when a booster should be given.",
+    "The subjects with increased titres of 1- to 3-fold, which had a booster effect from the subclinical rubella infection, were 14.3 and 19.4 %, respectively.",
+    "With most of the other forms listed above, it is almost impossible to decide whether we have an adverbial booster or a booster prefix."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "boon",
+    "boor",
+    "boorish",
+    "boost",
+    "booster",
+    "boot",
+    "boot up",
+    "bootee",
+    "booth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322991_e3cfce4a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322991_5717a1de37_o.png",
+      "id_image": "booster_2289521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678084_27b22d12c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678084_3c3cb57682_o.png",
+      "id_image": "booster_2590413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367822_1668d7f071_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367822_2a13258d49_o.png",
+      "id_image": "booster_3738920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059630_71d58a4df2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059630_5e579da1aa_o.png",
+      "id_image": "booster_4631145"
+    }
+  ]
+}

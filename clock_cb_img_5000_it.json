@@ -1,0 +1,128 @@
+{
+  "english": "clock",
+  "phat_am": "klok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng hồ",
+          "definition": "an instrument for measuring time, but not worn on the wrist like a watch",
+          "world_new": [
+            "instrument",
+            "time",
+            "worn",
+            "wrist",
+            "watch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The clock chimed five o’clock.",
+              "world_new": [
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "an alarm clock (= a clock with a ringing device for waking one up in the morning).",
+              "world_new": [
+                "alarm",
+                "device"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng hồ công tơ mét",
+          "definition": "an instrument for measuring speed of a vehicle or distance travelled/traveled by a vehicle",
+          "world_new": [
+            "instrument",
+            "speed",
+            "vehicle",
+            "distance",
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My car has 120,000 miles on the clock.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bấm giờ",
+          "definition": "to register (a time) on a stopwatch etc",
+          "world_new": [
+            "register",
+            "stopwatch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the Men’s 200m, he clocked a record breaking 21.18 seconds.",
+              "world_new": [
+                "record"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, existing spring-driven clocks did not possess enough accuracy to be useful in navigation.",
+    "Variable molecular clocks in hominoids.",
+    "Mechanical devices of the spliceosome : motors, clocks, springs, and things.",
+    "The most commonly owned modern objects were watches or clocks (45% of households), radios (29%) and electricity (25%).",
+    "We hypothesize that zebrafish retinomotor movements are regulated by light and circadian clocks to varying degrees in different cell types.",
+    "To follow this argument, the radical clocks have to be briefly described.",
+    "He points out that although the biological clocks of these animals appear attuned to the environment, the observed behavioral correlations are misleading.",
+    "Finally, central electric clocks guaranteed a uniform social time in urban contexts."
+  ],
+  "list_see_also": [
+    "clockwise",
+    "clockwork",
+    "clock in/out/on/off",
+    "clock up",
+    "like clockwork",
+    "round the clock"
+  ],
+  "list_browse": [
+    "cliquey",
+    "clitoris",
+    "cloak",
+    "cloakroom",
+    "clock",
+    "clock in/out/on/off",
+    "clock up",
+    "clockwise",
+    "clockwork"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685869_6bd8b03bb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685869_13ab5dc667_o.png",
+      "id_image": "clock_122922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067615_0b548fc4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067615_ed85b0b667_o.png",
+      "id_image": "clock_123338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330786_dff7b2b9a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330786_09fd513e13_o.png",
+      "id_image": "clock_124792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067560_6a31afa487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067560_4e7cc772b4_o.png",
+      "id_image": "clock_593556"
+    }
+  ]
+}

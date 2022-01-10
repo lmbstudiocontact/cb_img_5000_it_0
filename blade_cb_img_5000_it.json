@@ -1,0 +1,80 @@
+{
+  "english": "blade",
+  "phat_am": "bleid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lưỡi (dao, kiếm)",
+          "definition": "the cutting part of a knife etc",
+          "world_new": [
+            "cutting",
+            "part",
+            "knife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His penknife has several different blades."
+            }
+          ]
+        },
+        {
+          "mean_english": "phiến lá",
+          "definition": "the flat part of a leaf etc",
+          "world_new": [
+            "flat",
+            "part",
+            "leaf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blade of grass.",
+              "world_new": [
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mái chèo",
+          "definition": "the flat part of an oar.",
+          "world_new": [
+            "flat",
+            "part",
+            "oar"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "blackness",
+    "blackout",
+    "blacksmith",
+    "bladder",
+    "blade",
+    "blame",
+    "blameless",
+    "bland",
+    "blandly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347057_947fab56f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347057_2c94f17731_o.png",
+      "id_image": "blade_1733375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347102_65b7f995c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347102_abe8190f9f_o.png",
+      "id_image": "blade_258239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417858_25a90700f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417858_6f1edd61e9_o.png",
+      "id_image": "blade_534229"
+    }
+  ]
+}

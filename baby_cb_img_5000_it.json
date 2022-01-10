@@ -1,0 +1,92 @@
+{
+  "english": "baby",
+  "phat_am": "ˈbeibi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trẻ nhỏ",
+          "definition": "a very young child",
+          "world_new": [
+            "young",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some babies cry during the night",
+              "world_new": [
+                "cry",
+                "night"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a baby boy.",
+              "world_new": [
+                "boy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con",
+          "definition": "a very young animal",
+          "world_new": [
+            "young",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rabbit is feeding its babies.",
+              "world_new": [
+                "rabbit",
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I shall now consider the possibility that the excess large babies have an endocrinological explanation.",
+    "More recently, a large case-control study of triethylperazine exposure among babies with congenital anomalies and those without, failed to demonstrate a teratogenic effect of triethylperazine.",
+    "The women grieved for things like not being around for their children's life events such as marriages, graduations, and having babies.",
+    "The earlier studies also had few very premature babies because of their poor chance of survival in the early years of the twentieth century.",
+    "Now, even in premature babies, the primary repair of congenital heart defect is becoming the treatment of choice.",
+    "The 12 long-term surviving babies (median 15.7 months) had no apparent developmental problems, with four babies temporarily oxygen dependent.",
+    "The gestation is short and the babies of low birth weight, especially males, where presentation is not normal.",
+    "Antenatally dead breech babies were more often than surviving breech babies diagnosed as cephalic presentations at 36- 37 weeks."
+  ],
+  "list_see_also": [
+    "babyish",
+    "baby buggy",
+    "baby grand",
+    "babysit",
+    "babysitter",
+    "babysitting"
+  ],
+  "list_browse": [
+    "BA",
+    "babble",
+    "babe",
+    "baboon",
+    "baby",
+    "baby buggy",
+    "baby grand",
+    "babyish",
+    "babysit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323056_981579cda2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323056_715f517355_o.png",
+      "id_image": "baby_1702330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678239_170e0072e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678239_39eacba956_o.png",
+      "id_image": "baby_204646"
+    }
+  ]
+}

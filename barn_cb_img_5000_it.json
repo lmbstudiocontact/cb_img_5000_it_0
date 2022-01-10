@@ -1,0 +1,72 @@
+{
+  "english": "barn",
+  "phat_am": "baːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kho thóc",
+          "definition": "a building in which grain, hay etc are stored",
+          "world_new": [
+            "building",
+            "grain",
+            "hay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wheat is stored in the barn.",
+              "world_new": [
+                "wheat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Almost every household has a barn of tobacco nearby.",
+    "In winter, animals were housed in a free-stall barn with a concrete slatted floor, and cubicles with wood shavings as bedding material.",
+    "Genetic and environmental effects on morphology and fluctuating asymmetry in nesting barn swallows.",
+    "All other decisions (barns housing animals, slaughterhouses, small factories, all kinds of use of soil etc.) are made by the municipalities (some 25,000 customers).",
+    "The farmhouse and dairy barn were to have been connected by a transitional utility space, with other utility structures forming a yard to the rear.",
+    "Ten 3-day-old calves were purchased from a sales barn 2 days prior to the start of the semester.",
+    "Orienting head movements resulting from electrical microstimulation of the brainstem tegmentum in the barn owl.",
+    "During the ensuing commotion a student wandered out of the building with a bundle hidden in his clothes and deposited it in a nearby barn."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bark",
+    "barley",
+    "barley sugar",
+    "barmaid",
+    "barn",
+    "barnacle",
+    "barometer",
+    "barometric",
+    "baron"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430103_cfc8acbe1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430103_d0933bdf70_o.png",
+      "id_image": "barn_124339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315141_1d291faeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315141_6822dafddd_o.png",
+      "id_image": "barn_4251901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051655_89894c3ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051655_b744f669a7_o.png",
+      "id_image": "barn_6254139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359382_6c2aaf5940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359382_868f758b7c_o.png",
+      "id_image": "barn_757021"
+    }
+  ]
+}

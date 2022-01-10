@@ -1,0 +1,101 @@
+{
+  "english": "audit",
+  "phat_am": "ˈoːdit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiểm toán",
+          "definition": "an official examination of financial accounts",
+          "world_new": [
+            "official",
+            "examination",
+            "financial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An audit of the company’s finances is currently being carried out.",
+              "world_new": [
+                "currently"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiểm toán",
+          "definition": "to examine financial accounts officially",
+          "world_new": [
+            "examine",
+            "financial",
+            "officially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The organization’s financial statements have been audited.",
+              "world_new": [
+                "financial"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Efficacy of these interventions was assessed using audits before and after their application.",
+    "Laboratories were audited annually or bi-annually to assure that all cases were detected.",
+    "One health authority had increased its audits of clinical effectiveness to standardize treatments.",
+    "More impartial external audits can be used to track use of funds and impacts achieved.",
+    "More audits were launched and several formal aspects of registration and invoicing were monitored.",
+    "In the current context, a higher tax creates stronger incentives to underreport, which in turn requires greater auditing.",
+    "An autonomous auditing institution under parliament will most likely be the outcome of this process.",
+    "In developed countries, where the environment is of greater current concern than the food supply, attention tends to focus on 'environmental auditing'."
+  ],
+  "list_see_also": [
+    "auditor"
+  ],
+  "list_browse": [
+    "audience",
+    "audio-",
+    "audio-typist",
+    "audio-visual",
+    "audit",
+    "audition",
+    "auditor",
+    "auditorium",
+    "auditory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371807_cb88ff1152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371807_927267fa44_o.png",
+      "id_image": "audit_1728376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442093_7fd28a5df7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442093_b208825f19_o.png",
+      "id_image": "audit_4307996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063900_431db0638b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063900_43cea99988_o.png",
+      "id_image": "audit_4308038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063865_399a39f5c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063865_aeb98b8258_o.png",
+      "id_image": "audit_4308084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682079_321641157c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682079_f16972336e_o.png",
+      "id_image": "audit_4308089"
+    }
+  ]
+}

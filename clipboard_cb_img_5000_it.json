@@ -1,0 +1,106 @@
+{
+  "english": "clipboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bìa kẹp hồ sơ",
+          "definition": "a small board with a clip at the top for holding paper in place so that you can write on it while you are standing or moving around",
+          "world_new": [
+            "small",
+            "board",
+            "clip",
+            "top",
+            "paper",
+            "place",
+            "standing",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A government safety inspector arrived, clutching a clipboard in his hand.",
+              "world_new": [
+                "government",
+                "safety",
+                "inspector",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ nhớ tạm",
+          "definition": "a part of a computer’s memory that stores information temporarily while you are moving it from one document to another",
+          "world_new": [
+            "part",
+            "memory",
+            "information",
+            "temporarily",
+            "moving",
+            "document"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can copy the text to your clipboard and paste it anywhere in your document.",
+              "world_new": [
+                "copy",
+                "text",
+                "your",
+                "paste",
+                "anywhere",
+                "your",
+                "document"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not know whether he used a clipboard; it is more likely that he got someone else to carry out the survey, and perhaps they used a clipboard.",
+    "Then the man with the clipboard comes and ticks off all the improvements that the occupier has made to the property over, perhaps, 20 years.",
+    "As soon as the block of leaseholds was bought, the new owners sent around a man with a clipboard—a surveyor—to look around the properties and make notes.",
+    "Clipix allows users to save online content and other documents to private or public clipboards.",
+    "Knowing the keystrokes, mouse actions, display, clipboard etc. used on one computer will not subsequently help an attacker gain access to the protected resource.",
+    "Upon arriving at the hospital, he finds a clipboard with his name on it, even though he has never been a patient there.",
+    "When data is added to the clipboard by an application, it typically makes it available in as many different data formats as it can.",
+    "The program can be set to minimize automatically after a period of idle time and clears the clipboard."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clinical",
+    "clink",
+    "clip",
+    "clip art",
+    "clipboard",
+    "clipper",
+    "clipping",
+    "clique",
+    "cliquey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068020_d8ff2dd398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068020_4606376512_o.png",
+      "id_image": "clipboard_182788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686289_f0c3218c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686289_01e0aa29a3_o.png",
+      "id_image": "clipboard_191102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446248_9408eb724d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446248_3eac02b414_o.png",
+      "id_image": "clipboard_782741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375882_778a5b35f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375882_4cc5dcf05b_o.png",
+      "id_image": "clipboard_966672"
+    }
+  ]
+}

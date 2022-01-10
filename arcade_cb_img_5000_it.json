@@ -1,0 +1,83 @@
+{
+  "english": "arcade",
+  "phat_am": "aːˈkeid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường có mái vòm",
+          "definition": "a covered passage or area usually with shops, stalls etc",
+          "world_new": [
+            "passage",
+            "area",
+            "stalls"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shopping arcade",
+              "world_new": [
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "an amusement arcade.",
+              "world_new": [
+                "amusement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were about 500 responses from operators of seaside arcades or family entertainment centres.",
+    "None, as it is not an offence to allow young people to gamble in amusement arcades.",
+    "Amusement arcades are another source of child exploitation.",
+    "The rooms - curious, quaint, old, barrack chambers - were well lighted, decorated with flags, flowers, and fire-arms; bowers and pleasant arcades were improvised in the open.",
+    "They did not want more \"palaces of culture\"—a euphemism for slot machine arcades.",
+    "I do not consider it acceptable for such machines to be in amusement arcades at this time.",
+    "We keep the law on amusement arcades under review.",
+    "Such a ban would also have a dramatic impact on the tangential businesses that support amusement arcades, such as electricians and plumbers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arbitrate",
+    "arbitration",
+    "arbitrator",
+    "arc",
+    "arcade",
+    "arch",
+    "arch-enemy",
+    "archaeological",
+    "archaeologist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044145_1db4014f88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044145_59a1a9b939_o.png",
+      "id_image": "arcade_1021347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307126_3671521707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307126_b8ec137354_o.png",
+      "id_image": "arcade_1985770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351187_916d6bda37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351187_15b4a48215_o.png",
+      "id_image": "arcade_1985771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422318_a41e856f4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422318_df971ff066_o.png",
+      "id_image": "arcade_502329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351262_fe4b6b0237_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351262_4f2bd4233f_o.png",
+      "id_image": "arcade_556394"
+    }
+  ]
+}

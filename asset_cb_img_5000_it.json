@@ -1,0 +1,79 @@
+{
+  "english": "asset",
+  "phat_am": "ˈӕset",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật quí",
+          "definition": "anything useful or valuable; an advantage",
+          "world_new": [
+            "useful",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a great asset to the school.",
+              "world_new": [
+                "great",
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Let the timing be such that the agent receives the dividend and then trades the asset.",
+    "Specifically, we examine asset holdings, labor endowment, and lifecycle measures.",
+    "The asset portfolio can incorporate bad outcomes that are relatively independent of economic wellbeing, such as psychological distress.",
+    "That is, the return from holding assets in the form of trees is greater than the current value of partial liquidation.",
+    "In many cases, older people's property and assets are utilised in commercial activities by their relatives, particularly their children.",
+    "The challenge consists in providing a spectral evaluation of general equilibrium asset pricing models with an explicit production sector.",
+    "Finally, the small open economy reaches the new steady-state with a higher stock of foreign assets.",
+    "The asset accumulation phase for the mandatory part of the second pillar is defined by law to be 40 years."
+  ],
+  "list_see_also": [
+    "assets"
+  ],
+  "list_browse": [
+    "assertiveness",
+    "assess",
+    "assessment",
+    "assessor",
+    "asset",
+    "assets",
+    "assiduous",
+    "assiduously",
+    "assign"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809418233_e065aca7cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809418233_cbf1f666a5_o.png",
+      "id_image": "assets_1907675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347447_d1f68b197a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347447_0f65f3ee68_o.png",
+      "id_image": "assets_2472762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039885_eeda17c7f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039885_740da64ec5_o.png",
+      "id_image": "assets_6203350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039970_137d6605e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039970_d4f0f459f5_o.png",
+      "id_image": "asset_2621684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347502_495b8a3970_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347502_a03a441072_o.png",
+      "id_image": "asset_3772821"
+    }
+  ]
+}

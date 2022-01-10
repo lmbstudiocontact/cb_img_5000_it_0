@@ -1,0 +1,77 @@
+{
+  "english": "bilingual",
+  "phat_am": "baiˈliŋɡwəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "song ngữ",
+          "definition": "written or spoken in two languages",
+          "world_new": [
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bilingual dictionary.",
+              "world_new": [
+                "dictionary"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông thạo hai thứ tiếng",
+          "definition": "speaking two languages equally well",
+          "world_new": [
+            "speaking",
+            "equally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is bilingual in English and French.",
+              "world_new": [
+                "English",
+                "French"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite the fundamental role phonetic representations play in language acquisition, there has been very little research on their development in a bilingual context.",
+    "Bilingual acquisition occurs in different sociocultural contexts, and it entails different language combinations and modalities (signed and oral).",
+    "Bilingual language switching in naming: asymmetrical costs of language selection.",
+    "With bilingual pupils, the results of this quasimedical use of intelligence tests are exceedingly harmful.",
+    "Do bilinguals activate phonological representations in one or both of their languages when naming words?",
+    "The relevance of the findings for cross-linguistic interaction in bilingual phonetic/phonological development is discussed.",
+    "Language switching in bilinguals as a function of stimulus and response uncertainty.",
+    "Exploring the recognition of guest words in bilingual speech."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bikini",
+    "bilateral",
+    "bilberry",
+    "bile",
+    "bilingual",
+    "bilious",
+    "biliousness",
+    "bill",
+    "bill of rights"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420763_6708491eeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420763_fff3c84b2f_o.png",
+      "id_image": "bilingual_2014348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042595_f080e75d96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042595_1f066cb803_o.png",
+      "id_image": "bilingual_4509776"
+    }
+  ]
+}

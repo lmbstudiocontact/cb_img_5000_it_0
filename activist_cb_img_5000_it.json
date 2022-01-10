@@ -1,0 +1,76 @@
+{
+  "english": "activist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà hoạt động",
+          "definition": "a person who works to achieve social or political change",
+          "world_new": [
+            "person",
+            "works",
+            "achieve",
+            "social",
+            "political",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a human rights activist.",
+              "world_new": [
+                "human",
+                "rights"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Incumbents enjoy resources that make them more independent of activists, and this enables them to take more moderate positions.",
+    "This forms the basis for the closed-economy argument that monetary policy strategy should be more activist.",
+    "Business groups, who might normally side with conservative political forces, saw their interests align with civil society activists and the protestors.",
+    "Academics, politicians, activists take note (and make this valuable work a part of your library as soon as you can).",
+    "Within this context, legal proceedings in military courts and arrests of labor leaders, workers, and other pro-democracy activists persisted unabated.",
+    "This would reduce the cohesion of the movement's activist core, with its heterogeneous patchwork of environmental, consumer and farmer associations.",
+    "Its activists secured curfew passes and ran ambulance services within the city, taking riot victims to various city hospitals.",
+    "The researchers themselves were not activists in this cause."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "activate",
+    "active",
+    "actively",
+    "activeness",
+    "activist",
+    "activity",
+    "actor",
+    "actual",
+    "actuality"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059360_9594f0dc9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059360_558e410a9f_o.png",
+      "id_image": "activist_2865670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437853_c8ec90479f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437853_7090481103_o.png",
+      "id_image": "activist_3956584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437798_423a71389b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437798_9bd127c093_o.png",
+      "id_image": "activist_4257429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437753_db7de8b51e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437753_d61f3dcbfd_o.png",
+      "id_image": "activist_4829744"
+    }
+  ]
+}

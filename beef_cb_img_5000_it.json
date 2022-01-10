@@ -1,0 +1,74 @@
+{
+  "english": "beef",
+  "phat_am": "biːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt bò",
+          "definition": "the flesh of a bull, cow or ox, used as food",
+          "world_new": [
+            "flesh",
+            "bull",
+            "cow",
+            "ox",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "minced/ground beef."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cultivated land requirements for beef were comparable to other meats, while those of milk were the lowest among all protein sources.",
+    "A colonel said to me very recently that when the forces stop beefing they will stop eating.",
+    "Will he give us a guarantee that wages councils will be beefed up to deal with injustices?",
+    "In addition, a contingent valuation method was used to elicit consumer willingness to pay for natural, regionally produced beef.",
+    "I agree with those who say that local access forums have to be beefed up.",
+    "I also put forward proposals for beefing up councils, with shop-front premises and more staff.",
+    "While they were overseas, beef prices had soared.",
+    "In addition, public relations must be beefed up."
+  ],
+  "list_see_also": [
+    "beefy",
+    "beefburger"
+  ],
+  "list_browse": [
+    "bedspread",
+    "bedtime",
+    "bee",
+    "beech",
+    "beef",
+    "beefburger",
+    "beefy",
+    "beehive",
+    "beep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424633_b2a1442522_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424633_6bd4c3a11f_o.png",
+      "id_image": "beef_1702805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353672_61140e4755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353672_1f8c91b761_o.png",
+      "id_image": "beef_2258374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046405_0751fa8ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046405_79fe86c0a4_o.png",
+      "id_image": "beef_3823081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046365_7b7e515e83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046365_0605e562ca_o.png",
+      "id_image": "beef_4809794"
+    }
+  ]
+}

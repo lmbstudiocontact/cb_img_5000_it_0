@@ -1,0 +1,95 @@
+{
+  "english": "cereal",
+  "phat_am": "ˈsiəriəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngũ cốc",
+          "definition": "a kind of grain used as food",
+          "world_new": [
+            "kind",
+            "grain",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wheat, barley, and other cereals",
+              "world_new": [
+                "wheat",
+                "barley"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) cereal crops."
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ ăn từ ngũ cốc",
+          "definition": "a type of breakfast food prepared from such grain",
+          "world_new": [
+            "type",
+            "breakfast",
+            "food",
+            "prepared",
+            "grain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bowl of cereal.",
+              "world_new": [
+                "bowl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Were the cereals in question cultivated nearby or are they the results of exchange with communities living in areas that were better suited to agriculture?",
+    "Commercial reorientation of agricultural production occurs for the primary staple cereals as well as for the so-called high-value cash crops.",
+    "Vegetable soup consumption is the most effective way of avoiding starvation when cereals run out of supply.",
+    "Modelling ammonia volatilization from animal slurry applied with trail hoses to cereals.",
+    "However, cereals experienced the largest decline in production, because these crops used fertilizer more intensively.",
+    "Their staple diet is rice, along with various cereals and pulses.",
+    "Traditional approaches to breeding for drought resistance in cereals.",
+    "Both crops likely to be eaten uncooked and cereals were planted."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cephalopod",
+    "cephalothorax",
+    "ceramic",
+    "ceramics",
+    "cereal",
+    "cerebellum",
+    "cerebral",
+    "cerebral palsy",
+    "ceremonial"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431123_4aeff6e46f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431123_eb84ec17e0_o.png",
+      "id_image": "cereals_3280135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360427_e623bef7a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360427_45f769683b_o.png",
+      "id_image": "cereals_5100894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670904_604e42f117_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670904_bcfd7d016d_o.png",
+      "id_image": "cereal_2357002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052700_ebf7956bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052700_391a18cfb7_o.png",
+      "id_image": "cereal_3728198"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "cleaner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người dọn dẹp",
+          "definition": "someone whose job is to clean other people’s houses etc.",
+          "world_new": [
+            "job",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works as a cleaner for one of the local schools.",
+              "world_new": [
+                "works",
+                "local"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người, vật làm sạch",
+          "definition": "a machine or substance used for cleaning",
+          "world_new": [
+            "machine",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need to buy some more toilet cleaner.",
+              "world_new": [
+                "buy",
+                "toilet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clean",
+    "clean out",
+    "clean up",
+    "clean-cut",
+    "cleaner",
+    "cleanliness",
+    "cleanly",
+    "cleanse",
+    "cleanser"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419448_15243589f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419448_ef92c1fa80_o.png",
+      "id_image": "cleaner_1886780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419433_d4ce010454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419433_808ce74f64_o.png",
+      "id_image": "cleaner_1983321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304486_abe0d44edf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304486_55407e4439_o.png",
+      "id_image": "cleaner_323953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659799_bbc16c4ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659799_4cacffc9c3_o.png",
+      "id_image": "cleaner_4633167"
+    }
+  ]
+}

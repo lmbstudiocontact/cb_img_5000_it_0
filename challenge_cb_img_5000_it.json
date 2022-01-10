@@ -1,0 +1,143 @@
+{
+  "english": "challenge",
+  "phat_am": "ˈtʃӕlindʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thách thức",
+          "definition": "to ask (someone) to take part in a contest",
+          "world_new": [
+            "ask",
+            "part",
+            "contest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He challenged his brother to a round of golf.",
+              "world_new": [
+                "brother",
+                "golf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẩm tra",
+          "definition": "to question (someone’s authority or right, the truth of a statement etc)",
+          "world_new": [
+            "question",
+            "authority",
+            "right",
+            "truth",
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They challenged his authority to make such a decision",
+              "world_new": [
+                "authority",
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời mời tham gia cuộc thi",
+          "definition": "an invitation to a contest",
+          "world_new": [
+            "invitation",
+            "contest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He accepted his brother’s challenge to a fight.",
+              "world_new": [
+                "accepted",
+                "fight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thẩm tra",
+          "definition": "the act of questioning someone’s right, a statement etc",
+          "world_new": [
+            "act",
+            "right",
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tenant was faced with a challenge to his right to occupy the property.",
+              "world_new": [
+                "tenant",
+                "right",
+                "occupy",
+                "property"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This ordinance is challenged by a landlord who has no plans for conversion.",
+    "A future challenge for the authors will be to explain how changes in the model's parameters embody changes in these fundamental psychological processes.",
+    "In other words, in refusing to attribute any role to crime, these studies are forced into the same zero-sum framework they attempt to challenge.",
+    "Opposition parties lack an independent material base to effectively challenge the regime.",
+    "Countries are facing this challenge in many different ways, but one common factor is the increasing reliance on electronics and systems.",
+    "Attempting to write a global geographical perspective on organic agriculture is a major challenge.",
+    "The common challenge physiologists, philosophical psychologists, and also physicists set themselves in that period was that of making invisible forces visible.",
+    "A challenge in responding to such requests is in determining the comparative benefits and risks of different stem cell transplant methods."
+  ],
+  "list_see_also": [
+    "challenger",
+    "challenging"
+  ],
+  "list_browse": [
+    "chalice",
+    "chalk",
+    "chalkboard",
+    "chalky",
+    "challenge",
+    "challenger",
+    "challenging",
+    "chamber",
+    "chamber music"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429798_4824fe41b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429798_fa341c1988_o.png",
+      "id_image": "challenges_1934019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359032_99cbca0f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359032_8cb26a97f8_o.png",
+      "id_image": "challenges_3965814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669654_2ff0b5dfba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669654_197f14d0e7_o.png",
+      "id_image": "challenge_2586919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669639_d13d4501a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669639_0449077988_o.png",
+      "id_image": "challenge_3310330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669609_daa2238d37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669609_7f6fed7ffb_o.png",
+      "id_image": "challenge_3475873"
+    }
+  ]
+}

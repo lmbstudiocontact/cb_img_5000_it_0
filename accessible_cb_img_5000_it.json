@@ -1,0 +1,85 @@
+{
+  "english": "accessible",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể tới được",
+          "definition": "(opposite inaccessible) (of a person or place) able to be reached or approached easily",
+          "world_new": [
+            "person",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His house is not accessible by car.",
+              "world_new": [
+                "house",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gần gũi",
+          "definition": "easy to understand",
+          "world_new": [
+            "easy",
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her novels are very accessible."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An oral tradition can and will adapt from one generation to the next, repeating its content in a form more readily accessible to the hearers.",
+    "As we suggested earlier, one possibility is that working-class identifiers believe politics is less relevant or less accessible to members of their class.",
+    "The instrument should be readily accessible to trained string players, but is designed to fill a particular role in computer or amplified music.",
+    "It presents the results of scholarly work in an accessible form, while at the same time responding to current events.",
+    "Second, the presentation here, although more accessible, will be marginally less elegant than it might otherwise have been.",
+    "First, comparable data does not appear to be easily accessible today.",
+    "It is extremely helpful to have these debates in an accessible modern edition.",
+    "In such uses, definite nominal gerunds draw on accessible knowledge on the part of the speaker for the identification of the event they refer to."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "accepted",
+    "access",
+    "access code",
+    "accessibility",
+    "accessible",
+    "accession",
+    "accessory",
+    "accident",
+    "accidental"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370882_de8ff7056a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370882_166d639b7b_o.png",
+      "id_image": "access_381613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681054_f72e63a5a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681054_71cbb4a053_o.png",
+      "id_image": "access_4198534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370682_1b2f492841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370682_29412f9621_o.png",
+      "id_image": "access_4524006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062675_9a614dce9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062675_618befce44_o.png",
+      "id_image": "access_5967085"
+    }
+  ]
+}

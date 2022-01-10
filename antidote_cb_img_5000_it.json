@@ -1,0 +1,49 @@
+{
+  "english": "antidote",
+  "phat_am": "ˈӕntidout",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc giải độc",
+          "definition": "a medicine etc which is given to prevent a poison acting on someone",
+          "world_new": [
+            "medicine",
+            "prevent",
+            "poison",
+            "acting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you are bitten by a poisonous snake, you have to be given an antidote.",
+              "world_new": [
+                "poisonous",
+                "snake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anticlimax",
+    "anticlockwise",
+    "antics",
+    "antidepressant",
+    "antidote",
+    "antifreeze",
+    "antipathy",
+    "antiquated",
+    "antique"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310076_42fbe2c4b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310076_02903f7cb2_o.png",
+      "id_image": "antidote_1761566"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "amoeba",
+  "phat_am": "əˈmiːbə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trùng amip",
+          "definition": "a very small creature that consists of only one cell",
+          "world_new": [
+            "small",
+            "creature",
+            "cell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Amoebas reproduce by splitting in two.",
+              "world_new": [
+                "reproduce"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ammunition",
+    "amnesia",
+    "amnesty",
+    "amniotic sac",
+    "amoeba",
+    "amok",
+    "among",
+    "amoral",
+    "amorous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668874_66ccd5f53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668874_609e58cd5f_o.png",
+      "id_image": "amoeba_1373943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668844_ded66e1ed6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668844_a5e9752159_o.png",
+      "id_image": "amoeba_1373944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314051_accc334fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314051_466dfd5150_o.png",
+      "id_image": "amoeba_2993301"
+    }
+  ]
+}

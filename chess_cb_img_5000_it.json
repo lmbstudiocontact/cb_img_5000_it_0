@@ -1,0 +1,79 @@
+{
+  "english": "chess",
+  "phat_am": "tʃes",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn cờ",
+          "definition": "a game for two played with thirty-two (usually black and white) pieces (chessmen) on a board (chessboard) with sixty-four (usually black and white) squares",
+          "world_new": [
+            "game",
+            "black",
+            "board",
+            "black"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were playing a game of chess",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a chess tournament.",
+              "world_new": [
+                "tournament"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In chess, for example, a computational theory of the problem will hardly help to specify the players' decision processes.",
+    "They constitute what chess is and how to play the game.",
+    "In this example, someone is behaving somewhat like the ostensibly blundering chess player.",
+    "Consider chess again: without the conventions that constitute this game, there is no game of chess nor, consequently, a concept of chess.",
+    "The rules of chess have a crucial role to play in constituting our concept of chess.",
+    "Should we conclude that playing chess is (or is nothing but) moving pieces of wood and that chess is therefore a \"physical phenomenon\"?",
+    "The development of various chess-playing software enabled the robot to play chess with people intelligently.",
+    "With the chess-playing program, the intelligent library and the relevant application program of image processing, the robot can make exact decisions and reach its goal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cherish",
+    "cherry",
+    "cherub",
+    "cherubic",
+    "chess",
+    "chest",
+    "chest of drawers",
+    "chestnut",
+    "chew"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354792_214b12534d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354792_bba5092f66_o.png",
+      "id_image": "chess_1021364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425623_f1b291ebf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425623_2d3fc49363_o.png",
+      "id_image": "chess_3184082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425568_453ea5e886_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425568_816dfc3ba9_o.png",
+      "id_image": "chess_4099803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354837_c6c04fddcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354837_4700574864_o.png",
+      "id_image": "chess_530007"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "english": "argument",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cãi nhau",
+          "definition": "a quarrel or unfriendly discussion",
+          "world_new": [
+            "quarrel",
+            "unfriendly",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are having an argument about/over whose turn it is.",
+              "world_new": [
+                "turn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lý lẽ",
+          "definition": "a set of reasons; a piece of reasoning",
+          "world_new": [
+            "piece",
+            "reasoning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several arguments for/against the proposal",
+              "world_new": [
+                "proposal"
+              ]
+            },
+            {
+              "ex_of_definition": "a philosophical argument.",
+              "world_new": [
+                "philosophical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He may be right about that, but his arguments do not demonstrate that he is.",
+    "Whatever the arguments for protection, high transport costs on imports are just as effective as high tariffs.",
+    "Inductive arguments are therefore kinds of ampliative arguments, in which something beyond the content of the premises is inferred.",
+    "Plausible arguments for deploying the criminal law against such behavior can be made from grievance morality.",
+    "Success continuations take failure continuations as arguments, so they are second-order.",
+    "The arguments of the so-called new imperialism were ex post facto justifications of advances, they were not the original reasons for making them!",
+    "In the context of veto point arguments, we might suppose the government needs to buy off some members of particular groups.",
+    "The throwtype verbs, on the other hand, are taken to basically select two arguments : an agent and a theme."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "area code",
+    "arena",
+    "arguable",
+    "argue",
+    "argument",
+    "argumentative",
+    "aria",
+    "arid",
+    "aridity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043055_42061117ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043055_38dbc932ed_o.png",
+      "id_image": "argument_1612931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305961_bd4bb688c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305961_39c90f7d4f_o.png",
+      "id_image": "argument_3220646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421208_51bf3255d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421208_99b2f0910d_o.png",
+      "id_image": "argument_555693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350217_f8cd4b7106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350217_da519d4a8f_o.png",
+      "id_image": "argument_859975"
+    }
+  ]
+}

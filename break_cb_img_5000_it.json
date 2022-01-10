@@ -1,0 +1,332 @@
+{
+  "english": "break",
+  "phat_am": "breik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chia ra",
+          "definition": "to divide into two or more parts (by force)",
+          "world_new": [
+            "divide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I accidentally broke the vase.",
+              "world_new": [
+                "I",
+                "accidentally",
+                "broke",
+                "vase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm rời ra",
+          "definition": "(usually with off/away) to separate (a part) from the whole (by force)",
+          "world_new": [
+            "separate",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She broke a piece off the bar of chocolate.",
+              "world_new": [
+                "broke",
+                "piece",
+                "bar",
+                "chocolate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đập vỡ",
+          "definition": "to make or become unusable",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Someone’s broken the photocopier.",
+              "world_new": [
+                "broken",
+                "photocopier"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay đổi",
+          "definition": "to go against, or not act according to (the law etc)",
+          "world_new": [
+            "act",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He broke the law by driving over the speed limit.",
+              "world_new": [
+                "broke",
+                "law",
+                "driving",
+                "speed",
+                "limit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho tốt hơn",
+          "definition": "to do better than (a sporting etc record)",
+          "world_new": [
+            "better",
+            "sporting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She broke the world high-jump record.",
+              "world_new": [
+                "broke",
+                "world",
+                "record"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm gián đoạn",
+          "definition": "to interrupt",
+          "world_new": [
+            "interrupt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She broke her journey in London.",
+              "world_new": [
+                "broke",
+                "journey"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phá vỡ",
+          "definition": "to put an end to",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He broke the silence.",
+              "world_new": [
+                "broke",
+                "silence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo tin",
+          "definition": "to make or become known",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gently broke the news of his death to his wife.",
+              "world_new": [
+                "gently",
+                "broke",
+                "news",
+                "death",
+                "wife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vỡ giọng",
+          "definition": "(of a boy’s voice) to fall in pitch",
+          "world_new": [
+            "fall",
+            "pitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His voice broke.",
+              "world_new": [
+                "voice",
+                "broke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm yếu đi",
+          "definition": "to soften the effect of (a fall, the force of the wind etc)",
+          "world_new": [
+            "soften",
+            "effect",
+            "fall",
+            "force",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Luckily, the thick grass broke his fall.",
+              "world_new": [
+                "thick",
+                "grass",
+                "broke",
+                "fall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu",
+          "definition": "to begin",
+          "world_new": [
+            "begin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The storm broke before they reached shelter.",
+              "world_new": [
+                "storm",
+                "broke",
+                "shelter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gián đoạn",
+          "definition": "a pause",
+          "world_new": [
+            "pause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a break in the conversation.",
+              "world_new": [
+                "conversation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thay đổi",
+          "definition": "a change",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A break in the bad weather allowed us to continue our journey.",
+              "world_new": [
+                "bad",
+                "weather",
+                "continue",
+                "our",
+                "journey"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khe hở",
+          "definition": "an opening.",
+          "world_new": [
+            "opening"
+          ]
+        },
+        {
+          "mean_english": "cơ hội",
+          "definition": "a chance or piece of (good or bad) luck",
+          "world_new": [
+            "chance",
+            "piece",
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is your big break.",
+              "world_new": [
+                "your",
+                "big"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Local relief is characterized by low altitude sedimentary plateaux (chapadas), which are broken by a network of peripheral or intermontane depressions.",
+    "They typically occur at the ends of meetings, often as people are walking out of a room, and even during social breaks.",
+    "Participants took a break between the two conditions and then completed the other modality, starting again with six new training items.",
+    "First, great incomprehension clouded the terms and definitions that would either make or break the case for intervention.",
+    "Rather, material structure is progressively broken up by increasing shear stresses.",
+    "An innovation that can be broken down or tried out on a partial basis also increases the probability of use and adoption5.",
+    "The voices adopt the rhythm given by the percussion section, and sentences are rendered mechanical by being broken into short pieces.",
+    "This concern notwithstanding, this reform 'agreement' would still have caused difficulties because it broke the budget expenditure limit agreed the previous month."
+  ],
+  "list_see_also": [
+    "breakable",
+    "breakage",
+    "breaker",
+    "breakdown",
+    "breakneck",
+    "breakthrough",
+    "breakwater",
+    "break away",
+    "break down",
+    "break in",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "bread bin",
+    "breadcrumbs",
+    "breadth",
+    "breadwinner",
+    "break",
+    "break away",
+    "break down",
+    "break in",
+    "break loose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361957_3dce06cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361957_e46b4d71d6_o.png",
+      "id_image": "breakage_2928720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054220_117823c504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054220_47a8166329_o.png",
+      "id_image": "break_2799938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362022_dc263845ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362022_8d80087f60_o.png",
+      "id_image": "break_4243801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317701_9d4f767d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317701_d1ba101993_o.png",
+      "id_image": "break_769662"
+    }
+  ]
+}

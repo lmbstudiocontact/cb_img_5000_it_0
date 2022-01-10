@@ -1,0 +1,87 @@
+{
+  "english": "climate",
+  "phat_am": "ˈklaimət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khí hậu",
+          "definition": "the weather conditions of a region (temperature, moisture etc)",
+          "world_new": [
+            "weather",
+            "region",
+            "moisture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Britain has a temperate climate.",
+              "world_new": [
+                "temperate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không khí",
+          "definition": "the conditions in a country etc",
+          "world_new": [
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the economic/moral climate."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The higher is this ratio the lower is the heat loss, so larger bodies (with higher x) are more beneficial in cold climates.",
+    "Given its extensive geographical range, this predator is locally adapted to a variety of climates.",
+    "The diversity of climates seemed to require a diversity of personal characteristics, and personal rights.",
+    "I think it should be the starting point for environmental design in temperate climates.",
+    "In temperate climates most people acquire the infection during childhood.",
+    "In temperate climates in the absence of vaccine, the lifetime risk for varicella is over 95 % [1].",
+    "Nothing in our account precludes \"empirical research on fossils, artefacts, genes, and climates\" as these relate to religious beliefs and practices.",
+    "We would expect hominids to show less response to fluctuating climates than other mammals show."
+  ],
+  "list_see_also": [
+    "climatic",
+    "climate change"
+  ],
+  "list_browse": [
+    "click",
+    "client",
+    "clientele",
+    "cliff",
+    "climate",
+    "climate change",
+    "climatic",
+    "climax",
+    "climb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377112_dc0be3abb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377112_865dbff371_o.png",
+      "id_image": "climate_1730197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377072_2f670fb2ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377072_8731a89561_o.png",
+      "id_image": "climate_4215414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376997_73324cfebd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376997_d32ed9fb7a_o.png",
+      "id_image": "climate_5264789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376982_b733530e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376982_3345f07b07_o.png",
+      "id_image": "climate_5493014"
+    }
+  ]
+}

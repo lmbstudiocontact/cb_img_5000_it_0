@@ -1,0 +1,65 @@
+{
+  "english": "cathedral",
+  "phat_am": "kəˈθiːdrəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà thờ lớn",
+          "definition": "the principal church of a district under a bishop",
+          "world_new": [
+            "principal",
+            "church",
+            "district",
+            "bishop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Gothic cathedral."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is illuminating discussion of the cathedral cemetery (illustrated in both modern and sixteenthcentury plans), and the possible positioning of burials in it.",
+    "Since then at least eight other cathedrals have been similarly memorialised and several other cathedral histories are currently in the process of being written.",
+    "The seventythree plates are black-and-white photographs, most of them well-produced, and plans of five of the cathedrals treated in the text.",
+    "Not much less challenging was accommodating within this structure the cathedrals and the wide variety of clergy holding offices in them.",
+    "The close links with the government can be seen in the types of people recruited to the cathedral priory.",
+    "It is an improper way of carving up the cathedral, not a functional feature that is being used for something other than its intended function.",
+    "In the seventeenth century there was a pronounced return to cathedrals as burial places.",
+    "Almost all the main furnishings of the cathedral are included."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "catering",
+    "caterpillar",
+    "catfish",
+    "catgut",
+    "cathedral",
+    "catheter",
+    "cathode",
+    "catholic",
+    "Catholicism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434448_0d2702b5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434448_4c59b75d76_o.png",
+      "id_image": "cathedral_4507275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674169_6d2e4b098f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674169_f27472e257_o.png",
+      "id_image": "cathedral_5389619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364007_6373423930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364007_c0854d43a7_o.png",
+      "id_image": "cathedral_804326"
+    }
+  ]
+}

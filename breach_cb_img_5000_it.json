@@ -1,0 +1,107 @@
+{
+  "english": "breach",
+  "phat_am": "briːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thất hứa",
+          "definition": "a breaking (of a promise etc)",
+          "world_new": [
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a breach of contract.",
+              "world_new": [
+                "contract"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗ thủng",
+          "definition": "a gap, break or hole",
+          "world_new": [
+            "gap",
+            "break",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a breach in the castle wall",
+              "world_new": [
+                "castle",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "a breach in security.",
+              "world_new": [
+                "security"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chọc thủng",
+          "definition": "to make an opening in or break (someone’s defence/defense)",
+          "world_new": [
+            "opening",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These assaults succeeded in breaching the city walls.",
+              "world_new": [
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By the sixteenth century, the limits of the intellectual elite had been breached and the criticism of appealing to the masses is somewhat anachronistic.",
+    "A question with no answer is a barrier than cannot be breached.",
+    "Like computer-hackers breaching elaborate security systems to disrupt large organizations, they may have been secretly demonstrating their own cleverness.",
+    "Note, however, that the divide can easily be breached, as on occasions when car stereos are deliberately played too loudly.",
+    "The third is that the law prescribes sanctions for breaches of various laws.",
+    "Such a collection of data is regarded as unlawful and the person's right to privacy has been breached.",
+    "However, as was suggested earlier, many apologies are offered for breaches that fall beyond the moral or conventional domains.",
+    "They were also expected to cultivate a respectable moral character and to accept the right to be disciplined if they breached their obligations."
+  ],
+  "list_see_also": [
+    "breach of the peace"
+  ],
+  "list_browse": [
+    "brawny",
+    "bray",
+    "brazen",
+    "brazen it out",
+    "breach",
+    "breach of the peace",
+    "bread",
+    "bread and butter",
+    "bread bin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362327_3503801eb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362327_1f353498a3_o.png",
+      "id_image": "breach_2720497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672654_64809497cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672654_1a6872f15b_o.png",
+      "id_image": "breach_2720551"
+    }
+  ]
+}

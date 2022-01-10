@@ -1,0 +1,71 @@
+{
+  "english": "batch",
+  "phat_am": "bӕtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đợt",
+          "definition": "a number of things made, delivered etc, all at one time",
+          "world_new": [
+            "number",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This batch of bread is ready for baking",
+              "world_new": [
+                "bread",
+                "ready",
+                "baking"
+              ]
+            },
+            {
+              "ex_of_definition": "The letters were sent out in batches."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Differences in faecal excretion patterns between different batches of birds as a result of different gut flora have been observed previously [35].",
+    "Females of each of the two species were tested in batches of 30, aged between 24 and 48 h, picked at random from their cages.",
+    "Consequently, batches were monitored in a room where temperature was close to ambient.",
+    "The plots were processed in two batches because the flooding unit could not accommodate all 70 at once.",
+    "As for egg batches, larval densities tended to be lower on alternate hill than alternate row systems.",
+    "The experiment was performed in two batches comprising the first and second litter of the sows.",
+    "The responses in the training set were read, coded, and discussed by the two investigators in batches of 10 - 15 questionnaires at a time.",
+    "Next we show that the batches of satisfy a nice order property."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bassoon",
+    "bastard",
+    "bastion",
+    "bat",
+    "batch",
+    "bated",
+    "bath",
+    "bath salts",
+    "bathchair"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668554_246cd50597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668554_687409fe26_o.png",
+      "id_image": "batch_1792350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357877_ce5f5ceb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357877_186531f1cf_o.png",
+      "id_image": "batch_5132107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357852_ccc81d31fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357852_73415dec4f_o.png",
+      "id_image": "batch_5132121"
+    }
+  ]
+}

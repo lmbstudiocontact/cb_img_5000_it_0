@@ -1,0 +1,90 @@
+{
+  "english": "chat",
+  "phat_am": "tʃӕt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tán gẫu",
+          "definition": "to talk in a friendly and informal way",
+          "world_new": [
+            "talk",
+            "friendly",
+            "informal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They chatted about the weather.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyện gẫu",
+          "definition": "(a) friendly and informal talk",
+          "world_new": [
+            "friendly",
+            "informal",
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chat over coffee",
+              "world_new": [
+                "coffee"
+              ]
+            },
+            {
+              "ex_of_definition": "women’s chat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He spends much time chatting in the street and is never lonely.",
+    "This article examines the possibilities that chat offers to foreign language learners, but because it is synchronous communication there are some practical organisational problems.",
+    "They are chatting at the end of a meeting of their project team.",
+    "Hospitable and friendly, they invited us to their home for a chat.",
+    "The chat logs were collected and analysed via descriptive statistics and discourse analysis.",
+    "It involves a greater exploration of thoughts, feelings and behaviour than can be achieved in a short period, such as a first day chat.",
+    "In ideal circumstances, meals are social occasions with a table acting as a focus for sitting and chatting while eating.",
+    "In practice, the confessorio could provide a snug and private meeting-place, in which priest and nun could chat intimately and perhaps share food and drink."
+  ],
+  "list_see_also": [
+    "chatty",
+    "chat show"
+  ],
+  "list_browse": [
+    "chasteness",
+    "chastise",
+    "chastisement",
+    "chastity",
+    "chat",
+    "chat show",
+    "chatter",
+    "chatterbox",
+    "chatty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049305_7a223a8a62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049305_26dba21a99_o.png",
+      "id_image": "chat_174664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667574_5519ca958a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667574_daa5d9d61b_o.png",
+      "id_image": "chat_228379"
+    }
+  ]
+}

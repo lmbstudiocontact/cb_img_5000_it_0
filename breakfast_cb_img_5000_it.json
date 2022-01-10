@@ -1,0 +1,111 @@
+{
+  "english": "breakfast",
+  "phat_am": "ˈbrekfəst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bữa sáng",
+          "definition": "the first meal of the day",
+          "world_new": [
+            "meal",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What time do you serve breakfast?",
+              "world_new": [
+                "time",
+                "serve"
+              ]
+            },
+            {
+              "ex_of_definition": "I have coffee and toast for breakfast",
+              "world_new": [
+                "I",
+                "coffee",
+                "toast"
+              ]
+            },
+            {
+              "ex_of_definition": "I never eat breakfast.",
+              "world_new": [
+                "I",
+                "eat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn sáng",
+          "definition": "to have breakfast",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They breakfasted on the train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A vast range of small rural businesses, pubs, shops, bed and breakfasts and hotels have been affected.",
+    "Bed and breakfasting for sheep was one of a number of ways in which dealers moved animals about—ways that do not make any sense.",
+    "I hope there will be more to this campaign than what we know is already planned: working breakfasts—in practice sometimes a contradiction in terms.",
+    "I do not mind having my leg pulled about breakfasts, but this morning's presentation to the leading business men of the city was very professional.",
+    "Bed and breakfasting is a tax dodge, whereby major share owners sell themselves their own shares at a loss, solely for tax purposes.",
+    "Secondly, local authorities should establish whether families wish to eat the breakfasts provided.",
+    "What is more, they will even get free breakfasts for doing that.",
+    "A great deal of money is spent on \"bed and breakfasts\" that are degrading and bad for children and families."
+  ],
+  "list_see_also": [
+    "breakfast time"
+  ],
+  "list_browse": [
+    "breakable",
+    "breakage",
+    "breakdown",
+    "breaker",
+    "breakfast",
+    "breakfast time",
+    "breakneck",
+    "breakthrough",
+    "breakwater"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672154_0f91bf658b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672154_0a783a295a_o.png",
+      "id_image": "breakfast_1010965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053930_0426cb624a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053930_f0b23c37ce_o.png",
+      "id_image": "breakfast_421790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672114_08a92033b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672114_9dc9017ed4_o.png",
+      "id_image": "breakfast_4289202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317351_56d205c1c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317351_05e7a6e043_o.png",
+      "id_image": "breakfast_5284697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317446_fe2c33d447_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317446_2a11bdf76b_o.png",
+      "id_image": "breakfast_854293"
+    }
+  ]
+}

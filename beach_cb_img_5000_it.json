@@ -1,0 +1,99 @@
+{
+  "english": "beach",
+  "phat_am": "biːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bãi biển",
+          "definition": "the sandy or stony shore of a sea or lake",
+          "world_new": [
+            "sandy",
+            "stony",
+            "shore",
+            "sea",
+            "lake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sandy beach",
+              "world_new": [
+                "sandy"
+              ]
+            },
+            {
+              "ex_of_definition": "Children love playing on the beach.",
+              "world_new": [
+                "love"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho tàu (thuyền) lên cạn",
+          "definition": "to drive or pull (a boat etc) up on to a beach",
+          "world_new": [
+            "drive",
+            "pull",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll beach the boat here and continue on foot.",
+              "world_new": [
+                "boat",
+                "continue",
+                "foot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The value of ecosystem services derived from the soil, the ocean, and beaches are all related to the forests and how they are utilized and managed.",
+    "Our streets, our public transport and our beaches provide evidence of the uncaring attitude of people who are cursed with the throw-away habit.",
+    "I now turn to the beaches of this country.",
+    "I am deeply concerned at the suffering to birds and the damage to beaches caused by this incident.",
+    "There are some with a degree of pollution on their beaches and a few, no doubt, with grossly polluted beaches.",
+    "Naked bathing on beaches or in rivers ought to be universal.",
+    "I regret that there have been further instances this summer of pollution of the beaches by oil.",
+    "We suffer perhaps, with many other areas, from the effects of oil pollution on the beaches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "be/go on the rampage",
+    "be/go/get beyond a joke",
+    "be/keep on an even keel",
+    "be/put on probation",
+    "beach",
+    "beacon",
+    "bead",
+    "beady",
+    "beak"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312276_783c125816_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312276_914066c66b_o.png",
+      "id_image": "beach_3722612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667194_4381902191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667194_06c544b863_o.png",
+      "id_image": "beach_3722618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427093_15c5726640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427093_b4eb3f8f82_o.png",
+      "id_image": "beach_4792176"
+    }
+  ]
+}

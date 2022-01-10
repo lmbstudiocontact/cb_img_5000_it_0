@@ -1,0 +1,85 @@
+{
+  "english": "badge",
+  "phat_am": "bӕdʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "huy hiệu",
+          "definition": "a mark, emblem or ornament showing rank, occupation, or membership of a society, team etc",
+          "world_new": [
+            "mark",
+            "emblem",
+            "ornament",
+            "rank",
+            "occupation",
+            "membership",
+            "society",
+            "team"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have to wear a blazer with the school badge sewn on it",
+              "world_new": [
+                "wear",
+                "blazer",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "All new employees will be given a security badge.",
+              "world_new": [
+                "security"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At present the county associations can only spend one shilling per head upon registration and half of that goes for badges.",
+    "Instructions have been issued to all holders of these badges to discontinue their use and the badges are being returned.",
+    "The question of new titles, new badges and uniform to be worn by new regiments was also raised in the debate.",
+    "We continue to discuss with staff and their representatives the introduction of name badges.",
+    "Is there any reason why badges are not allowed?",
+    "A chaplain, fourth class, wears the rank badges of a captain, but he does not receive a captain's pay.",
+    "As a result, there would have been no necessity to issue them with film badges.",
+    "We are committed to introducing a specific power for the police, traffic wardens and local authority parking enforcement officers to inspect badges."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bad language",
+    "bad luck!",
+    "bad-tempered",
+    "baddie",
+    "badge",
+    "badger",
+    "badly",
+    "badly off",
+    "badminton"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320911_6e4c1996db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320911_062617704f_o.png",
+      "id_image": "badge_1133817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675944_e37fda8b30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675944_30b6817621_o.png",
+      "id_image": "badge_1133820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320951_ac0c3f12a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320951_e137966d52_o.png",
+      "id_image": "badge_224707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365892_1aef65d0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365892_217158dc35_o.png",
+      "id_image": "badge_412817"
+    }
+  ]
+}

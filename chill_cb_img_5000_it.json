@@ -1,0 +1,119 @@
+{
+  "english": "chill",
+  "phat_am": "tʃil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ớn lạnh",
+          "definition": "coldness",
+          "world_new": [
+            "coldness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a chill in the air.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm lạnh",
+          "definition": "an illness which causes shivering",
+          "world_new": [
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think I’ve caught a chill.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giá lạnh",
+          "definition": "cold",
+          "world_new": [
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chill wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm lạnh",
+          "definition": "to make cold (without freezing)",
+          "world_new": [
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you chilled the wine?",
+              "world_new": [
+                "wine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was like they were all chilled out, like happy and everything.",
+    "Many people find these types of approaches rather chilling, at least at first.",
+    "However, the current chill in this area has reduced this type of activity.",
+    "The overture ended with the chilling sound of an air-raid siren.",
+    "Release of bud dormancy by chilling involves removal of the callose plugs from the plasmodesmata and regaining of the capacity for symplastic transport.",
+    "Darkness or far-red light induced seed dormancy, but after chilling they started to germinate again under white or red light conditions.",
+    "The three chilled margin samples show very uniform major and trace elements compositions.",
+    "Temperatures close to zero elicit symptoms of chilling injury leading to rapid seed death."
+  ],
+  "list_see_also": [
+    "chilly",
+    "chilliness"
+  ],
+  "list_browse": [
+    "childless",
+    "childlike",
+    "childminder",
+    "childproof",
+    "chill",
+    "chilli",
+    "chilliness",
+    "chilly",
+    "chime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353632_62198b46b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353632_fd6708b1f0_o.png",
+      "id_image": "chill_1721746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424543_9413317af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424543_d076ef4b9a_o.png",
+      "id_image": "chill_1730175"
+    }
+  ]
+}

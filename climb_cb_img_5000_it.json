@@ -1,0 +1,146 @@
+{
+  "english": "climb",
+  "phat_am": "klaim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trèo leo",
+          "definition": "(of a person etc) to go up or towards the top of (a mountain, wall, ladder etc)",
+          "world_new": [
+            "person",
+            "top",
+            "mountain",
+            "wall",
+            "ladder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He climbed to the top of the hill",
+              "world_new": [
+                "top",
+                "hill"
+              ]
+            },
+            {
+              "ex_of_definition": "He climbed up the ladder",
+              "world_new": [
+                "ladder"
+              ]
+            },
+            {
+              "ex_of_definition": "The child climbed the tree.",
+              "world_new": [
+                "child",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "leo trèo",
+          "definition": "to rise or ascend",
+          "world_new": [
+            "rise",
+            "ascend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The path climbs to Westburton Hill.",
+              "world_new": [
+                "path"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hành động leo trèo",
+          "definition": "an act of going up",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rapid climb to the top of his profession.",
+              "world_new": [
+                "rapid",
+                "top",
+                "profession"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật leo trèo",
+          "definition": "a route or place to be climbed",
+          "world_new": [
+            "route",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The guide showed us the best climb.",
+              "world_new": [
+                "guide",
+                "best"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also did not believe our descriptions of mice freely climbing about the underside of water filled cages, would pacify the skeptics either.",
+    "Then it climbed again, reaching 3 years in 1941 and 6.5 years in 1946-47.",
+    "The coordinate system of visual climbing fibres to the flocculus.",
+    "The majority of the lianas that had recently climbed their hosts were growing on small diameter host trees.",
+    "A wooden tower was assembled and was climbed by many of the children and some adults.",
+    "Vertical section of fine-grained purple sandstone bed showing climbing ripples with low angles of the stoss and lee surfaces.",
+    "During earlier operations and demonstrations of climbing and descending of stairs, only the manual mode was utilized.",
+    "Future activities include climbing out of the crater and investigating this hematite-rich material."
+  ],
+  "list_see_also": [
+    "climber",
+    "climbing"
+  ],
+  "list_browse": [
+    "climate",
+    "climate change",
+    "climatic",
+    "climax",
+    "climb",
+    "climber",
+    "climbing",
+    "clinch",
+    "cling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687154_a8658d1d19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687154_2c5b432253_o.png",
+      "id_image": "climb_2640185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447113_62917b317d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447113_b91ee06504_o.png",
+      "id_image": "climb_2808463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447083_ef00ec0ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447083_c67af9480c_o.png",
+      "id_image": "climb_5235867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447048_558213de1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447048_cddda6ff0f_o.png",
+      "id_image": "climb_6381773"
+    }
+  ]
+}

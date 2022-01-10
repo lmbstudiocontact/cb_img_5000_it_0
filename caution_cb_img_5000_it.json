@@ -1,0 +1,121 @@
+{
+  "english": "caution",
+  "phat_am": "ˈkoːʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thận trọng",
+          "definition": "carefulness (because of possible danger etc)",
+          "world_new": [
+            "carefulness",
+            "possible",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Motorists were urged to exercise caution during the icy weather.",
+              "world_new": [
+                "exercise",
+                "icy",
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh cáo",
+          "definition": "in law, a warning",
+          "world_new": [
+            "law",
+            "warning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policeman gave him a caution for speeding.",
+              "world_new": [
+                "policeman",
+                "speeding"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảnh báo",
+          "definition": "to give a warning to",
+          "world_new": [
+            "warning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was cautioned for drunken driving.",
+              "world_new": [
+                "drunken",
+                "driving"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This would suggest an element of caution when endorsing price controls as an approach for addressing high administrative charges.",
+    "The paper and discussion on public examinations again raise issues about their objectivity, and give many grounds for caution against reading too much into them.",
+    "The extremities, however, must be treated with caution due to paucity of data.",
+    "Nonetheless, these two design artifacts necessitate caution in considering the precise magnitude of the shared environment parameter estimates.",
+    "Besides, given that the ordinance had been enacted as a temporary security measure, it should only be invoked with great caution.",
+    "However, the present results were statistically weak, and the dosage range rather narrow, so caution in interpretation is clearly warranted.",
+    "Need for caution when using vacuum assisted delivery devices.",
+    "A word of caution is appropriate however since the turbulence characteristics of jets are more non-homogeneous than the characteristics of wakes."
+  ],
+  "list_see_also": [
+    "cautionary",
+    "cautious",
+    "cautiously"
+  ],
+  "list_browse": [
+    "causeway",
+    "caustic",
+    "caustically",
+    "cauterize",
+    "caution",
+    "cautionary",
+    "cautious",
+    "cautiously",
+    "cava"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433858_07b970b971_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433858_9c11c2dcc0_o.png",
+      "id_image": "caution_1348669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318601_3f7b4b7512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318601_4ef0602ac0_o.png",
+      "id_image": "caution_1972903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055175_4ab2a0b513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055175_6cd22fd706_o.png",
+      "id_image": "caution_3100328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673494_ab22828212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673494_fbedaebf95_o.png",
+      "id_image": "caution_313085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318571_91a5d0cf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318571_2701287843_o.png",
+      "id_image": "caution_3751796"
+    }
+  ]
+}

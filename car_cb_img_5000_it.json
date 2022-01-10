@@ -1,0 +1,110 @@
+{
+  "english": "car",
+  "phat_am": "kaː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe ô tô",
+          "definition": "a (usually privately-owned) motor vehicle on wheels for carrying people; automobile American",
+          "world_new": [
+            "motor",
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What kind of car do you have?",
+              "world_new": [
+                "kind"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Did you go by car?’"
+            }
+          ]
+        },
+        {
+          "mean_english": "khoang",
+          "definition": "a section for passengers in a train etc",
+          "world_new": [
+            "section",
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dining-car."
+            }
+          ]
+        },
+        {
+          "mean_english": "toa xe",
+          "definition": "a railway carriage for goods or people",
+          "world_new": [
+            "railway",
+            "carriage",
+            "goods",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freight car.",
+              "world_new": [
+                "freight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In some cases resellers hire extra hands to disembark the cars, thus allowing them increase their contacts with importers.",
+    "My father's car had mudguards, as did all cars until the guards became fused with the body as its wings.",
+    "People and cars milled about us, while posters, caravans, tents, and stalls were crammed in everywhere.",
+    "Typically, the widowers who had a relationship were under the age of 75, were car drivers and enjoyed good or very good health.",
+    "The right side is obscured by the matrix, which is reinforced by a material resembling car body filler.",
+    "It is commonly believed that to become economically successful is to have dealings with cars.",
+    "Abandoned, burned-out cars sat beside walls covered with graffiti.",
+    "The introduction of catalytic converters has reduced the toxicity of car exhausts."
+  ],
+  "list_see_also": [
+    "car boot sale",
+    "carjacking",
+    "car park",
+    "car phone"
+  ],
+  "list_browse": [
+    "captive",
+    "captivity",
+    "captor",
+    "capture",
+    "car",
+    "car boot sale",
+    "car park",
+    "car phone",
+    "carafe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442568_1c85c38ff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442568_cc55364c75_o.png",
+      "id_image": "car_290172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064215_7e87ed7cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064215_ee4faeedd6_o.png",
+      "id_image": "car_290320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442458_0253b8dc1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442458_4d36071e25_o.png",
+      "id_image": "car_520092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682549_f8239226d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682549_f830fab839_o.png",
+      "id_image": "car_520097"
+    }
+  ]
+}

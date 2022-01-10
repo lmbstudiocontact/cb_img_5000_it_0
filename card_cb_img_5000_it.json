@@ -1,0 +1,128 @@
+{
+  "english": "card",
+  "phat_am": "kaːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "Giấy cứng",
+          "definition": "thick paper or thin board",
+          "world_new": [
+            "thick",
+            "paper",
+            "thin",
+            "board"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "shapes cut out from card.",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bài",
+          "definition": "(also playing card) a small piece of such paper etc with designs, used in playing certain games",
+          "world_new": [
+            "small",
+            "piece",
+            "paper",
+            "certain",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pack of cards.",
+              "world_new": [
+                "pack",
+                "cards"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "danh thiếp",
+          "definition": "a similar object used for eg sending greetings, showing membership of an organization, storing information etc",
+          "world_new": [
+            "similar",
+            "object",
+            "greetings",
+            "membership",
+            "organization",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a birthday card",
+              "world_new": [
+                "birthday"
+              ]
+            },
+            {
+              "ex_of_definition": "a membership card",
+              "world_new": [
+                "membership"
+              ]
+            },
+            {
+              "ex_of_definition": "a business card.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, vaccination cards were produced by 96 % of children (98 % in rural and 94.3 % in urban settings).",
+    "That is the way minds go on with respect to arranging cards and similar objects to which conventional ordering practices apply.",
+    "Data were systematically taken from the clinic notes, coded and transferred to punched cards for analysis.",
+    "Pictures were displayed on index cards and came from drawings or photographs matching as many word list items as possible.",
+    "The analogue signals of the part's surface are sent to the data acquisition card.",
+    "The picture task contained 59 cards illustrating as many of the word list items as possible, using pictures from magazines, newspapers, or drawings.",
+    "Another room would be dedicated to drawing, reading, and writing, with cards on the walls representing letters of the alphabet, and a blackboard.",
+    "Patients and insurers ignored the report cards and continued to employ the services of sub-par performers."
+  ],
+  "list_see_also": [
+    "cards",
+    "cardboard"
+  ],
+  "list_browse": [
+    "carburettor",
+    "carcass",
+    "carcinogen",
+    "carcinoma",
+    "card",
+    "cardboard",
+    "cardiac",
+    "cardigan",
+    "cardinal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326856_7e3504d6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326856_8637ccb7eb_o.png",
+      "id_image": "card_484438"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441853_aea6a73748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441853_d4181a2fb1_o.png",
+      "id_image": "card_490416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371492_53a66d9a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371492_1c880a50e5_o.png",
+      "id_image": "card_650945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681824_25dcfaef29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681824_da02e64a59_o.png",
+      "id_image": "card_751784"
+    }
+  ]
+}

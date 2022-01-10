@@ -1,0 +1,157 @@
+{
+  "english": "bay",
+  "phat_am": "bei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vịnh",
+          "definition": "a wide inward bend of a coastline",
+          "world_new": [
+            "wide",
+            "inward",
+            "bend",
+            "coastline"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was anchored in the bay",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "Botany Bay."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gian nhà",
+          "definition": "a separate compartment, area or room etc (usually one of several) set aside for a special purpose",
+          "world_new": [
+            "separate",
+            "compartment",
+            "area",
+            "room",
+            "aside",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bay in a library.",
+              "world_new": [
+                "library"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hồng",
+          "definition": "(of horses) reddish-brown in colour/color",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bay pony.",
+              "world_new": [
+                "pony"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cây nguyệt quế",
+          "definition": "(also bay tree) the laurel tree, the leaves of which are used for seasoning and in victory wreaths.",
+          "world_new": [
+            "laurel",
+            "tree",
+            "seasoning",
+            "victory"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sủa",
+          "definition": "(especially of large dogs) to bark",
+          "world_new": [
+            "large",
+            "bark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hounds bayed at the fox.",
+              "world_new": [
+                "fox"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He told me of the protection it offered the townsfolk against malicious influences and how its power held evil ghosts and spirits at bay.",
+    "It was also seen as the means to keep inflation at bay.",
+    "The case store and refuse stores are adjacent to the loading bay.",
+    "A six-bay end cluster can be freely planned by removing all screens and par titions, and then by enclosing group and seminar spaces.",
+    "In the small bays of the rugged coast, the hydrodynamic - and thus sedimentary - conditions are very calm, leading to accumulation of fine-grained, organic-rich marineaffected material.",
+    "They will reverse into the covered loading bay and the entrance can be secured behind t hem.",
+    "It renders the exceptional comprehensible and keeps the uncanny at bay.",
+    "This bay has a completely flooded mangrove forest only accessible by small boat."
+  ],
+  "list_see_also": [
+    "bay window"
+  ],
+  "list_browse": [
+    "battleship",
+    "batty",
+    "bawdy",
+    "bawl",
+    "bay",
+    "bay window",
+    "bayonet",
+    "bazaar",
+    "BBQ"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049010_5043348301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049010_61917c5b6b_o.png",
+      "id_image": "bay_2290284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667314_24d2b4d9ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667314_5901fb9b23_o.png",
+      "id_image": "bay_3338327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356367_0be025a038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356367_d15c810d50_o.png",
+      "id_image": "bay_5026470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048950_d6d6202367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048950_0c2d04ac6a_o.png",
+      "id_image": "bay_6253474"
+    }
+  ]
+}

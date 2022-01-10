@@ -1,0 +1,103 @@
+{
+  "english": "caravan",
+  "phat_am": "ˈkӕrəvӕn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe moóc; nhà lưu động",
+          "definition": "a vehicle on wheels for living in, pulled by a car etc; camper American",
+          "world_new": [
+            "vehicle",
+            "living",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We hitched the caravan up to the car.",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a caravan site (= a place where people can stay in their caravans)",
+              "world_new": [
+                "site",
+                "place",
+                "people",
+                "stay",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoàn lữ hành",
+          "definition": "a group of people travelling together for safety especially across a desert on camels",
+          "world_new": [
+            "group",
+            "people",
+            "safety",
+            "across",
+            "desert"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a caravan of merchants."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Commodification of caravan labour was part of the gradual spread of market relations along the central routes.",
+    "These were needed for payment of tribute - later taxation - and for the provisioning of trading caravans and war parties.",
+    "Large continental caravans were armed for their protection, and monarchs, where they existed, could provide security by administrative means backed up by force.",
+    "The goal was to improve the response to a direct-mail campaign aimed at selling caravan insurance policies.",
+    "You're going to turn that caravan around and head back out of here.",
+    "His work was to lead the caravan along the correct route, and mark off the paths which stragglers were not to take.",
+    "Chiefs who were able to control access to the trade routes and to provide provisions to the caravans could accumulate wealth and influence.",
+    "This caravan, given the circumstances and the small quantity of stolen goods, probably consisted of a dozen or so individuals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "car phone",
+    "carafe",
+    "caramel",
+    "carat",
+    "caravan",
+    "carbohydrate",
+    "carbon",
+    "carbon copy",
+    "carbon dioxide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063975_ac022667d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063975_51ed0307e0_o.png",
+      "id_image": "caravan_1971963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371752_6049cf21a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371752_6b82e439ed_o.png",
+      "id_image": "caravan_2044552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442073_e3433bb917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442073_f2eb8bf3fc_o.png",
+      "id_image": "caravan_2046125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371832_d14182c6d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371832_0728ea2fc1_o.png",
+      "id_image": "caravan_240615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371682_f2f48af9ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371682_599671ce55_o.png",
+      "id_image": "caravan_4170059"
+    }
+  ]
+}

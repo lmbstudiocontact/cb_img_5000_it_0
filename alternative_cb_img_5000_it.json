@@ -1,0 +1,95 @@
+{
+  "english": "alternative",
+  "phat_am": "oːlˈtəːnətiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể lựa chọn",
+          "definition": "offering a choice of a second possibility",
+          "world_new": [
+            "offering",
+            "choice",
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An alternative arrangement can be made if my plans don’t suit you.",
+              "world_new": [
+                "arrangement",
+                "my",
+                "suit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lựa chọn",
+          "definition": "a choice between two (or sometimes more) things or possibilities",
+          "world_new": [
+            "choice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You leave me no alternative but to dismiss you",
+              "world_new": [
+                "leave",
+                "dismiss"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t like fish. Is there an alternative on the menu?",
+              "world_new": [
+                "I",
+                "fish",
+                "menu"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each region in the mixing-length profile was then interpreted physically and alternative, physically based equations identified.",
+    "But then one would be deploying an alternative conclusion of justice; one would not challenge it in the name of one of the rival claims.",
+    "Search for alternatives can similarly be random or ordered.",
+    "Here, then, an alternative explanation of the equitable man is required.",
+    "The sample is then split in two alternative ways, first by the quality of government, and then by income level.",
+    "The behavioral result is that activation in this pathway is thought to facilitate top-down goal-oriented behavior and thereby simultaneously suppress alternative nongoal-oriented behaviors.",
+    "Over the past decade or so, there has been active development of alternative time-frequency representation schemes, independent of computer music research and largely theoretical.",
+    "There are at least three alternative explanations for our results other than evidence of a transmission cost to inducing symptoms."
+  ],
+  "list_see_also": [
+    "alternatively"
+  ],
+  "list_browse": [
+    "alternate",
+    "alternately",
+    "alternating",
+    "alternation",
+    "alternative",
+    "alternatively",
+    "although",
+    "altitude",
+    "alto"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669914_4bb6574083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669914_848179ee72_o.png",
+      "id_image": "alternative_1197407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315211_e9765154cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315211_42324fe2cc_o.png",
+      "id_image": "alternative_2104147"
+    }
+  ]
+}

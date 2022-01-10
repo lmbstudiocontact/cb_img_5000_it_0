@@ -1,0 +1,81 @@
+{
+  "english": "allergy",
+  "phat_am": "ˈӕlədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dị ứng",
+          "definition": "an unusual sensitiveness of the body which causes certain people to be affected in a bad way by something usually harmless",
+          "world_new": [
+            "unusual",
+            "sensitiveness",
+            "body",
+            "certain",
+            "people",
+            "affected",
+            "bad",
+            "harmless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rash on her face is caused by an allergy to grass.",
+              "world_new": [
+                "rash",
+                "face",
+                "grass"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors concluded that the atopic nature of the parents significantly affected the allergy incidence in their children.",
+    "By the same token, individuals with an extremely sensitive immune system may more easily fall prey to severe allergies or autoimmune diseases.",
+    "A psychiatric study of patients with supposed food allergy.",
+    "Leather dust can be carcinogenic and causes allergies, both of which represent a threat to the local population.",
+    "If a patient reported year-round allergies, they were classified as suffering from a chronic allergic condition.",
+    "Most of the proteins that have been engineered into crops have no chance of causing allergies.",
+    "However, the relationship between changes in rates of infection and allergy is complex and not fully understood.",
+    "Other maternal dietary factors such as fat and antioxidant intake may have changed over the years contributing to the raised prevalence of allergy."
+  ],
+  "list_see_also": [
+    "allergic"
+  ],
+  "list_browse": [
+    "allegedly",
+    "allegiance",
+    "allegory",
+    "allergic",
+    "allergy",
+    "alleviate",
+    "alleviation",
+    "alley",
+    "alliance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431133_c0d8b4224d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431133_fb6a195ac9_o.png",
+      "id_image": "allergy_5730229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360442_dac9822bd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360442_eb84ec17e0_o.png",
+      "id_image": "allergy_5730258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316156_e558f4a256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316156_b49783b036_o.png",
+      "id_image": "allergy_5730284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360387_35184c5275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360387_fa0b387d26_o.png",
+      "id_image": "allergy_5730297"
+    }
+  ]
+}

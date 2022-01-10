@@ -1,0 +1,62 @@
+{
+  "english": "cabbage",
+  "phat_am": "ˈkӕbidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cải bắp",
+          "definition": "a type of vegetable with edible (usually green) leaves",
+          "world_new": [
+            "type",
+            "vegetable",
+            "edible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Slice the cabbage finely.",
+              "world_new": [
+                "finely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "C",
+    "c/o",
+    "cab",
+    "cabaret",
+    "cabbage",
+    "cabin",
+    "cabinet",
+    "cable",
+    "cable car"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422348_d11cf16ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422348_30a5c721d6_o.png",
+      "id_image": "cabbage_1054150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044180_1ff2abc85e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044180_df51341ee3_o.png",
+      "id_image": "cabbage_2503801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307171_2979491d0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307171_3e86a39566_o.png",
+      "id_image": "cabbage_3768391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351232_97932b7f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351232_ab22c62682_o.png",
+      "id_image": "cabbage_3823343"
+    }
+  ]
+}

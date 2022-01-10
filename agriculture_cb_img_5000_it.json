@@ -1,0 +1,69 @@
+{
+  "english": "agriculture",
+  "phat_am": "ˈӕɡrikaltʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nông nghiệp",
+          "definition": "(the science of) the cultivation of land",
+          "world_new": [
+            "science",
+            "cultivation",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying agriculture at university.",
+              "world_new": [
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Somewhat surprisingly, experience in agriculture was negatively associated with adopting new agricultural practices (controlling for age).",
+    "Innovations in agriculture tend to promote deforestation, although in the case of land-augmenting technical change this result is ambiguous.",
+    "These factors include prices and production costs, crop yields, fish productivity and the suitability of land for agriculture or fish production.",
+    "Today their number is decreasing as a result of urban development and the modernization of agriculture.",
+    "Extroverted ministries with relatively low claims on the public budget but significantly concerned with international relations include foreign affairs, trade, industry, finance, energy and agriculture.",
+    "Prospects and problems pertaining to the management of arbuscular mycorrhizae in agriculture.",
+    "Most of the agriculture practiced here is short-term rice and manioc followed by 4- 7 y of fallow.",
+    "We assume that there are constant returns to scale in agriculture."
+  ],
+  "list_see_also": [
+    "agricultural"
+  ],
+  "list_browse": [
+    "agreeably",
+    "agreed",
+    "agreement",
+    "agricultural",
+    "agriculture",
+    "aground",
+    "ah",
+    "aha",
+    "ahead"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318046_6fe2a8bbce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318046_77651ca951_o.png",
+      "id_image": "agriculture_4525127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318021_edd085c26b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318021_55b13f1542_o.png",
+      "id_image": "agriculture_4525130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318001_ab00ef6432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318001_b479e43e0c_o.png",
+      "id_image": "agriculture_4525136"
+    }
+  ]
+}

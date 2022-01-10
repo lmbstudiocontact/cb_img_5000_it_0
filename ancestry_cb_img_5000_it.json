@@ -1,0 +1,55 @@
+{
+  "english": "ancestry",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dòng dõi",
+          "definition": "a line of ancestors coming down to one’s parents",
+          "world_new": [
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is of noble ancestry.",
+              "world_new": [
+                "noble"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It was a widespread idea that individuals, even whole groups, had intellectual and artistic qualities by virtue of their ancestry.",
+    "These pedigrees certainly served the purpose of legitimizing the power of the kings whose ancestry they claimed to trace.",
+    "The majority of patients were black (n=121, 51.9 %), followed by patients of mixed racial ancestry (n=101, 43.3 %).",
+    "The historical ancestry of such questions is, then, worth further study.",
+    "For one prize-winning essayist, this international audience was to serve as a reminder of a shared genetic ancestry and collective linguistic capacity.",
+    "Second, becoming nonmodern again necessarily implies a reworking of our genealogy and of our ancestry.",
+    "Such scientific data would be invaluable in tracing our own ancestry.",
+    "An example is the anatomy shared by reptiles and mammals, which is evidence of shared ancestry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "anatomist",
+    "anatomy",
+    "ancestor",
+    "ancestral",
+    "ancestry",
+    "anchor",
+    "anchorage",
+    "anchovy",
+    "ancient"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049670_3f8b8df03b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049670_64d6910c60_o.png",
+      "id_image": "ancestry_4192394"
+    }
+  ]
+}

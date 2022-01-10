@@ -1,0 +1,50 @@
+{
+  "english": "barefoot",
+  "phat_am": "ˈbeəˌfut",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chân trần",
+          "definition": "not wearing shoes or socks etc",
+          "world_new": [
+            "wearing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were playing barefoot on the beach.",
+              "world_new": [
+                "beach"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barber",
+    "bare",
+    "bareback",
+    "barefaced",
+    "barefoot",
+    "bareheaded",
+    "barely",
+    "bareness",
+    "bargain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670274_cd010120d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670274_6db12c40b4_o.png",
+      "id_image": "barefoot_3204109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430463_3431406619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430463_e75816d11b_o.png",
+      "id_image": "barefoot_805530"
+    }
+  ]
+}

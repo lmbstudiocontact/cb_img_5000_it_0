@@ -1,0 +1,171 @@
+{
+  "english": "channel",
+  "phat_am": "ˈtʃӕnl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rãnh",
+          "definition": "the bed of a stream or other way through which liquid can flow",
+          "world_new": [
+            "bed",
+            "stream",
+            "liquid",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sewage channel.",
+              "world_new": [
+                "sewage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luồng",
+          "definition": "a passage of deeper water in a river, through which ships can sail.",
+          "world_new": [
+            "passage",
+            "water",
+            "river",
+            "sail"
+          ]
+        },
+        {
+          "mean_english": "eo biển",
+          "definition": "a narrow stretch of water joining two seas",
+          "world_new": [
+            "narrow",
+            "stretch",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the English Channel.",
+              "world_new": [
+                "English"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kênh",
+          "definition": "a means of sending or receiving information etc",
+          "world_new": [
+            "means",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We got the information through the usual channels.",
+              "world_new": [
+                "information",
+                "usual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kênh",
+          "definition": "(in television, radio etc) a band of frequencies for sending or receiving signals",
+          "world_new": [
+            "television",
+            "radio",
+            "band"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "BBC Television now has several channels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đào rãnh",
+          "definition": "to make a channel in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water has channelled the earth creating small ravines.",
+              "world_new": [
+                "earth",
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng vào",
+          "definition": "to direct into a particular course",
+          "world_new": [
+            "direct",
+            "particular",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He channelled/channeled all his energies into the project.",
+              "world_new": [
+                "project"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The resulting biofilm structures included distinct, hollow clusters separated by channels.",
+    "Conductances and selective permeability of connexin43 gap junction channels examined in neonatal heart cells.",
+    "The ten independent 12-bit voltage output channels of this board were used as a source for the prescribed signal generation.",
+    "The intercellular, double-membrane-spanning structures will bwe referred to in this article as junctional channels.",
+    "The differing rates are most noticeable among the past tense forms of verbs, where for channeled, labeled, reveled, unraveled, the differences are 20% or more.",
+    "Except for the above major channels this whole area is characterized by secondary channels with smaller dimensions.",
+    "Ecological explanations cannot account for spongecarrying (non-sponging animals forage in the same channels) but are not irrelevant.",
+    "Is there an understanding of their structure-function analogous to that for other channels?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "change the subject",
+    "changeable",
+    "changeling",
+    "changing room",
+    "channel",
+    "chant",
+    "chaos",
+    "chaotic",
+    "chaotically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429058_71ecf13d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429058_bff66bfe50_o.png",
+      "id_image": "channel_1207578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314116_ddc5119297_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314116_739a763f05_o.png",
+      "id_image": "channel_4062101"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358307_7d991f8e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358307_fc6e2702d2_o.png",
+      "id_image": "channel_4577178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314036_3965b4e757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314036_ffe06cd301_o.png",
+      "id_image": "channel_5853646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050830_2716e78a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050830_9f5d9f0f6a_o.png",
+      "id_image": "channel_650975"
+    }
+  ]
+}

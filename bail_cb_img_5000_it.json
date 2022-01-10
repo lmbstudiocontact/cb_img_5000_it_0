@@ -1,0 +1,100 @@
+{
+  "english": "bail",
+  "phat_am": "beil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền bảo lãnh",
+          "definition": "a sum of money which is given to a court of law to get an untried prisoner out of prison until the time of his/her trial, and which acts as security for his/her return",
+          "world_new": [
+            "sum",
+            "money",
+            "court",
+            "law",
+            "prisoner",
+            "prison",
+            "time",
+            "trial",
+            "security",
+            "return"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The judge set the bail at $500",
+              "world_new": [
+                "judge"
+              ]
+            },
+            {
+              "ex_of_definition": "The defendant was refused bail.",
+              "world_new": [
+                "defendant"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "1 trong 2 thanh ngang nằm trên bộ cọc gôn",
+          "definition": "one of the cross-pieces laid on the top of the wicket in cricket",
+          "world_new": [
+            "top",
+            "wicket",
+            "cricket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wicket keeper knocked off the bails.",
+              "world_new": [
+                "wicket",
+                "keeper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In fact, it arrived some time ago, but so far our friends have bailed us out from time to time.",
+    "Perhaps droppings from badgers, deer or even farmed animals have been bailed up with the straw and ingested by cattle on the receiving farms.",
+    "They are unlikely to be used for people who could be bailed to their home address.",
+    "Where there are outstanding inquiries about documents, he should be bailed to attend court 14 days after release from the police station.",
+    "All it means is that if failures occur somebody else will be bailing out.",
+    "Five women were arrested as a result of the incident and have been bailed pending further inquiries.",
+    "I have been pressed on several occasions to give de-bails as to how these figures were arrived at.",
+    "The disproportion is even greater among those who have not been convicted and not sentenced—that is, those who have not been bailed."
+  ],
+  "list_see_also": [
+    "bail out"
+  ],
+  "list_browse": [
+    "baggy",
+    "bagpipes",
+    "bags of",
+    "baguette",
+    "bail",
+    "bail out",
+    "bait",
+    "baize",
+    "bake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674879_7618c1546a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674879_3c0ec99867_o.png",
+      "id_image": "bail_1750513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319881_3c63ba8990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319881_3e1033bdc6_o.png",
+      "id_image": "bail_6222604"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "acidity",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tính a-xít",
+          "definition": "the quality of containing acid or too much acid",
+          "world_new": [
+            "quality",
+            "acid",
+            "acid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the acidity of the soil.",
+              "world_new": [
+                "soil"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Higher rates of liming caused greater reductions in exchangeable acidity (p 5 0.05).",
+    "The catalysis of phosphodiester bond formation is ascribed to the orientation of adsorbed monomers and the acidity of the surface.",
+    "Amelioration of subsurface acidity by leaching of surface applied amendments.",
+    "Infective gastroenteritis and its relationship to reduced gastric acidity.",
+    "In his fourth paper (1930) he finds acidity fatal.",
+    "Solute gradients in oral biofilms also account for the local acidity that causes caries.",
+    "Liming reduces soil acidity and increases the availability of certain plant nutrients in the soil.",
+    "This is further compounded by soil acidity and associated aluminium toxicity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "achy",
+    "acid",
+    "acid rain",
+    "acidic",
+    "acidity",
+    "acknowledge",
+    "acknowledgement",
+    "acme",
+    "acne"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323561_45de8ab1d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323561_e1313fff2b_o.png",
+      "id_image": "acidity_3411534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368477_403a2c28fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368477_06eb1f2d35_o.png",
+      "id_image": "acidity_4172834"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "chutney",
+  "phat_am": "ˈtʃəːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tương chutney",
+          "definition": "a sauce made from fruit, vegetables and spices",
+          "world_new": [
+            "sauce",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tomato chutney",
+              "world_new": [
+                "tomato"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Momo is usually served with a dipping sauce (locally called \"chutney/achhar\"), normally made with tomato as the base ingredient.",
+    "Bafla and baati are always eaten with hot dal with pure ghee and chutney.",
+    "At home, \"moong dal khechidi\" and other khechidis are served with \"pampad\", pickle, curd, \"aaloo bharta\", or \"baigan bharta\", raita, dalma, and chutney.",
+    "We can ignore chutney and tomato sauce.",
+    "He produces mustard, marmalade and chutneys as well.",
+    "They are served hot and consumed with ketchup or chutney, such as mint, coriander or tamarind.",
+    "A combination of coriander and tamarind chutneys are often used as garnishments in addition to those mentioned above.",
+    "Her repertoire embraces party, soca, chutney soca, pan (steelband), feminist and patriotic songs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "churchgoer",
+    "churchyard",
+    "churn",
+    "chute",
+    "chutney",
+    "CIA",
+    "cicada",
+    "CID",
+    "cider"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307131_c2ab6e32a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307131_2a766979d3_o.png",
+      "id_image": "chutney_4647098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422243_c5b0594513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422243_5b89f8b299_o.png",
+      "id_image": "chutney_5956078"
+    }
+  ]
+}

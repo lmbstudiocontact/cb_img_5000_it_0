@@ -1,0 +1,159 @@
+{
+  "english": "cap",
+  "phat_am": "kӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũ lưỡi trai",
+          "definition": "a hat with a peak",
+          "world_new": [
+            "hat",
+            "peak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chauffeur’s cap."
+            }
+          ]
+        },
+        {
+          "mean_english": "mũ vải",
+          "definition": "a covering for the head, not with a peak",
+          "world_new": [
+            "covering",
+            "head",
+            "peak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swimming cap",
+              "world_new": [
+                "swimming"
+              ]
+            },
+            {
+              "ex_of_definition": "a nurse’s cap."
+            }
+          ]
+        },
+        {
+          "mean_english": "nắp",
+          "definition": "a cover or top (of a bottle, pen etc)",
+          "world_new": [
+            "cover",
+            "top",
+            "bottle",
+            "pen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please replace the cap after you’ve finished using the pen.",
+              "world_new": [
+                "replace",
+                "finished",
+                "pen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao bọc bởi",
+          "definition": "to cover the top of something with something",
+          "world_new": [
+            "cover",
+            "top"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mountains were capped with snow.",
+              "world_new": [
+                "snow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tốt hơn",
+          "definition": "to do something that is better, worse, more impressive etc than something which has been done before",
+          "world_new": [
+            "better",
+            "worse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He capped a fine performance by scoring the winning goal.",
+              "world_new": [
+                "fine",
+                "performance",
+                "winning",
+                "goal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoanh vùng",
+          "definition": "to limit the amount of money that can be used for something",
+          "world_new": [
+            "limit",
+            "amount",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The government has capped the amount of money which councils can spend on education.",
+              "world_new": [
+                "government",
+                "amount",
+                "money",
+                "spend",
+                "education"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "canvas",
+    "canvass",
+    "canvasser",
+    "canyon",
+    "cap",
+    "capability",
+    "capable",
+    "capably",
+    "capacious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329426_6433676aae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329426_f57b30386e_o.png",
+      "id_image": "cap_184104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329336_a471ffb094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329336_736681bfc3_o.png",
+      "id_image": "cap_2102013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444373_4cf1fe3e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444373_5cf4504d9f_o.png",
+      "id_image": "cap_484421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066135_8534bbc7f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066135_454c33f249_o.png",
+      "id_image": "cap_825944"
+    }
+  ]
+}

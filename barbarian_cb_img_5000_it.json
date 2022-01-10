@@ -1,0 +1,67 @@
+{
+  "english": "barbarian",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người man rợ",
+          "definition": "an uncultured and uncivilized person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rioting soccer fans were accused of behaving like barbarians.",
+              "world_new": [
+                "soccer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thô lỗ",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "barbarian customs.",
+              "world_new": [
+                "customs"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bar",
+    "bar chart",
+    "bar code",
+    "barb",
+    "barbarian",
+    "barbarous",
+    "barbarousness",
+    "barbecue",
+    "barbed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360287_f0e8f2e679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360287_42a36be6e7_o.png",
+      "id_image": "barbarian_2822366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360242_a297c7908f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360242_88d904660f_o.png",
+      "id_image": "barbarian_3426206"
+    }
+  ]
+}

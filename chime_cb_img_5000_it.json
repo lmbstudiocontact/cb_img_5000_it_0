@@ -1,0 +1,89 @@
+{
+  "english": "chime",
+  "phat_am": "tʃaim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuông chùm",
+          "definition": "(the ringing of) a set of tuned bells",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the chime of the clock.",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rung chuông",
+          "definition": "to (cause to) ring",
+          "world_new": [
+            "ring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The church bells chimed.",
+              "world_new": [
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm chuông",
+          "definition": "(of a clock) to indicate the time by chiming",
+          "world_new": [
+            "indicate",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The clock chimed 9 o’clock.",
+              "world_new": [
+                "clock",
+                "o’clock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Bells, gongs and spiral chimes could all be used, giving a distinct tone for each instrument.",
+    "I chimed in with a melody/chorus idea and voila, we had a song.",
+    "Twenty years later, it's exciting to realize there's a lot more to be relished in between all its chimes.",
+    "At the top of every hour, the chimes play a longer tune to signal the new hour.",
+    "I readily and freely admit that chimes can be an infernal nuisance, but it would be equally wrong to suggest that they cannot serve any useful purpose.",
+    "Good monumental clocks have carillons to sound out their chimes.",
+    "The clock has been stopped for repair purposes for four periods since 1994 and work on the quarter chimes has taken place on seven occasions.",
+    "The electoral virtue of rugged individualism, self-reliance, and respectability was that they were values which chimed with the established villa residents as well as with the lower-middle-class and artisan voters."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chill",
+    "chilli",
+    "chilliness",
+    "chilly",
+    "chime",
+    "chimney",
+    "chimpanzee",
+    "chin",
+    "china"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353387_3f2a02850c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353387_5a46292dd5_o.png",
+      "id_image": "chime_1913264"
+    }
+  ]
+}

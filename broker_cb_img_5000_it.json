@@ -1,0 +1,79 @@
+{
+  "english": "broker",
+  "phat_am": "ˈbrəukə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người môi giới",
+          "definition": "a person employed to buy and sell (especially shares etc) for others",
+          "world_new": [
+            "person",
+            "employed",
+            "buy",
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an insurance broker",
+              "world_new": [
+                "insurance"
+              ]
+            },
+            {
+              "ex_of_definition": "a stockbroker.",
+              "world_new": [
+                "stockbroker"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Despite their limited range of powers, councils have been successful advocates in brokering the disjointed services of other public sector bodies for the benefit of their areas.",
+    "The existence of brokers who bought large complexes of plots and sold them individually may alleviate the problem, but this would still contribute to considerable transaction costs.",
+    "By giving a personalised transaction an institutional stamp of approval, brokers dissolved the already illusory border between of®cial and unof®cial.",
+    "The draft law was only approved in 2004, but the threat of these legal changes may have changed dramatically the behavior of annuity brokers and providers.",
+    "Local power brokers may equally be able to hold the government to ransom.",
+    "Before them, and profiting from their work, were the foremen, the campsite chiefs, the permisionarios (national contractors), the international contractors, and the chewing gum brokers working for transnational companies.",
+    "All this means that the actual work of administration, particularly in the 'second' bureaucracy, became a battlefield for brokers.",
+    "To sustain these strikes, workers had to persuade and cajole, manipulate and coerce to their side, the sundry patrons and power brokers of the neighbourhood."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "broil",
+    "broke",
+    "broken",
+    "broken-hearted",
+    "broker",
+    "brolly",
+    "bronchial",
+    "bronchitic",
+    "bronchitis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359167_1cfa293d5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359167_37027ed06c_o.png",
+      "id_image": "broker_1809651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359117_3383a75c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359117_7603ff7835_o.png",
+      "id_image": "broker_1909922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359102_f94583b489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359102_a46d1d5dd5_o.png",
+      "id_image": "broker_3953519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314986_40d9c9219e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314986_b9b894a23d_o.png",
+      "id_image": "broker_6417455"
+    }
+  ]
+}

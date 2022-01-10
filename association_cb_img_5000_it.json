@@ -1,0 +1,95 @@
+{
+  "english": "association",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội",
+          "definition": "a club, society etc",
+          "world_new": [
+            "club",
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Association of British Travel Agents (ABTA).",
+              "world_new": [
+                "British"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hợp tác",
+          "definition": "a friendship or partnership",
+          "world_new": [
+            "friendship",
+            "partnership"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A close association developed between the two poets.",
+              "world_new": [
+                "close"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự liên tưởng",
+          "definition": "a connection in the mind",
+          "world_new": [
+            "connection",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house had associations with her dead husband.",
+              "world_new": [
+                "house",
+                "dead",
+                "husband"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such studies provide information as to associations between the species on a community level.",
+    "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+    "This makes it difficult to implement the idea that associations apply to increasingly complex representations.",
+    "Longitudinal covariances help to establish that the reverse association is unlikely.",
+    "Supervised learning of pattern associations via localist representations was (re)shown to be self-organizing, stable, and plastic.",
+    "They both joined religious associations that re-created and reinforced the intimacy of an imagined but bygone village community.",
+    "Such symbolic associations are 'ideological' through and through, though this latter word is problematic.",
+    "A quarter are involved in a civic group (most commonly a residents' association, political party or voluntary organisation)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "assist",
+    "assistance",
+    "assistant",
+    "associate",
+    "association",
+    "assorted",
+    "assortment",
+    "assume",
+    "assumed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302846_fd6414b49c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302846_fdb9de9da8_o.png",
+      "id_image": "association_1622586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302826_cd62f495cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302826_1c4b0058a5_o.png",
+      "id_image": "association_2517375"
+    }
+  ]
+}

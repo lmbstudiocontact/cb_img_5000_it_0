@@ -1,0 +1,137 @@
+{
+  "english": "cash",
+  "phat_am": "kӕʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền mặt",
+          "definition": "coins or paper money, not cheques/checks, credit cards etc",
+          "world_new": [
+            "paper",
+            "money",
+            "credit",
+            "cards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you wish to pay cash?",
+              "world_new": [
+                "wish",
+                "pay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thanh toán bằng tiền mặt",
+          "definition": "payment by money or cheque/check as opposed to payment by account",
+          "world_new": [
+            "payment",
+            "money",
+            "payment",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cash or account, madam?",
+              "world_new": [
+                "account",
+                "madam"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiền",
+          "definition": "money in any form",
+          "world_new": [
+            "money",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has plenty of cash."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổi séc sang tiền mặt",
+          "definition": "to turn into, or exchange for, money",
+          "world_new": [
+            "turn",
+            "exchange",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You may cash a traveller’s cheque/traveler’s check here",
+              "world_new": [
+                "check"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you cash a cheque/check for me?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Will there be the same counterfoil system as at present, or will payments be made by cheque, which must be cashed?",
+    "Only three of the banks currently allow their cheques to be cashed in that way.",
+    "They cashed in on and exploited the unpopularity of the trade unions at that time, and they have been doing so ever since.",
+    "One can go to the bank or the publican or the grocer to get one's cheque cashed, but all those parties want a commission.",
+    "In fact, the customer who asks for his cheque to be cashed will probably not want to come back again.",
+    "They were the people who had done the advertising, but somebody else had cashed in on their advertising.",
+    "I refer, first, to the time limit under which a benefit can be extinguished if the order is not cashed within a certain time.",
+    "I thought they had cashed that cheque at the last election."
+  ],
+  "list_see_also": [
+    "cashier",
+    "cash-and-carry",
+    "cashback",
+    "cash card",
+    "cash desk",
+    "cash flow",
+    "cash machine",
+    "cash register",
+    "cash in",
+    "cash in on"
+  ],
+  "list_browse": [
+    "carving",
+    "cascade",
+    "case",
+    "case study",
+    "cash",
+    "cash card",
+    "cash desk",
+    "cash flow",
+    "cash in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437508_b676e4c0c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437508_349f3b7b83_o.png",
+      "id_image": "cash_3898031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322221_1908ea980b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322221_0151294146_o.png",
+      "id_image": "cash_3937098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058985_9f482411e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058985_ff8ce2dff3_o.png",
+      "id_image": "cash_4564940"
+    }
+  ]
+}

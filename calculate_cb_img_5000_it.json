@@ -1,0 +1,76 @@
+{
+  "english": "calculate",
+  "phat_am": "ˈkӕlkjuleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tính toán",
+          "definition": "to count or estimate, using numbers",
+          "world_new": [
+            "count",
+            "estimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Calculate the number of days in a century.",
+              "world_new": [
+                "number",
+                "century"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After determining the parameters describing the susceptibility to lodging, their correlation with the physical properties of varieties was straightforward to calculate.",
+    "Efforts to calculate the level of price support for rice required the government to elicit cost of production data from the agricultural associations.",
+    "From the data on number of flowers visited and the number of open flowers we calculated the number of visits per flower per hour.",
+    "Reliability between reviewers (regarding the decision to include or exclude an article) was calculated using kappa statistics.",
+    "This effect is analysed for the two-sphere problem, and the sphere trajectories calculated.",
+    "Figure 2 shows the population of the excited levels calculated without the radiation trapping.",
+    "The egg output per worm pair was then calculated.",
+    "Since the palms were planted in equilateral triangles, canopy closure could be calculated from the planting density and approximate crown radius."
+  ],
+  "list_see_also": [
+    "calculable",
+    "calculation",
+    "calculator"
+  ],
+  "list_browse": [
+    "calamity",
+    "calcite",
+    "calcium",
+    "calculable",
+    "calculate",
+    "calculation",
+    "calculator",
+    "calendar",
+    "calf"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421398_2994a2f2d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421398_a4baf2069c_o.png",
+      "id_image": "calculate_2503374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661619_49df44ce9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661619_6ca4243a1b_o.png",
+      "id_image": "calculate_2542463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421328_d0c6a63719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421328_d0ec01278e_o.png",
+      "id_image": "calculate_4306935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306156_e06c2ef689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306156_16d59aef06_o.png",
+      "id_image": "calculate_6388895"
+    }
+  ]
+}

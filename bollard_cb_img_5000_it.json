@@ -1,0 +1,71 @@
+{
+  "english": "bollard",
+  "phat_am": "ˈbəlaːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cọc ngăn xe cộ",
+          "definition": "a post for controlling traffic",
+          "world_new": [
+            "traffic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pedestrian shopping area has been closed off with bollards.",
+              "world_new": [
+                "pedestrian",
+                "shopping",
+                "area"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cọc buộc tàu thuyền",
+          "definition": "a short post on a wharf or ship round which ropes are fastened.",
+          "world_new": [
+            "short",
+            "wharf",
+            "ship"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vehicular access to the area is limited by rising bollards.",
+    "Surely that depends upon the width of the bollards?",
+    "A recent variation of limiting traffic is the managed closure by using retractable bollards which are activated by designated card holders only.",
+    "Security bollards outside the entrance stopped the car from entering the terminal, although the doors were damaged.",
+    "They have an incentive to drive quickly and to take short cuts, often going round the wrong side of bollards or islands in the centre of the road.",
+    "Bollards are put in place in order to slow down the traffic which must pass between.",
+    "People are met there by bollards and lane restrictions and the ultimate insult of a toll charge.",
+    "Commercial properties in areas prone to ram-raids often erect strong barriers or obstructions, such as bollards, to discourage such attacks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "boldly",
+    "boldness",
+    "bole",
+    "bolero",
+    "bollard",
+    "bolster",
+    "bolt",
+    "bolt(-)upright",
+    "bomb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062440_a79d281ff1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062440_f5052fff0a_o.png",
+      "id_image": "bollard_5763247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680769_cba8090664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680769_eda18d5554_o.png",
+      "id_image": "bollard_648717"
+    }
+  ]
+}

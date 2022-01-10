@@ -1,0 +1,106 @@
+{
+  "english": "article",
+  "phat_am": "ˈaːtikl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật",
+          "definition": "a thing or an object",
+          "world_new": [
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This shop sells articles of all kinds",
+              "world_new": [
+                "shop"
+              ]
+            },
+            {
+              "ex_of_definition": "Articles of clothing were scattered all over the room.",
+              "world_new": [
+                "clothing",
+                "scattered",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài báo",
+          "definition": "a piece of writing in a newspaper or magazine",
+          "world_new": [
+            "piece",
+            "newspaper",
+            "magazine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has written an article on the new sports arena for a local magazine.",
+              "world_new": [
+                "sports",
+                "arena",
+                "local",
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mạo từ",
+          "definition": "the (the definite article) or a/an (the indefinite article).",
+          "world_new": [
+            "definite",
+            "indefinite"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 2006, we were able to publish 71 articles plus editorial material and corrections.",
+    "Note, however, that articles are commonly reduced in contractions of prepositions and articles.",
+    "Each of the five thematic sections is subdivided into between three and seven single-authored articles.",
+    "He has written several journal articles on choral and music education, and his book on choral conducting is due to be published in 2003.",
+    "The elaborate, if formalised, rhetoric of official speeches is not comparable to a series of popularised archaeological accounts or newspaper articles.",
+    "However, despite the lack of a tangible reflex, the articles do fall into thematic units.",
+    "I generally don't read newspaper articles from low-class papers. 37.",
+    "The articles differ not only in where they look but how."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "arthritic",
+    "arthritis",
+    "arthropod",
+    "artichoke",
+    "article",
+    "articulate",
+    "articulated",
+    "articulately",
+    "articulation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304541_1c82f8c233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304541_a3e7a3e39f_o.png",
+      "id_image": "articles_337118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348772_e46f729995_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348772_2db6620fd5_o.png",
+      "id_image": "article_1907423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419558_565640fe67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419558_e6371686a4_o.png",
+      "id_image": "article_1907436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041410_7f7ecfb70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041410_f3b8faf133_o.png",
+      "id_image": "article_1907447"
+    }
+  ]
+}

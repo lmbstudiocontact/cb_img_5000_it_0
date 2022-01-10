@@ -1,0 +1,117 @@
+{
+  "english": "barge",
+  "phat_am": "baːdʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sà lan",
+          "definition": "a flat-bottomed boat for carrying goods etc",
+          "world_new": [
+            "boat",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coal barge.",
+              "world_new": [
+                "coal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đâm sầm vào",
+          "definition": "to move (about) clumsily",
+          "world_new": [
+            "move",
+            "clumsily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Henry drunkenly barged about the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xô phải",
+          "definition": "to bump (into)",
+          "world_new": [
+            "bump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He barged into me."
+            }
+          ]
+        },
+        {
+          "mean_english": "xâm nhập",
+          "definition": "(with in(to)) to push one’s way (into) rudely",
+          "world_new": [
+            "push",
+            "rudely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She barged in without knocking."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rivers, canals and railways, all blocked with broken bridges, barges and so on, have been cleared to get communications going.",
+    "We have not as many barges as we should want, nor have we as many bargees.",
+    "Their canals are excellently constructed, and they can carry heavy barges.",
+    "I suppose that it was the falling off of the horse-drawn coal barges in the 1930s which marked the end of the active period.",
+    "They provide accommodation for steamers and facilities for unloading barges and the like.",
+    "Every one agreed that barges would in fact be provided, but the port authorities said they could not accept a statutory obligation to provide them.",
+    "The bargemen and the women employed on the barges work for low wages.",
+    "The cost of the forty-three barges was about £250,000."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "barely",
+    "bareness",
+    "bargain",
+    "bargain for",
+    "barge",
+    "baritone",
+    "bark",
+    "barley",
+    "barley sugar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430368_6c7001f7b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430368_68cd93b4ee_o.png",
+      "id_image": "barge_2289513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430343_a840ed615c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430343_4553a2e1b3_o.png",
+      "id_image": "barge_3117897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430303_08b6659b18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430303_5fe352fa73_o.png",
+      "id_image": "barge_4736175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051890_d8c1d2b30c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051890_6ea6c3e97a_o.png",
+      "id_image": "barge_4984858"
+    }
+  ]
+}

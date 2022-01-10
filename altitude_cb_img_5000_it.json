@@ -1,0 +1,61 @@
+{
+  "english": "altitude",
+  "phat_am": "ˈӕltitjuːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ cao so với mặt nước biển",
+          "definition": "height above sea-level",
+          "world_new": [
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Pilots use a special instrument that measures altitude.",
+              "world_new": [
+                "special",
+                "instrument"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yet the book is uneven : sometimes the authors cover topics at an altitude of 30,000 feet, while others are examined at a much lower altitude.",
+    "It recognises the specific qualities of the sun in high latitudes; from low, dissectional qualities in midwinter to high altitudes of longevity in summer.",
+    "The vertical behaviours that run on the vehicle include maintain minimal depth, maintain minimum altitude, maintain depth and maintain altitude.",
+    "In general, low prevalences of dirofilariasis were found in areas with high altitude or high wind speed.",
+    "The azimuth and the altitude of a star are the horizontal coordinates which determine the star's position with regard to a terrestrial place.",
+    "These differences would appear to favour transmission and may be interpreted as strategies associated with adaptation to high altitude conditions.",
+    "Furthermore, location is described both by physical properties (such as longitude, latitude, altitude) and other properties, such as temperature, noise level, and lighting.",
+    "A dummy variable for high altitude separates the study region into two major climate zones."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "alternation",
+    "alternative",
+    "alternatively",
+    "although",
+    "altitude",
+    "alto",
+    "altogether",
+    "altruism",
+    "altruistic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430083_3336782e4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430083_b4bf00ca6f_o.png",
+      "id_image": "altitude_4469521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051700_888191a2d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051700_78d8338a86_o.png",
+      "id_image": "altitude_5235834"
+    }
+  ]
+}

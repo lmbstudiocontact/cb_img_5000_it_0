@@ -1,0 +1,162 @@
+{
+  "english": "circle",
+  "phat_am": "ˈsəːkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình tròn",
+          "definition": "a figure (O) bounded by one line, every point on which is equally distant from the centre/center",
+          "world_new": [
+            "figure",
+            "line",
+            "point",
+            "equally",
+            "distant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How do you work out the circumference of a circle?",
+              "world_new": [
+                "work",
+                "circumference"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng tròn",
+          "definition": "something in the form of a circle",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was surrounded by a circle of admirers."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm người",
+          "definition": "a group of people",
+          "world_new": [
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a circle of close friends",
+              "world_new": [
+                "close"
+              ]
+            },
+            {
+              "ex_of_definition": "wealthy circles.",
+              "world_new": [
+                "wealthy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ban công",
+          "definition": "a balcony in a theatre/theater etc",
+          "world_new": [
+            "balcony"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sat in the circle at the opera.",
+              "world_new": [
+                "opera"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bao quanh",
+          "definition": "to move in a circle round something",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chickens circled round the farmer who was bringing their food.",
+              "world_new": [
+                "farmer",
+                "their",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoanh tròn",
+          "definition": "to draw a circle round",
+          "world_new": [
+            "draw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please circle the word you think is wrong.",
+              "world_new": [
+                "think",
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The number inside the circles are related to the artificial constraints and to the terminators.",
+    "To address the problem, we approximate obstacles by circles.",
+    "The numbers below the open circles are the magnitude of the increase in cone density relative to 64 dpc.",
+    "Nevertheless, the reports cited above were widely distributed in official circles.",
+    "Filled circles refer to 2nd harmonic values and filled triangles to 4th harmonic data.",
+    "Filled circles and bars represent dendritic-field means and standard errors.",
+    "Open squares show per formance on the detection task; filled circles show per formance on the orientation identification task.",
+    "Many other martyrs in these texts are elite or in an advanced place in social and political circles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cinemagoer",
+    "cinnamon",
+    "cipher",
+    "circa",
+    "circle",
+    "circuit",
+    "circuit training",
+    "circuitous",
+    "circular"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043590_67c2627d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043590_864b04c512_o.png",
+      "id_image": "circles_238367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043555_50594e4d75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043555_419e3cffbe_o.png",
+      "id_image": "circles_2844977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421753_5b8508650e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421753_44597e308a_o.png",
+      "id_image": "circle_217216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350722_df983a4ca7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350722_1b7bf93ecf_o.png",
+      "id_image": "circle_3873888"
+    }
+  ]
+}

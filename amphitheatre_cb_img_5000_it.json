@@ -1,0 +1,52 @@
+{
+  "english": "amphitheatre",
+  "phat_am": "ˈamfiθiətə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân khấu",
+          "definition": "an oval or circular building with rows of seats surrounding a central space, used as a theatre/theater or arena",
+          "world_new": [
+            "oval",
+            "circular",
+            "building",
+            "surrounding",
+            "central",
+            "space",
+            "arena"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ancient Roman amphitheatre/amphitheater.",
+              "world_new": [
+                "ancient",
+                "Roman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ampere",
+    "amphetamine",
+    "amphibian",
+    "amphibious",
+    "amphitheatre",
+    "ample",
+    "amplification",
+    "amplifier",
+    "amplify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428838_3366cf7ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428838_348a0935ea_o.png",
+      "id_image": "amphitheatre_659117"
+    }
+  ]
+}

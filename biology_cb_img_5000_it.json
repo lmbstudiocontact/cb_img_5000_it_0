@@ -1,0 +1,77 @@
+{
+  "english": "biology",
+  "phat_am": "baiˈolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh vật học",
+          "definition": "the science of living things",
+          "world_new": [
+            "science",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "human biology",
+              "world_new": [
+                "human"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a biology lesson.",
+              "world_new": [
+                "lesson"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How did the students learn what 'essay' meant in that biology class?",
+    "Indeed, much of the recent work in evolutionary biology has been about conflicts of interest between individuals and how those conflicts are resolved.",
+    "This is surprising in view of the traditional indifference to evolution from medical and molecular biology.",
+    "At this moment, it still seems unclear whether synthetic biology will lead to new insights into the basic cell regulating mechanism.",
+    "It seems that there is something different in ecology from the stuff that seemed 'factual' in the basic biology stuff.",
+    "I very much enjoyed reading this book and would recommend it to anyone interested in the chemistry and biology of inositol phosphates.",
+    "Handbook of the biology of aging, sixth edition.",
+    "The biology of these parasites may explain these behavioural differences."
+  ],
+  "list_see_also": [
+    "biological",
+    "biologically",
+    "biologist",
+    "biological warfare"
+  ],
+  "list_browse": [
+    "biological",
+    "biological warfare",
+    "biologically",
+    "biologist",
+    "biology",
+    "biomass",
+    "bionic",
+    "bionics",
+    "biopic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659759_46dcdcaeed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659759_c45aa012fa_o.png",
+      "id_image": "biology_1373931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041245_3ce1d64732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041245_82d1ffe902_o.png",
+      "id_image": "biology_4833022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659704_1dd1280ded_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659704_caa03f200d_o.png",
+      "id_image": "biology_4861799"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "approve",
+  "phat_am": "əˈpruːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tán thành",
+          "definition": "(often with of) to be pleased with or think well of (a person, thing etc)",
+          "world_new": [
+            "pleased",
+            "think",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I approve of your decision.",
+              "world_new": [
+                "I",
+                "your",
+                "decision"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng ý",
+          "definition": "to agree to (something)",
+          "world_new": [
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The committee approved the plan.",
+              "world_new": [
+                "committee",
+                "plan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Only drugs approved before 1998 were included in the analysis because sale statistics only were available to year 2000.",
+    "After a series of meetings, the central council of the association approved and subsequently distributed clarifications in response to the communist campaign.",
+    "They would need to complete and approved training course and have an annotation next to their name on the relevant professional register.",
+    "The study was approved by the local ethics committee.",
+    "Participation was voluntary and had been approved by the school committee.",
+    "Once the set up was approved, the patient was imaged weekly and audited by the clinicians at a weekly meeting.",
+    "The law gave district councils the power to pass by-laws, provided that the minister for local government and cooperatives approved them.",
+    "A separate edict concurrently issued to him showed that the colonisation of the aboriginal territories had been approved as government policy."
+  ],
+  "list_see_also": [
+    "approval",
+    "approving",
+    "approvingly",
+    "on approval"
+  ],
+  "list_browse": [
+    "appropriate",
+    "appropriately",
+    "appropriateness",
+    "approval",
+    "approve",
+    "approving",
+    "approvingly",
+    "approx",
+    "approximate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351587_a19db1c606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351587_7e8881afa5_o.png",
+      "id_image": "approve_4462857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662734_40b0034679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662734_5a6334f729_o.png",
+      "id_image": "approve_4462913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044405_020c95c224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044405_ac817f11d2_o.png",
+      "id_image": "approve_5492638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307391_cd8bf72b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307391_69a4fc1b59_o.png",
+      "id_image": "approve_6383812"
+    }
+  ]
+}

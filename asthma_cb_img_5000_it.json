@@ -1,0 +1,76 @@
+{
+  "english": "asthma",
+  "phat_am": "ˈӕsmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh hen",
+          "definition": "an illness which causes difficulty in breathing out, resulting from an allergy etc",
+          "world_new": [
+            "illness",
+            "difficulty",
+            "allergy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from asthma."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In view of this, perhaps a broader approach is needed in which nurses provide a flexible service for asthma management.",
+    "The risk factors we found to be associated with pneumonia were asthma, bronchitis, other lung problems and chronic illness.",
+    "People with asthma admitted to hospital should be treated in specialist units wherever possible.",
+    "We did little about mounting and compelling evidence that socioeconomic factors were among the most important predisposing factors for asthma, diabetes, and lung cancer.",
+    "Traditionally, asthma clinics have an educational role, which is highlighted in the training courses attended by the majority of asthma nurses.",
+    "Some people are affected by repeated severe asthma attacks that can be lifethreatening.",
+    "Also, the measure of asthma treatment is limited to self-report of having received treatment.",
+    "It is important to note that asthma is highly heterogeneous, and that the asthmatic inflammatory response does not always correspond closely to classical allergy."
+  ],
+  "list_see_also": [
+    "asthmatic"
+  ],
+  "list_browse": [
+    "assure",
+    "assured",
+    "asterisk",
+    "asteroid",
+    "asthma",
+    "asthmatic",
+    "astonish",
+    "astonishing",
+    "astonishingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417698_fec8f7295a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417698_620e8c33b9_o.png",
+      "id_image": "asthma_2328306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417678_48988d803f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417678_79ba65af76_o.png",
+      "id_image": "asthma_2332551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417633_f47dcb54b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417633_e7ed4f048a_o.png",
+      "id_image": "asthma_2621397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417603_73e4629c5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417603_3091f6a90d_o.png",
+      "id_image": "asthma_2712156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809657769_3dd5bec2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809657769_e1feb62fe5_o.png",
+      "id_image": "asthma_3782061"
+    }
+  ]
+}

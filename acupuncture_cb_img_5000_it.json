@@ -1,0 +1,80 @@
+{
+  "english": "acupuncture",
+  "phat_am": "ˈӕkjupaŋktʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "châm cứu",
+          "definition": "a method of treating illness etc by sticking needles into the patient’s skin at certain points",
+          "world_new": [
+            "method",
+            "illness",
+            "skin",
+            "certain",
+            "points"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The patient underwent a course of acupuncture.",
+              "world_new": [
+                "patient",
+                "course"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This treatment included electrotherapy, manual therapy, advice, acupuncture, and other treatments (10).",
+    "Similarly, it is doubtful that acupuncture is particularly valuable.",
+    "I use chiropractic and massage for my back pain and acupuncture for my hand tremor.",
+    "Therapies offered are homeopathy, acupuncture and herbal, environmental and nutritional medicine.",
+    "To investigate the effectiveness of acupuncture compared with sham acupuncture and with no acupuncture in patients with migraine.",
+    "On the other hand, many other interventions, including hypnosis, acupuncture, and drug therapy (other than nicotine replacement), have not been shown to be effective (16).",
+    "All the systematic reviews on the subject of acupuncture as a treatment for pain come to (more or less) the conclusion drawn above.",
+    "The sensitivity and precision results for the search of the specialized databases and trial registries for the acupuncture project were 14.2% and 17.6%, respectively."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "actual",
+    "actuality",
+    "actually",
+    "acumen",
+    "acupuncture",
+    "acute",
+    "acute angle",
+    "acutely",
+    "acuteness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058730_445200599d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058730_35f613e291_o.png",
+      "id_image": "acupuncture_1683142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437118_d59d0d064f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437118_2834733f1f_o.png",
+      "id_image": "acupuncture_1768305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366837_80292b738e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366837_0d01337f27_o.png",
+      "id_image": "acupuncture_1768370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366782_9bf493a0ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366782_e763064093_o.png",
+      "id_image": "acupuncture_1902938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366767_caa2fba8ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366767_db86acfcb9_o.png",
+      "id_image": "acupuncture_2233590"
+    }
+  ]
+}

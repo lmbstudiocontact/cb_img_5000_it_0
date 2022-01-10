@@ -1,0 +1,74 @@
+{
+  "english": "berry",
+  "phat_am": "ˈberi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quả beri",
+          "definition": "a kind of small (often juicy) fruit",
+          "world_new": [
+            "kind",
+            "small",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blackberry",
+              "world_new": [
+                "blackberry"
+              ]
+            },
+            {
+              "ex_of_definition": "ripe strawberries",
+              "world_new": [
+                "ripe"
+              ]
+            },
+            {
+              "ex_of_definition": "Those berries are poisonous.",
+              "world_new": [
+                "poisonous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, women who went out for berries were also more likely to receive berries as gifts (.04).",
+    "Seeds form 1.5% of the berry weight (measured by the authors).",
+    "The fruit is a green, leathery berry, with numerous seeds.",
+    "Seeds form 16% of the berry weight (measured by the authors).",
+    "He could not find fish, berries or seals and did not know what to do with himself.",
+    "The first objective was to determine a dose of faecal extracts that effectively reduced the degree of infestation in coffee berries.",
+    "This outbreak highlights the need for food safety programmes in the berry fruit industry.",
+    "Seeds were carefully washed from each of 40 berries and were air dried; the plump, well-filled seeds were separated, counted and weighed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bereaved",
+    "bereavement",
+    "bereft",
+    "beret",
+    "berry",
+    "berth",
+    "beseech",
+    "beset",
+    "beside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422383_cf1b6c26a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422383_8c7cb23424_o.png",
+      "id_image": "berry_1135741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351322_a746a72175_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351322_6aa544bbfe_o.png",
+      "id_image": "berry_6240324"
+    }
+  ]
+}

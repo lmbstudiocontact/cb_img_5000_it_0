@@ -1,0 +1,70 @@
+{
+  "english": "biochemistry",
+  "phat_am": "baiəˈkemistri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoa hoá sinh",
+          "definition": "the chemistry of living things",
+          "world_new": [
+            "chemistry",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying the biochemistry of the blood",
+              "world_new": [
+                "blood"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a biochemistry lecture.",
+              "world_new": [
+                "lecture"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Currently, we are further studying these mice in terms of histology, protein biochemistry and electrophysiological properties of the central nervous system.",
+    "However, the prodigious strides in research on phototransduction biochemistry, photoreceptor physiology, molecular biology, and quantitative modeling now bring this exciting goal within sight.",
+    "By 1960 or so, the only possible evidential gap was in regard to whether psychology relates to biology and biochemistry in this way.",
+    "In short, metabolism necessarily involves a nice equilibrium between anabolism and catabolism, requiring a complex biochemistry to effect these vital functions.",
+    "Molecular biology and biochemistry are the highest biology and the lowest chemistry, respectively.",
+    "Finally, we have speculated on the time span that was relevant for biochemistry to perform its most adventurous experiment : the proto-cell.",
+    "Again the detection rate using a combination of both methods was superior to biochemistry and ultrasonography when used alone.",
+    "The application of single-molecule detection techniques to biology and biochemistry has led to a revolution in this field."
+  ],
+  "list_see_also": [
+    "biochemical",
+    "biochemist"
+  ],
+  "list_browse": [
+    "bingo",
+    "binoculars",
+    "biochemical",
+    "biochemist",
+    "biochemistry",
+    "biodegradable",
+    "biodiversity",
+    "biofuel",
+    "biographer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348852_b317a7085d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348852_50d6168b4c_o.png",
+      "id_image": "biochemistry_4061195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304676_000fff57aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304676_5377b6ebaa_o.png",
+      "id_image": "biochemistry_4507090"
+    }
+  ]
+}

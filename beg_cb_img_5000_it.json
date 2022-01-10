@@ -1,0 +1,85 @@
+{
+  "english": "beg",
+  "phat_am": "beɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn xin",
+          "definition": "to ask (someone) for (money, food etc)",
+          "world_new": [
+            "ask",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old man was so poor that he had to beg in the street",
+              "world_new": [
+                "old",
+                "poor",
+                "street"
+              ]
+            },
+            {
+              "ex_of_definition": "He begged (me) for money.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "van nài",
+          "definition": "to ask (someone) desperately or earnestly",
+          "world_new": [
+            "ask",
+            "desperately",
+            "earnestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I beg you not to do it.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In stating the corollary we begged the question of which classes are realized.",
+    "But this begs the question of why this culture subscribes to this particular moral rationality.",
+    "My suggestions that another interpretation might be considered, in which the despairing woman was begging to be treated with respect, never met with agreement.",
+    "But, if so, it begs the question of why maturation times were nonetheless altered.",
+    "It has been suggested to me,\" \" however, that this criterion begs the question against proponents of backward causation.",
+    "This begs the question : the adapters claim that minimal frustration means maximal happiness.",
+    "The relationship between begging, homelessness and drug use has provoked particular controversy in recent years.",
+    "The author beg ins by stating that language planning is never politically neutral, that it always serves particular ideological ends."
+  ],
+  "list_see_also": [
+    "beggar",
+    "beggar description",
+    "beg to differ"
+  ],
+  "list_browse": [
+    "before (very) long",
+    "before/under one’s very eyes",
+    "beforehand",
+    "befriend",
+    "beg",
+    "beg someone’s pardon",
+    "beg to differ",
+    "beggar",
+    "beggar description"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664044_45501c90ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664044_c6c9efd88b_o.png",
+      "id_image": "beg_4812235"
+    }
+  ]
+}

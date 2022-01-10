@@ -1,0 +1,80 @@
+{
+  "english": "advantage",
+  "phat_am": "ədˈvaːntidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thuận lợi",
+          "definition": "(a) gain or benefit",
+          "world_new": [
+            "gain",
+            "benefit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several advantages in being self-employed.",
+              "world_new": [
+                "self-employed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lợi thế",
+          "definition": "in tennis, the first point gained after deuce.",
+          "world_new": [
+            "tennis",
+            "point"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, controversy still exists about both the advantages and the limitations of both medical and surgical therapy of rheumatic fever and rheumatic heart disease.",
+    "Examples include predator avoidance, hydrodynamic advantages or searching for food [22, 24].",
+    "However, this relationship between levels does not necessarily hold throughout language processing; there may be cases in which feedback could indeed confer advantages.",
+    "The restriction of calculating the desired parameters only in a coarser grid entails several advantages.",
+    "Bridging gaps involves taking advantages of similarities and accounting independently for differences.",
+    "One of the advantages of computer programs is that they assist physicians in routine but information dense medical situations.",
+    "As the world becomes increasingly more bilingual, it is imperative that the cognitive advantages of bilingualism be brought to the forefront of investigation.",
+    "Despite some advantages in using key informants it also had its problems."
+  ],
+  "list_see_also": [
+    "advantageous",
+    "advantageously",
+    "have an/the advantage (over)",
+    "take advantage of",
+    "turn/use something to your advantage"
+  ],
+  "list_browse": [
+    "adulthood",
+    "advance",
+    "advanced",
+    "advancement",
+    "advantage",
+    "advantageous",
+    "advantageously",
+    "advent",
+    "adventure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056690_b3b012e7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056690_b601faa579_o.png",
+      "id_image": "advance_3775997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675024_16de3b7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675024_ba3ce2b68c_o.png",
+      "id_image": "advantage_1622582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364762_86cf567855_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364762_e3e2cae3ef_o.png",
+      "id_image": "advantage_5999981"
+    }
+  ]
+}

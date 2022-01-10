@@ -1,0 +1,67 @@
+{
+  "english": "bomber",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy bay ném bom",
+          "definition": "an aeroplane/airplane built for bombing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Lancaster bombers flew missions at night.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người phụ trách cắt bom",
+          "definition": "a person who bombs",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "terrorist bombers.",
+              "world_new": [
+                "terrorist"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our general line will, therefore, be to improve these two bombers by stretching out their performance in the next few years.",
+    "If there is a case, if we are to have dive bombers, how are we to get them?",
+    "If so, it is important that it should be made quite clear, because of the discouraging effect on men engaged in manufacturing dive-bombers.",
+    "The other is the existing bombers, whatever nuclear rôle they have, and, as we have said, these also should and must be internationalised.",
+    "We are giving up much in order that we may have these jet medium bombers.",
+    "Then there is the advent of jet bombers and fighters.",
+    "As the speed of bombers constantly increases, however, so it becomes increasingly vital to get greater range for the early warning system.",
+    "Was it a speech calculated to encourage the personnel of the bombers who fight these great battles?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bolt(-)upright",
+    "bomb",
+    "bombard",
+    "bombardment",
+    "bomber",
+    "bombshell",
+    "bon voyage",
+    "bonanza",
+    "bond"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061890_fc3d587736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061890_e798ac0152_o.png",
+      "id_image": "bomber_4611905"
+    }
+  ]
+}

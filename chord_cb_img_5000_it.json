@@ -1,0 +1,58 @@
+{
+  "english": "chord",
+  "phat_am": "koːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hợp âm",
+          "definition": "in music, a number of notes played together",
+          "world_new": [
+            "music",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s the fingering position for the D minor chord?",
+              "world_new": [
+                "position",
+                "D",
+                "minor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The very uniqueness of the chords within the score precludes an explanation placed within the musical narrative.",
+    "Since flow source edges are chords and their values are known, they appear in the graph as bold dashed lines.",
+    "Note also that distinct spheres project to distinct chords.",
+    "The songs are notated with simple piano accompaniments, guitar chords are indicated and suggested actions are listed appropriately.",
+    "Thus, instead of searching for chords, we created a tool to produce harmonic complexity.",
+    "Each of these twelve chords, differently inverted, appears in four different tables.",
+    "The special quality of these chords is not so much that they offer a variety of meanings between which it is difficult to choose.",
+    "As the final chords rang round the auditorium, the entire school rose in rapturous applause; the tour had started well."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "choppiness",
+    "choppy",
+    "chopsticks",
+    "choral",
+    "chord",
+    "chore",
+    "choreographer",
+    "choreography",
+    "chorister"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044585_86637065ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044585_60c96e0042_o.png",
+      "id_image": "chord_3355143"
+    }
+  ]
+}

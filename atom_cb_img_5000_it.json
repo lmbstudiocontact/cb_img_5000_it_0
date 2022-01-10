@@ -1,0 +1,74 @@
+{
+  "english": "atom",
+  "phat_am": "ˈӕtəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên tử",
+          "definition": "the smallest part of an element.",
+          "world_new": [
+            "part",
+            "element"
+          ]
+        },
+        {
+          "mean_english": "vật nhỏ",
+          "definition": "anything very small",
+          "world_new": [
+            "small"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s not an atom of truth in what she says.",
+              "world_new": [
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For definite programs, the consensus amongst these authors is that the minimum model is the meaning (the set of true atoms).",
+    "A simulated experiment with an atom trap was planned with five sections, and then let run to generate the composition.",
+    "First, generalisation induces precision loss, even to the extent that the generalised atom has a different characteristic tree.",
+    "Excited atoms and electrons are taken as the variables of the system.",
+    "Here they knock out electrons from inner electronic shells of the atoms, producing core holes.",
+    "Ionization of atoms in an alternating electric field.",
+    "To achieve this, we have endowed aggregate atoms with data structures similar to those used in rules.",
+    "Unlike traditional partial deduction, which considers only atoms for partial deduction, conjunctive partial deduction attempts to specialize entire conjunctions of atoms."
+  ],
+  "list_see_also": [
+    "atomic",
+    "atomicity",
+    "atom bomb",
+    "atomic energy",
+    "atomic power"
+  ],
+  "list_browse": [
+    "ATM",
+    "atmosphere",
+    "atmospheric",
+    "atmospheric pressure",
+    "atom",
+    "atom bomb",
+    "atomic",
+    "atomic energy",
+    "atomic power"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036690_bbf8e90c75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036690_505a38d293_o.png",
+      "id_image": "atom_1682111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810036685_58c7f2960f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810036685_1d70e5c242_o.png",
+      "id_image": "atom_4455456"
+    }
+  ]
+}

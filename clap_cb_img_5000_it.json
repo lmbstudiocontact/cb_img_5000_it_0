@@ -1,0 +1,147 @@
+{
+  "english": "clap",
+  "phat_am": "klӕp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vỗ tay",
+          "definition": "to strike the palms of the hands together eg to show approval, to mark a rhythm, or to gain attention etc",
+          "world_new": [
+            "strike",
+            "approval",
+            "mark",
+            "rhythm",
+            "gain",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the singer appeared, the audience started to clap loudly",
+              "world_new": [
+                "singer",
+                "audience",
+                "loudly"
+              ]
+            },
+            {
+              "ex_of_definition": "They clapped the speech enthusiastically",
+              "world_new": [
+                "speech",
+                "enthusiastically"
+              ]
+            },
+            {
+              "ex_of_definition": "Clap your hands in time to the music.",
+              "world_new": [
+                "your",
+                "time",
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vỗ",
+          "definition": "to strike (someone) with the palm of the hand, often in a friendly way",
+          "world_new": [
+            "strike",
+            "palm",
+            "hand",
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frank clapped him on the back and congratulated him."
+            }
+          ]
+        },
+        {
+          "mean_english": "tống ai vào tù nhanh chóng",
+          "definition": "to put suddenly (into prison, chains etc)",
+          "world_new": [
+            "suddenly",
+            "prison"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They clapped him in jail.",
+              "world_new": [
+                "jail"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sét",
+          "definition": "a sudden noise (of thunder)",
+          "world_new": [
+            "sudden",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She heard a clap of thunder.",
+              "world_new": [
+                "thunder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự vỗ tay",
+          "definition": "an act of clapping",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gave the performer a clap",
+              "world_new": [
+                "performer"
+              ]
+            },
+            {
+              "ex_of_definition": "He gave me a clap on the back."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several of his distinguished colleagues seemed to think that the end had come and were about to clap politely.",
+    "Repeated clapping motion in which target is trapped between the palms.",
+    "Jarred awake by a sudden clap of thunder, she found herself pregnant, and soon after, bore a supernatural child.",
+    "This is true, for example, with sound textures such as rain, clapping or crowd babble.",
+    "If we clap our hands or talk we soon 'decode' the basic parameters of the space.",
+    "In addition to these 'rhythmic spirituals', hard-driving rhythms were also found in a style of gospel singing and clapping known as 'rocking and reeling'.",
+    "One level higher is the ability simultaneously to sing the rhythm and to realise the pulse by clapping or walking.",
+    "They'll clap their hands as if they knew what they were applauding."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "clandestine",
+    "clang",
+    "clanger",
+    "clank",
+    "clap",
+    "clarification",
+    "clarify",
+    "clarinet",
+    "clarinettist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809305346_6232c6c0af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809305346_0c8f883b8c_o.png",
+      "id_image": "clap_3158967"
+    }
+  ]
+}

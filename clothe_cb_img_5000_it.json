@@ -1,0 +1,104 @@
+{
+  "english": "clothe",
+  "phat_am": "kləuð",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mặc quần áo cho",
+          "definition": "to provide with clothes",
+          "world_new": [
+            "provide",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The widow did not have enough money to clothe her children.",
+              "world_new": [
+                "widow",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc quần áo",
+          "definition": "to put clothes on",
+          "world_new": [
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was clothed in silk",
+              "world_new": [
+                "silk"
+              ]
+            },
+            {
+              "ex_of_definition": "She clothed herself in the most expensive materials.",
+              "world_new": [
+                "expensive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The traders in both stories clothe their commercial and, in some cases, political activities in an imperial garb to which they have no legitimate claim.",
+    "Though clothed in post-structuralist language, the address takes up a familiar theme : the problem of national identity.",
+    "Blushing at the practical limitations of naked postmodernism, these thinkers want to redress the movement, clothing it in all-weather, action-ready cosmopolitanism.",
+    "One who sells clothes no longer in fashion in comparatively good condition.",
+    "Others are almost wholly parental decisions, such as how to feed, clothe, and discipline them.",
+    "The simplification of clothing itself made clothing more affordable.",
+    "Domestic goods, cloth and clothing appeared in about 40 per cent of theft indictments (clothing alone in at least a quarter).",
+    "These features may be more complex for older service users bathed by people who are clothed and young."
+  ],
+  "list_see_also": [
+    "clothes",
+    "clothes hanger",
+    "clothes line",
+    "clothes peg",
+    "clothing"
+  ],
+  "list_browse": [
+    "closeted",
+    "closure",
+    "clot",
+    "cloth",
+    "clothe",
+    "clothes",
+    "clothes hanger",
+    "clothes line",
+    "clothes moth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374262_8a97b042fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374262_3fb9c3c4ee_o.png",
+      "id_image": "clothes_1864104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374212_dccb01ba25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374212_5924c12818_o.png",
+      "id_image": "clothes_1943869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444503_f7fd38648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444503_31f7642b4e_o.png",
+      "id_image": "clothes_5765486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066280_4793f12af5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066280_fe50452ce5_o.png",
+      "id_image": "clothes_5822324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684429_14b15fd137_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684429_98d4d740af_o.png",
+      "id_image": "clothes_5853911"
+    }
+  ]
+}

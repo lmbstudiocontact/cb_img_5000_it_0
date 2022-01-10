@@ -1,0 +1,70 @@
+{
+  "english": "bionic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hoặc sử dụng kỹ thuật sinh học",
+          "definition": "of or using bionics",
+          "world_new": [
+            "bionics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bionic engineering.",
+              "world_new": [
+                "engineering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When he was introduced, he experienced symptoms suggesting bionic rejection and was due to be dissected.",
+    "The most important project in these laboratories is a bionic hand for people to have an upper limb amputee.",
+    "Many devices have been developed, usually modeled on the cochlear implant or bionic ear devices, a type of neural prosthesis in use since the mid-1980s.",
+    "A recent area of research is in the field of bionic lenses.",
+    "The bionic arm is used to climb up to higher platforms, swing across chasms, and pick up some items.",
+    "She also had a bionic ear which allowed her to hear at low volumes, at different frequencies than most humans, and over uncommonly long distances.",
+    "Had she been a regular, non-bionic field agent, her mental issues would have disqualified her from being an agent.",
+    "We have the capability to make the world's first bionic man."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biologically",
+    "biologist",
+    "biology",
+    "biomass",
+    "bionic",
+    "bionics",
+    "biopic",
+    "biopsy",
+    "biosphere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041100_b651f56f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041100_59f462d2fb_o.png",
+      "id_image": "bionic_2050307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808348407_d183feb2ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808348407_1f59ac3aba_o.png",
+      "id_image": "bionic_2050343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659484_11db44aa35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659484_0a1f1a44cd_o.png",
+      "id_image": "bionic_2050364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810041050_861032acd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810041050_f805a606aa_o.png",
+      "id_image": "bionic_3830457"
+    }
+  ]
+}

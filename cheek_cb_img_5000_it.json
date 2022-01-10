@@ -1,0 +1,79 @@
+{
+  "english": "cheek",
+  "phat_am": "tʃiːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "má",
+          "definition": "the side of the face below the eye",
+          "world_new": [
+            "side",
+            "face",
+            "eye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "pink cheeks",
+              "world_new": [
+                "pink"
+              ]
+            },
+            {
+              "ex_of_definition": "Tears were rolling down her cheeks.",
+              "world_new": [
+                "rolling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hỗn xược",
+          "definition": "impudence or disrespectful behaviour/behavior",
+          "world_new": [
+            "impudence",
+            "disrespectful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had the cheek to refuse me entrance.",
+              "world_new": [
+                "refuse",
+                "entrance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cheeky",
+    "cheekiness",
+    "cheekbone"
+  ],
+  "list_browse": [
+    "checkmate",
+    "checkout",
+    "checkpoint",
+    "cheddar",
+    "cheek",
+    "cheekbone",
+    "cheekiness",
+    "cheeky",
+    "cheep"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426928_585fcd8f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426928_aa3d27cea3_o.png",
+      "id_image": "cheek_1364822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312056_8daf360e0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312056_0f56639516_o.png",
+      "id_image": "cheek_5737330"
+    }
+  ]
+}

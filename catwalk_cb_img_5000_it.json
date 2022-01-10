@@ -1,0 +1,75 @@
+{
+  "english": "catwalk",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sàn diễn thời trang",
+          "definition": "a long stage that models walk along at a fashion show",
+          "world_new": [
+            "long",
+            "stage",
+            "walk",
+            "fashion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) She’s a catwalk model.",
+              "world_new": [
+                "model"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lối đi hẹp",
+          "definition": "a narrow structure for people to walk on, built high up on the inside or outside of a building.",
+          "world_new": [
+            "narrow",
+            "structure",
+            "people",
+            "walk",
+            "outside",
+            "building"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The catwalks were shaped as a ramp at the very beginning but was transformed into a flat runway eventually.",
+    "To reach the tank, they had to walk along a catwalk below decks in the boiler room.",
+    "Additionally, a brand new theatre with a rising orchestra pit and catwalk were built.",
+    "The catwalks are part of the dome's support structure.",
+    "Although the shelling was inaccurate and only caused about $500 damage to a catwalk, panic was immediate.",
+    "She is also widely credited with training the first professional fashion models (called \"mannequins\") as well as staging the first runway or catwalk style shows.",
+    "Symmetrical facades, open-air balconies and catwalks organized around a central open courtyard.",
+    "Earlier, we heard that even catwalk models have a cigarette in their hand—to show glamour."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "catsuit",
+    "cattail",
+    "cattle",
+    "catty",
+    "catwalk",
+    "Caucasian",
+    "cauldron",
+    "cauliflower",
+    "cause"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363682_487acce7eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363682_6e193b5bc4_o.png",
+      "id_image": "catwalk_4647097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055645_ed1a2faa3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055645_0c6a03a489_o.png",
+      "id_image": "catwalk_4647150"
+    }
+  ]
+}

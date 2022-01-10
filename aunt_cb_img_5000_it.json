@@ -1,0 +1,73 @@
+{
+  "english": "aunt",
+  "phat_am": "aːnt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cô",
+          "definition": "the sister of one’s father or mother, or the wife of one’s uncle",
+          "world_new": [
+            "sister",
+            "father",
+            "mother",
+            "wife",
+            "uncle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My Aunt Anne died last week",
+              "world_new": [
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "The child went to the circus with her aunt.",
+              "world_new": [
+                "child",
+                "circus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The aunt reciprocates her niece's call for complicity.",
+    "She projects, from the start, an alternative lesson, and at the end she pronounces her pride in being like her aunt.",
+    "The neighbors of ' aunt ' are ' uncle ', 'relative ' and ' relation'.",
+    "Some aunts who were notable characters also played similarly powerful roles in their families.",
+    "Furthermore, other kin (parents, aunts and uncles, siblings, cousins, grandchildren, and nieces and nephews) of diverse ages are frequently cited as significant network members.",
+    "By contrast, there were a few aunts and grandmothers who played, usually temporarily, key caring roles, but to whom the child never became closely attached.",
+    "Shortly after being hired, he constructed a thatched house of his own down the street from an aunt.",
+    "Certainly it was easiest when the grandmother or aunt lived in the same house, but there were also striking instances when they lived close by."
+  ],
+  "list_see_also": [
+    "auntie"
+  ],
+  "list_browse": [
+    "augment",
+    "augmentation",
+    "augur",
+    "august",
+    "aunt",
+    "auntie",
+    "aura",
+    "aural",
+    "auricle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441568_4ab5c0901c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441568_4ea3cfbffd_o.png",
+      "id_image": "aunt_4842228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063495_06e9bc9a08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063495_90a9990804_o.png",
+      "id_image": "aunt_859953"
+    }
+  ]
+}

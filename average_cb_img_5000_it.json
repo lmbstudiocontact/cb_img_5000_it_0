@@ -1,0 +1,139 @@
+{
+  "english": "average",
+  "phat_am": "ˈӕvəridʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trung bình",
+          "definition": "the result of adding several amounts together and dividing the total by the number of amounts",
+          "world_new": [
+            "result",
+            "total",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The average of 3, 7, 9 and 13 is 8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trung bình",
+          "definition": "obtained by finding the average of amounts etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The average price is 40 euros",
+              "world_new": [
+                "price"
+              ]
+            },
+            {
+              "ex_of_definition": "the average temperature for the week.",
+              "world_new": [
+                "temperature",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo chuẩn mực thông thường",
+          "definition": "ordinary; not exceptional",
+          "world_new": [
+            "exceptional"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The average person cannot afford to buy such an expensive car",
+              "world_new": [
+                "person",
+                "afford",
+                "buy",
+                "expensive",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "His work is average.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tính trung bình",
+          "definition": "to form an average",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His expenses averaged (out at) 15 dollars a day.",
+              "world_new": [
+                "expenses",
+                "day"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The poor are also likely to suffer larger damages than country averages because the poor do not have access to capital.",
+    "Ratings were averaged to create a measure of the overall impression each study member made.",
+    "The percentage of competent response generation score (averaged across stories) was computed.",
+    "The three items that assessed illicit drug use were averaged and used here as a measure of association with deviant peers.",
+    "Factor scores were computed based on unit weighting of item averages.",
+    "We ignore the interest rate, as data availability is limited and village averages appear to be stable.",
+    "Because all measure demonstrated moderate stability over time (mean r range 1⁄4 .43-.75), averages were computed across time points to create a composite measure.",
+    "Scores were created by averaging children's responses over the five items."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Ave",
+    "avenge",
+    "avenger",
+    "avenue",
+    "average",
+    "averse",
+    "aversion",
+    "avert",
+    "aviary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679579_de9d8fb89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679579_6e6b511a80_o.png",
+      "id_image": "average_5184373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679539_3b2e58a2d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679539_f7221626d5_o.png",
+      "id_image": "average_5360536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061255_7f90b901c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061255_09d6e338b5_o.png",
+      "id_image": "average_5398192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369152_22ba368979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369152_ed57ffeee6_o.png",
+      "id_image": "average_5680050"
+    }
+  ]
+}

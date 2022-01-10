@@ -1,0 +1,76 @@
+{
+  "english": "buy",
+  "phat_am": "bai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mua",
+          "definition": "to get (something) by exchanging it for money",
+          "world_new": [
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has bought a car",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "Where did you buy that tie?",
+              "world_new": [
+                "tie"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the expenditure side, the government buys goods, provides subsidies and investment grants, pays interest on government bonds, and makes transfer payments.",
+    "Some books may have been bought for display alone.",
+    "Every midday there was a long queue of people waiting to buy the excellent value, homemade food.",
+    "The article illustrates that it is more costly for a safe candidate to buy extra votes than a marginal candidate.",
+    "As was mentioned earlier, newcomers who buy supplemental insurance must bear a waiting period, which is expected to discourage moves.",
+    "People who though not well-educated are practical and enterprising and may well have exercised their right to buy.",
+    "It is expressly designed for photocopying, however, so there is no need to buy pupil sets.",
+    "The retailers, so they argued, were impeding the government's deflationary policy and were indirectly attacking the buying power of wage-earners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "button",
+    "buttonhole",
+    "buttress",
+    "buxom",
+    "buy",
+    "buzz",
+    "buzzard",
+    "buzzer",
+    "buzzword"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422698_4938956842_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422698_126b1dcf7a_o.png",
+      "id_image": "buy_3254752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307536_0c107a5547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307536_1d73c7ab76_o.png",
+      "id_image": "buy_6002155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662774_b91c20ca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662774_a392192a93_o.png",
+      "id_image": "buy_6192230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351597_1a2e33c59c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351597_b98e325eef_o.png",
+      "id_image": "buy_6342968"
+    }
+  ]
+}

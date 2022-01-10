@@ -1,0 +1,78 @@
+{
+  "english": "checkmate",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiếu tướng",
+          "definition": "in chess, a position from which the king cannot escape",
+          "world_new": [
+            "chess",
+            "position",
+            "king",
+            "escape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made her move and declared ‘checkmate’.",
+              "world_new": [
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt vào vị trí",
+          "definition": "to put (an opponent’s king) in this position",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Within just a few moves he had checkmated his opponent’s king.",
+              "world_new": [
+                "king"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Due to the multi-player nature of the game, there is no checkmate and kings can be captured.",
+    "Checkmate can be forced without strictly using either of the methods.",
+    "Rg7 and checkmate on g8 next move, else loss of rook since the bishop covers f3.: 9.",
+    "There are no rules for check or checkmate; however, in practice a player resigns when checkmated.",
+    "He has been led on as though he was playing a game of chess to a checkmate.",
+    "A bare king can never give check, however, and can therefore never deliver a checkmate.",
+    "In some descriptions of the game, the winner is the first player to checkmate twice, or to checkmate a player who has already checkmated another.",
+    "Four dabbabas (each covering a different quarter of the chessboard) and a king can easily force checkmate on a bare king."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "check-up",
+    "checkbook",
+    "checked",
+    "checkers",
+    "checkmate",
+    "checkout",
+    "checkpoint",
+    "cheddar",
+    "cheek"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048915_fd20422153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048915_2d96024e62_o.png",
+      "id_image": "checkmate_3915648"
+    }
+  ]
+}

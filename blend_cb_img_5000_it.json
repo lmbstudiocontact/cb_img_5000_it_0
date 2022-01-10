@@ -1,0 +1,91 @@
+{
+  "english": "blend",
+  "phat_am": "blend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trộn lẫn",
+          "definition": "to mix together",
+          "world_new": [
+            "mix"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Blend the eggs and milk together",
+              "world_new": [
+                "milk"
+              ]
+            },
+            {
+              "ex_of_definition": "These two colours/colors blend well."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hỗn hợp",
+          "definition": "a mixture",
+          "world_new": [
+            "mixture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wine is made from a blend of two different varieties of grape.",
+              "world_new": [
+                "wine",
+                "grape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this way, he blends frames of work and play.",
+    "A larger m produces blending surfaces that cling more closely to the primitive objects.",
+    "Accordingly, state and religious power were symbolically rather than effectively blended.",
+    "The average of the two blends was no dierent in seed oil concentration than the average of the component genotypes.",
+    "On the other hand, these afterlives also remain open to being blended with lived experience in the act of writing and reading.",
+    "In (7), pi55-ping35 and pi55-pan51 both mean 'to criticize'; the second characters of the two words blended into pan35.",
+    "Another such collocation, blending ax yet with ax of now (ax of this moment, etc.), is ax of yet.",
+    "I fell into a sort of reverie in which the past, present, and future seemed indistinctly blended."
+  ],
+  "list_see_also": [
+    "blender"
+  ],
+  "list_browse": [
+    "bleed",
+    "bleeding",
+    "bleep",
+    "blemish",
+    "blend",
+    "blender",
+    "bless",
+    "blessed",
+    "blessedly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346897_101319dfc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346897_95c97d4a09_o.png",
+      "id_image": "blend_1027109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417753_fc08e49196_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417753_11966b5662_o.png",
+      "id_image": "blend_3690171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039275_be75a9d088_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039275_d7cf20288e_o.png",
+      "id_image": "blend_5386888"
+    }
+  ]
+}

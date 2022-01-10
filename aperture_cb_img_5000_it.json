@@ -1,0 +1,87 @@
+{
+  "english": "aperture",
+  "phat_am": "ˈӕpətjuə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ hổng",
+          "definition": "an opening or hole",
+          "world_new": [
+            "opening",
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cut a narrow aperture in a piece of card.",
+              "world_new": [
+                "narrow",
+                "piece",
+                "card"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗ ống kính",
+          "definition": "(the size of) the opening (eg in a camera) through which light passes",
+          "world_new": [
+            "size",
+            "opening",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Open the camera aperture fully to get good focus.",
+              "world_new": [
+                "camera",
+                "fully",
+                "focus"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using stomatal aperture-related traits to select for high yield potential in bread wheat.",
+    "The black square is the 4r4 mm2 aperture through which the spectrum was acquired.",
+    "We allowed fish to swim through either of two apertures.",
+    "Likewise, an enlarged aperture will raise the first formant and feature greater energy losses which disperse the acoustic resonant energy over a greater frequency range.",
+    "In one experiment, swimming through one aperture produced a mirror image and swimming through the other produced food.",
+    "Aperture 1 was set after the filter to select the most uniform part of the beam.",
+    "Computer-controlled motors help in individually moving the cameras, changing the focus, zoom, aperture, or tilting the stereo pair.",
+    "Each of the 1024 photodiode array elements had a sensitive detector aperture of 25 pm x 26 pm."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apathetically",
+    "apathy",
+    "ape",
+    "aperitif",
+    "aperture",
+    "apex",
+    "aphid",
+    "aphrodisiac",
+    "apiary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046200_8eda132bda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046200_f3d16ecbce_o.png",
+      "id_image": "aperture_1083130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664499_351e577d56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664499_645a8e4b26_o.png",
+      "id_image": "aperture_5982565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353487_770ccdb2cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353487_f60aee2b4d_o.png",
+      "id_image": "aperture_964000"
+    }
+  ]
+}

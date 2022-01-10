@@ -1,0 +1,89 @@
+{
+  "english": "bruise",
+  "phat_am": "bruːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết thâm tím",
+          "definition": "an injury caused by a blow to a person or a fruit, turning the skin a dark colour/color",
+          "world_new": [
+            "injury",
+            "blow",
+            "person",
+            "fruit",
+            "skin",
+            "dark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has bruises all over his legs"
+            },
+            {
+              "ex_of_definition": "The apples were covered in bruises."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm thâm tím",
+          "definition": "to cause or develop such a mark on the skin",
+          "world_new": [
+            "cause",
+            "develop",
+            "mark",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bruised her forehead",
+              "world_new": [
+                "forehead"
+              ]
+            },
+            {
+              "ex_of_definition": "He bruises easily.",
+              "world_new": [
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because they will be handled heavily in the process of packaging, transporting and displaying, only varieties resistant to bruising can be marketed this way.",
+    "Not all illegal residents suffer mere cuts, bruises, or other maladies that can be patched up and the patient sent merrily on his or her way.",
+    "The bruises and lumps were still fresh and unhealed on his face.",
+    "Injuries included cuts, sprains, bruises and one case of fracture.",
+    "However, a slight bruising of my little toe was caused by page 53.",
+    "If it were possible to form these broken, bruised and sick men into a procession in ranks four deep, it would stretch 40½ miles.",
+    "There were bodies with bruises which could have been caused by handling after death.",
+    "Additionally, she has a heel sore and bruises very easily."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "browned off",
+    "brownie",
+    "browse",
+    "browser",
+    "bruise",
+    "brunch",
+    "brunette",
+    "brunt",
+    "brush"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314046_ae9130a71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314046_d86157bf03_o.png",
+      "id_image": "bruise_3387208"
+    }
+  ]
+}

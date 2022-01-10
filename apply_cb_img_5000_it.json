@@ -1,0 +1,129 @@
+{
+  "english": "apply",
+  "phat_am": "əˈplai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt cái gì vào cái gì",
+          "definition": "(with to) to put (something) on or against something else",
+          "world_new": [
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She applied ointment to the cut.",
+              "world_new": [
+                "applied",
+                "ointment",
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "áp dụng",
+          "definition": "(with to) to use (something) for some purpose",
+          "world_new": [
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He applied his wits to planning their escape.",
+              "world_new": [
+                "applied",
+                "planning",
+                "their",
+                "escape"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thỉnh cầu/ yêu cầu",
+          "definition": "(with for) to ask for (something) formally",
+          "world_new": [
+            "ask",
+            "formally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You could apply (to the manager) for a job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có ảnh hưởng",
+          "definition": "(with to) to concern",
+          "world_new": [
+            "concern"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This rule applies to all students.",
+              "world_new": [
+                "rule"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có hiệu lực",
+          "definition": "to be in force",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rule doesn’t apply at weekends.",
+              "world_new": [
+                "rule"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The assumption for y is that which would have been used if year xx1 data still applied.",
+    "Individuals possessing personal pensions have to bear the investment risk, because the contracted-out condition cannot be applied to a money purchase scheme.",
+    "Although this review deals exclusively with marine systems, this generalization also applies to fresh waters.",
+    "Now, applying sep to each subtree gives the relative (to its children) position of every parent.",
+    "In particular, there was an incentive to early retirement as no actuarial penalty applied to early retirees.",
+    "Logistic regression was then applied to obtain maximumlikelihood estimates of the effect of exposures on the outcome of interest whilst controlling for confounding.",
+    "Image of the glass shell made by applying a pinhole chamber.",
+    "In this section, we illustrate how the approach of concern-based engineering of environments is applied to an automated transportation system for warehouse logistics."
+  ],
+  "list_see_also": [
+    "appliance",
+    "applicable",
+    "applicability",
+    "applicant",
+    "application",
+    "applied",
+    "apply oneself/one’s mind"
+  ],
+  "list_browse": [
+    "applicable",
+    "applicant",
+    "application",
+    "applied",
+    "apply",
+    "apply oneself/one’s mind",
+    "appoint",
+    "appointed",
+    "appointment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045065_fb282b5342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045065_9c385ac245_o.png",
+      "id_image": "apply_5221109"
+    }
+  ]
+}

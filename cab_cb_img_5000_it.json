@@ -1,0 +1,89 @@
+{
+  "english": "cab",
+  "phat_am": "kӕb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe tắc xi",
+          "definition": "a taxi",
+          "world_new": [
+            "taxi"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you call a cab for me?",
+              "world_new": [
+                "call"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cabin",
+          "definition": "the driver’s compartment of a railway/railroad engine, lorry/truck etc",
+          "world_new": [
+            "compartment",
+            "engine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "On long-distance journeys the truck drivers sleep in their cabs.",
+              "world_new": [
+                "long-distance",
+                "truck",
+                "sleep",
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Taxi-cabs are not on the streets for the benefit of their owners but for the benefit of the public.",
+    "It does, however, come equipped with a cab so that it can be driven by the farmers themselves.",
+    "Let nobody think that their insistence on selling their own cabs is inexpensive.",
+    "Approval so far has been given for two designs of two-seated taxi-cabs.",
+    "Also, the operator may retake control of the machine at any time during the automated digging process by manipulating the bucket joy sticks in the operator's cab.",
+    "Certain of the latter were licensed to drive either horsed cabs or motor cabs.",
+    "In the meantime directions have been given that prisoners shall be conveyed by cab.",
+    "They tried to eke out a living by engaging in home industries, setting up small workshops and grocery stores, working as street peddlers, or becoming cab drivers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bystander",
+    "byte",
+    "C",
+    "c/o",
+    "cab",
+    "cabaret",
+    "cabbage",
+    "cabin",
+    "cabinet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307316_6e163fa016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307316_d67e3f3d0e_o.png",
+      "id_image": "cab_168259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351372_4e96c7e5a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351372_45c488ff52_o.png",
+      "id_image": "cab_2358703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351342_c8c01266cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351342_3315fd1623_o.png",
+      "id_image": "cab_2358711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044205_1232459f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044205_b6ed26017a_o.png",
+      "id_image": "cab_4391518"
+    }
+  ]
+}

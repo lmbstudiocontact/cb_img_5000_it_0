@@ -1,0 +1,74 @@
+{
+  "english": "backgammon",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cờ thỏ cáo",
+          "definition": "a game for two players in which they throw dice and move flat circular pieces around a board marked with long thin triangles",
+          "world_new": [
+            "game",
+            "throw",
+            "dice",
+            "move",
+            "flat",
+            "circular",
+            "board",
+            "marked",
+            "long",
+            "thin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two old men were playing backgammon.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He played various other games for money, especially canasta, poker and backgammon, and wrote books on them.",
+    "Play65 has more than 5,000,000 registered players, making it one of the biggest backgammon communities online.",
+    "It was the first viable computer backgammon program implemented as a neural net, and set a new standard in computer backgammon play.",
+    "You can play cards, checkers, backgammon, chess.",
+    "You may see young men playing soccer or throwing a football while the old men play backgammon in the shade.",
+    "What really brings them is that they have found a place to gather and drink tea and coffee and to play backgammon.",
+    "At this point we move from the rarified atmosphere of the historical background of backgammon and crown and anchor to the more mundane subject of the \"one-armed bandit\".",
+    "Adults and older people may play the traditional game of backgammon."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "backbreaking",
+    "backdate",
+    "backer",
+    "backfire",
+    "backgammon",
+    "background",
+    "backhand",
+    "backlog",
+    "backpack"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322436_18cc3d25e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322436_04cc6b56aa_o.png",
+      "id_image": "backgammon_2094383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322406_3f35e5c41d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322406_7de69c3357_o.png",
+      "id_image": "backgammon_2241312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677604_49c43b6d41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677604_5f44feb78d_o.png",
+      "id_image": "backgammon_683899"
+    }
+  ]
+}

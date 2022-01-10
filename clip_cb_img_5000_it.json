@@ -1,0 +1,205 @@
+{
+  "english": "clip",
+  "phat_am": "klip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt xén",
+          "definition": "to cut (foliage, an animal’s hair etc) with scissors or shears",
+          "world_new": [
+            "cut",
+            "hair",
+            "scissors",
+            "shears"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shepherd clipped the sheep",
+              "world_new": [
+                "shepherd",
+                "sheep"
+              ]
+            },
+            {
+              "ex_of_definition": "The hedge was clipped.",
+              "world_new": [
+                "hedge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh",
+          "definition": "to strike sharply",
+          "world_new": [
+            "strike",
+            "sharply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She clipped him over the ear.",
+              "world_new": [
+                "ear"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xén, hớt lông cừu",
+          "definition": "an act of clipping",
+          "world_new": [
+            "act",
+            "clipping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It took just a few clips of the scissors to tidy his hair.",
+              "world_new": [
+                "scissors",
+                "tidy",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú nện mạnh",
+          "definition": "a sharp blow",
+          "world_new": [
+            "sharp",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clip on the ear.",
+              "world_new": [
+                "ear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn phim",
+          "definition": "a short piece of film",
+          "world_new": [
+            "short",
+            "piece",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a video clip.",
+              "world_new": [
+                "video"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắn chặt",
+          "definition": "to fasten with a clip",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you got something I can clip these papers together with?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nghim; cái kẹp",
+          "definition": "something for holding things together or in position",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a paper clip",
+              "world_new": [
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "a hair clip",
+              "world_new": [
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "bicycle clips (= round pieces of metal etc for holding the bottom of trouser legs close to the leg).",
+              "world_new": [
+                "bicycle",
+                "metal",
+                "bottom",
+                "close"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "clipper",
+    "clipping"
+  ],
+  "list_browse": [
+    "clingfilm",
+    "clinic",
+    "clinical",
+    "clink",
+    "clip",
+    "clip art",
+    "clipboard",
+    "clipper",
+    "clipping"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068230_16c933c1a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068230_87334f76e8_o.png",
+      "id_image": "clip_2003509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068170_492f020a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068170_35648e57bf_o.png",
+      "id_image": "clip_2249530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686424_fb02c21cf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686424_2318c7dfc9_o.png",
+      "id_image": "clip_2598013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331356_6b1caac6e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331356_b0bd7f658b_o.png",
+      "id_image": "clip_2748981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446308_f8ae1a41b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446308_f7ecdf6f3d_o.png",
+      "id_image": "clip_4684452"
+    }
+  ]
+}

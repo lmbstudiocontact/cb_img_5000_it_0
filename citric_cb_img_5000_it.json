@@ -1,0 +1,51 @@
+{
+  "english": "citric",
+  "phat_am": "ˈsitrik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "axít xitric",
+          "definition": "the acid which gives lemons and certain other fruits their sourness",
+          "world_new": [
+            "acid",
+            "certain",
+            "their",
+            "sourness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Lemon juice is about 5% citric acid.",
+              "world_new": [
+                "juice",
+                "acid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "citrus fruit"
+  ],
+  "list_browse": [
+    "cistern",
+    "citadel",
+    "citizen",
+    "citizenship",
+    "citric",
+    "citrus fruit",
+    "city",
+    "civic",
+    "civil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042815_4a2fd54ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042815_6bf2e112e0_o.png",
+      "id_image": "citric_2358305"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "autograph",
+  "phat_am": "ˈoːtəɡraːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bút tích",
+          "definition": "a person’s signature, especially as a souvenir",
+          "world_new": [
+            "signature",
+            "souvenir"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She collected autographs of film stars.",
+              "world_new": [
+                "collected",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đề tên",
+          "definition": "to write one’s name on (especially for a souvenir)",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actor autographed a photo for her.",
+              "world_new": [
+                "actor",
+                "photo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She not only travelled the road down to the coal face but, when at the coal face, signed autographs for half an hour.",
+    "The four finalists arrived on the back of convertible cars and signed autographs.",
+    "Block asked only that the offending bat be autographed and given to her.",
+    "He answered more mail than other band members, and often added messages to his autographs.",
+    "He turned down honours and awards offered to him, and refused to give interviews or autographs.",
+    "The event attracted 3,000 teenagers, mostly girls, who met the group and obtained autographs.",
+    "Many items are autographed by the expedition members who wrote them.",
+    "Hamasaki persisted on signing autographs despite her staff urging her to leave; thus she kept signing autographs as she walked."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "autobiography",
+    "autocracy",
+    "autocrat",
+    "autocratic",
+    "autograph",
+    "automated",
+    "automatic",
+    "automatically",
+    "automation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325626_e550146b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325626_d8c5b99fb0_o.png",
+      "id_image": "autograph_2189562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325586_1f9b99b441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325586_d475dab2ac_o.png",
+      "id_image": "autograph_5904321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325556_e762dd42d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325556_395b00f360_o.png",
+      "id_image": "autograph_5904411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680774_1085b2ba84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680774_2b0fdedb6d_o.png",
+      "id_image": "autograph_826254"
+    }
+  ]
+}

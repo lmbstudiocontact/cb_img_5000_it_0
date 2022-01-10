@@ -1,0 +1,191 @@
+{
+  "english": "balance",
+  "phat_am": "ˈbӕləns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thăng bằng",
+          "definition": "a state of physical steadiness",
+          "world_new": [
+            "state",
+            "physical",
+            "steadiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was walking along the wall when he lost his balance and fell.",
+              "world_new": [
+                "child",
+                "wall",
+                "lost",
+                "fell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số dư",
+          "definition": "the amount by which the two sides of a financial account (money spent and money received) differ",
+          "world_new": [
+            "amount",
+            "financial",
+            "account",
+            "spent",
+            "money",
+            "differ"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have a balance (= amount remaining) of $100 in my bank account",
+              "world_new": [
+                "I",
+                "amount",
+                "my",
+                "bank",
+                "account"
+              ]
+            },
+            {
+              "ex_of_definition": "a large bank balance.",
+              "world_new": [
+                "large",
+                "bank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái cân",
+          "definition": "a weighing instrument",
+          "world_new": [
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a kitchen balance.",
+              "world_new": [
+                "kitchen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cân bằng",
+          "definition": "state of mental or emotional steadiness",
+          "world_new": [
+            "state",
+            "mental",
+            "emotional",
+            "steadiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The balance of her mind was disturbed.",
+              "world_new": [
+                "mind",
+                "disturbed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho cân bằng",
+          "definition": "(of two sides of a financial account) to make or be equal",
+          "world_new": [
+            "financial",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t get these accounts to balance.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ thăng bằng",
+          "definition": "to make or keep steady",
+          "world_new": [
+            "keep",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She balanced the jug of water on her head",
+              "world_new": [
+                "jug",
+                "water",
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "The girl balanced on her toes.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The farmer profiles will bring the concepts to life, and help the reader to understand the difficulty of that balancing act we call farming.",
+    "At the point of satiation in real balances the marginal benefit of an extra dollar is zero.",
+    "The person who has achieved full virtue has passions that are rightfully balanced.",
+    "More often than not, however, the distribution of text between the prima parte and seconda parte is not balanced.",
+    "No matter what forcing is used, geostrophically balanced flows result.",
+    "A is not balanced and silenced by having met his match.",
+    "The effect of context specifications must be taken into account when deciding whether resource production and use are satisfied or balanced.",
+    "The effects of multilocus balancing selection on neutral variability."
+  ],
+  "list_see_also": [
+    "balance of payments",
+    "balance sheet",
+    "in the balance",
+    "off balance",
+    "on balance"
+  ],
+  "list_browse": [
+    "baker",
+    "bakery",
+    "baking",
+    "baking powder",
+    "balance",
+    "balance of payments",
+    "balance sheet",
+    "balcony",
+    "bald"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319001_3f41685ba1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319001_093a3ef03c_o.png",
+      "id_image": "balance_1656927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363537_70efbac829_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363537_9ae896ff67_o.png",
+      "id_image": "balance_1721446"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673774_2091cef739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673774_621d97c9cd_o.png",
+      "id_image": "balance_1751694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434243_dc51d8a6af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434243_7c3843c15e_o.png",
+      "id_image": "balance_855370"
+    }
+  ]
+}

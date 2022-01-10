@@ -1,0 +1,61 @@
+{
+  "english": "campsite",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi cắm trại",
+          "definition": "a piece of land on which tents may be pitched",
+          "world_new": [
+            "piece",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an official campsite.",
+              "world_new": [
+                "official"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Campsites can be reserved three months in advance.",
+    "The equestrian campground contains 32 campsites and non-modern rest room facilities.",
+    "The incident allegedly took place in one of the campsites.",
+    "Thur is also a holiday destination, with two popular sandy beaches, three campsites and a number of houses for rent.",
+    "Affects local recreational facilities, parks, playgrounds, and campsites.",
+    "There are five campgrounds in the park with a total of 350 campsites.",
+    "There are 12 recreation areas with 677 campsites along with 7 full-service commercial marina concessions, which hold 1,750 rental slips.",
+    "Many rental agencies have established themselves in town and there are two official campsites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "campaigner",
+    "camper",
+    "camphor",
+    "camping",
+    "campsite",
+    "campus",
+    "can",
+    "can opener",
+    "can-can"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809419378_bbfa7f528c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809419378_8ea5a47c8d_o.png",
+      "id_image": "campsite_2038137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809659739_d49146d384_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809659739_85d0e32e08_o.png",
+      "id_image": "campsite_5238608"
+    }
+  ]
+}

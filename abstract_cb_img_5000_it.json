@@ -1,0 +1,136 @@
+{
+  "english": "abstract",
+  "phat_am": "ˈӕbstrӕkt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "trừu tượng",
+          "definition": "(of a noun) referring to something which exists as an idea and which is not physically real",
+          "world_new": [
+            "idea",
+            "physically",
+            "real"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Truth, poverty and bravery are abstract nouns.",
+              "world_new": [
+                "poverty",
+                "bravery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tác phẩm trừu tượng",
+          "definition": "(of painting, sculpture etc) concerned with colour/color, shape, texture etc rather than showing things as they really appear",
+          "world_new": [
+            "painting",
+            "sculpture",
+            "shape",
+            "texture",
+            "rather",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an abstract painting.",
+              "world_new": [
+                "painting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trừu tượng",
+          "definition": "a painting, sculpture etc concerned with colour/color, shape, texture etc rather than showing things as they really appear",
+          "world_new": [
+            "painting",
+            "sculpture",
+            "shape",
+            "texture",
+            "rather",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She usually paints abstracts."
+            }
+          ]
+        },
+        {
+          "mean_english": "bản tóm tắt",
+          "definition": "a summary (of a book, article etc)",
+          "world_new": [
+            "summary",
+            "book",
+            "article"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All articles must be accompanied by an abstract of no more than 250 words."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pointer chasing could be abstracted over different monads, and reused with multiple data structures representing different kinds of terms.",
+    "We develop the argument by first showing the particular considerations that apply for asset management of life companies and pension funds, respectively, abstracting from regulation.",
+    "Once it is abstracted from all these considerations, a lexical register of honorific forms is nothing more than a paradigm of words on a page.",
+    "The abstracts are selected from key international periodicals surveyed upon their publication and are accompanied by full bibliographic information.",
+    "The text of the abstracts from each group were segmented into sentences by the tokenizer (described in section 2.3) prior to random selection.",
+    "As a consequence, children do not have access to representations of phonemes that are robustly abstracted away from the lexical items in which they occur.",
+    "Another important remark is that the presented model also abstracts from real-word resources, external to the multiagent system.",
+    "In this study, it was proposed that reading-understanding, selection, interpretation and synthesis would be the principal attributes of abstracting."
+  ],
+  "list_see_also": [
+    "abstraction"
+  ],
+  "list_browse": [
+    "abstemiously",
+    "abstemiousness",
+    "abstention",
+    "abstinence",
+    "abstract",
+    "abstraction",
+    "abstruse",
+    "abstruseness",
+    "absurd"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063950_41ce32336c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063950_dbe28f1a54_o.png",
+      "id_image": "abstract_488316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682194_7fc3a5a783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682194_75732c4942_o.png",
+      "id_image": "abstract_488324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682134_73275d21bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682134_0a5e0d6fc7_o.png",
+      "id_image": "abstract_488334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063835_ef38bf2757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063835_9fb902eec1_o.png",
+      "id_image": "abstract_488348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682019_65ce18d62a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682019_70a81cab31_o.png",
+      "id_image": "abstract_5360768"
+    }
+  ]
+}

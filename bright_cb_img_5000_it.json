@@ -1,0 +1,112 @@
+{
+  "english": "bright",
+  "phat_am": "brait",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sáng chói",
+          "definition": "shining with much light",
+          "world_new": [
+            "shining",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bright sunshine.",
+              "world_new": [
+                "sunshine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tươi sáng",
+          "definition": "(of a colour/color) strong and bold",
+          "world_new": [
+            "strong",
+            "bold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bright red car.",
+              "world_new": [
+                "red",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rạng rỡ",
+          "definition": "cheerful",
+          "world_new": [
+            "cheerful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bright smile.",
+              "world_new": [
+                "smile"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sáng dạ",
+          "definition": "clever",
+          "world_new": [
+            "clever"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mike is one of the brightest students in the class.",
+              "world_new": [
+                "class"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In conventional wide-field microscopy one could see only a bright spot of confusion from the nucleus.",
+    "In this study, we found that coupled ganglion cells in rabbit retina were occasionally brighter than any coupled amacrine cells.",
+    "He quickly developed into one of the brightest prospects of the game in the country.",
+    "In one version, they seem to be talking of a conceptual process that abstract relationships such as taller than, brighter than, same as, different from, and so forth.",
+    "Conversely, if the comparison disk appeared brighter than the target disk, its luminance was decreased on the next trial by the same amount.",
+    "Thus, the following experiments were performed using only the brightest background.",
+    "The brighter component is a variable star, meaning its brightness fluctuates by a magnitude of 0.01 to 0.1.",
+    "They require numerous, direct, legible well-paced routes offering choices of experience (quiet and green, crowded and bright and so on)."
+  ],
+  "list_see_also": [
+    "brightly",
+    "brightness",
+    "brighten"
+  ],
+  "list_browse": [
+    "briefly",
+    "briefs",
+    "brigade",
+    "brigadier",
+    "bright",
+    "brighten",
+    "brightly",
+    "brightness",
+    "brill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670629_4cf690fcf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670629_705d79aa65_o.png",
+      "id_image": "bright_1114046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360132_a2cdf7ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360132_ed82ae6a4f_o.png",
+      "id_image": "bright_1576543"
+    }
+  ]
+}

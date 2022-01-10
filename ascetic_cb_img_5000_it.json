@@ -1,0 +1,62 @@
+{
+  "english": "ascetic",
+  "phat_am": "əˈsetik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khổ hạnh",
+          "definition": "avoiding pleasure and comfort, especially for religious reasons",
+          "world_new": [
+            "pleasure",
+            "comfort",
+            "religious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Monks lead ascetic lives.",
+              "world_new": [
+                "lead"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người khổ hạnh",
+          "definition": "an ascetic person.",
+          "world_new": [
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ascetically",
+    "asceticism"
+  ],
+  "list_browse": [
+    "Ascension Day",
+    "ascent",
+    "ascertain",
+    "ascertainable",
+    "ascetic",
+    "ascetically",
+    "asceticism",
+    "ASCII",
+    "ascribe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809304241_8eef00cbe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809304241_c933bf15fa_o.png",
+      "id_image": "ascetic_1943981"
+    }
+  ]
+}

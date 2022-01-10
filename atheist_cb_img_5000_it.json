@@ -1,0 +1,47 @@
+{
+  "english": "atheist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người theo thuyết vô thần",
+          "definition": "a person who does not believe in God",
+          "world_new": [
+            "person",
+            "believe",
+            "God"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a confirmed atheist.",
+              "world_new": [
+                "confirmed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "(at) full tilt",
+    "at/in the back of one’s mind",
+    "at/on one’s heels",
+    "atheism",
+    "atheist",
+    "atheistic",
+    "athlete",
+    "athletic",
+    "athletics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809657474_b648aef28d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809657474_8759b912f7_o.png",
+      "id_image": "atheist_2862765"
+    }
+  ]
+}

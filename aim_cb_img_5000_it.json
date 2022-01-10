@@ -1,0 +1,136 @@
+{
+  "english": "aim",
+  "phat_am": "eim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhắm",
+          "definition": "(usually with at, for) to point or direct something at; to try to hit or reach etc",
+          "world_new": [
+            "point",
+            "direct",
+            "try",
+            "hit",
+            "reach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He picked up the rifle and aimed it at the target.",
+              "world_new": [
+                "rifle",
+                "target"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập trung vào",
+          "definition": "(with to, at) to plan, intend or to have as one’s purpose",
+          "world_new": [
+            "plan",
+            "intend",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He aims at finishing tomorrow",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "We aim to please our customers.",
+              "world_new": [
+                "please",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ý định",
+          "definition": "the act of or skill at aiming",
+          "world_new": [
+            "act",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His aim is excellent.",
+              "world_new": [
+                "excellent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mục tiêu",
+          "definition": "what a person intends to do",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His aim is to become a doctor.",
+              "world_new": [
+                "become",
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This research reported here aimed to explore this issue among the next generation of clinical psychologists : those currently training.",
+    "The restriction aims at reducing the combinatorial complexity of rule numbers due to the order sensitivity of phrase structure grammar.",
+    "His research aims at understanding consciousness as a natural biological phenomenon and at fruitful interaction between philosophical and empirical research in the study of consciousness.",
+    "It aims to be increasingly open and transparent.",
+    "The positive part aims to show that adoption and practice are sufficient to create the fundamental plans of a legal system.",
+    "Secondary aims were to study the relationship between psychological, endocrine and immune variables and baseline tumour characteristics.",
+    "The aim was to teach students the principles of appropriate prescribing and students have generally found it useful.",
+    "The present study aimed to assess, in a community sample, actions taken to cope with depression at different levels of psychological distress."
+  ],
+  "list_see_also": [
+    "aimless",
+    "aimlessly",
+    "aimlessness",
+    "take aim"
+  ],
+  "list_browse": [
+    "AIDS",
+    "ail",
+    "ailing",
+    "ailment",
+    "aim",
+    "aimless",
+    "aimlessly",
+    "aimlessness",
+    "ain’t"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362322_2d23cd6b33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362322_1d4d2a1752_o.png",
+      "id_image": "aim_1451170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362272_6e561b7e7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362272_8dab915a5b_o.png",
+      "id_image": "aim_5322113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317836_6b37b48012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317836_102de6de14_o.png",
+      "id_image": "aim_5896371"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "buffalo",
+  "phat_am": "ˈbafələu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con trâu",
+          "definition": "a large kind of ox, especially the Asian and African varieties",
+          "world_new": [
+            "large",
+            "kind",
+            "ox",
+            "Asian"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cart rolled past being pulled by a pair of buffalo.",
+              "world_new": [
+                "cart",
+                "pair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bò Châu Mỹ",
+          "definition": "the American variety of ox; bison.",
+          "world_new": [
+            "American",
+            "variety"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The large majority of the isolates (104) came from cattle, rather than buffalo blood (4).",
+    "It is a species that occurs in the abdominal cavity of cattle, buffalo, bison, yak and various species of deer, but rarely in sheep.",
+    "The most important nutrient sources are rice straw and manure from buffalo and cattle.",
+    "The available statistics indicate that there are 1.8 head cattle and 1.6 buffalo per hectare of rice.",
+    "For this purpose, 100 faecal samples were collected from sheep, goats, cattle and buffaloes.",
+    "Table 2 summarises the distribution of cells to inner cell mass and to trophectoderm in buffalo, cattle and hybrid embryos.",
+    "However, the elephants were not a great success and the role of the buffaloes was a limited one.",
+    "The fact that the isolates were made from cattle and buffalo emphasizes the important role which large ruminants play in the epidemiology of the virus."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "budge",
+    "budgerigar",
+    "budget",
+    "buff",
+    "buffalo",
+    "buffer",
+    "buffet",
+    "bug",
+    "buggy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312926_7a8fd02786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312926_3a57cd0c36_o.png",
+      "id_image": "buffalo_1392791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667729_05451ba72d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667729_bf24fe55ab_o.png",
+      "id_image": "buffalo_1702816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356962_784d450470_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356962_a49e9c9646_o.png",
+      "id_image": "buffalo_292640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356952_4e0dcbc88d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356952_9df124b1b0_o.png",
+      "id_image": "buffalo_616691"
+    }
+  ]
+}

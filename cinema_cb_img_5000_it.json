@@ -1,0 +1,97 @@
+{
+  "english": "cinema",
+  "phat_am": "ˈsinəmə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rạp chiếu phim",
+          "definition": "a building in which films/movies are shown; movie theater American",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you fancy going to the cinema tonight?",
+              "world_new": [
+                "fancy",
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghệ thuật điện ảnh",
+          "definition": "the art or business of making films/movies",
+          "world_new": [
+            "art",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wrote a book on French cinema",
+              "world_new": [
+                "book",
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the cinema industry.",
+              "world_new": [
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The cost of a cinema ticket was pretty low and therefore accessible to everyone.",
+    "Outside the home, the cinema came top of the list of entertainments, with forty-two people attending regularly.",
+    "This practice is still exercised heavily today, not so much in church and architecture but in cinema and set design.",
+    "The cinema remains what it has been for the past century - a pre-timed showing of a film in a public location on a pay-as-you-go basis.",
+    "A paradigm of this process is found in television's big brother, the cinema.",
+    "As mentioned earlier, there were differences between wartime and peacetime cinema; indeed two distinct themes emerge in post-war rural films.",
+    "They refer here specifically to cinema, popular theatre and music halls, but this seems to miss the point.",
+    "Several of the conglomerates also purchased stakes in theater chains and helped rationalize movie exhibitions by developing multiscreen cinema complexes at shopping malls."
+  ],
+  "list_see_also": [
+    "cine camera",
+    "cinemagoer"
+  ],
+  "list_browse": [
+    "cilium",
+    "cinch",
+    "cinder",
+    "cine camera",
+    "cinema",
+    "cinemagoer",
+    "cinnamon",
+    "cipher",
+    "circa"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421843_5ebbee368b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421843_6b3c004fd0_o.png",
+      "id_image": "cinema_2217602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662049_3857d586e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662049_6fe175480b_o.png",
+      "id_image": "cinema_3351573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661999_22fa93b6d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661999_b1d90cb7dc_o.png",
+      "id_image": "cinema_3936956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350847_68a9c30441_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350847_749ce584eb_o.png",
+      "id_image": "cinema_860157"
+    }
+  ]
+}

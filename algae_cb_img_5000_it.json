@@ -1,0 +1,76 @@
+{
+  "english": "algae",
+  "phat_am": "ˈӕldʒiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tảo",
+          "definition": "a group of simple plants which includes seaweed",
+          "world_new": [
+            "group",
+            "simple",
+            "seaweed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Algae grows better in stagnant than in fast moving water.",
+              "world_new": [
+                "better",
+                "stagnant",
+                "fast",
+                "moving",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He adds that algae alone or in combination with other plants may be used for inflamed wounds caused by burning or laceration.",
+    "The fact of recovery of algae from permanently frozen sediments may suggest their resistance to both primary and longterm freezing.",
+    "Microfossils recognized are represented by acritarchs, filamentous algae and animal remains.",
+    "Consequently, the steroid hydrocarbons that are found in ancient sediments are most likely the remains of algae and other eukaryotes.",
+    "However, viable algae have not been isolated from ancient glacial ice.",
+    "But, viable green algae and cyanobacteria were detected inside buried permanently frozen sediments.",
+    "The importance of red algae is clearly a theme in several of these papers.",
+    "The main plants include a variety of microalgae (diatoms), green and red algae and, usually at lower tidal levels, various seagrasses."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ale",
+    "alert",
+    "alertly",
+    "alertness",
+    "algae",
+    "algebra",
+    "algebraic",
+    "alias",
+    "alibi"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360962_4caf1911cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360962_bdc0161cec_o.png",
+      "id_image": "algae_5824312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431673_0bbe450e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431673_1d47e07fe0_o.png",
+      "id_image": "algae_5825255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360902_2104f3d8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360902_b570d9cd9c_o.png",
+      "id_image": "algae_5869142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316626_0605801b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316626_6b0c26c1bd_o.png",
+      "id_image": "algae_6080879"
+    }
+  ]
+}

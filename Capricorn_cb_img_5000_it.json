@@ -1,0 +1,85 @@
+{
+  "english": "Capricorn",
+  "phat_am": "ˈkapriˌkoːn (American) ˈkæprɪˌkɔrn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cung Ma kết",
+          "definition": "the 10th sign of the Zodiac, represented by a goat, for people born between 21 December and 20 January",
+          "world_new": [
+            "sign",
+            "goat",
+            "people",
+            "December",
+            "January"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think her star sign is Capricorn.",
+              "world_new": [
+                "I",
+                "think",
+                "star",
+                "sign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Ma kết",
+          "definition": "someone who was born between 21 December and 20 January",
+          "world_new": [
+            "December",
+            "January"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a Capricorn."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "caprice",
+    "capricious",
+    "capriciously",
+    "capriciousness",
+    "Capricorn",
+    "capsize",
+    "capstan",
+    "capsule",
+    "captain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064950_8824289732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064950_e337b047b7_o.png",
+      "id_image": "capricorn_4762086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372892_4863efeaf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372892_954f8e3c26_o.png",
+      "id_image": "capricorn_5345451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683214_731cc2e126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683214_34491639df_o.png",
+      "id_image": "capricorn_5345474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064825_11ce3433df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064825_1df7dbffef_o.png",
+      "id_image": "capricorn_5539483"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683124_91e7c5ef12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683124_3b2a6cb991_o.png",
+      "id_image": "capricorn_6009960"
+    }
+  ]
+}

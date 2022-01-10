@@ -1,0 +1,86 @@
+{
+  "english": "admission",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cho phép vào",
+          "definition": "being allowed to enter; entry",
+          "world_new": [
+            "entry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They charge a high price for admission.",
+              "world_new": [
+                "charge",
+                "price"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thừa nhận",
+          "definition": "(an) act of accepting the truth of (something)",
+          "world_new": [
+            "act",
+            "truth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an admission of guilt.",
+              "world_new": [
+                "guilt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhập viện",
+          "definition": "the process of taking someone to hospital for treatment",
+          "world_new": [
+            "process",
+            "hospital",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Accident and Emergency admissions."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, over the study period, the average seasonal excess was 17n5 admissions.",
+    "One particular aspect of hospital utilization is the question of the appropriateness of hospital admissions and days of care.",
+    "There were 6n7 admissions then for every 100 now, a 15-fold increase.",
+    "Cost of care over 18 months follow-up (excluding persons with in-patient admissions).",
+    "The 1996 figure does not include admissions to support bed units.",
+    "First admissions of any kind totalled 97 in 1881 and 205 in 1901.",
+    "The importance of identifying a cause for syncope is vital if there is to be a reduction in associated falls, fractures and hospital admissions.",
+    "Effectiveness of influenza vaccine in reducing hospital admissions during the 1989-90 epidemic."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "admirer",
+    "admiring",
+    "admiringly",
+    "admissible",
+    "admission",
+    "admit",
+    "admittance",
+    "admittedly",
+    "admonish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435713_9b4eaf9a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435713_f66e3835df_o.png",
+      "id_image": "admission_2387646"
+    }
+  ]
+}

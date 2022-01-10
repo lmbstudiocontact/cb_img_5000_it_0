@@ -1,0 +1,59 @@
+{
+  "english": "bestseller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuốn sách/ đĩa hát bán chạy nhất",
+          "definition": "something (usually a book) which sells very many copies",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ernest Hemingway wrote several bestsellers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I wonder whether perhaps, with a different cover and title, it could become a bestseller because it deserves to be.",
+    "Months later, the book has become a bestseller.",
+    "This sound treatment software quickly became a bestseller, used by every professional working with music and sound, especially in the cinema.",
+    "The books are direct and accessible, and they were bestsellers.",
+    "Some thoughts, perhaps, for the next edition of what will surely, and rightly, be a bestseller? !",
+    "For example, a summer bestseller is usually determined long before the summer is over, and signals a book's suitability for millions of lounging pool-side readers.",
+    "The bestseller lists tell a tale of easy reading in preference to more stimulating material.",
+    "Without that publicity, the book would probably have sold only a modest number of copies, instead of becoming a bestseller."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "best",
+    "best man",
+    "bestow",
+    "bestowal",
+    "bestseller",
+    "bet",
+    "betray",
+    "betrayal",
+    "betrayer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351212_34a6679a2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351212_311e1f756e_o.png",
+      "id_image": "bestseller_2446854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307081_d1f9defb40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307081_24b4bbf8ef_o.png",
+      "id_image": "bestseller_2702065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662394_d36a966133_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662394_f5939b0575_o.png",
+      "id_image": "bestseller_5146090"
+    }
+  ]
+}

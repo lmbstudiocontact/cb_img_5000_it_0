@@ -1,0 +1,72 @@
+{
+  "english": "acne",
+  "phat_am": "ˈӕkni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trứng cá",
+          "definition": "a common skin disease that causes pimples",
+          "world_new": [
+            "common",
+            "skin",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Acne is common among teenagers.",
+              "world_new": [
+                "common"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Research is conducted on health promotion and injury prevention, disease prevention, growth and development, and on innovative treatments for diseases ranging from acne to childhood cancers.",
+    "Primary care nurses will be in the frontline of dermatology prescribing in the future and this article explores some of the issues, using acne as an example.",
+    "Those born fourth or later in the birth order had more eye problems as well as accidents and injuries, and fewer concerns with acne, other skin complaints or injections.",
+    "The article then discusses nurse prescribing for acne vulgaris.",
+    "He gave me a recipe for getting rid of acne spots.",
+    "This made him fearful of acne-age students like me and our generations who seemed to provide him with painful competition.",
+    "Adult males and females may have cystic acne, impaired fertility, and short stature due to premature epiphyseal fusion.",
+    "Common side effects of lithium that may be particularly problematic for children and adolescents include nausea, polyuria, polydipsia, tremor, acne, and weight gain."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "acidity",
+    "acknowledge",
+    "acknowledgement",
+    "acme",
+    "acne",
+    "acorn",
+    "acoustic",
+    "acoustics",
+    "acquaint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438613_ea01f04f61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438613_00de8a12ef_o.png",
+      "id_image": "acne_3070876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060305_5ba70d026d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060305_2ca2e1f580_o.png",
+      "id_image": "acne_3513903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368342_cc041dd3e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368342_622fc685ec_o.png",
+      "id_image": "acne_3514791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678619_1e6c468af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678619_ddaf068538_o.png",
+      "id_image": "acne_4110189"
+    }
+  ]
+}

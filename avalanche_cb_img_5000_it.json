@@ -1,0 +1,65 @@
+{
+  "english": "avalanche",
+  "phat_am": "ˈӕvəlaːnʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuyết lở",
+          "definition": "a fall of snow and ice down a mountain",
+          "world_new": [
+            "fall",
+            "snow",
+            "ice",
+            "mountain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two skiers were buried by the avalanche."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Large volcanic debris avalanches; characteristics of source areas, deposits, and associated eruptions.",
+    "As a result, the region includes some of the world's snowiest spots at the same latitudes, many localities are also frequently visited by avalanches.",
+    "We do not have volcanoes, avalanches, earthquakes or forest fires, and even our worst floods are not comparable to those experienced in other countries.",
+    "Natural disasters such as floods, landslides, drought, hail, avalanches etc. are common.",
+    "Summer flash floods, mudslides, winter avalanches, snowstorms, etc. are common, and poor facilities makes it vulnerable to disaster.",
+    "Though he did not mention landslides, no doubt he had them in mind in view of his reference to avalanches.",
+    "Without it, you will experience yet more avalanches, and this time they will hit populated areas.",
+    "Avalanches and landslides are horribly dangerous."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "auxiliary verb",
+    "avail",
+    "availability",
+    "available",
+    "avalanche",
+    "avant-garde",
+    "avarice",
+    "avaricious",
+    "Ave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061360_80fdd44b70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061360_b1ac98f8ab_o.png",
+      "id_image": "avalanche_6182885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679709_a190d0ce6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679709_ff26119d25_o.png",
+      "id_image": "avalanche_660953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061405_8b5a862b19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061405_5ef16e4514_o.png",
+      "id_image": "avalanche_661968"
+    }
+  ]
+}

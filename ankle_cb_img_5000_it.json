@@ -1,0 +1,67 @@
+{
+  "english": "ankle",
+  "phat_am": "ˈӕŋkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mắt cá chân",
+          "definition": "the (area around the) joint connecting the foot and leg",
+          "world_new": [
+            "joint",
+            "foot",
+            "leg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has broken her ankle.",
+              "world_new": [
+                "broken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Reactions are less severe in wounds to the extremities, such as the ankle and foot, which suggests the toxins moved slowly through the bloodstream.",
+    "By doing so, legs will have two actuators and optimization criteria will be needed to determine relative contribution of the knee and ankle actuators.",
+    "Although the feet are not included in the model, we assume that a torque can be applied at each ankle.",
+    "The dihydropyridines mainly cause the vasodilatation problems of flushing, headache and dizziness, but palpitations and ankle oedema are also troublesome in many patients.",
+    "The simulation analyses demonstrate that the local speed control mechanism based on the stance ankle is effective in reducing the learning time.",
+    "The foamy wavelets curled up to her white feet, and coiled like serpents about her ankles.",
+    "The complexity of bipedal robot control is mainly due to the nonlinear dynamics, unknown environment interaction and limited torque at the stance ankle.",
+    "Again, the local speed control based on the stance ankle was adopted to assist in the velocity control."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "animatedly",
+    "animation",
+    "animosity",
+    "anion",
+    "ankle",
+    "annals",
+    "annex",
+    "annexation",
+    "annihilate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426803_38fe0d0fdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426803_95aa260960_o.png",
+      "id_image": "ankle_1235612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311951_7c7475be64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311951_37547fea21_o.png",
+      "id_image": "ankle_3116279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048540_c70ffe3ed1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048540_dee1416b47_o.png",
+      "id_image": "ankle_5727009"
+    }
+  ]
+}

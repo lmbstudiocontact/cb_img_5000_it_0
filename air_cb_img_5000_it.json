@@ -1,0 +1,196 @@
+{
+  "english": "air",
+  "phat_am": "eə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "không khí",
+          "definition": "the mixture of gases we breathe; the atmosphere",
+          "world_new": [
+            "mixture",
+            "atmosphere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The air up here in the mountain is very pure.",
+              "world_new": [
+                "mountain",
+                "pure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không trung",
+          "definition": "the space above the ground; the sky",
+          "world_new": [
+            "space",
+            "sky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Birds fly through the air.",
+              "world_new": [
+                "fly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không gian",
+          "definition": "appearance",
+          "world_new": [
+            "appearance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house had an air of neglect.",
+              "world_new": [
+                "house",
+                "neglect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khúc nhạc",
+          "definition": "a tune",
+          "world_new": [
+            "tune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She played a simple air on the piano.",
+              "world_new": [
+                "simple",
+                "piano"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phô bày",
+          "definition": "to make known",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He loved to air his opinions."
+            }
+          ]
+        },
+        {
+          "mean_english": "phơi gió",
+          "definition": "to expose to the air in order to dry or make more fresh etc",
+          "world_new": [
+            "expose",
+            "order",
+            "dry",
+            "fresh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hung the bed sheets outside to air.",
+              "world_new": [
+                "bed",
+                "outside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, we first derive the dynamic equations for the general case whereby both contact edges are in the air.",
+    "The evolution of the turbulent velocity field in these air data is far more coherent than were such measurements in water.",
+    "If this occurs simultaneously with the presence of a stable atmospheric layer above the mountain, vertical movement of the air is restricted.",
+    "That percentages of air being used add up to one unit of air is purely arbitrary.",
+    "Currently, allowed emission standards have been set for 28 air pollutants and 29 water pollutants.",
+    "Temperatures regimes are also different in gaps, with higher soil and air temperatures during the day, and cooler temperatures at night.",
+    "His pockets had to be emptied of doofers from time to time, and aired.",
+    "Subsequently, saltation begins when particles move vertically into the air by a distance of the order of their diameter."
+  ],
+  "list_see_also": [
+    "airily",
+    "airiness",
+    "airing",
+    "airless",
+    "airy",
+    "airbag",
+    "airborne",
+    "air-conditioned",
+    "air-conditioner",
+    "air-conditioning",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "aimless",
+    "aimlessly",
+    "aimlessness",
+    "ain’t",
+    "air",
+    "air force",
+    "air hostess",
+    "air letter",
+    "air pollution"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362237_4f901138bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362237_d018cc21d8_o.png",
+      "id_image": "air_1924209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362217_4c7440036a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362217_4deb3463ee_o.png",
+      "id_image": "air_2358236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672504_1ddcedca63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672504_1ea686ea2a_o.png",
+      "id_image": "air_2750858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672464_da923a6fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672464_d5227189eb_o.png",
+      "id_image": "air_4637027"
+    }
+  ]
+}

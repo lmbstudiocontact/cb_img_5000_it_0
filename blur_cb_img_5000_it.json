@@ -1,0 +1,88 @@
+{
+  "english": "blur",
+  "phat_am": "bləː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mờ nhạt, cảnh mờ",
+          "definition": "something not clearly seen",
+          "world_new": [
+            "clearly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everything is just a blur when I take my spectacles off.",
+              "world_new": [
+                "I",
+                "my",
+                "spectacles"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm mờ đi",
+          "definition": "to make or become unclear",
+          "world_new": [
+            "become",
+            "unclear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain blurred my vision.",
+              "world_new": [
+                "rain",
+                "blurred",
+                "my",
+                "vision"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She and those light-skinned children blurred the boundary between white and black.",
+    "The gross neurologic side-effects include ataxia, dysarthria, nystagmus, dizziness, unsteadiness, blurring and doubling of vision, reversible dyskinesias and asterixis.",
+    "Common side effects of carbamazepine in children and adolescents include sedation, ataxia, dizziness, blurred vision, nausea, and vomiting.",
+    "Moreover, advances in biotechnology, such as tissue engineering and bone cement and fillers, have been blurring the lines between medicinal products and medical devices.",
+    "The relation between original and secondary stimulus is inevitably blurred by random fluctuations due to the probabilistic nature of all chemical reactions.",
+    "Thus, we would expect ventral system functions to be affected by the wearing of blurring lenses while dorsal system functions would be much less so.",
+    "The selective effects reported here suggest that adaptation was restricted to specific locations, even if imperfect fixation may have slightly \"blurred\" the adapted zone.",
+    "Not only that, but the state also deliberately blurred the distinction between the payment's being a fee or a bribe."
+  ],
+  "list_see_also": [
+    "blurred"
+  ],
+  "list_browse": [
+    "blunder",
+    "blunt",
+    "bluntly",
+    "bluntness",
+    "blur",
+    "blurred",
+    "blurt",
+    "blush",
+    "blustery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372427_f70a084424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372427_40aa3b4699_o.png",
+      "id_image": "blur_6315993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064465_a35029f50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064465_5c30ed110a_o.png",
+      "id_image": "blur_751361"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "badger",
+  "phat_am": "ˈbӕdʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lửng",
+          "definition": "a burrowing animal of the weasel family.",
+          "world_new": [
+            "animal",
+            "weasel",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phiền",
+          "definition": "to annoy or worry",
+          "world_new": [
+            "annoy",
+            "worry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He badgered his parents until they agreed to let him borrow the car.",
+              "world_new": [
+                "agreed",
+                "let",
+                "borrow",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I reiterate that badgers are not rare animals.",
+    "When earthworms are not available badgers are forced to select other food sources and will forage greater distances to obtain these.",
+    "At present there is no reliable live test to check for the disease in badgers.",
+    "There should not be any worry about the welfare of badgers, because it may well be possible to move them from the sites.",
+    "They are vigilant in protecting them from this prevalent practice of unlawful digging for badgers which is going on in many parts of the country.",
+    "The area gassed was determined by the location of infected farms, infected badgers, sett groupings and natural boundaries.",
+    "First, setts would be protected even when vacant or disused, or occupied by foxes rather than badgers.",
+    "Furthermore, cattle feed may provide alternative nutrition for badgers when natural foods are unavailable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bad luck!",
+    "bad-tempered",
+    "baddie",
+    "badge",
+    "badger",
+    "badly",
+    "badly off",
+    "badminton",
+    "badness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365767_1fc1c32ea3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365767_9ff9926f19_o.png",
+      "id_image": "badger_185752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365732_ac04e89040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365732_516069a143_o.png",
+      "id_image": "badger_371876"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "english": "cane",
+  "phat_am": "kein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây mía; cây tre",
+          "definition": "the stem of certain types of plant (eg sugar plant, bamboo etc)",
+          "world_new": [
+            "stem",
+            "certain",
+            "plant",
+            "sugar",
+            "plant",
+            "bamboo"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The workers were given scythes to cut down the cane with.",
+              "world_new": [
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gậy; roi",
+          "definition": "a stick used as an aid to walking or as an instrument of punishment",
+          "world_new": [
+            "stick",
+            "aid",
+            "instrument",
+            "punishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He beat the child with a cane.",
+              "world_new": [
+                "beat",
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phạt đánh roi",
+          "definition": "to beat with a cane",
+          "world_new": [
+            "beat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The schoolmaster caned the boy.",
+              "world_new": [
+                "schoolmaster",
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "cane sugar"
+  ],
+  "list_browse": [
+    "candlestick",
+    "candour",
+    "candy",
+    "candy floss",
+    "cane",
+    "cane sugar",
+    "canine",
+    "canine teeth",
+    "canister"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809303666_fcebd8a036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809303666_127f7e0f59_o.png",
+      "id_image": "cane_1451523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347847_8f01c87d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347847_a8034ef84e_o.png",
+      "id_image": "cane_2142587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347842_22546d1c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347842_95699bab37_o.png",
+      "id_image": "cane_2142626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808347827_0c18df1ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808347827_68d59fdb30_o.png",
+      "id_image": "cane_2855490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809658914_313f0df1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809658914_2a3d74debf_o.png",
+      "id_image": "cane_707279"
+    }
+  ]
+}

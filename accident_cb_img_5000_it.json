@@ -1,0 +1,84 @@
+{
+  "english": "accident",
+  "phat_am": "ˈӕksidənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tai nạn",
+          "definition": "an unexpected happening, often harmful, causing injury etc",
+          "world_new": [
+            "unexpected",
+            "happening",
+            "harmful",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a car/road/traffic accident."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tình cờ",
+          "definition": "chance",
+          "world_new": [
+            "chance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I met her by accident in the supermarket.",
+              "world_new": [
+                "I",
+                "supermarket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The trade unions had been strongly dissatisfied with the 1901 law in which compensation for accidents was to be paid by the employer.",
+    "The majority are based around actual or fictitious events with a mildly anti-establishment character, often involving personal and physical threats or accidents.",
+    "However, given the low numbers of sentences with wh-fronting in our extracts, the absence of the null subject may be a sampling accident.",
+    "It is surely no accident that this particular formulation, 'amor de lonh', has come to encapsulate the basic experience of 'courtly love'.",
+    "For example, a funny or embarrassing incident, a frightening story, accident or danger, or a time you got into trouble with your parents.",
+    "Drop-in centres for adolescents: planned to develop existing scheme to include accident prevention.",
+    "It did so by (1) producing \"accidents\" (unexpected observations) and (2) making me think.",
+    "Recent accidents have occurred worldwide in areas as diverse as oil production, public order, agriculture, healthcare and public transport (particularly air and rail)."
+  ],
+  "list_see_also": [
+    "accidental",
+    "accidentally"
+  ],
+  "list_browse": [
+    "accessibility",
+    "accessible",
+    "accession",
+    "accessory",
+    "accident",
+    "accidental",
+    "accidentally",
+    "acclaim",
+    "acclaimed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680779_754a1e977c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680779_4cde53ba9c_o.png",
+      "id_image": "accident_1429167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062445_32fdc3966d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062445_db3a8a1819_o.png",
+      "id_image": "accident_2247900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680664_8a91c5c5e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680664_e64615c3bf_o.png",
+      "id_image": "accident_4350974"
+    }
+  ]
+}

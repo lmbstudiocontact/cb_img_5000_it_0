@@ -1,0 +1,86 @@
+{
+  "english": "bib",
+  "phat_am": "bib",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái yếm dãi",
+          "definition": "a cloth etc tied under a child’s chin to catch spilt food etc",
+          "world_new": [
+            "cloth",
+            "chin",
+            "catch",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby was wearing a bib.",
+              "world_new": [
+                "baby",
+                "wearing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần trên của cái tạp dề",
+          "definition": "the top part of an apron or overalls, covering the chest.",
+          "world_new": [
+            "top",
+            "part",
+            "apron",
+            "overalls",
+            "covering",
+            "chest"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some of the guests then passed out, others were sick into their bibs and a few made it home, their thingumajigs unable to rise to the occasion.",
+    "We found the bones of the burial with the bib-head pendant in a small, disar ticulated pile covered by a cajete placed face down.",
+    "I will not apologise for going from buttons and bows and hairslides and bibs to garden furniture.",
+    "After all, a kilt and a bib-and-brace overall can scarcely be described as interchangeable.",
+    "They were showcased as a cute, fresh-faced folk duo dressed in bib overalls.",
+    "Players initials are to be included on both the front and back of the bibs.",
+    "We shall be told that we are not wearing our bibs next !",
+    "Both faces have chin straps or bib motifs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "biannual",
+    "biannually",
+    "bias",
+    "biased",
+    "bib",
+    "Bible",
+    "biblical",
+    "bibliography",
+    "bicarbonate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306556_40855a2362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306556_a55057426d_o.png",
+      "id_image": "bib_1403832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350672_c7da91b6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350672_2de02d2fea_o.png",
+      "id_image": "bib_1677668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421728_e42a0377c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421728_5e84e9259a_o.png",
+      "id_image": "bib_4861721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350652_5dd6200214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350652_8438fc8aac_o.png",
+      "id_image": "bib_4861798"
+    }
+  ]
+}

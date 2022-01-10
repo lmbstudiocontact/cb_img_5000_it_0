@@ -1,0 +1,75 @@
+{
+  "english": "airbag",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "túi khí",
+          "definition": "a safety bag in a car that protects the driver or a passenger in an accident",
+          "world_new": [
+            "safety",
+            "bag",
+            "car",
+            "driver",
+            "passenger",
+            "accident"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most cars are fitted with airbags as standard these days.",
+              "world_new": [
+                "standard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Through this directive, we will be a large step closer to realising the internal market for the trade in fireworks, airbags and other pyrotechnic products.",
+    "Airbag=steering wheel airbag fitted and deployed.",
+    "Table 3 shows crash severity by airbag deployment for each of the age groups.",
+    "The influence of the airbag on these outcomes was considered but the paucity of the data prevented conclusive or informative findings.",
+    "The vehicle manufacturer is considered to be best placed to specify the airbag characteristics to complement the vehicle's other crash protection systems.",
+    "As there were no cases of side impact airbag deployments in the sample, this analysis was not repeated for rightside crashes.",
+    "This included a review of published research on airbag testing and performance in the field.",
+    "This, in conjunction with a well-designed steering wheel, is much more cost effective than the fitting of airbags."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "air strike",
+    "air-conditioned",
+    "air-conditioner",
+    "air-conditioning",
+    "airbag",
+    "airborne",
+    "aircraft",
+    "aircraft carrier",
+    "airfare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317666_2999f576a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317666_5a74388451_o.png",
+      "id_image": "airbag_1656948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054150_79381f2f09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054150_4b6e382502_o.png",
+      "id_image": "airbag_2061999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054115_8738cf3153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054115_1e7f0c0415_o.png",
+      "id_image": "airbag_5235246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317681_8cf44d0c09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317681_d12cd13abd_o.png",
+      "id_image": "airbag_975988"
+    }
+  ]
+}

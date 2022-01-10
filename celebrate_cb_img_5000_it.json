@@ -1,0 +1,64 @@
+{
+  "english": "celebrate",
+  "phat_am": "ˈseləbreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kỷ niệm",
+          "definition": "to mark by giving a party etc in honour/honor of (a happy or important event)",
+          "world_new": [
+            "mark",
+            "party",
+            "happy",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m celebrating (my birthday) today."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "celebrated",
+    "celebration",
+    "celebrity"
+  ],
+  "list_browse": [
+    "ceaseless",
+    "ceaselessly",
+    "cedar",
+    "ceiling",
+    "celebrate",
+    "celebrated",
+    "celebration",
+    "celebrity",
+    "celery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054560_946850cdea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054560_fb06f2ec31_o.png",
+      "id_image": "celebrate_1553725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362397_dae43213c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362397_76414cb543_o.png",
+      "id_image": "celebrate_2367817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054490_d9dcba342f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054490_c3db9af576_o.png",
+      "id_image": "celebrate_4442765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317876_3c372ac217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317876_267e36ea9f_o.png",
+      "id_image": "celebrate_5020332"
+    }
+  ]
+}

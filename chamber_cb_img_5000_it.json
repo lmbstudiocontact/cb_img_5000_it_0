@@ -1,0 +1,106 @@
+{
+  "english": "chamber",
+  "phat_am": "ˈtʃeimbə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng ngủ",
+          "definition": "a room",
+          "world_new": [
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the king’s private chambers.",
+              "world_new": [
+                "private"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng lớn để họp",
+          "definition": "the place where an assembly (eg Parliament) meets",
+          "world_new": [
+            "place",
+            "assembly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were few members left in the chamber.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viện",
+          "definition": "such an assembly",
+          "world_new": [
+            "assembly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Upper and Lower Chambers."
+            }
+          ]
+        },
+        {
+          "mean_english": "ổ đạn",
+          "definition": "an enclosed space or cavity eg the part of a gun which holds the bullets",
+          "world_new": [
+            "space",
+            "cavity",
+            "part",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many pistols have chambers for six bullets."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The development of metasomatic aureoles is always induced by silicate melts or magmatic fluids formed on the walls of active magma chambers.",
+    "First, because it estimates the frequencies of genotypes from control chambers, it controls for any deleterious effects of genetic markers on viability.",
+    "Signi®cantly, their status as royal chambers was not formalized in any institutional sense and the metaphor was not sustained.",
+    "The chambers were implanted intraperitoneally into immunized and control jirds through an incision of 2 - 3 cm and the skin was sutured under anaesthesia.",
+    "Determination of water absorbed dose in a carbon ion beam using thimble ionization chambers.",
+    "Second, he averages these numbers for the two chambers.",
+    "Both the flows of practical interest mentioned above invariably involve scalar mixing (indeed the reaction chamber's sole purpose is to mix scalars).",
+    "Seedlings have also been grown in lighted, ventilated chambers as part of the growth sequence to produce older plants."
+  ],
+  "list_see_also": [
+    "chambermaid",
+    "chamber music"
+  ],
+  "list_browse": [
+    "chalky",
+    "challenge",
+    "challenger",
+    "challenging",
+    "chamber",
+    "chamber music",
+    "chambermaid",
+    "chameleon",
+    "chamois"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051380_12e4a47a9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051380_ccd90ccb6a_o.png",
+      "id_image": "chamber_6213648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051415_82ac61d66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051415_408ae471ae_o.png",
+      "id_image": "chamber_815298"
+    }
+  ]
+}

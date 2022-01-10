@@ -1,0 +1,80 @@
+{
+  "english": "appliance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiết bị",
+          "definition": "an instrument or tool used for a particular job",
+          "world_new": [
+            "instrument",
+            "tool",
+            "particular",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company makes washing machines and other electrical appliances.",
+              "world_new": [
+                "company",
+                "washing",
+                "electrical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Effective treatment most often relies on nasal continuous positive airway pressure, but poor tolerance or compliance sometimes leads to treatment with oral appliances or surgery.",
+    "The caller was assumed to be a non-speaking person, trying to interact with the appliance repair person at the maintenance company.",
+    "Families became smaller and somewhat more egalitarian and, helped by the increasing availability of household appliances and their longer schooling, children's contributions to housework reduced.",
+    "Costs were escalating and there was concern about misuse of stoma appliances.",
+    "That evolution adapted itself to the circumstances of these three different cities, for the street light was a most versatile appliance and symbol.",
+    "Many now separate some items, such as appliances and batteries, but others still engage in open burning.",
+    "With appropriate communications links built into the house a range of household appliances and systems can be monitored and controlled.",
+    "Controllers using fuzzy logic have been incorporated in cameras and in such things as washing machines and other domestic electrical appliances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "appetizing",
+    "applaud",
+    "applause",
+    "apple",
+    "appliance",
+    "applicability",
+    "applicable",
+    "applicant",
+    "application"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352542_78fac2ff66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352542_dd31307de8_o.png",
+      "id_image": "appliances_1753618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663684_acfe2b1db8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663684_69c7072373_o.png",
+      "id_image": "appliances_966941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352692_55e15964b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352692_62797efbaa_o.png",
+      "id_image": "appliance_1198306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352647_5729df1bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352647_c858326a4c_o.png",
+      "id_image": "appliance_1744540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352617_1ef00f3377_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352617_55c4420e2b_o.png",
+      "id_image": "appliance_2317096"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "english": "brush",
+  "phat_am": "braʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn chải",
+          "definition": "an object with bristles, wire, hair etc for cleaning, scrubbing etc",
+          "world_new": [
+            "object",
+            "wire",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a toothbrush",
+              "world_new": [
+                "toothbrush"
+              ]
+            },
+            {
+              "ex_of_definition": "He picked up the brush and began to sweep the floor.",
+              "world_new": [
+                "sweep",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chải",
+          "definition": "an act of brushing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave his coat a good brush.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bất đồng ý kiến",
+          "definition": "a disagreement",
+          "world_new": [
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a slight brush with the law when a police officer stopped her for speeding.",
+              "world_new": [
+                "slight",
+                "law",
+                "police",
+                "officer",
+                "speeding"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đuôi chồn",
+          "definition": "a bushy tail of a fox.",
+          "world_new": [
+            "bushy",
+            "tail",
+            "fox"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cọ",
+          "definition": "to rub with a brush",
+          "world_new": [
+            "rub"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He brushed his jacket.",
+              "world_new": [
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quét",
+          "definition": "to remove (dust etc) by sweeping with a brush",
+          "world_new": [
+            "remove",
+            "sweeping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need to brush the floor.",
+              "world_new": [
+                "I",
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chải",
+          "definition": "to make tidy by using a brush",
+          "world_new": [
+            "tidy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Brush your hair!",
+              "world_new": [
+                "your",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạm qua",
+          "definition": "to touch lightly in passing",
+          "world_new": [
+            "touch",
+            "lightly",
+            "passing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leaves brushed her face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The same neuron showed a large response to brushing the cutaneous receptive field.",
+    "In fact, there are a good many reasons to take the embittered reflections and prejudices of contemporaries seriously, and not to brush them aside.",
+    "Any larvae which were not attached at the time of injection were carefully removed with a camel-hair brush.",
+    "Ten individuals returned both conventional and antibacterial brushes that yielded colonies.",
+    "They can then be easily picked up with a small moistened paint-brush and transferred at once to the alcohol in the collecting tubes.",
+    "Finally, workshops were organized for them to learn various tasks (brush work, cobbling, printing, woodwork, ironwork, sewing, basketwork, mulching).",
+    "Leaves on control plants were brushed on the upper surface with a fine paintbrush to simulate manipulation and also enclosed within a clip cage.",
+    "Between the brush head and the shaft they fitted a strain gauge load cell, which measured the horizontal and vertical force the sweeper was applying."
+  ],
+  "list_see_also": [
+    "brush aside",
+    "brush away",
+    "brush up",
+    "give"
+  ],
+  "list_browse": [
+    "bruise",
+    "brunch",
+    "brunette",
+    "brunt",
+    "brush",
+    "brush aside",
+    "brush away",
+    "brush up",
+    "brusque"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050560_f0b6780cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050560_ff9046fa60_o.png",
+      "id_image": "brush_438640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050530_bbb5257324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050530_37cb7a278b_o.png",
+      "id_image": "brush_563043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050490_c97df1006a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050490_cd758b1684_o.png",
+      "id_image": "brush_807853"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "caterpillar",
+  "phat_am": "ˈkӕtəpilə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sâu bướm",
+          "definition": "the larva of a butterfly or moth that feeds upon the leaves of plants",
+          "world_new": [
+            "larva",
+            "butterfly",
+            "moth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a caterpillar on this lettuce.",
+              "world_new": [
+                "lettuce"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ô tô xích",
+          "definition": "moving on endless belts",
+          "world_new": [
+            "moving",
+            "endless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a caterpillar tractor.",
+              "world_new": [
+                "tractor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The caterpillar then leaves the apple and makes its cocoon.",
+    "Therefore, we studied the occurring herbivore patterns and densities and estimated the amount of damage done to seedlings by caterpillars.",
+    "Although a few individual caterpillars died, most became normal pupae.",
+    "I have a distant recollection of being told the story as a child : once upon a time, the butterfly was a caterpillar.",
+    "The two types of hair of first instar larvae were separately cut from caterpillars using microscissors.",
+    "The highest numbers of caterpillars were parasitized in apples and apricots.",
+    "We propose that, in light of these findings, caterpillars may be important food items for other gleaning insectivorous bats as well.",
+    "The caterpillar wheel mounted on the fibre payout arm provides the necessary tension conversion between the two systems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "category",
+    "cater",
+    "caterer",
+    "catering",
+    "caterpillar",
+    "catfish",
+    "catgut",
+    "cathedral",
+    "catheter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056180_19d429c838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056180_9ba36620e9_o.png",
+      "id_image": "caterpillar_183966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434663_6c1f1e989f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434663_8bb7ef1964_o.png",
+      "id_image": "caterpillar_1867543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319566_f879eb7593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319566_14965e761a_o.png",
+      "id_image": "caterpillar_2162007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674434_35b7659789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674434_0f327057cb_o.png",
+      "id_image": "caterpillar_2590820"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319481_e3508f4d6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319481_3e51455442_o.png",
+      "id_image": "caterpillar_5511785"
+    }
+  ]
+}

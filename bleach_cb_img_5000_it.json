@@ -1,0 +1,105 @@
+{
+  "english": "bleach",
+  "phat_am": "bliːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất tẩy trắng",
+          "definition": "liquid etc used for whitening clothes etc",
+          "world_new": [
+            "liquid",
+            "whitening",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of bleach",
+              "world_new": [
+                "bottle"
+              ]
+            },
+            {
+              "ex_of_definition": "She used bleach to clean the toilet.",
+              "world_new": [
+                "clean",
+                "toilet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tẩy trắng",
+          "definition": "to lose colour/color; to whiten",
+          "world_new": [
+            "lose",
+            "whiten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Gisela decided to bleach her hair blonde",
+              "world_new": [
+                "hair",
+                "blonde"
+              ]
+            },
+            {
+              "ex_of_definition": "His hair bleached in the sun.",
+              "world_new": [
+                "hair",
+                "sun"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The circulating current was reduced after bleaching and then reduced further during perfusion with b-ionone gray traces!.",
+    "Quantitative study and mathematical correction of the effects from bleaching and fluorescence attenuation in depth.",
+    "Anything over this concentration abolished photosynthetic activity in the samples, which eventually bleached and died.",
+    "They were then subjected to a second sorting before being sent on to the rafugars (the artisans engaged to repair any damage caused in the process of bleaching).",
+    "Historical debate, however, is rather bleached out.",
+    "In other words, if in the process of a certain semantic change, what is bleached is a meaning component that is iconically represented, then the semantic change is blocked.",
+    "The branches are 215 mm broad, firm in texture and dark reddish brown in color bleaching to yellowish in sunlight.",
+    "The printing, dyeing and bleaching sections of the cotton and rayon finishing industry are considering certain voluntary schemes for eliminating surplus machine capacity."
+  ],
+  "list_see_also": [
+    "bleaching"
+  ],
+  "list_browse": [
+    "blatantly",
+    "blaze",
+    "blazer",
+    "blazing",
+    "bleach",
+    "bleaching",
+    "bleak",
+    "bleat",
+    "bleed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417798_e19530c370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417798_67860f1ba3_o.png",
+      "id_image": "bleach_2797713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039315_a11d02d8a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039315_af2a17aca0_o.png",
+      "id_image": "bleach_2912631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810039345_68acfd59a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810039345_dac588735d_o.png",
+      "id_image": "bleach_862997"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "charity",
+  "phat_am": "ˈtʃӕrəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lòng nhân đức",
+          "definition": "kindness (especially in giving money to poor people)",
+          "world_new": [
+            "kindness",
+            "money",
+            "poor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave clothes to the poor out of charity.",
+              "world_new": [
+                "clothes",
+                "poor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội từ thiện",
+          "definition": "an organization set up to collect money for the needy, for medical research etc",
+          "world_new": [
+            "organization",
+            "collect",
+            "money",
+            "needy",
+            "medical",
+            "research"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many charities sent money to help the victims of the disaster.",
+              "world_new": [
+                "money",
+                "help",
+                "disaster"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To discriminate among charities would be something completely new, and something thoroughly wrong and unwelcome, within our tax system.",
+    "The purpose of these charities is to benefit widows and children of clergymen and, in some instances, the clergymen themselves.",
+    "The registration of already existing charities will be undertaken by stages and may not be completed, perhaps, in less than five years.",
+    "The first point to be made refers to charities.",
+    "The first is that if we drive charities too hard, with authority from the top, we either drive trustees into retirement or break their hearts.",
+    "A further spin-off of deposit schemes is that voluntary groups and charities have ready access to an easy source of fund-raising activity.",
+    "Many charities do not even know whether they have a permanent endowment or not.",
+    "Moving away from the technical argument, there is a substantial issue about the working of some charities."
+  ],
+  "list_see_also": [
+    "charitable",
+    "charitably",
+    "charity shop"
+  ],
+  "list_browse": [
+    "charioteer",
+    "charisma",
+    "charitable",
+    "charitably",
+    "charity",
+    "charity shop",
+    "charm",
+    "charming",
+    "charmingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668054_e907db2c09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668054_7693056b23_o.png",
+      "id_image": "charity_171788"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357192_522414d409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357192_a474ed0128_o.png",
+      "id_image": "charity_1772131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049680_d2b061ab5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049680_2f5719f142_o.png",
+      "id_image": "charity_4590156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357127_639484b29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357127_2cc1f02e58_o.png",
+      "id_image": "charity_4729473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357217_7d2011c76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357217_5687c877b1_o.png",
+      "id_image": "charity_996965"
+    }
+  ]
+}

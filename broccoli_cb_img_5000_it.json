@@ -1,0 +1,76 @@
+{
+  "english": "broccoli",
+  "phat_am": "(British) ˈbrokəli; (American) ˈbrokəliː, ˈbrokliː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súp lơ xanh",
+          "definition": "a vegetable that has short branch-like green stems with green or purple buds on the ends",
+          "world_new": [
+            "vegetable",
+            "short",
+            "green",
+            "green",
+            "purple"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a head of broccoli",
+              "world_new": [
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "cream of broccoli soup.",
+              "world_new": [
+                "cream",
+                "soup"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vegetable crop yield responses to such amendments have been evaluated for many crops, including tomato, bell pepper, broccoli, sweet corn, cucumber, eggplant, okra, snap bean, squash and watermelon9.",
+    "Are they more plebian than the aristocratic asparagus or the turnip or the broccoli?",
+    "They scarcely want to lose their own broccoli on the way.",
+    "This allegation is scarcely consistent with the fact that when this land was derequisitioned it was carrying a good crop of broccoli.",
+    "I am informed that the yield is about 5 tons of broccoli per acre.",
+    "Broccoli is not separately distinguished in the trade statistics.",
+    "Indeed, they asked us what they should do with broccoli after they had grown it.",
+    "The two most urgent items are broccoli, where the acreage has dropped from over 16,000 in 1949 to 5,000 now, and tomatoes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "broaden",
+    "broadly",
+    "broadside on",
+    "brocade",
+    "broccoli",
+    "brochure",
+    "broil",
+    "broke",
+    "broken"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669994_286cdb00a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669994_0d16a24548_o.png",
+      "id_image": "broccoli_2923191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315336_a4a29d2460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315336_b0b1b2f792_o.png",
+      "id_image": "broccoli_3823325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430168_44eaa4dfd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430168_82d8169579_o.png",
+      "id_image": "broccoli_4796240"
+    }
+  ]
+}

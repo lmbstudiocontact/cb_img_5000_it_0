@@ -1,0 +1,121 @@
+{
+  "english": "brain",
+  "phat_am": "brein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ não",
+          "definition": "the centre/center of the nervous system",
+          "world_new": [
+            "nervous",
+            "system"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an injury to the brain",
+              "world_new": [
+                "injury"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) brain surgery",
+              "world_new": [
+                "surgery"
+              ]
+            },
+            {
+              "ex_of_definition": "brain damage.",
+              "world_new": [
+                "damage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trí tuệ",
+          "definition": "cleverness",
+          "world_new": [
+            "cleverness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s got a good brain for figures"
+            },
+            {
+              "ex_of_definition": "You’ve plenty of brains."
+            }
+          ]
+        },
+        {
+          "mean_english": "người thông minh",
+          "definition": "a clever person",
+          "world_new": [
+            "clever",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s one of the best brains in the country.",
+              "world_new": [
+                "best",
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When considering hominid evolution, attempts to understand how evolution produces larger brains is of prime interest.",
+    "The way perceptions are represented in our brains is far from settled, but the rules of kinematic geometry could not be applied to some possibilities.",
+    "The small subset of species possessing brains, including humans, is characterized by a diverse array of specialized evolved psychological mechanisms.",
+    "Also, big brains would still remain adaptive even without niche construction.",
+    "Early motor control research often assumed that the brain's commands were in terms of joint torques, angles, and so forth.",
+    "The idea that psychologists' choice of experimental paradigms has representation in the animals' brains is too, too much!",
+    "Such connections may well function to integrate information across the brain's perceptual and conceptual faculties, without recourse to a linguiform medium of thought.",
+    "Our brains are plastic in the sense of being adaptable, able to learn to operate in new ways as the environment demands."
+  ],
+  "list_see_also": [
+    "brainless",
+    "brainy",
+    "brainchild",
+    "brain drain",
+    "brainstem",
+    "brainstorm",
+    "brainstorming",
+    "brainwash",
+    "brainwashing",
+    "brainwave"
+  ],
+  "list_browse": [
+    "brackish",
+    "brag",
+    "braid",
+    "braille",
+    "brain",
+    "brain drain",
+    "brainchild",
+    "brainless",
+    "brainstem"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363462_fcb0a6598b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363462_34a8dc39b2_o.png",
+      "id_image": "brains_2451242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363442_5d576bc84a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363442_39984e0e6f_o.png",
+      "id_image": "brains_2451257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673749_9e58910032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673749_a141d85c54_o.png",
+      "id_image": "brain_286484"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "english": "cartridge",
+  "phat_am": "ˈkaːtridʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đạn; vỏ đạn",
+          "definition": "a case containing the explosive charge (and usually a bullet) for a gun",
+          "world_new": [
+            "case",
+            "explosive",
+            "charge",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spent cartridge (= one that has been used).",
+              "world_new": [
+                "spent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hộp mực",
+          "definition": "a small plastic container of ink for a printer",
+          "world_new": [
+            "small",
+            "plastic",
+            "container",
+            "ink",
+            "printer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need to change one of the cartridges in the printer.",
+              "world_new": [
+                "I",
+                "change",
+                "printer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu máy quay đĩa",
+          "definition": "a stylus of a record-player and its holder.",
+          "world_new": [
+            "stylus",
+            "its"
+          ]
+        },
+        {
+          "mean_english": "cuộn phim chụp ảnh",
+          "definition": "a plastic container of photographic film or recording tape.",
+          "world_new": [
+            "plastic",
+            "container",
+            "photographic",
+            "film",
+            "recording",
+            "tape"
+          ]
+        },
+        {
+          "mean_english": "hộp mực ống",
+          "definition": "a tube containing ink for loading a fountain pen.",
+          "world_new": [
+            "tube",
+            "ink",
+            "fountain",
+            "pen"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "cartography",
+    "carton",
+    "cartoon",
+    "cartoonist",
+    "cartridge",
+    "cartwheel",
+    "carve",
+    "carve out",
+    "carving"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059655_42e525e563_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059655_9f38daffb9_o.png",
+      "id_image": "cartridge_123752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677959_e2f43668fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677959_acba025692_o.png",
+      "id_image": "cartridge_1402481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367722_0fe794c559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367722_ea8d959681_o.png",
+      "id_image": "cartridge_1753839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059470_1721dd9c26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059470_3882cd699c_o.png",
+      "id_image": "cartridge_4532208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059625_71034e8685_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059625_3b7466004d_o.png",
+      "id_image": "cartridge_683915"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "childhood",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời thơ ấu",
+          "definition": "the state or time of being a child",
+          "world_new": [
+            "state",
+            "time",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her childhood was a time of happiness.",
+              "world_new": [
+                "time",
+                "happiness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, it was decided to test the hypothesis that childhood trauma and neuroticism scores might be significantly related.",
+    "An evaluation of peer coping-skills training for childhood aggression.",
+    "High priority is given to maternal and child health care, and there are several programs for prevention of disease during pregnancy, childbirth, and early childhood.",
+    "Late childhood and youth were the time periods in which most lasting words were received.",
+    "The children showing more modest levels of externalizing problems during childhood represent the third and fourth pathways.",
+    "There, in childhood, there had been something really pleasant with which it would be possible to live if it could return.",
+    "Other adult disorders represent the eventual manifestation of a behavioral difficulty visible since early childhood.",
+    "Widespread childhood immunization should greatly reduce the number of primary cases."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "child welfare",
+    "child’s play",
+    "childbirth",
+    "childcare",
+    "childhood",
+    "childish",
+    "childishly",
+    "childishness",
+    "childless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353707_9a0815f9e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353707_8c732d86e3_o.png",
+      "id_image": "childhood_360005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046460_a90f4f3909_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046460_3d48094bd1_o.png",
+      "id_image": "childhood_6174469"
+    }
+  ]
+}

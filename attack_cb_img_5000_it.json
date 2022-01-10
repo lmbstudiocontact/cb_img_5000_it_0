@@ -1,0 +1,172 @@
+{
+  "english": "attack",
+  "phat_am": "əˈtӕk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tấn công",
+          "definition": "to make a sudden, violent attempt to hurt or damage",
+          "world_new": [
+            "sudden",
+            "violent",
+            "attempt",
+            "hurt",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He attacked me with a knife",
+              "world_new": [
+                "knife"
+              ]
+            },
+            {
+              "ex_of_definition": "The village was attacked from the air.",
+              "world_new": [
+                "village",
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ trích",
+          "definition": "to speak or write against",
+          "world_new": [
+            "speak"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Prime Minister’s policy was attacked in the newspapers.",
+              "world_new": [
+                "policy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tấn công",
+          "definition": "(in games) to attempt to score a goal",
+          "world_new": [
+            "attempt",
+            "score",
+            "goal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Real Madrid were attacking the Barcelona goal.",
+              "world_new": [
+                "goal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu giải quyết",
+          "definition": "to make a vigorous start on",
+          "world_new": [
+            "vigorous",
+            "start"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s time we attacked that pile of work.",
+              "world_new": [
+                "time",
+                "pile",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tấn công",
+          "definition": "an act or the action of attacking",
+          "world_new": [
+            "act",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brutal attack killed the old man",
+              "world_new": [
+                "brutal",
+                "old"
+              ]
+            },
+            {
+              "ex_of_definition": "They made an air attack on the town.",
+              "world_new": [
+                "air",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơn bột phát",
+          "definition": "a sudden bout of illness",
+          "world_new": [
+            "sudden",
+            "bout",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "heart attack",
+              "world_new": [
+                "heart"
+              ]
+            },
+            {
+              "ex_of_definition": "an attack of ‘flu."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Night terrors (different from nightmares) and somnambulism attacks also occur during slow wave sleep, all these data showing non-visual mental activity during sleep.",
+    "The press also attacked the jury in the janitors' case.",
+    "One of these involves panic attacks, one panic disorder, and one social phobia.",
+    "The presence of overlying joint erythema and superimposed acute attacks suggest a crystal arthropathy.",
+    "Lizards attacked far fewer sawfly larvae than pierid caterpillars.",
+    "I particularly remember his lecture attacking the use of teleological statements during scientific discussions.",
+    "They applied his mode of metalinguistic analysis and attacked the analogical mythopoeic discourse of the innovators.",
+    "We only have inadequate knowledge of the planned attacks, but we are sure of the detainee's involvement and of the attack's seriousness and imminence."
+  ],
+  "list_see_also": [
+    "attacker"
+  ],
+  "list_browse": [
+    "atrophy",
+    "attach",
+    "attached",
+    "attachment",
+    "attack",
+    "attacker",
+    "attain",
+    "attainment",
+    "attempt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683709_5213f8568f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683709_4e7a99088c_o.png",
+      "id_image": "attack_2688322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683689_60b47c41be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683689_6791b665ab_o.png",
+      "id_image": "attack_4736051"
+    }
+  ]
+}

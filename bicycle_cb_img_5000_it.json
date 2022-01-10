@@ -1,0 +1,92 @@
+{
+  "english": "bicycle",
+  "phat_am": "ˈbaisikl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe đạp",
+          "definition": "(often abbreviated to bikebaik, cycleˈsaikl) a pedal-driven vehicle with two wheels and a seat",
+          "world_new": [
+            "vehicle",
+            "seat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a racing bicycle.",
+              "world_new": [
+                "racing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi xe đạp",
+          "definition": "to ride a bicycle",
+          "world_new": [
+            "ride"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bicycled slowly up the hill.",
+              "world_new": [
+                "slowly",
+                "hill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They describe a collaborative bicycle repair situation in which an expert helper guides a novice repairer.",
+    "By manipulating a stationary bicycle, the user navigates the projection of a cityscape.",
+    "The bicycle bell seems on the unusual side, even though the observer can turn the handle bars in the correct direction.",
+    "Most of the sound files produced from the original bicycle bell are transformed primarily by altering their pitch, which in turn changes their speed.",
+    "The bicycle was their only means of rapid travel.",
+    "They provide their distributors with bicycles with coolers on credit, and some training in keeping accounts.",
+    "The bicycle craze of the 1890s was made possible in part because rubber pneumatic tires replaced solid tires, making bicycle riding more comfortable and popular.",
+    "From the 1930s to the 1950s the incidence of walking to work declined rapidly, but the use of buses and bicycles increased substantially."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bicarbonate",
+    "bicellular",
+    "bicentenary",
+    "biceps",
+    "bicycle",
+    "bid",
+    "biddable",
+    "bidder",
+    "bidding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306266_c42621534e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306266_c09b48eccd_o.png",
+      "id_image": "bicycle_169421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350397_5237d673d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350397_cdef17f8fb_o.png",
+      "id_image": "bicycle_183988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306226_31806a2bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306226_b6edfdb3aa_o.png",
+      "id_image": "bicycle_2307941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306211_ac634b0321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306211_e82cf3f1e7_o.png",
+      "id_image": "bicycle_6032470"
+    }
+  ]
+}

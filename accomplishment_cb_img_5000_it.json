@@ -1,0 +1,87 @@
+{
+  "english": "accomplishment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài năng",
+          "definition": "a special skill",
+          "world_new": [
+            "special",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her accomplishments include being able to speak several foreign languages.",
+              "world_new": [
+                "include",
+                "speak",
+                "foreign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hoàn thành",
+          "definition": "the act of completing something",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hard work resulted in the accomplishment of his aim to become a self-made businessman.",
+              "world_new": [
+                "work",
+                "aim",
+                "become",
+                "self-made",
+                "businessman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If so, this variation might be expected to relate to later language accomplishments.",
+    "Works like the one under review can properly take some credit for any such accomplishments.",
+    "The remainder of the book guides the reader in a somewhat predictable fashion through the maze of developmental accomplishments that characterize language acquisition.",
+    "They exude quiet pride in personal accomplishments before 1975, usually backed up by glass-framed state awards on the wall.",
+    "Why do the lives, accomplishments, attitudes, successes and failures of these pandits remain largely unexplored?",
+    "Their accomplishments outside the home now brought admiration rather than condemnation.",
+    "Of the following accomplishments, please select two that you would wish for a daughter, and two that you would wish for a son.",
+    "The results substantiated those of study 1, in that pragmatic accomplishments within mutual attention predicted the per month growth rate in grammar."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "accompany",
+    "accomplice",
+    "accomplish",
+    "accomplished",
+    "accomplishment",
+    "accord",
+    "accordance",
+    "according to",
+    "accordingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325376_2abb5c0df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325376_3cf30dd37b_o.png",
+      "id_image": "accomplishment_1482256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370217_94abe1a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370217_ca9a75095d_o.png",
+      "id_image": "accomplishment_2765665"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370277_0a9117a389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370277_834d29fbc4_o.png",
+      "id_image": "accomplish_5520767"
+    }
+  ]
+}

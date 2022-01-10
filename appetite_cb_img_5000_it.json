@@ -1,0 +1,71 @@
+{
+  "english": "appetite",
+  "phat_am": "ˈӕpitait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngon miệng",
+          "definition": "a desire for food",
+          "world_new": [
+            "desire",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Exercise gives you a good appetite."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She manages to deliver the key elements in a manner which whets the appetite without either over- or under-facing her readers.",
+    "A set of volumes like this whets the appetite for more information.",
+    "If the child has lost his appetite, they are told to go outdoors to get it back!",
+    "A number of interesting correlated responses have been observed between the two lines, including large differences in appetite.",
+    "For what was modern capitalism itself but the disordered appetite of man written on the communal body?",
+    "However, over one-third said their appetites were bigger, against only a few who said they were less.",
+    "The impact of these deficiencies on growth may, in part, derive from their influence on appetite.",
+    "There were many spectacles during the nineteenth century, feeding a public appetite for the latest thrilling news, whether polar or not."
+  ],
+  "list_see_also": [
+    "appetizer",
+    "appetizing"
+  ],
+  "list_browse": [
+    "appeasement",
+    "append",
+    "appendage",
+    "appendix",
+    "appetite",
+    "appetizer",
+    "appetizing",
+    "applaud",
+    "applause"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424043_edfc7aa92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424043_21b67f9323_o.png",
+      "id_image": "appetite_4785760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664109_411b0f4062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664109_8188a9d8d1_o.png",
+      "id_image": "appetite_4785891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424013_6501e7fc80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424013_9ea8e937f5_o.png",
+      "id_image": "appetite_4799055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664054_2d18b4ebf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664054_4b3da406a8_o.png",
+      "id_image": "appetite_4813794"
+    }
+  ]
+}

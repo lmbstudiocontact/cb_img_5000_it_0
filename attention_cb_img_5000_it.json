@@ -1,0 +1,125 @@
+{
+  "english": "attention",
+  "phat_am": "əˈtenʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chú ý",
+          "definition": "notice",
+          "world_new": [
+            "notice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to attract my attention",
+              "world_new": [
+                "attract",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "Pay attention to your teacher!",
+              "world_new": [
+                "your",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chăm sóc",
+          "definition": "care",
+          "world_new": [
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That injury needs urgent attention.",
+              "world_new": [
+                "injury",
+                "urgent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tập trung",
+          "definition": "concentration of the mind",
+          "world_new": [
+            "concentration",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His attention wanders."
+            }
+          ]
+        },
+        {
+          "mean_english": "tư thế đứng nghiêm",
+          "definition": "(in the army etc) a position in which one stands very straight with hands by the sides and feet together",
+          "world_new": [
+            "army",
+            "position",
+            "straight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood to attention."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The best way to elicit a schwa is to direct attention away from it and on to the stressed syllable of the word.",
+    "This is of no theoretical interest and could be cured, for instance, by adding a warning feature drawing attention to skipped words.",
+    "To this end it is disappointing that the book has paid only scant attention to the psychological processes in the disorder.",
+    "As the study of developmental psychology devotes virtually no attention to the adult years, the assumption is that development has ceased by this time.",
+    "The meaning of tables and figures and the argument in general demand close attention to the text, whose style tends to the abstract and convoluted.",
+    "This paper examines reactive focus on for m as a way of focusing students' attention on their own output.",
+    "Future research should pay particular attention to the disruption of values, roles and social relationships.",
+    "In order to avoid some technical details, for the hypergraph case we restrict our attention to the lower bound only."
+  ],
+  "list_see_also": [
+    "attentive",
+    "attentively",
+    "attentiveness"
+  ],
+  "list_browse": [
+    "attempted",
+    "attend",
+    "attendance",
+    "attendant",
+    "attention",
+    "attentive",
+    "attentively",
+    "attentiveness",
+    "attic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065305_f645cf1c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065305_d06c609953_o.png",
+      "id_image": "attention_1410040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683534_701dc9a917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683534_df5b786ab9_o.png",
+      "id_image": "attention_1603239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373167_74f6b5a34a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373167_03d78d0c5c_o.png",
+      "id_image": "attention_4524964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373272_77b1c39674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373272_b229794a15_o.png",
+      "id_image": "attention_526800"
+    }
+  ]
+}

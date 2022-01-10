@@ -1,0 +1,97 @@
+{
+  "english": "bandage",
+  "phat_am": "ˈbӕndidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "băng gạc",
+          "definition": "(a piece of) cloth for binding up a wound, or a broken bone",
+          "world_new": [
+            "piece",
+            "cloth",
+            "binding",
+            "wound",
+            "broken",
+            "bone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a bandage on her injured finger.",
+              "world_new": [
+                "injured",
+                "finger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "băng bó",
+          "definition": "to cover with a bandage",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor bandaged the boy’s foot.",
+              "world_new": [
+                "doctor",
+                "foot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is it proposed to tax bandages and other first-aid appliances?",
+    "What would the residual liabilities on, for example, the sale of bandages be?",
+    "We heard the other day about one hospital where staff are washing bandages by hand and re-using them to effect economies.",
+    "Is it really enough to send blankets and bandages after facilitating the supply of arms that caused the injuries in the first place?",
+    "She had been taken into hospital within weeks for an easy operation and, after an overnight stay, she had been bandaged up and discharged.",
+    "What with the grand alliance, and curing inflation by taxing it, these political streakers will soon be suggesting knee bandages as a cure for cancer.",
+    "I was passing a big hospital in my division and saw a little boy coming out with his leg bandaged up.",
+    "I took the penicillin bandages only as a case in point."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ban",
+    "banana",
+    "band",
+    "Band-Aid",
+    "bandage",
+    "bandit",
+    "bandy",
+    "bandy-legged",
+    "bang"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361717_307af49a4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361717_f3d7a8ceaf_o.png",
+      "id_image": "bandage_123772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432433_68fdc68471_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432433_3d75059b5a_o.png",
+      "id_image": "bandage_3111449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361587_4365d04881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361587_367390c00f_o.png",
+      "id_image": "bandage_4664904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432318_3060cce166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432318_b7a4bf552a_o.png",
+      "id_image": "bandage_5139126"
+    }
+  ]
+}

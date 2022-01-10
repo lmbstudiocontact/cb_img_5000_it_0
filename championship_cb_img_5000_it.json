@@ -1,0 +1,90 @@
+{
+  "english": "championship",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh hiệu quán quân",
+          "definition": "a contest held to decide who is the champion",
+          "world_new": [
+            "contest",
+            "decide",
+            "champion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tennis championship will be decided this afternoon.",
+              "world_new": [
+                "tennis",
+                "afternoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảo vệ; đấu tranh cho",
+          "definition": "the act of defending or supporting",
+          "world_new": [
+            "act",
+            "supporting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "his championship of civil rights.",
+              "world_new": [
+                "civil",
+                "rights"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In these championships, we have a new position.",
+    "Championships pass from us, but there is one championship which we still hold.",
+    "One may, for example, be asked to participate in a drill while imagining that one is playing in the upcoming championship.",
+    "The question of listing the five nations championship cannot arise until the future of the tournament is clearer.",
+    "The purpose of the league is to organize a highly spectacular championship with low costs for the teams.",
+    "Does he agree that that championship is the most significant sporting event to be left off the list?",
+    "I was astonished that, following the agreement that was reached, there was a danger that the championship could well end.",
+    "Amateur sport provides raw material for the sports industry and commercialised championships."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "champ",
+    "champ at the bit",
+    "champagne",
+    "champion",
+    "championship",
+    "chance",
+    "chance on/upon",
+    "chancellor",
+    "Chancellor of the Exchequer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358787_79f1918d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358787_436a4f75d1_o.png",
+      "id_image": "championship_2751934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429533_9bc9cb5fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429533_b6de320476_o.png",
+      "id_image": "championship_2845139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314616_9a2e1be717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314616_6f8ef48800_o.png",
+      "id_image": "championship_4033521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051160_84e0325f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051160_94d82fecd4_o.png",
+      "id_image": "championship_5284188"
+    }
+  ]
+}

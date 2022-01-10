@@ -1,0 +1,89 @@
+{
+  "english": "bush",
+  "phat_am": "buʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây bụi",
+          "definition": "a growing thing between a tree and a plant in size",
+          "world_new": [
+            "tree",
+            "plant",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rose bush."
+            }
+          ]
+        },
+        {
+          "mean_english": "vùng đất bỏ hoang",
+          "definition": "(in Australia, Africa etc) wild uncultivated country",
+          "world_new": [
+            "wild",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heat and shortage of water are the greatest dangers in the Australian bush.",
+              "world_new": [
+                "heat",
+                "shortage",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our field observations indicated that over grazing in the study area has led to unpalatable bush encroachment.",
+    "In adults, a significant increase in dust exposure in cases was associated with construction dusts (particularly wood and sawdust) but not bush dusts.",
+    "The study also investigated whether crop varieties planted were similar in both gardens and bush farm-fields.",
+    "Production under cover cropping has a net bene®t advantage of 4+25% (over that under bush fallow) and 25+60% (over alley cropping).",
+    "Where laterite predominates, and where there is consequently a much greater desiccation during the dry season, there are extensive stretches of thin bush.",
+    "However, when the settlements grew and more and more bush was being cultivated, the boundaries between earth-shrine parishes had to be defined more precisely.",
+    "At first their station buildings were primitive affairs, no more than clearings in the bush with tin huts.",
+    "Such a critical mass was necessary for defence purposes as well as for clearing the thick bush and fending off wild animals."
+  ],
+  "list_see_also": [
+    "bushy"
+  ],
+  "list_browse": [
+    "bury",
+    "bury the hatchet",
+    "bus",
+    "bus stop",
+    "bush",
+    "bushy",
+    "busily",
+    "business",
+    "businesslike"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045755_210e77daaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045755_17ccf7d4ff_o.png",
+      "id_image": "bush_1635930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352932_eef3650687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352932_d4451c0e9b_o.png",
+      "id_image": "bush_2559374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423933_e0f017b2e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423933_65b9ce1216_o.png",
+      "id_image": "bush_4104599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352962_d3ce64ed08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352962_aa089e998c_o.png",
+      "id_image": "bush_882857"
+    }
+  ]
+}

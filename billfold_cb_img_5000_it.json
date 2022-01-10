@@ -1,0 +1,69 @@
+{
+  "english": "billfold",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái ví",
+          "definition": "a wallet",
+          "world_new": [
+            "wallet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a billfold full of dollars.",
+              "world_new": [
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He had 65 twenty-dollar bills, which he placed in a leather billfold and placed in his right hip trouser pocket.",
+    "She stated the billfold was a very nice one, being hand-tooled."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bill",
+    "bill of rights",
+    "billboard",
+    "billet",
+    "billfold",
+    "billiards",
+    "billion",
+    "billionaire",
+    "billionth"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420478_4f77070507_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420478_042d938f98_o.png",
+      "id_image": "billfold_1719436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660834_e6d6a2ecc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660834_c96da1d82e_o.png",
+      "id_image": "billfold_1743068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810042325_13ea9f6925_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810042325_7845b73f32_o.png",
+      "id_image": "billfold_1798756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809420388_4ff16a828b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809420388_4cd7b1f966_o.png",
+      "id_image": "billfold_6395501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809660754_cc3bdbb3b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809660754_9412e9eb83_o.png",
+      "id_image": "billfold_6396405"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "blush",
+  "phat_am": "blaʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đỏ mặt",
+          "definition": "a red glow on the skin caused by shame, embarrassment etc",
+          "world_new": [
+            "red",
+            "glow",
+            "skin",
+            "shame",
+            "embarrassment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tried in vain to hide her blushes.",
+              "world_new": [
+                "vain",
+                "hide"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đỏ mặt",
+          "definition": "to show shame, embarrassment etc by growing red in the face",
+          "world_new": [
+            "shame",
+            "embarrassment",
+            "red",
+            "face"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She blushed with embarrassment.",
+              "world_new": [
+                "embarrassment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tentative values assigned for the variables in each of the scenarios may seem a bit problematic at first blush.",
+    "At first blush, there appear to be two claims in this passage: one about rules and one about legal validity.",
+    "At first blush, the history of the discipline and profession called psychology would not seem like promising research territory.",
+    "At first blush, premise (2) seems trivially true.",
+    "At f irst blush, it all seems very strange.",
+    "Thankfully the operator could not see my blushes.",
+    "At first blush, this claim might seem to contrast with the view that states are peripheral unaccusatives, since verbs of existence are stative predicates.",
+    "It quickens the pulse, puts you to sleep, makes you blush, and takes your breath away."
+  ],
+  "list_see_also": [
+    "blustery"
+  ],
+  "list_browse": [
+    "bluntness",
+    "blur",
+    "blurred",
+    "blurt",
+    "blush",
+    "blustery",
+    "boa",
+    "boar",
+    "board"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327676_f4584a7c6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327676_14ebb5b8d7_o.png",
+      "id_image": "blush_213266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064320_0b5a81bf91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064320_cb3fd4ec88_o.png",
+      "id_image": "blush_3874499"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "briefcase",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cặp đựng giấy tờ, tài liệu",
+          "definition": "a light case for papers, made of leather etc",
+          "world_new": [
+            "light",
+            "case",
+            "leather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a leather briefcase.",
+              "world_new": [
+                "leather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I also see a briefcase or two and leather watch straps.",
+    "But this can only deal with passengers with light briefcases and probably people employed at the airport.",
+    "The red heart was trapped in a briefcase and the imagery became black and white.",
+    "There was a brown briefcase in the car.",
+    "Travellers would happily accept, for example, the supposed risk of men being allowed to carry on board the aircraft a small briefcase or document case.",
+    "Suits were pressed, briefcases were polished.",
+    "You're all swine, ' ' and she throws her briefcase at him.",
+    "There is no problem about space, because the suits, when folded are about the size of a business man's briefcase."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bridesmaid",
+    "bridge",
+    "bridle",
+    "brief",
+    "briefcase",
+    "briefing",
+    "briefly",
+    "briefs",
+    "brigade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431078_d3ffa93534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431078_bf8cf6b2ab_o.png",
+      "id_image": "briefcase_124824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316166_973acc0013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316166_a1cee9bb2a_o.png",
+      "id_image": "briefcase_567488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316136_21eb25d9df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316136_80dab340b9_o.png",
+      "id_image": "briefcase_583604"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "cause",
+  "phat_am": "koːz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên nhân",
+          "definition": "something or someone that produces an effect or result",
+          "world_new": [
+            "effect",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Having no money is the cause of all my misery.",
+              "world_new": [
+                "money",
+                "my",
+                "misery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lý do",
+          "definition": "a reason for an action; a motive",
+          "world_new": [
+            "reason",
+            "motive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You had no cause to treat your wife so badly.",
+              "world_new": [
+                "treat",
+                "your",
+                "wife",
+                "badly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nghiệp",
+          "definition": "an aim or concern for which an individual or group works",
+          "world_new": [
+            "aim",
+            "concern",
+            "individual",
+            "group",
+            "works"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cancer research and other deserving causes",
+              "world_new": [
+                "cancer",
+                "research",
+                "deserving"
+              ]
+            },
+            {
+              "ex_of_definition": "We took this decision in the cause of peace.",
+              "world_new": [
+                "decision",
+                "peace"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây ra",
+          "definition": "to make (something) happen; to bring about; to be the means of",
+          "world_new": [
+            "bring",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What caused the accident?",
+              "world_new": [
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "He caused me to drop my suitcase.",
+              "world_new": [
+                "drop",
+                "my",
+                "suitcase"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The straightforward thing to say, in both cases, is that removing the life support caused the patient's death.",
+    "These stresses and antisocial behavior may, in turn, cause an increase in children's internalizing problems through the life course.",
+    "Where there is a neurological cause of dizziness the goal is also, as in multisensory dizziness, a non-sedated, physically active patient.",
+    "Removing water from living tissues causes a series of dehydration stresses.",
+    "The excited atom interacts with the vacuum fluctuations which cause the spontaneous emission of radiation.",
+    "This effect causes target position to be misperceived when it is surrounded by a frame presented asymmetrically.",
+    "Investigating a model of commonsense thinking about causes of movement with 7- to 16-year-old pupils.",
+    "Improved understanding of the hormonal causes and consequences of symptom fluctuation may lead to improved pharmacological and psychological treatments."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "catwalk",
+    "Caucasian",
+    "cauldron",
+    "cauliflower",
+    "cause",
+    "causeway",
+    "caustic",
+    "caustically",
+    "cauterize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363257_83f059b850_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363257_eaf4d041b2_o.png",
+      "id_image": "cause_2620237"
+    }
+  ]
+}

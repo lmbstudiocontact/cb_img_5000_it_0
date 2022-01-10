@@ -1,0 +1,87 @@
+{
+  "english": "animate",
+  "phat_am": "ˈӕnimeit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm sinh động",
+          "definition": "to make lively",
+          "world_new": [
+            "lively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Joy animated his face.",
+              "world_new": [
+                "animated",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sinh động",
+          "definition": "(opposite inanimate) living",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an animate being."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My interest in aura is to do with a blurring of the boundary between people and things, via an awareness of animating materiality which works for people.",
+    "On bright days the sun f loods into the room and the ceiling is animated by ref lections off the water.",
+    "Consider a lazy way of animating a palm tree.",
+    "To us the site is not animated in the early sense.",
+    "In other words, is it only a question of the cinci hoca's authority and persuasiveness animating media attacks?",
+    "Many tasks can be automated entirely, such as typesetting code and animating reduction sequences.",
+    "Indeed, they are the very problems animating contemporary theories of ideology.",
+    "The k'u'x of the sky and ear th is the essence of the cosmic force that animates nature."
+  ],
+  "list_see_also": [
+    "animated",
+    "animatedly",
+    "animation"
+  ],
+  "list_browse": [
+    "angular",
+    "angularity",
+    "anhydrous",
+    "animal",
+    "animate",
+    "animated",
+    "animatedly",
+    "animation",
+    "animosity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312046_542ea003cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312046_9e6018c697_o.png",
+      "id_image": "animate_5115592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312036_f5dee12c03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312036_f23cd9e4d8_o.png",
+      "id_image": "animate_5200052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048615_81a86e2013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048615_d43448ac79_o.png",
+      "id_image": "animate_6348435"
+    }
+  ]
+}

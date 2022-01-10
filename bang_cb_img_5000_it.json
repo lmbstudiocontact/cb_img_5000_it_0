@@ -1,0 +1,143 @@
+{
+  "english": "bang",
+  "phat_am": "bӕŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sập mạnh",
+          "definition": "a sudden loud noise",
+          "world_new": [
+            "sudden",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The door slammed shut with a loud bang.",
+              "world_new": [
+                "door",
+                "shut",
+                "loud"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng đập mạnh",
+          "definition": "a blow or knock",
+          "world_new": [
+            "blow",
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He suffered a bang on the head from a falling branch.",
+              "world_new": [
+                "head",
+                "branch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sập",
+          "definition": "to close with a sudden loud noise",
+          "world_new": [
+            "close",
+            "sudden",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She banged the door shut.",
+              "world_new": [
+                "door",
+                "shut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nện đau",
+          "definition": "to hit or strike violently, often making a loud noise",
+          "world_new": [
+            "hit",
+            "strike",
+            "violently",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child banged his drum",
+              "world_new": [
+                "child",
+                "drum"
+              ]
+            },
+            {
+              "ex_of_definition": "He banged the book down angrily on the table.",
+              "world_new": [
+                "book",
+                "angrily",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vang lên",
+          "definition": "to make a sudden loud noise",
+          "world_new": [
+            "sudden",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We could hear the fireworks banging in the distance.",
+              "world_new": [
+                "hear",
+                "distance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "banger"
+  ],
+  "list_browse": [
+    "bandage",
+    "bandit",
+    "bandy",
+    "bandy-legged",
+    "bang",
+    "banger",
+    "bangle",
+    "banish",
+    "banishment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053505_dcdbebbb4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053505_8c7b42fb33_o.png",
+      "id_image": "bang_3770909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053465_91dddc71ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053465_6536d5b1a9_o.png",
+      "id_image": "bang_5928138"
+    }
+  ]
+}

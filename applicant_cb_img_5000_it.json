@@ -1,0 +1,71 @@
+{
+  "english": "applicant",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người xin việc",
+          "definition": "a person who applies (for a job etc)",
+          "world_new": [
+            "person",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were over two hundred applicants for the position.",
+              "world_new": [
+                "position"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The health and earnings of rejected disability insurance applicants.",
+    "Data on psychiatric illness in the parents of the applicants were obtained from the subjects and verified by their husbands.",
+    "Nevertheless, they suggest a general reduction in the ability of social housing applicants to choose their own house.",
+    "Moreover, the procedural changes led to an ever-greater focalizing on the innovative activity and discouraged those applicants who presented grandiose but totally unrealistic projects.",
+    "The types of external sources from which gap financing was secured by rejected applicants is dominated by institutions which provide grants or soft loans.",
+    "Conversely, requiring insurers to accept all applicants (so-called open enrolment) would encourage plans to develop ever more sophisticated discriminatory pricing mechanisms.",
+    "Section 10(3) provides that detailed terms of a commercial licence would then be set out in private-law agreements with applicants.",
+    "By 1931 these transitional benefits were cut back and a means test was applied to applicants for them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "apple",
+    "appliance",
+    "applicability",
+    "applicable",
+    "applicant",
+    "application",
+    "applied",
+    "apply",
+    "apply oneself/one’s mind"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045210_db6f6f8ffb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045210_b7ffaec6a0_o.png",
+      "id_image": "applicants_4412880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308356_a5bce932dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308356_227bd44c6b_o.png",
+      "id_image": "applicant_2631350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308326_943b0996de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308326_7ca002dbcf_o.png",
+      "id_image": "applicant_4170635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045245_0a172aed23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045245_97fd0275e2_o.png",
+      "id_image": "applicant_5571504"
+    }
+  ]
+}

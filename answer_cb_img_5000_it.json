@@ -1,0 +1,178 @@
+{
+  "english": "answer",
+  "phat_am": "ˈaːnsə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu trả lời",
+          "definition": "something said, written or done that is caused by a question etc from another person",
+          "world_new": [
+            "question",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She refused to give an answer to his questions."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời giải đáp",
+          "definition": "the solution to a problem",
+          "world_new": [
+            "solution",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The answer to your transport difficulties is to buy a car.",
+              "world_new": [
+                "your",
+                "transport",
+                "buy",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trả lời",
+          "definition": "to make an answer to a question, problem, action etc",
+          "world_new": [
+            "question",
+            "problem",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Answer my questions, please",
+              "world_new": [
+                "my",
+                "please"
+              ]
+            },
+            {
+              "ex_of_definition": "Why don’t you answer the letter?",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp lại",
+          "definition": "to open (the door), pick up (the telephone) etc in response to a knock, ring etc",
+          "world_new": [
+            "open",
+            "pick",
+            "response",
+            "knock",
+            "ring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He answered the telephone as soon as it rang",
+              "world_new": [
+                "telephone",
+                "soon"
+              ]
+            },
+            {
+              "ex_of_definition": "Could you answer the door, please?",
+              "world_new": [
+                "door",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thoả mãn",
+          "definition": "to be suitable or all that is necessary (for)",
+          "world_new": [
+            "suitable",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are looking for a solution that will answer all our requirements.",
+              "world_new": [
+                "solution",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phù hợp",
+          "definition": "(often with to) to be the same as or correspond to (a description etc)",
+          "world_new": [
+            "correspond",
+            "description"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police have found a man answering (to) that description.",
+              "world_new": [
+                "police",
+                "found",
+                "description"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, our upper bound results show that only 65-79% of questions will be answered correctly even in the best possible circumstances.",
+    "The purpose of this section is to review some theoretical answers that have been proposed to this question.",
+    "Anyway, we learned to mistrust easy answers to problems without precedent.",
+    "Second, the turn shapes of answers and nonanswer responses reflect their ranking as preferred and dispreferred categories of response.",
+    "In this section, the statistical results will be described in search of answers to the research questions set out for this study.",
+    "The overall result is a round-table conversation, formal in tone and interspersed with questions, answers and comments.",
+    "Most of these are couched in the form of questions rather than answers.",
+    "The answers to these two questions are related."
+  ],
+  "list_see_also": [
+    "answerable",
+    "answering machine",
+    "answer for",
+    "answerphone"
+  ],
+  "list_browse": [
+    "anorak",
+    "anorexia",
+    "anorexic",
+    "another",
+    "answer",
+    "answer for",
+    "answerable",
+    "answering machine",
+    "answerphone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425883_8287f1d582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425883_9452d04960_o.png",
+      "id_image": "answer_2725715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310861_614358508a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310861_f431cfd1b4_o.png",
+      "id_image": "answer_5732163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310836_2518ee9a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310836_615f37ceff_o.png",
+      "id_image": "answer_5956293"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "builder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người xây dựng",
+          "definition": "a person who builds houses etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The builder who built our house has gone bankrupt.",
+              "world_new": [
+                "our",
+                "house",
+                "bankrupt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We believe this intuition is valuable for model builders interested in integrating research on asset pricing with research on business cycles.",
+    "Not only was the public inundated with information, but manufacturers, dealers, artisans, builders, and architects had to be sold on the programme, as well.",
+    "Thus, the builder has reasonable expectations to enjoy these fruits.",
+    "Neither functioned for their original purposes, but both are expressions of the identity and values of their builders.",
+    "What united this disparate group was their passionate belief in the potency of education as builder of a truly effective democracy.",
+    "The builders of general theories ignore these complexities.",
+    "Shashoua grew up as a musician and self-taught builder of electronic circuitry, gaining formal training in the army.",
+    "These are incomplete assessments, but indicative of lack of builder concentration."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "bugle",
+    "bugler",
+    "build",
+    "build up",
+    "builder",
+    "building",
+    "building site",
+    "building society",
+    "built-in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312126_3e589df78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312126_f42f7e168b_o.png",
+      "id_image": "builder_2827375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356192_930842074b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356192_ab89b338b7_o.png",
+      "id_image": "builder_307928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426958_5429e6c4ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426958_2b6260b29f_o.png",
+      "id_image": "builder_5233852"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312141_e1b5861812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312141_d3064df55f_o.png",
+      "id_image": "builder_773373"
+    }
+  ]
+}

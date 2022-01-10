@@ -1,0 +1,52 @@
+{
+  "english": "automotive",
+  "phat_am": "ˌoːtəˈmoutiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc động cơ",
+          "definition": "relating to cars and other vehicles driven by engines",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the automotive industry.",
+              "world_new": [
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our second aim is to develop our automated system using modular components that can be immediately applied in the automotive industry.",
+    "In this sense, the automotive industry, involving large-scale productions, will definitely contribute to the availability of low-cost and efficient fieldbuses.",
+    "There might be some shared strategies, conscious or unconscious, among signboard producers for disseminating spatial information to automotive travelers.",
+    "His unique experience with product development and design comes from 18 years of work involving the automotive and peripheral industries.",
+    "An example of a family of automotive underbodies illustrates the application of the discrete design space approach to develop a common platform.",
+    "In automotive applications, temperature oscillations are undesirable, and, by controlling them, better cooling systems may be designed.",
+    "An automotive body is an integral structure that makes it difficult to assign any specific function to an individual component.",
+    "This brought about high levels of investment by automotive parts suppliers in 2004, which has apparently been continuing into 2005."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "automatically",
+    "automation",
+    "automaton",
+    "automobile",
+    "automotive",
+    "autonomous",
+    "autonomy",
+    "autopsy",
+    "autotroph"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369807_64c4e3a3b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369807_fb6aec393d_o.png",
+      "id_image": "automotive_551270"
+    }
+  ]
+}

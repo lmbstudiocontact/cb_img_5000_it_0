@@ -1,0 +1,73 @@
+{
+  "english": "bulletin",
+  "phat_am": "ˈbulətin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản tin",
+          "definition": "an official (verbal) report of news",
+          "world_new": [
+            "official",
+            "report",
+            "news"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bulletin about the Queen’s illness.",
+              "world_new": [
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản thông tin",
+          "definition": "a printed information-sheet",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a monthly bulletin of local news.",
+              "world_new": [
+                "monthly",
+                "local",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "You find them in newspapers, magazines, radio news bulletins, even the occasional novel.",
+    "E-mail makes available bulletin boards, news groups, lists and broadcasting.",
+    "Millions of young urbanites get news bulletins text messaged to them over their cellular telephones.",
+    "Potential dangers are publicized through extensive dissemination of brochures, medical bulletins, posters, and related materials.",
+    "Inevitably every time a news bulletin is switched on the listener opens the door to something new and potentially unpleasant.",
+    "His bulletins from the front, describing the atrocious conditions there, were widely credited with prompting action at home.",
+    "But then my experiences were from solid city buildings and with up-to-date news bulletins of state measures to carry people and livestock to safety.",
+    "Even if the bulletin board metaphor does not really describe the method of distribution, it aptly characterizes the contents of network list postings."
+  ],
+  "list_see_also": [
+    "bulletin board"
+  ],
+  "list_browse": [
+    "bulldoze",
+    "bulldozer",
+    "bullet",
+    "bullet point",
+    "bulletin",
+    "bulletin board",
+    "bulletproof",
+    "bulletproof vest",
+    "bullfight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666339_0326238d08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666339_41a2917403_o.png",
+      "id_image": "bulletin_5930366"
+    }
+  ]
+}

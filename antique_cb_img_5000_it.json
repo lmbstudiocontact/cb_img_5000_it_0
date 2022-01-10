@@ -1,0 +1,126 @@
+{
+  "english": "antique",
+  "phat_am": "ӕnˈtiːk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cổ xưa",
+          "definition": "old and usually valuable",
+          "world_new": [
+            "old",
+            "valuable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an antique chair.",
+              "world_new": [
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ",
+          "definition": "old or old-fashioned",
+          "world_new": [
+            "old",
+            "old-fashioned"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That car is positively antique.",
+              "world_new": [
+                "car",
+                "positively"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ cổ",
+          "definition": "(of a shop etc) dealing in antiques",
+          "world_new": [
+            "shop",
+            "dealing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an antique business.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ cổ",
+          "definition": "something made long ago (usually more than a hundred years ago) which is valuable or interesting",
+          "world_new": [
+            "long",
+            "valuable",
+            "interesting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He collects antiques."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The total value of works of art and antiques exported and re-exported in 1971 was about £56 million.",
+    "They may still be purchased, perhaps as antiques.",
+    "There is one important problem to address concerning the export of works of art—the phenomenal rise in the prices of works of art and antiques.",
+    "Instead of doing that, they are being used to buy antiques.",
+    "I constantly receive invitations to buy valuable antiques, or to purchase jewellery.",
+    "Since then, the promoters have introduced an amendment which tackles the problem differently, but will raise the threshold for most antiques to £50.",
+    "I cannot see how you would apply unit pricing to antiques.",
+    "The antiques, therefore, change hands at a price much below their market value."
+  ],
+  "list_see_also": [
+    "antiquated",
+    "antiquity"
+  ],
+  "list_browse": [
+    "antidote",
+    "antifreeze",
+    "antipathy",
+    "antiquated",
+    "antique",
+    "antiquity",
+    "antiseptic",
+    "antisocial",
+    "antithesis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309871_7eb583c754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309871_95fe1b0201_o.png",
+      "id_image": "antique_1798447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309996_b0f54be159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309996_bdaf117995_o.png",
+      "id_image": "antique_329831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354212_b2169d2293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354212_a73bd76a4b_o.png",
+      "id_image": "antique_360160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354112_1d9514653d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354112_e1b0071450_o.png",
+      "id_image": "antique_3689574"
+    }
+  ]
+}

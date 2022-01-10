@@ -1,0 +1,100 @@
+{
+  "english": "chocolate",
+  "phat_am": "ˈtʃokəlit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sô cô la",
+          "definition": "a paste made from the seeds of the cacao tree.",
+          "world_new": [
+            "paste",
+            "cacao",
+            "tree"
+          ]
+        },
+        {
+          "mean_english": "đồ uống sô cô la",
+          "definition": "a sweet or drink made from it",
+          "world_new": [
+            "sweet",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have a chocolate"
+            },
+            {
+              "ex_of_definition": "a cup of chocolate.",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bọc bằng sô cô la",
+          "definition": "of, made from, covered with, chocolate",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "chocolate ice-cream"
+            },
+            {
+              "ex_of_definition": "chocolate biscuits."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am thinking particularly of the children, who are probably the greatest proportion of the market for chocolates bought from slot machines.",
+    "Is not the purchaser of chocolates somewhat interested?",
+    "Clause 14 refers to the sale of certain types of liqueur chocolates without a licence.",
+    "After all, there are new consumers of chocolates coming along all the time.",
+    "Why do you not stop the manufacture of the higher-priced chocolates and sweets of that kind?",
+    "We were told that, when the patient wanted to eat the chocolates, they were whisked away.",
+    "They include things such as chocolates, beer, cigarettes, books, toiletries and vitamins.",
+    "I see no benefit to the economy in the import of erasers shaped like lemons, strawberries, oranges and chocolates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "chlorine",
+    "chloroform",
+    "chlorophyll",
+    "chloroplast",
+    "chocolate",
+    "choice",
+    "choir",
+    "choke",
+    "cholera"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352807_7e1efed3b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352807_86c4deef18_o.png",
+      "id_image": "chocolate_119518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423738_d4963b35e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423738_16800a0bd7_o.png",
+      "id_image": "chocolate_1451191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352782_5cc3977b6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352782_eed1b1cd68_o.png",
+      "id_image": "chocolate_332961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308631_3742982c3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308631_3e0be3e07f_o.png",
+      "id_image": "chocolate_619472"
+    }
+  ]
+}

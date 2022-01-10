@@ -1,0 +1,99 @@
+{
+  "english": "blame",
+  "phat_am": "bleim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khiển trách",
+          "definition": "to consider someone or something responsible for something bad",
+          "world_new": [
+            "consider",
+            "responsible",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I blame the wet road for the accident.",
+              "world_new": [
+                "I",
+                "wet",
+                "road",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổ lỗi",
+          "definition": "to find fault with (a person)",
+          "world_new": [
+            "find",
+            "fault"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t blame you for wanting to leave.",
+              "world_new": [
+                "I",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chịu trách nhiệm",
+          "definition": "the responsibility (for something bad)",
+          "world_new": [
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took the blame for everything that had gone wrong.",
+              "world_new": [
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other cases, overexposure to contemporary society was blamed or mystical explanations appealed to.",
+    "If a person cannot properly be blamed for what she has done, then this fact makes condemnation inappropriate.",
+    "They regarded themselves as worthless, and blamed themselves for all the difficulties within the family.",
+    "As we have seen, the report blamed parents for the state of the evacuees' footwear and clothing, and recommended needlework classes in schools.",
+    "Later contributors to the querelle simply blamed male tyranny for whatever inferiority women exhibited.",
+    "Table 2 substantiates the notion that as president, \"praises or blames\" as epideictic (1358b).",
+    "Politicians and academics were publicly blamed for overlooking local interests.",
+    "The author of the ransom note blaming park workers for the theft was never found and is beside the point."
+  ],
+  "list_see_also": [
+    "blameless"
+  ],
+  "list_browse": [
+    "blackout",
+    "blacksmith",
+    "bladder",
+    "blade",
+    "blame",
+    "blameless",
+    "bland",
+    "blandly",
+    "blandness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809302796_e6d368b742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809302796_065d0fc256_o.png",
+      "id_image": "blame_4525566"
+    }
+  ]
+}

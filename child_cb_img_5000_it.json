@@ -1,0 +1,92 @@
+{
+  "english": "child",
+  "phat_am": "tʃaild",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đứa bé",
+          "definition": "a young human being of either sex",
+          "world_new": [
+            "young",
+            "human",
+            "sex"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a small child.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứa con",
+          "definition": "a son or daughter",
+          "world_new": [
+            "son",
+            "daughter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her youngest child is five years old.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "childcare",
+    "childhood",
+    "childish",
+    "childishly",
+    "childishness",
+    "childless",
+    "childlike",
+    "child benefit",
+    "childbirth",
+    "childminder",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "chief executive officer",
+    "chiefly",
+    "chieftain",
+    "chiffon",
+    "child",
+    "child benefit",
+    "child support",
+    "child welfare",
+    "child’s play"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424833_7d51b98afd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424833_bf03026c48_o.png",
+      "id_image": "child_3014379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424788_65db19bca9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424788_10e15893f3_o.png",
+      "id_image": "child_3564520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353877_9284448931_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353877_3a0b8738c2_o.png",
+      "id_image": "child_4110366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046635_833d67f550_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046635_5771fb8266_o.png",
+      "id_image": "child_5234006"
+    }
+  ]
+}

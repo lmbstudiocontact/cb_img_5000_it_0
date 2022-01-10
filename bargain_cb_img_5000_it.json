@@ -1,0 +1,107 @@
+{
+  "english": "bargain",
+  "phat_am": "ˈbaːɡin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món hời",
+          "definition": "something bought cheaply and giving good value for money",
+          "world_new": [
+            "cheaply",
+            "value",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This carpet was a real bargain.",
+              "world_new": [
+                "carpet",
+                "real"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự mặc cả",
+          "definition": "an agreement made between people",
+          "world_new": [
+            "agreement",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll make a bargain with you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mặc cả",
+          "definition": "to argue about or discuss a price etc",
+          "world_new": [
+            "argue",
+            "discuss",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bargained with him and finally got the price down.",
+              "world_new": [
+                "I",
+                "finally",
+                "price"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Improvements in general dental health for exogenous reasons have weakened the bargaining power of this position.",
+    "Other things being equal, the equilibrium rates of wage and price inflation will vary directly with the bargaining power of workers.",
+    "The hospital is not able to extract all of the rents, because it is bargaining with the insurer on a range of services.",
+    "This power to refuse rather than bargain is familiar in a variety of contexts.",
+    "The degree of enforceability depends on the capacity of bargaining agents to implement their agreements.",
+    "In the 1970s and 1980s, this bargain was called into doubt.",
+    "Nevertheless, players behaving according to extremal equilibria engage in rounds of costly war to reach a mutually acceptable bargain that is already in plain sight.",
+    "Market-oriented policy reforms alter the distribution of resources in society, producing winners and losers, and tamper with regulatory and distributive bargains that implicate powerful interests."
+  ],
+  "list_see_also": [
+    "bargain for"
+  ],
+  "list_browse": [
+    "barefoot",
+    "bareheaded",
+    "barely",
+    "bareness",
+    "bargain",
+    "bargain for",
+    "barge",
+    "baritone",
+    "bark"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670174_6ac711080f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670174_d5d852d890_o.png",
+      "id_image": "bargaining_6213289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670244_6e6af8e96f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670244_7bf059c287_o.png",
+      "id_image": "bargain_1476900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359712_55ee7f76c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359712_5ab8a8c5e1_o.png",
+      "id_image": "bargain_1900171"
+    }
+  ]
+}

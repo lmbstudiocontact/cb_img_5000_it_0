@@ -1,0 +1,64 @@
+{
+  "english": "additive",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phụ gia",
+          "definition": "a substance that is added to food to make it last longer or to make it taste better",
+          "world_new": [
+            "substance",
+            "added",
+            "food",
+            "taste",
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "food additives.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In summary, our results suggest that exposure to combinations of environmental stresses may increase the expression of additive genetic variability for fecundity.",
+    "The choice between multiplicative or statistical interaction and additive or biological interaction, is controversial.",
+    "In figure 3 the dimensionless group 8+ is given as a function of shearing stress for two concentrations of the same polymeric additive in water.",
+    "An additive effect is when predation by two predators is equal to the sum of prey removed by each individual predator alone.",
+    "These relations include causal, conditional, temporal, additive, elaborative, and contrastive relations.",
+    "Four of the tests are based on an inappropriate additive conceptualization of competition.",
+    "The information variables have been considered first separately, then in an additive model.",
+    "Note that this is in contrast to most traditional fault modeling approaches where the fault is represented as an additive or a multiplicative time-dependent quantity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "addiction",
+    "addictive",
+    "addition",
+    "additional",
+    "additive",
+    "address",
+    "addressee",
+    "adept",
+    "adequacy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321271_54f2c64313_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321271_0161cdfde1_o.png",
+      "id_image": "additive_2533786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676299_992ac6434c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676299_49411d45c5_o.png",
+      "id_image": "additive_2637909"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "balloon",
+  "phat_am": "bəˈluːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kinh khí cầu",
+          "definition": "a large bag, made of light material and filled with a gas lighter than air",
+          "world_new": [
+            "large",
+            "bag",
+            "light",
+            "material",
+            "filled",
+            "gas",
+            "lighter",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They decorated the dancehall with balloons"
+            },
+            {
+              "ex_of_definition": "Could you help me blow up these balloons?",
+              "world_new": [
+                "help",
+                "blow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The availability of balloons which can be passed through small sheaths, for use in small infants, was limited during the early part of this study.",
+    "What is the relative temporal location of the utterance to an occasion for hanging balloons?",
+    "Therapeutic embolization with detachable balloons: factors influencing permanent occlusion.",
+    "The second process basic to ballooning is the frequency, or tenacity (where tenacity is the frequency subtracted from unity), of ballooning events (appendix 5).",
+    "An obvious question is: why have the ancestral lineages that have the ability to produce silk overlooked the possibility of using ballooning dispersal?",
+    "Sizing of the defect using balloons confirmed the stretched diameter at 11 mm.",
+    "The associated peso obligations ballooned followed the devaluation.",
+    "Clearly, a specialist diet makes ballooning altogether more risky, unless these species have a greater ability to withstand starvation than polyphagous ballooners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ballerina",
+    "ballet",
+    "ballet dancer",
+    "ballistic missile",
+    "balloon",
+    "ballot",
+    "ballpoint",
+    "ballroom",
+    "balls-up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433283_befa1fded4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433283_94d101c467_o.png",
+      "id_image": "balloon_414797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362557_500a9cdd55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362557_0a66c288c4_o.png",
+      "id_image": "balloon_675161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672824_b7608fba93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672824_e5151ae831_o.png",
+      "id_image": "balloon_907391"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "accumulator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ắc quy",
+          "definition": "a type of electric battery",
+          "world_new": [
+            "type",
+            "electric",
+            "battery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An accumulator powers the motor.",
+              "world_new": [
+                "motor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The contents of each accumulator must be stored in memory, so that the products of each can be compared with one another.",
+    "This could result in either total elimination of accumulators or the replacement of one accumulator by another (hopefully cheaper one).",
+    "At the end, we find two new sections on accumulators and difference structures.",
+    "Similar analysis applies to definitions of multiplication and other recursive functions where we use a variable as an accumulator to store the result.",
+    "The program in the next example uses accumulators.",
+    "As the course progresses, students learn to deal with more complex forms of data definitions, non-structural recursion, and accumulator-style programs.",
+    "Consider a function f where there is an accumulator, called ace, in one of its parameters.",
+    "Military action suppressed the violence, but the accumulators of the later nineteenth century never regained their power."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "accountant",
+    "accredited",
+    "accumulate",
+    "accumulation",
+    "accumulator",
+    "accuracy",
+    "accurate",
+    "accurately",
+    "accursed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324476_af269c7889_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324476_0b1571edca_o.png",
+      "id_image": "accumulator_2497596"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061330_ba6631cabe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061330_cb3d9b6c15_o.png",
+      "id_image": "accumulator_3381416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679549_9376972f50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679549_65aebdcb41_o.png",
+      "id_image": "accumulator_3520741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061260_dd38bf7e49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061260_cfe99b3ee6_o.png",
+      "id_image": "accumulator_3899012"
+    }
+  ]
+}

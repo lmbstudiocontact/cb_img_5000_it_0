@@ -1,0 +1,58 @@
+{
+  "english": "bequest",
+  "phat_am": "biˈkwest",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài sản kế thừa",
+          "definition": "something bequeathed in a will",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I received a bequest in my uncle’s will.",
+              "world_new": [
+                "I",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A longer life span yields smaller unintentional bequests and thus lowers the level of the young agents' wealth.",
+    "So how do people view assets in later life, particularly in relation to the issue of bequests?",
+    "There is no bequest motive, labor supply is assumed to be exogenous and the individual is not permitted to borrow either stocks or bonds.",
+    "At age 6 nobody receives any bequests because the parent is at age 11 and is going to die for certain.",
+    "However, they steadily increase wealth holdings over time primary because more of them receive bequests from their parents.",
+    "It is more difficult to measure the size of intended bequests relative to that of purely accidental ones, due to uncertainty about the life span.",
+    "This implies that the levels of accidental bequests received by young agents in the short run are different from the long-run ones.",
+    "Other models are life cycle, intergenerational with retirement, uncertain lifetimes, accidental and deliberate bequests, as well as mixtures of these."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "benignly",
+    "bent",
+    "bent on",
+    "bequeath",
+    "bequest",
+    "bereaved",
+    "bereavement",
+    "bereft",
+    "beret"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351562_6e3c22ce05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351562_4354e07eb8_o.png",
+      "id_image": "bequest_4807874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422563_8f96556742_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422563_202d20a55b_o.png",
+      "id_image": "bequest_6000666"
+    }
+  ]
+}

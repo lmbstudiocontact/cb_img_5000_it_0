@@ -1,0 +1,77 @@
+{
+  "english": "attachment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phụ tùng",
+          "definition": "something extra attached",
+          "world_new": [
+            "extra",
+            "attached"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are several attachments for this food mixer.",
+              "world_new": [
+                "food",
+                "mixer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự gắn bó",
+          "definition": "(with for/to) liking or affection",
+          "world_new": [
+            "liking",
+            "affection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She felt a great deal of attachment to her home town.",
+              "world_new": [
+                "felt",
+                "great",
+                "deal",
+                "home",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "atrocity",
+    "atrophy",
+    "attach",
+    "attached",
+    "attachment",
+    "attack",
+    "attacker",
+    "attain",
+    "attainment"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809655109_c708cb8bb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809655109_c762e8128a_o.png",
+      "id_image": "attachment_1717757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808344012_7a249d224e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808344012_ac4c041f24_o.png",
+      "id_image": "attachment_1792348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809414888_fcb7e58f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809414888_2331e51345_o.png",
+      "id_image": "attachment_1806617"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "astronomy",
+  "phat_am": "əˈstronəmi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thiên văn học",
+          "definition": "the study of the stars and their movements",
+          "world_new": [
+            "study",
+            "their"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying astronomy."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Success in mathematics or astronomy represents the contrasting class of case.",
+    "Yet most of his activity as a translator was in the fields of astronomy (practical and theoretical) and mathematics.",
+    "The book gives instruction on modern geography and astronomy.",
+    "Progress in cosmology and astronomy notwithstanding, science still has little to say on the nature, psychology and intelligence of alien life.",
+    "During his high school years he built a telescope as a science fair project, and maintained an interest in astronomy throughout his life.",
+    "Intellectually, it meant a change in the status of astronomy from a \"subordinate\" to an autonomous science.",
+    "The attempt to establish astronomy as a science of the interpretation of nature did not occur in a cultural void.",
+    "Unfortunately he is not entirely clear about how he understands the relationship between the treatments of astronomy and geometry."
+  ],
+  "list_see_also": [
+    "astronomer",
+    "astronomical",
+    "astronomically"
+  ],
+  "list_browse": [
+    "astronaut",
+    "astronomer",
+    "astronomical",
+    "astronomically",
+    "astronomy",
+    "astute",
+    "astuteness",
+    "asylum",
+    "asylum seeker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808346537_2281e9f328_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808346537_9faa162a50_o.png",
+      "id_image": "astronomy_1137524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038910_34c535ba35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038910_68e1c35a3a_o.png",
+      "id_image": "astronomy_1284108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810038885_cf95990a5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810038885_e90c2a4c50_o.png",
+      "id_image": "astronomy_4635402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809417418_1b77ebc9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809417418_5c26d613f9_o.png",
+      "id_image": "astronomy_947664"
+    }
+  ]
+}

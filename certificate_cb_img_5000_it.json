@@ -1,0 +1,61 @@
+{
+  "english": "certificate",
+  "phat_am": "səˈtifikət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy chứng nhận",
+          "definition": "a written official declaration of some fact",
+          "world_new": [
+            "official",
+            "declaration",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a birth/marriage certificate."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, the location of post-marital settlement cannot be collected from a marriage certificate.",
+    "We recruited link-workers who were bilingual, came from a range of ethnic backgrounds and who held at least a certificate in counselling.",
+    "Once the certificate had been issued, rent increased very rapidly until the depression of the 1820s halted the trend (see figure 5).",
+    "The use of reputation through certificates was also shown to be an important solution in security mechanisms.",
+    "This mistake was frequently made and comes to light when entries in the population registers are compared with data from birth, marriage and death certificates.",
+    "In recent years, the requirement for vaccination activities has been lifted for some flocks in order they can obtain a brucella-free health certificate.",
+    "Deaths had to be registered within three days to the registrar, who made up a death certificate.",
+    "But in the context of proving that learning has taken place, the value of a certificate proving attendance can be doubtful."
+  ],
+  "list_see_also": [
+    "Certificate of Secondary Education"
+  ],
+  "list_browse": [
+    "ceremony",
+    "certain",
+    "certainly",
+    "certainty",
+    "certificate",
+    "Certificate of Secondary Education",
+    "certification",
+    "certify",
+    "cervix"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430788_7df81a2f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430788_4d87c5193c_o.png",
+      "id_image": "certificate_1447554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360162_1a220e9881_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360162_86fbecd6aa_o.png",
+      "id_image": "certificate_390836"
+    }
+  ]
+}
